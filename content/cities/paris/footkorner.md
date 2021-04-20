@@ -1,5 +1,5 @@
 ---
-title: "FOOTKORNER"
+title: "Footkorner"
 url: /paris/footkorner/
 shop: vêtements
 ---
