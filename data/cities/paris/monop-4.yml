@@ -1,11 +1,11 @@
-id: 3634088624
+id: 2685586035
 type: node
-latitude: 48.874754900000006
-longitude: 2.308558
-postcode: "75008"
+latitude: 48.859018500000005
+longitude: 2.3487543
+postcode: "75004"
 city: Paris
-street: "Rue de Berri"
-housenumber: 50
-phone: ""
-opening_hours: "Mo-Sa 08:30-24:00; Su 09:00-13:00"
-website: ""
+street: "Boulevard de Sébastopol"
+housenumber: 6
+phone: "+33144780362"
+opening_hours: "Mo-Sa 08:30-23:59"
+website: "https://www.monoprix.fr/"

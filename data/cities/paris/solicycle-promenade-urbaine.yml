@@ -1,11 +1,11 @@
 id: 8211276078
 type: node
-latitude: 48.884407200000005
-longitude: 2.3599987000000002
+latitude: 48.88440000000001
+longitude: 2.35998
 postcode: "75018"
 city: Paris
 street: "Boulevard de la Chapelle"
 housenumber: 35
 phone: "+33 7 62 66 00 55"
-opening_hours: "Tu-We 13:30-19:30; Fr-Sa 13:30-19:30"
+opening_hours: "Tu,We,Fr,Sa 13:30-19:30"
 website: "https://solicycle.org/2018/01/19/solicycle-paris-18eme/"

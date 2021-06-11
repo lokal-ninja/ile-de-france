@@ -1,11 +1,11 @@
 id: 4432561734
 type: node
-latitude: 48.826089800000005
-longitude: 2.3085435000000003
+latitude: 48.826080000000005
+longitude: 2.30853
 postcode: "75014"
 city: Paris
 street: "Rue Prévost-Paradol"
 housenumber: 1
 phone: "+33 6 21 88 16 67"
-opening_hours: ""
+opening_hours: "Tu,We,Fr,Sa 10:30-13:00,14:00-18:30"
 website: "http://solicycle.org/2016/10/17/solicycle-paris-14eme-porte-de-vanves/"

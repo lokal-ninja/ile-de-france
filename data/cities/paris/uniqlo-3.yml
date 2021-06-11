@@ -1,11 +1,11 @@
-id: 56003317
-type: way
-latitude: 48.857934900000004
-longitude: 2.3600421000000003
-postcode: "75004"
+id: 6073190985
+type: node
+latitude: 48.8575388
+longitude: 2.2797887
+postcode: ""
 city: Paris
-street: "Rue des Francs Bourgeois"
-housenumber: 39
-phone: "+33153018787"
-opening_hours: "Mo-Fr 11:00-20:00; Sa-Su 10:00-20:00"
+street: "Rue de Passy"
+housenumber: 53
+phone: "+33 1 80 40 74 20"
+opening_hours: "Mo-Sa 10:00-19:30"
 website: ""

@@ -1,11 +1,11 @@
-id: 53379222
-type: way
-latitude: 48.8422045
-longitude: 2.2900797
-postcode: "75015"
+id: 5667589358
+type: node
+latitude: 48.8267241
+longitude: 2.3304334
+postcode: "75014"
 city: Paris
-street: "Rue de Javel"
-housenumber: 152
+street: "Rue Sarrette"
+housenumber: 21
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.franprix.fr/magasins/5064"
+opening_hours: ""
+website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Séquoia"
 url: /paris/sequoia/
-shop: boutique
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tosca"
 url: /paris/tosca/
-shop: boutique
+shop: vêtements
 ---

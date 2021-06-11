@@ -1,5 +1,5 @@
 ---
-title: "coccimarket"
+title: "CocciMarket"
 url: /villeron/coccimarket/
-shop: supermarché
+shop: commodité
 ---
