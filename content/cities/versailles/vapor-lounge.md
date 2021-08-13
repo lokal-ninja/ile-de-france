@@ -1,5 +1,5 @@
 ---
 title: "Vapor Lounge"
 url: /versailles/vapor-lounge/
-shop: tabac
+shop: e-cigarette
 ---

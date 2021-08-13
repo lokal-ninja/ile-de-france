@@ -1,5 +1,5 @@
 ---
-title: "Ben's market"
+title: "Ben's Market"
 url: /paris/bens-market/
 shop: commodité
 ---

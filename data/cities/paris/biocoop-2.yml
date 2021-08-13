@@ -1,11 +1,11 @@
-id: 1080955970
+id: 1458413017
 type: node
-latitude: 48.8368235
-longitude: 2.3187993000000002
-postcode: "75014"
+latitude: 48.832102500000005
+longitude: 2.3445967000000003
+postcode: "75013"
 city: Paris
-street: "Place de Catalogne"
-housenumber: 2
-phone: "+33 1 40 47 69 60"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 09:00-13:45"
-website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Ile-de-France/Paris/BIOCOOP-TOUTELABIO-CATALOGNE"
+street: "Rue de la Glacière"
+housenumber: 53
+phone: ""
+opening_hours: "Mo-Sa 10:00-20:00"
+website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Ile-de-France/Paris/BIOCOOP-TOUTELABIO-GLACIERE"

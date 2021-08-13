@@ -1,6 +1,6 @@
 ---
 title: Villetaneuse
 url: /villetaneuse/
-latitude: 48.960967600000004
-longitude: 2.3436609
+latitude: 48.9611722
+longitude: 2.3439698
 ---
