@@ -1,5 +1,5 @@
 ---
-title: "Tag Heuer"
+title: "TAG Heuer"
 url: /paris/tag-heuer/
-shop: bijoux
+shop: montres
 ---

@@ -1,11 +1,11 @@
-id: 5559619019
+id: 5559406784
 type: node
-latitude: 48.874621000000005
-longitude: 2.3701162
-postcode: "75010"
+latitude: 48.861632
+longitude: 2.3484315000000002
+postcode: "75001"
 city: Paris
-street: "Avenue Claude Vellefaux"
-housenumber: 7
+street: "Rue de la Cossonnerie"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+opening_hours: "24/7"
 website: ""

@@ -1,5 +1,5 @@
 ---
-title: "Arbre à pivoines"
+title: "Arbre à Pivoines"
 url: /versailles/arbre-a-pivoines/
 shop: fleuriste
 ---

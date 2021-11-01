@@ -1,5 +1,5 @@
 ---
-title: "Les sauterelles"
+title: "Les Sauterelles"
 url: /colombes/les-sauterelles/
 shop: livres
 ---

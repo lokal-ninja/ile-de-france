@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /paris/franprix-35/
-shop: supermarché
+shop: commodité
 ---

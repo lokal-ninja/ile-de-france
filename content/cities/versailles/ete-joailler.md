@@ -1,5 +1,5 @@
 ---
-title: "Été joailler"
+title: "Été Joailler"
 url: /versailles/ete-joailler/
 shop: bijoux
 ---
