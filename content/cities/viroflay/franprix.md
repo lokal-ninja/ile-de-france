@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /viroflay/franprix/
-shop: supermarché
+shop: commodité
 ---
