@@ -1,5 +1,5 @@
 ---
 title: "Instant présent"
 url: /yerres/instant-present/
-shop: shop
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /issy-les-moulineaux/franprix/
-shop: supermarché
+shop: commodité
 ---
