@@ -1,6 +1,6 @@
 ---
 title: Avrainville
 url: /avrainville/
-latitude: 
-longitude: 
+latitude: 48.563
+longitude: 2.228
 ---

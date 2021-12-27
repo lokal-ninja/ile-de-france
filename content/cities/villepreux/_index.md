@@ -1,6 +1,6 @@
 ---
 title: Villepreux
 url: /villepreux/
-latitude: 48.8316
-longitude: 2.01456
+latitude: 48.835
+longitude: 1.991
 ---

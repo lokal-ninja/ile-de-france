@@ -1,6 +1,6 @@
 ---
 title: Vaudherland
 url: /vaudherland/
-latitude: 49.0008594
-longitude: 2.4874003
+latitude: 49.001
+longitude: 2.489
 ---

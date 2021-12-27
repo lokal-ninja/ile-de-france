@@ -1,6 +1,6 @@
 ---
 title: Fontainebleau
 url: /fontainebleau/
-latitude: 48.4049375
-longitude: 2.7015872
+latitude: 48.404
+longitude: 2.7
 ---

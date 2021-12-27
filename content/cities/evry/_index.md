@@ -1,6 +1,6 @@
 ---
 title: Évry
 url: /evry/
-latitude: 48.6241665
-longitude: 2.4289667
+latitude: 48.628
+longitude: 2.428
 ---

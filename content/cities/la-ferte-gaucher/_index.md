@@ -1,6 +1,6 @@
 ---
 title: La Ferté-Gaucher
 url: /la-ferte-gaucher/
-latitude: 48.7812807
-longitude: 3.305711
+latitude: 48.781
+longitude: 3.305
 ---

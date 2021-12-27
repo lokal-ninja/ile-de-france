@@ -1,6 +1,6 @@
 ---
 title: Dourdan
 url: /dourdan/
-latitude: 
-longitude: 
+latitude: 48.528
+longitude: 2.024
 ---

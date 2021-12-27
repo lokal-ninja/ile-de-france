@@ -1,6 +1,6 @@
 ---
 title: Villemoisson-sur-Orge
 url: /villemoisson-sur-orge/
-latitude: 48.6612042
-longitude: 2.3322424
+latitude: 48.662
+longitude: 2.331
 ---

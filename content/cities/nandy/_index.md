@@ -1,6 +1,6 @@
 ---
 title: Nandy
 url: /nandy/
-latitude: 48.5813635
-longitude: 2.564017
+latitude: 48.588
+longitude: 2.574
 ---

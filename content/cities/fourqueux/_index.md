@@ -1,6 +1,6 @@
 ---
 title: Fourqueux
 url: /fourqueux/
-latitude: 48.886529700000004
-longitude: 2.0644977
+latitude: 48.89
+longitude: 2.063
 ---

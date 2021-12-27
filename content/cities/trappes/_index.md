@@ -1,6 +1,6 @@
 ---
 title: Trappes
 url: /trappes/
-latitude: 
-longitude: 
+latitude: 48.773
+longitude: 1.991
 ---

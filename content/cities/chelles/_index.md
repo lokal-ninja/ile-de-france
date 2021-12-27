@@ -1,6 +1,6 @@
 ---
 title: Chelles
 url: /chelles/
-latitude: 48.878380400000005
-longitude: 2.590549
+latitude: 48.873
+longitude: 2.59
 ---

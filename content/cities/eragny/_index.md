@@ -1,6 +1,6 @@
 ---
 title: Éragny
 url: /eragny/
-latitude: 
-longitude: 
+latitude: 49.026
+longitude: 2.104
 ---

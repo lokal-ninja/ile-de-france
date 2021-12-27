@@ -1,6 +1,6 @@
 ---
 title: Épinay-sur-Orge
 url: /epinay-sur-orge/
-latitude: 48.6725622
-longitude: 2.324446
+latitude: 48.683
+longitude: 2.327
 ---

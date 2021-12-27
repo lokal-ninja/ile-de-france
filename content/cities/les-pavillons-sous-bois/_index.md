@@ -1,6 +1,6 @@
 ---
 title: Les Pavillons-sous-Bois
 url: /les-pavillons-sous-bois/
-latitude: 48.908298800000004
-longitude: 2.5034999
+latitude: 48.911
+longitude: 2.517
 ---

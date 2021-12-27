@@ -1,6 +1,6 @@
 ---
 title: Épinay-sur-Seine
 url: /epinay-sur-seine/
-latitude: 
-longitude: 
+latitude: 48.948
+longitude: 2.343
 ---

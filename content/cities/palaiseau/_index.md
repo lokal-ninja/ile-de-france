@@ -1,6 +1,6 @@
 ---
 title: Palaiseau
 url: /palaiseau/
-latitude: 48.7144587
-longitude: 2.2453842
+latitude: 48.717
+longitude: 2.247
 ---

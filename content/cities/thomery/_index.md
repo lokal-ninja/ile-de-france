@@ -1,6 +1,6 @@
 ---
 title: Thomery
 url: /thomery/
-latitude: 48.409028600000006
-longitude: 2.784838
+latitude: 48.409
+longitude: 2.784
 ---

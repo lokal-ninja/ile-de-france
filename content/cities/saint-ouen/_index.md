@@ -1,6 +1,6 @@
 ---
 title: Saint-Ouen
 url: /saint-ouen/
-latitude: 
-longitude: 
+latitude: 48.901
+longitude: 2.338
 ---

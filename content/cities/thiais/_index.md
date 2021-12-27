@@ -1,6 +1,6 @@
 ---
 title: Thiais
 url: /thiais/
-latitude: 48.7643664
-longitude: 2.3910240000000003
+latitude: 48.771
+longitude: 2.401
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tournan-en-Brie
 url: /tournan-en-brie/
-latitude: 48.740330500000006
-longitude: 2.7645642
+latitude: 48.74
+longitude: 2.765
 ---

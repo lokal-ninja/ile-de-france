@@ -1,6 +1,6 @@
 ---
 title: Gagny
 url: /gagny/
-latitude: 48.706046
-longitude: 2.7619335
+latitude: 48.885
+longitude: 2.532
 ---

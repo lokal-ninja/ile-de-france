@@ -1,6 +1,6 @@
 ---
 title: Argeles-sur-mer
 url: /argeles-sur-mer/
-latitude: 
-longitude: 
+latitude: 48.787
+longitude: 2.27
 ---

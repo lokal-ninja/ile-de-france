@@ -1,6 +1,6 @@
 ---
 title: Neuilly-sur-Marne
 url: /neuilly-sur-marne/
-latitude: 48.8565557
-longitude: 2.5290045
+latitude: 48.855
+longitude: 2.517
 ---

@@ -1,6 +1,6 @@
 ---
 title: Collégien
 url: /collegien/
-latitude: 48.8362114
-longitude: 2.673176
+latitude: 48.837
+longitude: 2.661
 ---

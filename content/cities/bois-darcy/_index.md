@@ -1,6 +1,6 @@
 ---
 title: Bois-d'Arcy
 url: /bois-darcy/
-latitude: 48.799856000000005
-longitude: 2.023607
+latitude: 48.8
+longitude: 2.007
 ---

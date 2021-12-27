@@ -1,6 +1,6 @@
 ---
 title: Versailles
 url: /versailles/
-latitude: 48.8035403
-longitude: 2.1266886
+latitude: 48.799
+longitude: 2.126
 ---

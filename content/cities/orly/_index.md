@@ -1,6 +1,6 @@
 ---
 title: Orly
 url: /orly/
-latitude: 48.7431683
-longitude: 2.402391
+latitude: 48.743
+longitude: 2.407
 ---

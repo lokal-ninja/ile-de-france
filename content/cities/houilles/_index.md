@@ -1,6 +1,6 @@
 ---
 title: Houilles
 url: /houilles/
-latitude: 48.9229416
-longitude: 2.1868998
+latitude: 48.922
+longitude: 2.199
 ---

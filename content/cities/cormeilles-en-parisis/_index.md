@@ -1,6 +1,6 @@
 ---
 title: Cormeilles-en-Parisis
 url: /cormeilles-en-parisis/
-latitude: 48.9759637
-longitude: 2.1998877
+latitude: 48.951
+longitude: 2.202
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pierrefitte
 url: /pierrefitte/
-latitude: 
-longitude: 
+latitude: 48.967
+longitude: 2.364
 ---

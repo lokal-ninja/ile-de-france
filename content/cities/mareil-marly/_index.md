@@ -1,6 +1,6 @@
 ---
 title: Mareil-Marly
 url: /mareil-marly/
-latitude: 48.8823232
-longitude: 2.0764516
+latitude: 48.887
+longitude: 2.078
 ---

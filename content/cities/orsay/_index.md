@@ -1,6 +1,6 @@
 ---
 title: Orsay
 url: /orsay/
-latitude: 48.699184
-longitude: 2.187457
+latitude: 48.697
+longitude: 2.187
 ---

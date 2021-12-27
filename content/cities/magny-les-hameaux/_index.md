@@ -1,6 +1,6 @@
 ---
 title: Magny-les-Hameaux
 url: /magny-les-hameaux/
-latitude: 
-longitude: 
+latitude: 48.719
+longitude: 2.103
 ---

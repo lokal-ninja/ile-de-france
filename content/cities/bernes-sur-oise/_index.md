@@ -1,6 +1,6 @@
 ---
 title: Bernes-sur-Oise
 url: /bernes-sur-oise/
-latitude: 49.1620172
-longitude: 2.2985653
+latitude: 49.153
+longitude: 2.302
 ---

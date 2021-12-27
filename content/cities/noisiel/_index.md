@@ -1,6 +1,6 @@
 ---
 title: Noisiel
 url: /noisiel/
-latitude: 48.8457347
-longitude: 2.6200032
+latitude: 48.845
+longitude: 2.615
 ---

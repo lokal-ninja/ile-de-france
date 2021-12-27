@@ -1,6 +1,6 @@
 ---
 title: Breuillet
 url: /breuillet/
-latitude: 48.5668797
-longitude: 2.1729461000000003
+latitude: 48.576
+longitude: 2.191
 ---

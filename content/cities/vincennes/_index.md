@@ -1,6 +1,6 @@
 ---
 title: Vincennes
 url: /vincennes/
-latitude: 48.847450800000004
-longitude: 2.4396714
+latitude: 48.844
+longitude: 2.432
 ---

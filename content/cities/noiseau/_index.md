@@ -1,6 +1,6 @@
 ---
 title: Noiseau
 url: /noiseau/
-latitude: 48.7749788
-longitude: 2.5480492000000003
+latitude: 48.776
+longitude: 2.552
 ---

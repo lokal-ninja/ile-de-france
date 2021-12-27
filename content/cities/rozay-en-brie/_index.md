@@ -1,6 +1,6 @@
 ---
 title: Rozay-en-Brie
 url: /rozay-en-brie/
-latitude: 48.6848
-longitude: 2.96346
+latitude: 48.684
+longitude: 2.958
 ---

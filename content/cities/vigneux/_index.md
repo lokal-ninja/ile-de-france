@@ -1,6 +1,6 @@
 ---
 title: Vigneux
 url: /vigneux/
-latitude: 
-longitude: 
+latitude: 48.698
+longitude: 2.414
 ---

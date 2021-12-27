@@ -1,6 +1,6 @@
 ---
 title: Le Pecq
 url: /le-pecq/
-latitude: 
-longitude: 
+latitude: 48.881
+longitude: 2.096
 ---

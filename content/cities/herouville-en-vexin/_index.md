@@ -1,6 +1,6 @@
 ---
 title: Hérouville-en-Vexin
 url: /herouville-en-vexin/
-latitude: 49.0998904
-longitude: 2.1280641
+latitude: 49.102
+longitude: 2.127
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ecquevilly
 url: /ecquevilly/
-latitude: 48.9510622
-longitude: 1.9226814
+latitude: 48.949
+longitude: 1.922
 ---

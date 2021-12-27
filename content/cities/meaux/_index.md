@@ -1,6 +1,6 @@
 ---
 title: Meaux
 url: /meaux/
-latitude: 48.9582708
-longitude: 2.8773541000000002
+latitude: 48.957
+longitude: 2.907
 ---

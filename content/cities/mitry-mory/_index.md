@@ -1,6 +1,6 @@
 ---
 title: Mitry-Mory
 url: /mitry-mory/
-latitude: 48.983967400000004
-longitude: 2.6183971
+latitude: 48.977
+longitude: 2.614
 ---

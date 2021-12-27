@@ -1,6 +1,6 @@
 ---
 title: Égly
 url: /egly/
-latitude: 48.577404400000006
-longitude: 2.2216686
+latitude: 48.582
+longitude: 2.232
 ---

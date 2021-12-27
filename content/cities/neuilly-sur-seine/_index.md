@@ -1,6 +1,6 @@
 ---
 title: Neuilly sur Seine
 url: /neuilly-sur-seine/
-latitude: 
-longitude: 
+latitude: 48.88
+longitude: 2.279
 ---

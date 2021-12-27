@@ -1,6 +1,6 @@
 ---
 title: La Varenne Saint Hilaire
 url: /la-varenne-saint-hilaire/
-latitude: 
-longitude: 
+latitude: 48.794
+longitude: 2.514
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bréval
 url: /breval/
-latitude: 48.9447453
-longitude: 1.5331842
+latitude: 48.945
+longitude: 1.523
 ---

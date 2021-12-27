@@ -1,6 +1,6 @@
 ---
 title: Étampes
 url: /etampes/
-latitude: 48.434462100000005
-longitude: 2.1614464
+latitude: 48.449
+longitude: 2.172
 ---

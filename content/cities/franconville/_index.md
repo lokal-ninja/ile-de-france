@@ -1,6 +1,6 @@
 ---
 title: Franconville
 url: /franconville/
-latitude: 
-longitude: 
+latitude: 48.984
+longitude: 2.228
 ---

@@ -1,6 +1,6 @@
 ---
 title: Écuelles
 url: /ecuelles/
-latitude: 
-longitude: 
+latitude: 48.364
+longitude: 2.853
 ---

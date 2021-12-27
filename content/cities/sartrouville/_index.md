@@ -1,6 +1,6 @@
 ---
 title: Sartrouville
 url: /sartrouville/
-latitude: 48.940901600000004
-longitude: 2.1585037000000002
+latitude: 48.931
+longitude: 2.156
 ---

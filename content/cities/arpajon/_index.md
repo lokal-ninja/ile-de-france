@@ -1,6 +1,6 @@
 ---
 title: Arpajon
 url: /arpajon/
-latitude: 48.5902899
-longitude: 2.2477303
+latitude: 48.589
+longitude: 2.249
 ---

@@ -1,6 +1,6 @@
 ---
 title: Montigny-lès-Cormeilles
 url: /montigny-les-cormeilles/
-latitude: 48.9959113
-longitude: 2.1989225
+latitude: 48.995
+longitude: 2.191
 ---

@@ -1,6 +1,6 @@
 ---
 title: Brunoy
 url: /brunoy/
-latitude: 48.697931200000006
-longitude: 2.5044613
+latitude: 48.698
+longitude: 2.505
 ---

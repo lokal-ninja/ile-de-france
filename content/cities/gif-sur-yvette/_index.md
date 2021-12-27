@@ -1,6 +1,6 @@
 ---
 title: Gif-sur-Yvette
 url: /gif-sur-yvette/
-latitude: 48.7018823
-longitude: 2.134529
+latitude: 48.703
+longitude: 2.101
 ---

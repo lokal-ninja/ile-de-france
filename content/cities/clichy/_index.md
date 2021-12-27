@@ -1,6 +1,6 @@
 ---
 title: Clichy
 url: /clichy/
-latitude: 
-longitude: 
+latitude: 48.903
+longitude: 2.309
 ---

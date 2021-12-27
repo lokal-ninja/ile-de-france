@@ -1,6 +1,6 @@
 ---
 title: Jouars-Pontchartrain
 url: /jouars-pontchartrain/
-latitude: 48.803268100000004
-longitude: 1.9000212
+latitude: 48.801
+longitude: 1.903
 ---

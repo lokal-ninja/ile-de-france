@@ -1,6 +1,6 @@
 ---
 title: Noisy-le-Sec
 url: /noisy-le-sec/
-latitude: 48.8897751
-longitude: 2.4516055000000003
+latitude: 48.888
+longitude: 2.456
 ---

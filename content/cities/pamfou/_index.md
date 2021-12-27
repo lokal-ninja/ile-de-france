@@ -1,6 +1,6 @@
 ---
 title: Pamfou
 url: /pamfou/
-latitude: 48.459425800000005
-longitude: 2.8723759
+latitude: 48.463
+longitude: 2.868
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ormoy
 url: /ormoy/
-latitude: 48.5751914
-longitude: 2.4493544000000003
+latitude: 48.57
+longitude: 2.465
 ---

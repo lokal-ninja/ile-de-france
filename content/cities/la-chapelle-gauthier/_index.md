@@ -1,6 +1,6 @@
 ---
 title: La Chapelle-Gauthier
 url: /la-chapelle-gauthier/
-latitude: 48.54948
-longitude: 2.8983800000000004
+latitude: 48.549
+longitude: 2.899
 ---

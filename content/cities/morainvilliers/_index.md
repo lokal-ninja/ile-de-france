@@ -1,6 +1,6 @@
 ---
 title: Morainvilliers
 url: /morainvilliers/
-latitude: 48.9274749
-longitude: 1.9416886000000002
+latitude: 48.937
+longitude: 1.95
 ---

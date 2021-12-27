@@ -1,6 +1,6 @@
 ---
 title: CHAUSSY
 url: /chaussy/
-latitude: 
-longitude: 
+latitude: 49.118
+longitude: 1.713
 ---

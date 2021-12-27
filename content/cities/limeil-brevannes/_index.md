@@ -1,6 +1,6 @@
 ---
 title: Limeil Brévannes
 url: /limeil-brevannes/
-latitude: 
-longitude: 
+latitude: 48.74
+longitude: 2.489
 ---

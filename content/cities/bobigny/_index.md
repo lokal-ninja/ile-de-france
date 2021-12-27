@@ -1,6 +1,6 @@
 ---
 title: Bobigny
 url: /bobigny/
-latitude: 48.906387
-longitude: 2.4452231
+latitude: 48.917
+longitude: 2.415
 ---

@@ -1,6 +1,6 @@
 ---
 title: Meudon
 url: /meudon/
-latitude: 48.812668800000004
-longitude: 2.2385432
+latitude: 48.79
+longitude: 2.224
 ---

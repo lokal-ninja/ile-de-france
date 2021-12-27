@@ -1,6 +1,6 @@
 ---
 title: Pringy
 url: /pringy/
-latitude: 49.0104477
-longitude: 2.8589007
+latitude: 48.516
+longitude: 2.565
 ---

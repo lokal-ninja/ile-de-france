@@ -1,6 +1,6 @@
 ---
 title: La Frette-sur-Seine
 url: /la-frette-sur-seine/
-latitude: 48.9740461
-longitude: 2.178345
+latitude: 48.98
+longitude: 2.181
 ---

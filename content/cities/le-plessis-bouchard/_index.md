@@ -1,6 +1,6 @@
 ---
 title: Le Plessis-Bouchard
 url: /le-plessis-bouchard/
-latitude: 49.0016863
-longitude: 2.2330815
+latitude: 48.997
+longitude: 2.235
 ---

@@ -1,6 +1,6 @@
 ---
 title: La Celle-Saint-Cloud
 url: /la-celle-saint-cloud/
-latitude: 48.847875300000005
-longitude: 2.136145
+latitude: 48.848
+longitude: 2.15
 ---

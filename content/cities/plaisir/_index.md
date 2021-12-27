@@ -1,6 +1,6 @@
 ---
 title: Plaisir
 url: /plaisir/
-latitude: 48.817399
-longitude: 1.9476363
+latitude: 48.829
+longitude: 1.953
 ---

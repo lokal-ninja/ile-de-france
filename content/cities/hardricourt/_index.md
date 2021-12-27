@@ -1,6 +1,6 @@
 ---
 title: Hardricourt
 url: /hardricourt/
-latitude: 49.007388000000006
-longitude: 1.8969766000000001
+latitude: 49.01
+longitude: 1.901
 ---

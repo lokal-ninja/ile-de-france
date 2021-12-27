@@ -1,6 +1,6 @@
 ---
 title: Thoiry
 url: /thoiry/
-latitude: 48.865856900000004
-longitude: 1.7969781
+latitude: 48.865
+longitude: 1.794
 ---

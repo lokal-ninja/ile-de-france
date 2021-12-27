@@ -1,6 +1,6 @@
 ---
 title: Le Vésinet
 url: /le-vesinet/
-latitude: 48.894254000000004
-longitude: 2.1347291
+latitude: 48.897
+longitude: 2.113
 ---

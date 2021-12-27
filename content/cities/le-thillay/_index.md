@@ -1,6 +1,6 @@
 ---
 title: Le Thillay
 url: /le-thillay/
-latitude: 49.005300000000005
-longitude: 2.4692600000000002
+latitude: 49.007
+longitude: 2.465
 ---

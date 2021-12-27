@@ -1,6 +1,6 @@
 ---
 title: Garges-lès-Gonesse
 url: /garges-les-gonesse/
-latitude: 48.970384100000004
-longitude: 2.3990240000000003
+latitude: 48.964
+longitude: 2.406
 ---

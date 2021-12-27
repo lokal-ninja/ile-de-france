@@ -1,6 +1,6 @@
 ---
 title: Coubron
 url: /coubron/
-latitude: 48.9166
-longitude: 2.5792200000000003
+latitude: 48.915
+longitude: 2.581
 ---

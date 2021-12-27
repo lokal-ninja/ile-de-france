@@ -1,6 +1,6 @@
 ---
 title: Trilport
 url: /trilport/
-latitude: 48.9585984
-longitude: 2.9471072
+latitude: 48.958
+longitude: 2.959
 ---

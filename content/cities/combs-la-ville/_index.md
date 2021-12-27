@@ -1,6 +1,6 @@
 ---
 title: Combs-la-Ville
 url: /combs-la-ville/
-latitude: 48.6646994
-longitude: 2.564877
+latitude: 48.666
+longitude: 2.552
 ---

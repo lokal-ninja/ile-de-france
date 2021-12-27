@@ -1,6 +1,6 @@
 ---
 title: Pantin
 url: /pantin/
-latitude: 48.8965023
-longitude: 2.4019804000000002
+latitude: 48.895
+longitude: 2.426
 ---

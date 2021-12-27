@@ -1,6 +1,6 @@
 ---
 title: Villebon-sur-Yvette
 url: /villebon-sur-yvette/
-latitude: 48.7000046
-longitude: 2.2276489
+latitude: 48.703
+longitude: 2.244
 ---

@@ -1,6 +1,6 @@
 ---
 title: Longueville
 url: /longueville/
-latitude: 48.5144795
-longitude: 3.2473223
+latitude: 48.518
+longitude: 3.24
 ---

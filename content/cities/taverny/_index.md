@@ -1,6 +1,6 @@
 ---
 title: Taverny
 url: /taverny/
-latitude: 
-longitude: 
+latitude: 49.027
+longitude: 2.224
 ---

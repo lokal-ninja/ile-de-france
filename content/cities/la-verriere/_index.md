@@ -1,6 +1,6 @@
 ---
 title: La Verrière
 url: /la-verriere/
-latitude: 48.7555258
-longitude: 1.9554697
+latitude: 48.76
+longitude: 1.955
 ---

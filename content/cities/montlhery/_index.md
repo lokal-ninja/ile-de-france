@@ -1,6 +1,6 @@
 ---
 title: Montlhéry
 url: /montlhery/
-latitude: 48.640602300000005
-longitude: 2.269244
+latitude: 48.64
+longitude: 2.271
 ---

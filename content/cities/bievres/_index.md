@@ -1,6 +1,6 @@
 ---
 title: Bièvres
 url: /bievres/
-latitude: 
-longitude: 
+latitude: 48.748
+longitude: 2.197
 ---

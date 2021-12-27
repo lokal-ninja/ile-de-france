@@ -1,6 +1,6 @@
 ---
 title: Saint-Gratien
 url: /saint-gratien/
-latitude: 48.9703664
-longitude: 2.2840639
+latitude: 48.966
+longitude: 2.283
 ---

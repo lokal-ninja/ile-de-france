@@ -1,6 +1,6 @@
 ---
 title: Bondy
 url: /bondy/
-latitude: 48.9031
-longitude: 2.48291
+latitude: 48.89
+longitude: 2.495
 ---

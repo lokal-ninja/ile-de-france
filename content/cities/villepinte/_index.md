@@ -1,6 +1,6 @@
 ---
 title: Villepinte
 url: /villepinte/
-latitude: 48.9636566
-longitude: 2.5347541000000002
+latitude: 48.958
+longitude: 2.562
 ---

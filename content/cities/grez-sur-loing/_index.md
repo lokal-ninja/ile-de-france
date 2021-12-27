@@ -1,6 +1,6 @@
 ---
 title: Grez-sur-Loing
 url: /grez-sur-loing/
-latitude: 48.3174256
-longitude: 2.6885676000000003
+latitude: 48.317
+longitude: 2.684
 ---

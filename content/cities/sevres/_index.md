@@ -1,6 +1,6 @@
 ---
 title: Sèvres
 url: /sevres/
-latitude: 48.8247407
-longitude: 2.2127083
+latitude: 48.824
+longitude: 2.211
 ---

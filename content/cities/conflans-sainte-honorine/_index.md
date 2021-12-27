@@ -1,6 +1,6 @@
 ---
 title: Conflans-Sainte-Honorine
 url: /conflans-sainte-honorine/
-latitude: 48.9938791
-longitude: 2.0949768
+latitude: 48.995
+longitude: 2.08
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gressey
 url: /gressey/
-latitude: 48.8313842
-longitude: 1.6092498000000002
+latitude: 48.832
+longitude: 1.609
 ---

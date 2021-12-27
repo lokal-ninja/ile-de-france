@@ -1,6 +1,6 @@
 ---
 title: Le Chesnay-Rocquencourt
 url: /le-chesnay-rocquencourt/
-latitude: 
-longitude: 
+latitude: 48.823
+longitude: 2.139
 ---

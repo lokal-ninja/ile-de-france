@@ -1,6 +1,6 @@
 ---
 title: Clichy-la-Garenne
 url: /clichy-la-garenne/
-latitude: 48.9026
-longitude: 2.30551
+latitude: 48.902
+longitude: 2.303
 ---

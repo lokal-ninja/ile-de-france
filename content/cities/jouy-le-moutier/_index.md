@@ -1,6 +1,6 @@
 ---
 title: Jouy-le-Moutier
 url: /jouy-le-moutier/
-latitude: 49.0116
-longitude: 2.03194
+latitude: 49.01
+longitude: 2.041
 ---

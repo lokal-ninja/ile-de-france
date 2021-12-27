@@ -1,6 +1,6 @@
 ---
 title: Monsoult
 url: /monsoult/
-latitude: 
-longitude: 
+latitude: 49.07
+longitude: 2.322
 ---

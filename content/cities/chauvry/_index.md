@@ -1,6 +1,6 @@
 ---
 title: Chauvry
 url: /chauvry/
-latitude: 49.0544765
-longitude: 2.2669571
+latitude: 49.054
+longitude: 2.269
 ---

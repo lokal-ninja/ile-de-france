@@ -1,6 +1,6 @@
 ---
 title: Évry-Courcourones
 url: /evry-courcourones/
-latitude: 
-longitude: 
+latitude: 48.615
+longitude: 2.434
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chevreuse
 url: /chevreuse/
-latitude: 48.707968900000004
-longitude: 2.0408005
+latitude: 48.708
+longitude: 2.042
 ---

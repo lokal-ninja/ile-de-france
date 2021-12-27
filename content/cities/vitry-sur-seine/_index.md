@@ -1,6 +1,6 @@
 ---
 title: Vitry-sur-Seine
 url: /vitry-sur-seine/
-latitude: 48.787600000000005
-longitude: 2.39164
+latitude: 48.792
+longitude: 2.395
 ---

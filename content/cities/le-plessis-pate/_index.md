@@ -1,6 +1,6 @@
 ---
 title: Le Plessis-Pâté
 url: /le-plessis-pate/
-latitude: 48.611600700000004
-longitude: 2.3256213000000003
+latitude: 48.617
+longitude: 2.33
 ---

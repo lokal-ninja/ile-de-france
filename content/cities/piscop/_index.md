@@ -1,6 +1,6 @@
 ---
 title: Piscop
 url: /piscop/
-latitude: 49.0120051
-longitude: 2.3422807000000003
+latitude: 49.018
+longitude: 2.35
 ---

@@ -1,6 +1,6 @@
 ---
 title: Seraincourt
 url: /seraincourt/
-latitude: 49.0355508
-longitude: 1.8657252000000002
+latitude: 49.035
+longitude: 1.867
 ---

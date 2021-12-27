@@ -1,6 +1,6 @@
 ---
 title: Saint-Mandé
 url: /saint-mande/
-latitude: 48.843263300000004
-longitude: 2.4185126
+latitude: 48.847
+longitude: 2.418
 ---
