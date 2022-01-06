@@ -7,5 +7,5 @@ city: Paris
 street: "Rue de Cîteaux"
 housenumber: 41
 phone: "+33 9 54 31 29 44"
-opening_hours: "Mo 11:00-19:00; Tu-We 10:00-19:00; Th 10:00-20:00; Fr-Sa 10:00-19:00"
+opening_hours: "Tu-Fr 11:00-13:00,14:00-19:00; Sa 10:00-13:00,14:00-18:00"
 website: "https://www.jourdevelo.fr/"
