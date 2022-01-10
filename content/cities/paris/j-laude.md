@@ -1,5 +1,5 @@
 ---
-title: "J.Laude"
+title: "J. Laude"
 url: /paris/j-laude/
 shop: livres
 ---

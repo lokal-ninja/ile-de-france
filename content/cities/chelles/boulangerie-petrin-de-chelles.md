@@ -1,5 +1,5 @@
 ---
-title: "Boulangerie Petrin de Chelles"
+title: "Boulangerie Pétrin de Chelles"
 url: /chelles/boulangerie-petrin-de-chelles/
 shop: boulangerie
 ---
