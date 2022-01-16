@@ -1,6 +1,6 @@
 ---
 title: Le Raincy
 url: /le-raincy/
-latitude: 48.892
-longitude: 2.512
+latitude: 48.9
+longitude: 2.517
 ---
