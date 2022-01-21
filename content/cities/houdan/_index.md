@@ -1,6 +1,6 @@
 ---
 title: Houdan
 url: /houdan/
-latitude: 48.795
-longitude: 1.602
+latitude: 48.793
+longitude: 1.632
 ---

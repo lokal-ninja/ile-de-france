@@ -1,6 +1,6 @@
 ---
 title: Nézel
 url: /nezel/
-latitude: 48.946
-longitude: 1.836
+latitude: 48.945
+longitude: 1.835
 ---
