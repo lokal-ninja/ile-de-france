@@ -1,5 +1,5 @@
 ---
 title: "Mandalas"
 url: /paris/mandalas/
-shop: shop
+shop: boutique
 ---

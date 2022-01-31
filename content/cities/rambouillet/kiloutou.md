@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /rambouillet/kiloutou/
-shop: shop
+shop: outils
 ---

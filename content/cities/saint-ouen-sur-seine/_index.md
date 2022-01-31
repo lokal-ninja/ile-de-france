@@ -1,6 +1,6 @@
 ---
 title: Saint-Ouen-sur-Seine
 url: /saint-ouen-sur-seine/
-latitude: 48.913
-longitude: 2.336
+latitude: 48.911
+longitude: 2.334
 ---

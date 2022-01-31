@@ -1,5 +1,5 @@
 ---
 title: "Chapellerie Julias"
 url: /paris/chapellerie-julias/
-shop: shop
+shop: boutique
 ---
