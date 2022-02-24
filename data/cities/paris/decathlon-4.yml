@@ -1,11 +1,11 @@
-id: 70224004
-type: way
-latitude: 48.87631
-longitude: 2.29745
-postcode: "75008"
+id: 4972044121
+type: node
+latitude: 48.85168
+longitude: 2.3427
+postcode: "75006"
 city: Paris
-street: "Avenue de Wagram"
-housenumber: 26
-phone: "+33 1 45 72 66 88"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/magasin/magasin-sport-paris-wagram-MS_0070009000090.html"
+street: "Boulevard Saint-Germain"
+housenumber: 104
+phone: ""
+opening_hours: "Mo-Sa 10:00-20:00, Su 11:00-20:00"
+website: ""
