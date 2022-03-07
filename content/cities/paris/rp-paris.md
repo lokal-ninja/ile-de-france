@@ -1,5 +1,5 @@
 ---
-title: "RP Paris"
+title: "RP PARIS"
 url: /paris/rp-paris/
 shop: parfumerie
 ---

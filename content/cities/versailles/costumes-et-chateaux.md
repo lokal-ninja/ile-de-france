@@ -1,5 +1,5 @@
 ---
-title: "Costumes et Châteaux"
+title: "Costumes et châteaux"
 url: /versailles/costumes-et-chateaux/
 shop: fête
 ---
