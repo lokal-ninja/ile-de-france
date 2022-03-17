@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /thiais/stokomani/
-shop: shop
+shop: magasin de variétés
 ---

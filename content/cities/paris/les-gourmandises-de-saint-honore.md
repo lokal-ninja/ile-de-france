@@ -1,5 +1,5 @@
 ---
-title: "Les gourmandises de Saint-Honoré"
+title: "Les Gourmandises de Saint-Honoré"
 url: /paris/les-gourmandises-de-saint-honore/
 shop: boulangerie
 ---

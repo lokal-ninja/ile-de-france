@@ -1,11 +1,11 @@
-id: 3085109419
+id: 2003233924
 type: node
-latitude: 48.85898
-longitude: 2.34999
-postcode: "75004"
+latitude: 48.86326
+longitude: 2.34875
+postcode: "75001"
 city: Paris
-street: "Rue Saint-Martin"
-housenumber: 11
-phone: "+33 9 60 18 42 50"
-opening_hours: "Mo-Sa 11:00-21:00, Su 14:00-20:00"
-website: "https://www.passagedudesir.fr/"
+street: "Rue Pierre Lescot"
+housenumber: 17
+phone: ""
+opening_hours: "Mo-Fr 12:00-21:00, Sa 11:00-21:00, Su,Ph 14:00-20:00"
+website: ""

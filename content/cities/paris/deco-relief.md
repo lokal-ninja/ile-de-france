@@ -1,5 +1,5 @@
 ---
 title: "Déco Relief"
 url: /paris/deco-relief/
-shop: cuisine
+shop: articles ménagers
 ---

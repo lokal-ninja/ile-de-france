@@ -1,5 +1,5 @@
 ---
-title: "Carrefour Express"
+title: "Carrefour express"
 url: /paris/carrefour-express-11/
-shop: commodité
+shop: supermarché
 ---

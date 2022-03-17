@@ -1,11 +1,11 @@
-id: 395231171
-type: way
-latitude: 48.87212
-longitude: 2.30155
-postcode: "75008"
+id: 3916696368
+type: node
+latitude: 48.8601
+longitude: 2.34375
+postcode: "75001"
 city: Paris
-street: "Avenue des Champs-Élysées"
-housenumber: 104
+street: ""
+housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-19:00"
 website: ""
