@@ -1,6 +1,6 @@
 ---
 title: Sucy-en-Brie
 url: /sucy-en-brie/
-latitude: 48.78
-longitude: 2.511
+latitude: 48.768
+longitude: 2.524
 ---
