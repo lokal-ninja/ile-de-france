@@ -1,5 +1,5 @@
 ---
 title: "Tumi"
 url: /paris/tumi/
-shop: vêtements
+shop: sac
 ---

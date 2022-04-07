@@ -1,5 +1,5 @@
 ---
-title: "CosmoParis"
+title: "Cosmoparis"
 url: /paris/cosmoparis/
 shop: chaussures
 ---
