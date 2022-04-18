@@ -1,11 +1,11 @@
-id: 2377881055
-type: node
-latitude: 48.89363
-longitude: 2.31523
-postcode: "75017"
+id: 78536213
+type: way
+latitude: 48.83491
+longitude: 2.35742
+postcode: "75013"
 city: Paris
-street: "Avenue de Clichy"
-housenumber: 190
-phone: ""
+street: "Boulevard de l'Hôpital"
+housenumber: 114
+phone: "+33147071818"
 opening_hours: "24/7"
-website: ""
+website: "https://services.totalenergies.fr/"

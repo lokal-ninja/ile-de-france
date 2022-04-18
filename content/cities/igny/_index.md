@@ -1,6 +1,6 @@
 ---
 title: Igny
 url: /igny/
-latitude: 48.743
-longitude: 2.226
+latitude: 48.744
+longitude: 2.222
 ---

@@ -1,11 +1,11 @@
-id: 1827357922
+id: 1802937900
 type: node
-latitude: 48.84794
-longitude: 2.27397
-postcode: "75016"
+latitude: 48.8279
+longitude: 2.32151
+postcode: "75014"
 city: Paris
-street: "Avenue de Versailles"
-housenumber: 58
+street: "Rue des Plantes"
+housenumber: 45
 phone: ""
-opening_hours: "Mo-Su 9:00-22:00"
-website: ""
+opening_hours: "Mo-Sa 08:30-21:00; Su 08:00-20:30"
+website: "http://www.franprix.fr"
