@@ -1,11 +1,11 @@
-id: 7576893329
-type: node
-latitude: 48.9278
-longitude: 2.25411
+id: 78269508
+type: way
+latitude: 48.92784
+longitude: 2.25398
 postcode: "92700"
 city: Colombes
 street: "Boulevard de Valmy"
-housenumber: 70
+housenumber: 68;70
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-13:00"
 website: "https://www.franprix.fr/magasins/4364"
