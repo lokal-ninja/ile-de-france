@@ -1,6 +1,6 @@
 ---
 title: Maisons-Alfort
 url: /maisons-alfort/
-latitude: 48.805
-longitude: 2.441
+latitude: 48.811
+longitude: 2.431
 ---

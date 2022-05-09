@@ -1,5 +1,5 @@
 ---
 title: "Nineteen"
 url: /paris/nineteen/
-shop: chaussures
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Truffaut"
 url: /baillet-en-france/truffaut/
-shop: fleuriste
+shop: centre de jardinage
 ---
