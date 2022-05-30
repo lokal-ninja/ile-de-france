@@ -7,5 +7,5 @@ city: Paris
 street: "Avenue Daumesnil"
 housenumber: 38
 phone: "+33 1 53 44 71 82"
-opening_hours: ""
+opening_hours: "Tu,We,Fr 11:00-13:00,14:00-19:00; Th 14:00-19:00; Sa 10:00-19:00"
 website: "https://www.games-workshop.com"

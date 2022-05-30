@@ -1,5 +1,5 @@
 ---
-title: "Supérette de la place"
+title: "Supérette de la Place"
 url: /vaires-sur-marne/superette-de-la-place/
 shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
-title: "LodinG"
+title: "Loding"
 url: /paris/loding/
-shop: vêtements
+shop: chaussures
 ---
