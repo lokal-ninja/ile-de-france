@@ -1,11 +1,11 @@
-id: 259603379
-type: way
-latitude: 48.8611
-longitude: 2.34802
-postcode: "75001"
+id: 9509144579
+type: node
+latitude: 48.84656
+longitude: 2.32626
+postcode: "75006"
 city: Paris
-street: ""
-housenumber: 
-phone: ""
-opening_hours: ""
-website: "https://www.micromania.fr/"
+street: "Rue de Rennes"
+housenumber: 126
+phone: "+33145490707"
+opening_hours: "Mo-Sa 10:00-19:00"
+website: ""
