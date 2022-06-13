@@ -1,11 +1,11 @@
-id: 1369678524
+id: 8707687743
 type: node
-latitude: 48.85606
-longitude: 2.35695
-postcode: "75004"
+latitude: 48.83497
+longitude: 2.32368
+postcode: "75014"
 city: Paris
-street: "Rue de Rivoli"
-housenumber: 23
-phone: ""
-opening_hours: "Tu-Fr 10:00-14:00,15:00-20:00; Sa 10:00-14:00,15:00-19:30"
-website: "http://www.ecox.fr/nos-magasins/rivoli"
+street: "Avenue du Maine"
+housenumber: 136
+phone: "+33 1 43 21 81 78"
+opening_hours: "Tu-Sa 09:30-14:00,15:00-19:00"
+website: "http://www.ecox.fr/nos-magasins/montparnasse"

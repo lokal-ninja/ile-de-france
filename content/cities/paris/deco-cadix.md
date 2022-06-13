@@ -1,5 +1,5 @@
 ---
 title: "Déco Cadix"
 url: /paris/deco-cadix/
-shop: chimiste
+shop: magasin de variétés
 ---

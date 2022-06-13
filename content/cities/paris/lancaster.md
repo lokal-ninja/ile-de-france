@@ -1,5 +1,5 @@
 ---
 title: "Lancaster"
 url: /paris/lancaster/
-shop: shop
+shop: cuir
 ---

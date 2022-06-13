@@ -1,6 +1,6 @@
 ---
 title: Sannois
 url: /sannois/
-latitude: 48.967
-longitude: 2.272
+latitude: 48.973
+longitude: 2.256
 ---
