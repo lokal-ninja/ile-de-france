@@ -1,11 +1,11 @@
-id: 4947711699
+id: 5017976727
 type: node
-latitude: 48.83559
-longitude: 2.35303
-postcode: "75013"
+latitude: 48.85791
+longitude: 2.27674
+postcode: ""
 city: Paris
-street: "Avenue des Gobelins"
-housenumber: 41
-phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: ""
+street: "Rue de Passy"
+housenumber: 
+phone: "+33142249593"
+opening_hours: "Mo 10:00-19:00, Tu-Sa 10:00-19:30"
+website: "https://www.marionnaud.fr/"

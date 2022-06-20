@@ -1,11 +1,11 @@
-id: 5628135545
+id: 6311243133
 type: node
-latitude: 48.88919
-longitude: 2.31985
-postcode: "75017"
+latitude: 48.84842
+longitude: 2.32422
+postcode: "75006"
 city: Paris
-street: "Rue des Moines"
-housenumber: 38
+street: "Rue du Cherche-Midi"
+housenumber: 68-70
 phone: ""
-opening_hours: "Mo 13:30-20:00; Tu-Sa 10:00-20:00; Su 09:30-12:45"
-website: "http://lesnouveauxrobinson.coop/magasins/rue-des-moines/"
+opening_hours: "Mo-Sa 10:00-20:00"
+website: "http://lesnouveauxrobinson.coop/magasins/cherche-midi/"

@@ -1,6 +1,6 @@
 ---
 title: Villeneuve-la-Garenne
 url: /villeneuve-la-garenne/
-latitude: 48.925
-longitude: 2.328
+latitude: 48.935
+longitude: 2.333
 ---

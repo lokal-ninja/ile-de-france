@@ -1,5 +1,5 @@
 ---
-title: "Coccinelle - Supermarché"
+title: "Coccinelle Supermarché"
 url: /paris/coccinelle-supermarche/
 shop: supermarché
 ---

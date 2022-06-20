@@ -1,11 +1,11 @@
-id: 1080955970
+id: 627857438
 type: node
-latitude: 48.83682
-longitude: 2.3188
-postcode: "75014"
+latitude: 48.88555
+longitude: 2.37556
+postcode: "75019"
 city: Paris
-street: "Place de Catalogne"
-housenumber: 2
-phone: "+33 1 40 47 69 60"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00; Su 09:00-13:45"
-website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Ile-de-France/Paris/BIOCOOP-TOUTELABIO-CATALOGNE"
+street: "Quai de la Loire"
+housenumber: 46bis
+phone: "+33 1 42 06 44 44"
+opening_hours: "Mo 12:00-20:00; Tu-Sa 10:00-20:00"
+website: "https://www.biocoop-canalbio.fr/"
