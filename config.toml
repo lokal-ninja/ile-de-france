@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/ile-de-france"
+baseURL = "https://fr.shoogle.net/ile-de-france/"
 languageCode = "fr"
 title = "Ile-de-France"
 theme = "ln-base"
