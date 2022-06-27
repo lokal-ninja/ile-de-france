@@ -1,11 +1,11 @@
-id: 6846309086
+id: 6512150285
 type: node
-latitude: 48.84729
-longitude: 2.28639
-postcode: "75015"
+latitude: 48.8937
+longitude: 2.3141
+postcode: "75017"
 city: Paris
-street: "Rue Saint-Charles"
-housenumber: 83
-phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "http://www.intermarche.com"
+street: "Avenue de Clichy"
+housenumber: 183
+phone: "+33 1 40 22 19 20"
+opening_hours: "Mo-Sa 07:30-21:45; Su 08:00-13:15"
+website: "https://www.intermarche.com/magasins/07822/paris-75017/infos-pratiques"

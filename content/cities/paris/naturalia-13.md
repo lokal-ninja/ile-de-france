@@ -1,5 +1,5 @@
 ---
 title: "Naturalia"
 url: /paris/naturalia-13/
-shop: supermarché
+shop: commodité
 ---
