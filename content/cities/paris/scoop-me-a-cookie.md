@@ -1,5 +1,5 @@
 ---
-title: "Scoop me a Cookie"
+title: "Scoop Me a Cookie"
 url: /paris/scoop-me-a-cookie/
-shop: chocolat
+shop: confiserie
 ---
