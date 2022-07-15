@@ -1,5 +1,5 @@
 ---
 title: "Augu Fermetures"
 url: /saint-germain-en-laye/augu-fermetures/
-shop: shop
+shop: serrurier
 ---

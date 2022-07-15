@@ -7,5 +7,5 @@ city: Paris
 street: "Rue Oberkampf"
 housenumber: 50
 phone: "+33 1 47 00 07 09"
-opening_hours: "Mo 12:00-20:00 - Tue-Sa 10:00-20:00"
+opening_hours: "Mo 12:00-20:00; Tu-Sa 10:00-20:00"
 website: ""
