@@ -1,11 +1,11 @@
-id: 4593440824
-type: node
-latitude: 48.83835
-longitude: 2.38976
-postcode: "75012"
+id: 346655293
+type: way
+latitude: 48.87542
+longitude: 2.32723
+postcode: "75009"
 city: Paris
-street: "Rue de Charenton"
-housenumber: 242
+street: "Ctre Cial Passage Du Havre - 107 Rue St Lazare"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/ile-de-france/paris/paris-charenton/S-FRYROC724"
+opening_hours: "Mo-We 09:30-20:00; Th-Fr 09:30-20:30; Sa 09:30-20:00"
+website: "http://yves-rocher.fr/paris-c-cial-passage-du-havre"
