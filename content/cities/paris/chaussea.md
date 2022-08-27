@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /paris/chaussea/
-shop: vacant
+shop: chaussures
 ---

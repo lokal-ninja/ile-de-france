@@ -1,5 +1,5 @@
 ---
-title: "Alimentation Génerale"
+title: "Alimentation générale"
 url: /paris/alimentation-generale/
-shop: supermarché
+shop: commodité
 ---
