@@ -1,5 +1,5 @@
 ---
-title: "Le repaire de Bacchus"
+title: "Le Repaire De Bacchus"
 url: /paris/le-repaire-de-bacchus-4/
-shop: vin
+shop: alcool
 ---

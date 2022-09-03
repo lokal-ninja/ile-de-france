@@ -1,11 +1,11 @@
-id: 9545366729
+id: 9029442409
 type: node
-latitude: 48.86411
-longitude: 2.34957
-postcode: "75001"
+latitude: 48.87076
+longitude: 2.40379
+postcode: "75020"
 city: Paris
-street: "Rue de Turbigo"
-housenumber: 15
-phone: "+33 9 72 14 79 40"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-13:00"
-website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Ile-de-France/Paris/BIOCOOP-ETIENNE-MARCEL"
+street: "Avenue Gambetta"
+housenumber: 98
+phone: "+33 1 43 66 29 15"
+opening_hours: "Mo-Sa 10:00-20:00"
+website: "https://www.biocoopgambetta.fr/"

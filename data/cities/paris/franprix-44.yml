@@ -1,11 +1,11 @@
-id: 4629408518
+id: 4086305748
 type: node
-latitude: 48.83946
-longitude: 2.30863
-postcode: "75015"
+latitude: 48.88421
+longitude: 2.30352
+postcode: "75017"
 city: Paris
-street: "Rue Plumet"
-housenumber: 8
-phone: ""
-opening_hours: ""
-website: ""
+street: "Avenue de Villiers"
+housenumber: 80
+phone: "+33 1 55 65 10 38"
+opening_hours: "Mo-Sa 08:30-20:30"
+website: "https://www.franprix.fr/"

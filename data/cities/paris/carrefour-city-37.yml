@@ -1,11 +1,11 @@
-id: 9301423820
+id: 9811847582
 type: node
-latitude: 48.85416
-longitude: 2.36857
-postcode: "75004"
+latitude: 48.87344
+longitude: 2.3125
+postcode: "75008"
 city: Paris
-street: "Boulevard Beaumarchais"
-housenumber: 5
-phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-13:00; Jul 14 09:00-20:00"
-website: "https://www.carrefour.fr/magasin/city-paris-beaumarchais-5"
+street: "Rue La Boétie"
+housenumber: 58
+phone: "+33 1 45 61 03 42"
+opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-12:45"
+website: "https://www.carrefour.fr/magasin/city-paris-la-boetie"
