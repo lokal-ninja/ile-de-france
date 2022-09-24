@@ -1,11 +1,11 @@
-id: 6707946127
+id: 6100665131
 type: node
-latitude: 48.88869
-longitude: 2.34652
-postcode: "75018"
+latitude: 48.88702
+longitude: 2.37282
+postcode: "75019"
 city: Paris
-street: "Rue Ramey"
-housenumber: 29-31
+street: "Avenue de Flandre"
+housenumber: 44bis
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-22:00"
-website: "https://www.carrefour.fr"
+opening_hours: ""
+website: ""
