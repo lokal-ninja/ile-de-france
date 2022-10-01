@@ -1,6 +1,6 @@
 ---
-title: Magny-en-Vexin
+title: MAGNY EN VEXIN
 url: /magny-en-vexin/
-latitude: 49.147
-longitude: 1.786
+latitude: 49.156
+longitude: 1.8
 ---

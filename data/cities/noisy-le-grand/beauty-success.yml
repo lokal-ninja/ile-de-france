@@ -1,11 +1,11 @@
 id: 2294302496
 type: node
-latitude: 48.84354
-longitude: 2.57786
+latitude: 48.8435
+longitude: 2.57783
 postcode: "93160"
 city: Noisy-le-Grand
 street: "Allée du Bataillon Hildevert"
-housenumber: 18
+housenumber: 18;20
 phone: "+33 1 58 84 20 02"
 opening_hours: "Tu-Th 10:00-19:00, Fr 10:00-20:00, Sa 09:30-18:30"
 website: ""
