@@ -1,11 +1,11 @@
-id: 6044156188
+id: 6314517685
 type: node
-latitude: 48.8742
-longitude: 2.33964
-postcode: "75009"
+latitude: 48.85148
+longitude: 2.39041
+postcode: "75011"
 city: Paris
-street: "Rue de Provence"
-housenumber: 22
+street: "Boulevard Voltaire"
+housenumber: 240
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00, Su 09:00-22:00"
+opening_hours: "Mo,Tu 08:00-20:00; We,Th 08:00-20:30; Fr 08:00-18:00; Su 08:00-18:00+"
 website: ""

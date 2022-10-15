@@ -1,5 +1,5 @@
 ---
 title: "Kelbongoo Bichat"
 url: /paris/kelbongoo-bichat/
-shop: supermarché
+shop: commodité
 ---
