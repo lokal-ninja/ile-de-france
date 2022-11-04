@@ -1,11 +1,11 @@
-id: 9654678035
+id: 9686819201
 type: node
-latitude: 48.86526
-longitude: 2.34364
-postcode: "75002"
+latitude: 48.86246
+longitude: 2.34705
+postcode: "75001"
 city: Paris
-street: "Rue Étienne Marcel"
-housenumber: 42
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 10:30-19:30"
+opening_hours: ""
 website: ""

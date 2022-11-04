@@ -1,5 +1,5 @@
 ---
 title: "Chanel"
 url: /paris/chanel-3/
-shop: tailleur
+shop: vêtements
 ---

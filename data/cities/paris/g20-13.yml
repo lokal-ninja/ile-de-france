@@ -1,11 +1,11 @@
-id: 7557205201
-type: node
-latitude: 48.86682
-longitude: 2.28485
-postcode: "75016"
+id: 63640737
+type: way
+latitude: 48.85425
+longitude: 2.37332
+postcode: "75011"
 city: Paris
-street: "Rue Saint-Didier"
-housenumber: 46
-phone: "+33 1 45 53 33 75"
-opening_hours: "Mo-Sa 08:00-21:30; Su 09:00-21:30"
-website: "https://www.magasins-u.com/magasin/uexpress-parissaintdidier"
+street: "Passage Thiéré"
+housenumber: 15
+phone: ""
+opening_hours: ""
+website: ""
