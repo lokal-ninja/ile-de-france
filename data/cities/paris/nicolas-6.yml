@@ -1,11 +1,11 @@
-id: 2529492653
+id: 2586564350
 type: node
-latitude: 48.89548
-longitude: 2.32807
-postcode: "75017"
+latitude: 48.86036
+longitude: 2.34293
+postcode: "75001"
 city: Paris
-street: "Avenue de Saint-Ouen"
-housenumber: 121
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Tu-Sa 10:00-13:00,16:00-20:00, Su 10:00-13:00"
+opening_hours: "Mo-Th 10:30-20:00; Fr,Sa 10:30-20:30"
 website: ""

@@ -1,11 +1,11 @@
-id: 9299954943
-type: node
-latitude: 48.89813
-longitude: 2.35859
-postcode: "75018"
+id: 760842097
+type: way
+latitude: 48.86305
+longitude: 2.2757
+postcode: "75016"
 city: Paris
-street: "Rue de la Chapelle"
-housenumber: 91
+street: "Rue de la Tour"
+housenumber: 116
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00; Su 09:00-12:00"
-website: "https://www.franprix.fr/magasins/5059"
+opening_hours: ""
+website: ""

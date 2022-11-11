@@ -1,11 +1,11 @@
-id: 9747577245
+id: 10036143581
 type: node
-latitude: 48.85711
-longitude: 2.2787
-postcode: "75016"
+latitude: 48.85708
+longitude: 2.37967
+postcode: "75011"
 city: Paris
-street: "Rue de l'Annonciation"
-housenumber: 30
-phone: "+33 1 45 24 27 13"
-opening_hours: "Mo 13:00-19:00; Tu-Sa 10:00-19:30; Su 10:00-13:00; 2022 May 26 10:00-13:00,14:00-19:30; 2022 Jun 06 closed"
-website: "https://www.jeff-de-bruges.com/jeff-de-bruges-paris-annonciation"
+street: "Avenue Ledru-Rollin"
+housenumber: 172
+phone: ""
+opening_hours: "Mo 10:00-18:00; Tu-Sa 10:00-19:30; Su 10:00-14:00"
+website: ""

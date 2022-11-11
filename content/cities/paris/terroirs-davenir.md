@@ -1,5 +1,5 @@
 ---
-title: "Terroirs d'Avenir"
+title: "Terroirs d’Avenir"
 url: /paris/terroirs-davenir/
-shop: boulangerie
+shop: légumes
 ---

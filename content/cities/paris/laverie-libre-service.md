@@ -1,5 +1,5 @@
 ---
-title: "Laverie Libre-Service"
+title: "Laverie Libre Service"
 url: /paris/laverie-libre-service/
 shop: blanchisserie
 ---
