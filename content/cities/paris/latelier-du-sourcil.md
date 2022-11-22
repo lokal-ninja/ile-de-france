@@ -1,5 +1,5 @@
 ---
-title: "L’atelier Du Sourcil"
+title: "L’atelier du sourcil"
 url: /paris/latelier-du-sourcil/
 shop: beauté
 ---

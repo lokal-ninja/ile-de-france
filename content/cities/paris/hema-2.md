@@ -1,5 +1,5 @@
 ---
 title: "HEMA"
 url: /paris/hema-2/
-shop: magasin de variétés
+shop: grand magasin
 ---

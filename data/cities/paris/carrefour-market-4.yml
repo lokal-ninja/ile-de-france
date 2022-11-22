@@ -1,11 +1,11 @@
-id: 4966187139
+id: 4966875442
 type: node
-latitude: 48.8485
-longitude: 2.37095
-postcode: "75012"
+latitude: 48.88454
+longitude: 2.37619
+postcode: "75019"
 city: Paris
-street: "Rue de Lyon"
-housenumber: 37
-phone: ""
-opening_hours: "Mo-Sa 08:30-22:00"
-website: ""
+street: "Avenue Jean Jaurès"
+housenumber: 59
+phone: "+33 1 40 32 45 80"
+opening_hours: "Mo-Sa 08:30-22:00; Su 09:00-19:30"
+website: "https://www.carrefour.fr/"
