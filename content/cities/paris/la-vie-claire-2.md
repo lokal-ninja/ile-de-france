@@ -1,5 +1,5 @@
 ---
 title: "La Vie Claire"
 url: /paris/la-vie-claire-2/
-shop: supermarché
+shop: commodité
 ---

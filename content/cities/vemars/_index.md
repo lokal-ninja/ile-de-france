@@ -1,6 +1,6 @@
 ---
 title: Vémars
 url: /vemars/
-latitude: 49.069
-longitude: 2.569
+latitude: 49.072
+longitude: 2.551
 ---

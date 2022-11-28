@@ -1,11 +1,11 @@
-id: 4957105197
+id: 5017976727
 type: node
-latitude: 48.84815
-longitude: 2.40307
-postcode: "75020"
+latitude: 48.85791
+longitude: 2.27674
+postcode: ""
 city: Paris
-street: "Cours de Vincennes"
-housenumber: 39
-phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: ""
+street: "Rue de Passy"
+housenumber: 
+phone: "+33142249593"
+opening_hours: "Mo 10:00-19:00, Tu-Sa 10:00-19:30"
+website: "https://www.marionnaud.fr/"
