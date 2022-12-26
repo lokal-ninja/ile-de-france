@@ -1,6 +1,6 @@
 ---
 title: Chevilly-Larue
 url: /chevilly-larue/
-latitude: 48.773
-longitude: 2.353
+latitude: 48.765
+longitude: 2.357
 ---

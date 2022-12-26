@@ -1,5 +1,5 @@
 ---
-title: "L’arbre bleu"
+title: "L'Arbre Bleu"
 url: /paris/larbre-bleu/
 shop: fleuriste
 ---
