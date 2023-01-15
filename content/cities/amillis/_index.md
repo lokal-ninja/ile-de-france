@@ -1,6 +1,6 @@
 ---
 title: Amillis
 url: /amillis/
-latitude: 48.74
-longitude: 3.109
+latitude: 48.737
+longitude: 3.13
 ---

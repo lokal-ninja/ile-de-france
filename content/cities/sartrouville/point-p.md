@@ -1,5 +1,5 @@
 ---
 title: "Point P"
 url: /sartrouville/point-p/
-shop: matériel informatique
+shop: à faire soi-même
 ---

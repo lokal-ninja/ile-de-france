@@ -1,6 +1,6 @@
 ---
 title: Draveil
 url: /draveil/
-latitude: 48.69
-longitude: 2.415
+latitude: 48.686
+longitude: 2.411
 ---
