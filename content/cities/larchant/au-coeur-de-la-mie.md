@@ -1,5 +1,5 @@
 ---
-title: "Au coeur de la mie"
+title: "Au cœur de la mie"
 url: /larchant/au-coeur-de-la-mie/
 shop: boulangerie
 ---
