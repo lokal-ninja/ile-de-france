@@ -7,5 +7,5 @@ city: Lognes
 street: "Rue du Village"
 housenumber: 15
 phone: "+33 6 77 70 91 47"
-opening_hours: ""
+opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,16:00-20:00; Sa 09:00-20:00; Su 09:00-14:00"
 website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /arcueil/franprix-2/
-shop: supermarché
+shop: commodité
 ---
