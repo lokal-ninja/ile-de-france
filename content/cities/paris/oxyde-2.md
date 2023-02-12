@@ -1,5 +1,5 @@
 ---
 title: "Oxyde"
-url: /paris/oxyde-2/
+url: /paris/oxyde/
 shop: vêtements
 ---

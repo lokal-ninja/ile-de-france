@@ -1,5 +1,5 @@
 ---
 title: "U Express"
-url: /paris/u-express-2/
+url: /paris/u-express/
 shop: supermarché
 ---

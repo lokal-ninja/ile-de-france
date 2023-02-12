@@ -1,5 +1,5 @@
 ---
 title: "Guichet Transilien"
-url: /paris/guichet-transilien-2/
+url: /paris/guichet-transilien/
 shop: billet
 ---

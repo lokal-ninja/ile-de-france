@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
-url: /flins-sur-seine/carrefour-2/
+url: /flins-sur-seine/carrefour/
 shop: supermarché
 ---

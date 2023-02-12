@@ -1,5 +1,5 @@
 ---
 title: "Aubade"
-url: /paris/aubade-2/
+url: /paris/aubade/
 shop: vêtements
 ---

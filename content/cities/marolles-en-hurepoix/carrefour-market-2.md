@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
-url: /marolles-en-hurepoix/carrefour-market-2/
+url: /marolles-en-hurepoix/carrefour-market/
 shop: gaz
 ---

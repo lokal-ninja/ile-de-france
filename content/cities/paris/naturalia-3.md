@@ -1,5 +1,5 @@
 ---
 title: "Naturalia"
-url: /paris/naturalia-3/
+url: /paris/naturalia/
 shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toni & Guy"
-url: /paris/toni-et-guy-2/
+url: /paris/toni-et-guy/
 shop: coiffeur
 ---

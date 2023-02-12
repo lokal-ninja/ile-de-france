@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /noisy-le-grand/picard-2/
+url: /noisy-le-grand/picard/
 shop: aliments surgelés
 ---

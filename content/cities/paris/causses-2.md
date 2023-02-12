@@ -1,5 +1,5 @@
 ---
 title: "Causses"
-url: /paris/causses-2/
+url: /paris/causses/
 shop: légumes
 ---

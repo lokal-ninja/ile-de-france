@@ -1,5 +1,5 @@
 ---
 title: "Blue Lemon"
-url: /paris/blue-lemon-2/
+url: /paris/blue-lemon/
 shop: cuir
 ---

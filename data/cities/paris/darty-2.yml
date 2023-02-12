@@ -1,11 +1,11 @@
-id: 2733994132
-type: node
-latitude: 48.87839
-longitude: 2.29621
-postcode: "75017"
+id: 630630489
+type: way
+latitude: 48.86167
+longitude: 2.34519
+postcode: "75001"
 city: Paris
-street: "Avenue des Ternes"
-housenumber: 8
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://magasin.darty.com/171-darty-ternes"
+opening_hours: ""
+website: ""

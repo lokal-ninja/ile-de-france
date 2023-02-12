@@ -1,5 +1,5 @@
 ---
 title: "Etam"
-url: /serris/etam-2/
+url: /serris/etam/
 shop: vêtements
 ---

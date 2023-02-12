@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
-url: /paris/amplifon-2/
+url: /paris/amplifon/
 shop: les appareils auditifs
 ---
