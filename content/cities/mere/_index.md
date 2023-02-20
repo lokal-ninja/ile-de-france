@@ -1,6 +1,6 @@
 ---
 title: Méré
 url: /mere/
-latitude: 48.802
-longitude: 1.815
+latitude: 48.783
+longitude: 1.819
 ---
