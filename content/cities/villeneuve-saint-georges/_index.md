@@ -1,6 +1,6 @@
 ---
 title: Villeneuve-Saint-Georges
 url: /villeneuve-saint-georges/
-latitude: 48.739
-longitude: 2.449
+latitude: 48.727
+longitude: 2.446
 ---
