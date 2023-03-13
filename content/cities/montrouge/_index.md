@@ -1,6 +1,6 @@
 ---
 title: Montrouge
 url: /montrouge/
-latitude: 48.816
-longitude: 2.308
+latitude: 48.817
+longitude: 2.325
 ---
