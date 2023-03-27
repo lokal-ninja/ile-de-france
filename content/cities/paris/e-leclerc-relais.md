@@ -1,5 +1,5 @@
 ---
-title: "E. Leclerc Relais"
+title: "E. Leclerc relais"
 url: /paris/e-leclerc-relais/
 shop: supermarché
 ---
