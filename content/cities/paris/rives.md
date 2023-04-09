@@ -1,5 +1,5 @@
 ---
 title: "Rives"
 url: /paris/rives/
-shop: vêtements
+shop: cuir
 ---
