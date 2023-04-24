@@ -1,6 +1,6 @@
 ---
 title: Ermont
 url: /ermont/
-latitude: 48.986
-longitude: 2.257
+latitude: 48.991
+longitude: 2.26
 ---

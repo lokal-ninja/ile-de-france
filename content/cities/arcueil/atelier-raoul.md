@@ -1,5 +1,5 @@
 ---
 title: "Atelier Raoul"
 url: /arcueil/atelier-raoul/
-shop: shop
+shop: art
 ---
