@@ -1,6 +1,6 @@
 ---
 title: Pontoise
 url: /pontoise/
-latitude: 49.048
-longitude: 2.095
+latitude: 49.05
+longitude: 2.092
 ---
