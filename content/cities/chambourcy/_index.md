@@ -1,6 +1,6 @@
 ---
 title: Chambourcy
 url: /chambourcy/
-latitude: 48.912
-longitude: 2.034
+latitude: 48.909
+longitude: 2.035
 ---
