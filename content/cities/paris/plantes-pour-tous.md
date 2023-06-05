@@ -1,5 +1,5 @@
 ---
-title: "Plantes pour Tous"
+title: "Plantes pour tous"
 url: /paris/plantes-pour-tous/
 shop: fleuriste
 ---
