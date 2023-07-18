@@ -1,5 +1,5 @@
 ---
-title: "L'épicerie"
+title: "L'Épicerie"
 url: /paris/lepicerie/
 shop: commodité
 ---
