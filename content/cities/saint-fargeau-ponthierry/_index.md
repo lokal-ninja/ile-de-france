@@ -1,6 +1,6 @@
 ---
 title: Saint-Fargeau-Ponthierry
 url: /saint-fargeau-ponthierry/
-latitude: 48.554
-longitude: 2.527
+latitude: 48.53
+longitude: 2.545
 ---
