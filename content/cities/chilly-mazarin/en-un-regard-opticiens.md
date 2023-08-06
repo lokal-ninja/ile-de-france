@@ -1,5 +1,5 @@
 ---
-title: "EN UN REGARD Opticiens"
+title: "En un Regard Opticiens"
 url: /chilly-mazarin/en-un-regard-opticiens/
 shop: opticien
 ---
