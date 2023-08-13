@@ -1,5 +1,5 @@
 ---
-title: "La Compagnie du Lit"
+title: "LA COMPAGNIE DU LIT"
 url: /pontault-combault/la-compagnie-du-lit/
-shop: shop
+shop: lit
 ---

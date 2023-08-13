@@ -1,5 +1,5 @@
 ---
-title: "franprix"
+title: "Franprix"
 url: /noisy-le-grand/franprix/
-shop: supermarché
+shop: commodité
 ---
