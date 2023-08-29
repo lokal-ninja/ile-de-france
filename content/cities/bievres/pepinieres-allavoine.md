@@ -1,5 +1,5 @@
 ---
 title: "Pépinières Allavoine"
 url: /bievres/pepinieres-allavoine/
-shop: fleuriste
+shop: centre de jardinage
 ---
