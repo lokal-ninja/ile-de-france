@@ -1,6 +1,6 @@
 ---
 title: Montreuil
 url: /montreuil/
-latitude: 48.851
-longitude: 2.434
+latitude: 48.849
+longitude: 2.429
 ---
