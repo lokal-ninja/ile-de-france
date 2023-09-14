@@ -1,5 +1,5 @@
 ---
 title: "Revert"
-url: /versailles/revert/
+url: /versailles/revert-rue-rameau/
 shop: matériel informatique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Troifoirien"
-url: /paris/troifoirien/
+url: /paris/troifoirien-rue-lecourbe/
 shop: magasin de variétés
 ---

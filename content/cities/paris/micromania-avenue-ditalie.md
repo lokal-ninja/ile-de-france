@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
-url: /paris/micromania/
+url: /paris/micromania-avenue-ditalie/
 shop: jeux vidéo
 ---

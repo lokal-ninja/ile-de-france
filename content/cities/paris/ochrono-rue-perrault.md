@@ -1,5 +1,5 @@
 ---
 title: "Ochrono"
-url: /paris/ochrono/
+url: /paris/ochrono-rue-perrault/
 shop: montres
 ---

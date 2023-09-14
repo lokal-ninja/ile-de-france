@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
-url: /paris/coccimarket/
+url: /paris/coccimarket-rue-henri-desgrange/
 shop: commodité
 ---

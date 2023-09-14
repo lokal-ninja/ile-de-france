@@ -1,5 +1,5 @@
 ---
 title: "Bocage"
-url: /paris/bocage/
+url: /paris/bocage-rue-du-faubourg-saint-antoine/
 shop: chaussures
 ---

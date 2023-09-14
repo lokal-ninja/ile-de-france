@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
-url: /paris/marionnaud/
+url: /paris/marionnaud-cours-de-vincennes/
 shop: parfumerie
 ---

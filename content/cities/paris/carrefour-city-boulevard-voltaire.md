@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
-url: /paris/carrefour-city/
+url: /paris/carrefour-city-boulevard-voltaire/
 shop: supermarché
 ---

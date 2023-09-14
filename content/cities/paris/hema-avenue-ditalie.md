@@ -1,5 +1,5 @@
 ---
 title: "HEMA"
-url: /paris/hema/
+url: /paris/hema-avenue-ditalie/
 shop: grand magasin
 ---

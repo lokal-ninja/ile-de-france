@@ -1,5 +1,5 @@
 ---
 title: "Desgranges"
-url: /paris/desgranges/
+url: /paris/desgranges-rue-du-docteur-blanche/
 shop: boulangerie
 ---

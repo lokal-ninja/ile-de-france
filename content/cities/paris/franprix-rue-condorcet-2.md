@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
-url: /paris/franprix/
-shop: supermarché
+url: /paris/franprix-rue-condorcet-2/
+shop: commodité
 ---

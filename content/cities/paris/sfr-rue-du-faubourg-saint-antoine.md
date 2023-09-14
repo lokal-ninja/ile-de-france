@@ -1,5 +1,5 @@
 ---
 title: "SFR"
-url: /paris/sfr/
+url: /paris/sfr-rue-du-faubourg-saint-antoine/
 shop: téléphone portable
 ---

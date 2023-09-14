@@ -1,5 +1,5 @@
 ---
 title: "Nicolas"
-url: /paris/nicolas/
+url: /paris/nicolas-avenue-de-flandre/
 shop: alcool
 ---

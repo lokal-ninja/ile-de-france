@@ -1,5 +1,5 @@
 ---
 title: "Archibald"
-url: /paris/archibald/
+url: /paris/archibald-rue-petel/
 shop: boulangerie
 ---

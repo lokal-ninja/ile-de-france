@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
-url: /montreuil/franprix/
+url: /montreuil/franprix-boulevard-rouget-de-lisle/
 shop: commodité
 ---

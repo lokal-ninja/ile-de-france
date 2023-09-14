@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
-url: /paris/boulanger/
+url: /paris/boulanger-rue-de-rennes/
 shop: électronique
 ---

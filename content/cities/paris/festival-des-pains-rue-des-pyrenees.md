@@ -1,5 +1,5 @@
 ---
 title: "Festival des Pains"
-url: /paris/festival-des-pains/
+url: /paris/festival-des-pains-rue-des-pyrenees/
 shop: boulangerie
 ---

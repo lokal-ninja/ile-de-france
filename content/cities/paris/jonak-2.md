@@ -1,5 +1,5 @@
 ---
 title: "Jonak"
-url: /paris/jonak/
+url: /paris/jonak-2/
 shop: chaussures
 ---

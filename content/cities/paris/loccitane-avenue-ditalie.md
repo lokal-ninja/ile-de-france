@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
-url: /paris/loccitane/
+url: /paris/loccitane-avenue-ditalie/
 shop: beauté
 ---

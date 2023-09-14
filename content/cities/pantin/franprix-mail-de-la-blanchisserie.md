@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
-url: /pantin/franprix/
+url: /pantin/franprix-mail-de-la-blanchisserie/
 shop: commodité
 ---

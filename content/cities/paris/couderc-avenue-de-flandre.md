@@ -1,5 +1,5 @@
 ---
 title: "Couderc"
-url: /paris/couderc/
+url: /paris/couderc-avenue-de-flandre/
 shop: boulangerie
 ---

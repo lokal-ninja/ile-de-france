@@ -1,5 +1,5 @@
 ---
 title: "Midas"
-url: /paris/midas/
+url: /paris/midas-rue-de-rome/
 shop: réparation de voitures
 ---

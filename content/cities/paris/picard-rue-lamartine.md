@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /paris/picard/
+url: /paris/picard-rue-lamartine/
 shop: aliments surgelés
 ---

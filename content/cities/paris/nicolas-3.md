@@ -1,5 +1,5 @@
 ---
 title: "Nicolas"
-url: /paris/nicolas/
+url: /paris/nicolas-3/
 shop: alcool
 ---

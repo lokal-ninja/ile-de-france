@@ -1,5 +1,5 @@
 ---
 title: "Orange"
-url: /paris/orange/
+url: /paris/orange-avenue-de-flandre/
 shop: téléphone portable
 ---

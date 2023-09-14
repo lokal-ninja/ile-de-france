@@ -1,5 +1,5 @@
 ---
 title: "Naturalia"
-url: /paris/naturalia/
+url: /paris/naturalia-avenue-parmentier/
 shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Damyel"
-url: /paris/damyel/
+url: /paris/damyel-boulevard-voltaire/
 shop: chocolat
 ---

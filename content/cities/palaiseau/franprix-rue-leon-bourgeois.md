@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
-url: /palaiseau/franprix/
+url: /palaiseau/franprix-rue-leon-bourgeois/
 shop: commodité
 ---

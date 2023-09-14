@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
-url: /paris/auchan/
+url: /paris/auchan-rue-pernety/
 shop: supermarché
 ---

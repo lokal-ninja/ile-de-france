@@ -1,5 +1,5 @@
 ---
 title: "Minelli"
-url: /paris/minelli/
+url: /paris/minelli-rue-des-rosiers/
 shop: chaussures
 ---

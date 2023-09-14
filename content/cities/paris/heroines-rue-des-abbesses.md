@@ -1,5 +1,5 @@
 ---
 title: "Héroïnes"
-url: /paris/heroines/
+url: /paris/heroines-rue-des-abbesses/
 shop: vêtements
 ---

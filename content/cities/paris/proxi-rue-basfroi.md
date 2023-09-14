@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
-url: /paris/proxi/
+url: /paris/proxi-rue-basfroi/
 shop: commodité
 ---

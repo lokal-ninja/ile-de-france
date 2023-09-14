@@ -1,5 +1,5 @@
 ---
 title: "Maje"
-url: /paris/maje/
+url: /paris/maje-rue-soufflot/
 shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
-url: /paris/midas/
+url: /paris/midas-boulevard-de-charonne/
 shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super U"
-url: /noisy-le-grand/super-u/
+url: /noisy-le-grand/super-u-rue-des-halles/
 shop: supermarché
 ---

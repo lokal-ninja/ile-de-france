@@ -1,5 +1,5 @@
 ---
 title: "Chez Meunier"
-url: /paris/chez-meunier/
+url: /paris/chez-meunier-place-ditalie/
 shop: boulangerie
 ---

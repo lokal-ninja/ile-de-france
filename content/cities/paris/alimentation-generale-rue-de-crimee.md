@@ -1,5 +1,5 @@
 ---
 title: "Alimentation générale"
-url: /paris/alimentation-generale/
+url: /paris/alimentation-generale-rue-de-crimee/
 shop: commodité
 ---

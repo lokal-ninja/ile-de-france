@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
-url: /clichy/franprix/
+url: /clichy/franprix-rue-paul-signac/
 shop: supermarché
 ---

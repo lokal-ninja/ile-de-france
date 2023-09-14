@@ -1,5 +1,5 @@
 ---
 title: "Apple Store"
-url: /paris/apple-store/
+url: /paris/apple-store-rue-clement/
 shop: électronique
 ---

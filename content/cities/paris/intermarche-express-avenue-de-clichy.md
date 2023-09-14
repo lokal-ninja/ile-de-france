@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Express"
-url: /paris/intermarche-express/
+url: /paris/intermarche-express-avenue-de-clichy/
 shop: supermarché
 ---

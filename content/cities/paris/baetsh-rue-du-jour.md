@@ -1,5 +1,5 @@
 ---
 title: "Ba&sh"
-url: /paris/baetsh/
+url: /paris/baetsh-rue-du-jour/
 shop: vêtements
 ---

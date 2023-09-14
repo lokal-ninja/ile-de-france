@@ -1,5 +1,5 @@
 ---
 title: "SFR"
-url: /paris/sfr/
+url: /paris/sfr-2/
 shop: téléphone portable
 ---

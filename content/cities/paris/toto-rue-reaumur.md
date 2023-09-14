@@ -1,5 +1,5 @@
 ---
 title: "Toto"
-url: /paris/toto/
+url: /paris/toto-rue-reaumur/
 shop: tissu
 ---

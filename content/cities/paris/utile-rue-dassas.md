@@ -1,5 +1,5 @@
 ---
 title: "Utile"
-url: /paris/utile/
+url: /paris/utile-rue-dassas/
 shop: commodité
 ---

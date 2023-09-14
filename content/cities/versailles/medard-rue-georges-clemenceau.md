@@ -1,5 +1,5 @@
 ---
 title: "Médard"
-url: /versailles/medard/
+url: /versailles/medard-rue-georges-clemenceau/
 shop: bijoux
 ---

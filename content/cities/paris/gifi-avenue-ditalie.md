@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
-url: /paris/gifi/
+url: /paris/gifi-avenue-ditalie/
 shop: magasin de variétés
 ---

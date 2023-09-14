@@ -1,5 +1,5 @@
 ---
 title: "Laverie"
-url: /paris/laverie/
+url: /paris/laverie-rue-de-picpus/
 shop: blanchisserie
 ---

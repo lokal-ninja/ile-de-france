@@ -1,5 +1,5 @@
 ---
 title: "Altermundi"
-url: /paris/altermundi/
+url: /paris/altermundi-boulevard-du-temple/
 shop: décoration intérieure
 ---

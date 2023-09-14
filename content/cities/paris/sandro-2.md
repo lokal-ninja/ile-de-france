@@ -1,5 +1,5 @@
 ---
 title: "Sandro"
-url: /paris/sandro/
+url: /paris/sandro-2/
 shop: vêtements
 ---

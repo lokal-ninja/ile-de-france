@@ -1,5 +1,5 @@
 ---
 title: "Timberland"
-url: /paris/timberland/
+url: /paris/timberland-rue-du-faubourg-saint-antoine/
 shop: vêtements
 ---

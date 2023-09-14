@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
-url: /versailles/peugeot/
+url: /versailles/peugeot-rue-de-la-paroisse/
 shop: voiture
 ---

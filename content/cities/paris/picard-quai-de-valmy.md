@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /paris/picard/
+url: /paris/picard-quai-de-valmy/
 shop: aliments surgelés
 ---

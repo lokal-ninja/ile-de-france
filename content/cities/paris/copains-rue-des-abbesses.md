@@ -1,5 +1,5 @@
 ---
 title: "Copains"
-url: /paris/copains/
+url: /paris/copains-rue-des-abbesses/
 shop: boulangerie
 ---

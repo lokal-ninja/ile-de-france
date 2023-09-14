@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /paris/picard/
+url: /paris/picard-avenue-trudaine/
 shop: aliments surgelés
 ---

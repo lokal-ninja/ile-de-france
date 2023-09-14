@@ -1,5 +1,5 @@
 ---
 title: "Monop'"
-url: /paris/monop/
+url: /paris/monop-rue-de-la-roquette/
 shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
-url: /paris/midas/
+url: /paris/midas-avenue-de-villiers/
 shop: réparation de voitures
 ---

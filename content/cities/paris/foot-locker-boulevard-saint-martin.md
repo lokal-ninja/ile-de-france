@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
-url: /paris/foot-locker/
+url: /paris/foot-locker-boulevard-saint-martin/
 shop: chaussures
 ---

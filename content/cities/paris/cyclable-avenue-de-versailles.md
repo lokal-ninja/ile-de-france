@@ -1,5 +1,5 @@
 ---
 title: "Cyclable"
-url: /paris/cyclable/
+url: /paris/cyclable-avenue-de-versailles/
 shop: vélo
 ---

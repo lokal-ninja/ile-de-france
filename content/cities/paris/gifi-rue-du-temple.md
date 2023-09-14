@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
-url: /paris/gifi/
+url: /paris/gifi-rue-du-temple/
 shop: magasin de variétés
 ---

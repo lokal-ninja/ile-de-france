@@ -1,5 +1,5 @@
 ---
 title: "Nicolas"
-url: /chelles/nicolas/
+url: /chelles/nicolas-avenue-de-la-resistance/
 shop: alcool
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Récolte"
-url: /paris/la-recolte/
+url: /paris/la-recolte-rue-beaubourg/
 shop: commodité
 ---

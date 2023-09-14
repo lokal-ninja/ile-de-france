@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
-url: /paris/marionnaud/
+url: /paris/marionnaud-rue-de-passy/
 shop: parfumerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
-url: /paris/franprix/
+url: /paris/franprix-avenue-de-la-porte-de-clichy/
 shop: commodité
 ---

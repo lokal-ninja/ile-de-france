@@ -1,5 +1,5 @@
 ---
 title: "Emmaüs"
-url: /paris/emmaus/
+url: /paris/emmaus-boulevard-barbes/
 shop: charité
 ---

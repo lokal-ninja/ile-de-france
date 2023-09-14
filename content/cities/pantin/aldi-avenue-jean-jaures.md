@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /pantin/aldi/
+url: /pantin/aldi-avenue-jean-jaures/
 shop: supermarché
 ---

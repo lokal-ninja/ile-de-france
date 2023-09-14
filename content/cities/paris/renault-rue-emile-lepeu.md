@@ -1,5 +1,5 @@
 ---
 title: "Renault"
-url: /paris/renault/
+url: /paris/renault-rue-emile-lepeu/
 shop: voiture
 ---

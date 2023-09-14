@@ -1,5 +1,5 @@
 ---
 title: "Lav’club"
-url: /paris/lavclub/
+url: /paris/lavclub-rue-de-menilmontant/
 shop: blanchisserie
 ---

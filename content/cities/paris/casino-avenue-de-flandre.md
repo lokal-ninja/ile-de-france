@@ -1,5 +1,5 @@
 ---
 title: "Casino"
-url: /paris/casino/
+url: /paris/casino-avenue-de-flandre/
 shop: supermarché
 ---

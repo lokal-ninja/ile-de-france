@@ -1,5 +1,5 @@
 ---
 title: "Etam"
-url: /paris/etam/
+url: /paris/etam-2/
 shop: vêtements
 ---

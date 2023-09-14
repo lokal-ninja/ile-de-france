@@ -1,5 +1,5 @@
 ---
 title: "BP"
-url: /puteaux/bp/
+url: /puteaux/bp-quai-de-dion-bouton/
 shop: commodité
 ---

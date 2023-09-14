@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
-url: /paris/ikea/
+url: /paris/ikea-rue-de-rivoli/
 shop: meubles
 ---

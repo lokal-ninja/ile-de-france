@@ -1,5 +1,5 @@
 ---
 title: "Geox"
-url: /paris/geox/
+url: /paris/geox-rue-saint-lazare/
 shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
-url: /palaiseau/franprix/
+url: /palaiseau/franprix-place-marguerite-perey/
 shop: commodité
 ---

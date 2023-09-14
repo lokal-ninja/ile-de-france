@@ -1,5 +1,5 @@
 ---
 title: "Nicolas"
-url: /puteaux/nicolas/
+url: /puteaux/nicolas-rue-paul-lafargue/
 shop: alcool
 ---

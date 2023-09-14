@@ -1,5 +1,5 @@
 ---
 title: "Paul"
-url: /paris/paul/
+url: /paris/paul-2/
 shop: boulangerie
 ---

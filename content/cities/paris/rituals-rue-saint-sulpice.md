@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
-url: /paris/rituals/
+url: /paris/rituals-rue-saint-sulpice/
 shop: beauté
 ---

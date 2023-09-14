@@ -1,5 +1,5 @@
 ---
 title: "Pylones"
-url: /paris/pylones/
+url: /paris/pylones-avenue-ditalie/
 shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marie Sixtine"
-url: /paris/marie-sixtine/
+url: /paris/marie-sixtine-rue-beaurepaire/
 shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
-url: /versailles/franprix/
+url: /versailles/franprix-rue-rameau/
 shop: commodité
 ---

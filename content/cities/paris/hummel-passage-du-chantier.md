@@ -1,5 +1,5 @@
 ---
 title: "Hummel"
-url: /paris/hummel/
+url: /paris/hummel-passage-du-chantier/
 shop: meubles
 ---

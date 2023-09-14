@@ -1,5 +1,5 @@
 ---
 title: "Atol"
-url: /versailles/atol/
+url: /versailles/atol-rue-royale/
 shop: opticien
 ---

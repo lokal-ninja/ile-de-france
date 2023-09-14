@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
-url: /arcueil/franprix/
+url: /arcueil/franprix-avenue-jean-jaures/
 shop: commodité
 ---

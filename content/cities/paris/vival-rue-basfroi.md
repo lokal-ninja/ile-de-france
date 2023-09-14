@@ -1,5 +1,5 @@
 ---
 title: "Vival"
-url: /paris/vival/
+url: /paris/vival-rue-basfroi/
 shop: commodité
 ---

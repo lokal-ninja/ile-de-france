@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
-url: /thomery/auchan/
+url: /thomery/auchan-chemin-des-pres/
 shop: commodité
 ---

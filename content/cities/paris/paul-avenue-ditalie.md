@@ -1,5 +1,5 @@
 ---
 title: "Paul"
-url: /paris/paul/
+url: /paris/paul-avenue-ditalie/
 shop: boulangerie
 ---
