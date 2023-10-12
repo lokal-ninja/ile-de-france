@@ -1,6 +1,6 @@
 ---
 title: Bougival
 url: /bougival/
-latitude: 48.879
-longitude: 2.117
+latitude: 48.864
+longitude: 2.14
 ---
