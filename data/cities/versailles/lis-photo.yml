@@ -7,5 +7,5 @@ city: Versailles
 street: "Rue de la Paroisse"
 housenumber: 33
 phone: ""
-opening_hours: "Tu-Th 10:00-13:00, 14:00-19:00; Fr-Sa 10:00-19:00"
+opening_hours: "Tu-We 10:00-13:00, 14:00-19:00; Th-Fr 10:00-19:00; Sa 10:00-13:00, 14:00-19:00"
 website: "https://www.lisphoto.com/site/nos-magasins/versailles"

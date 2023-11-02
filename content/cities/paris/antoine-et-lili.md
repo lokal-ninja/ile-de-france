@@ -1,5 +1,5 @@
 ---
-title: "Antoine et Lili"
+title: "Antoine & Lili"
 url: /paris/antoine-et-lili/
 shop: vêtements
 ---
