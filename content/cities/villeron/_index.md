@@ -1,6 +1,6 @@
 ---
 title: Villeron
 url: /villeron/
-latitude: 49.06
-longitude: 2.541
+latitude: 49.061
+longitude: 2.526
 ---
