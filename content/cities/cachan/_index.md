@@ -1,6 +1,6 @@
 ---
 title: Cachan
 url: /cachan/
-latitude: 48.793
-longitude: 2.321
+latitude: 48.798
+longitude: 2.341
 ---
