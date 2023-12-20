@@ -1,5 +1,5 @@
 ---
 title: "Nicolas"
 url: /palaiseau/nicolas/
-shop: vin
+shop: alcool
 ---

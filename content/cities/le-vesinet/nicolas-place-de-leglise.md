@@ -1,5 +1,5 @@
 ---
 title: "Nicolas"
 url: /le-vesinet/nicolas-place-de-leglise/
-shop: boissons
+shop: alcool
 ---
