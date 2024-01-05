@@ -1,5 +1,5 @@
 ---
-title: "Le grain d'or"
+title: "Le Grain d'Or"
 url: /colombes/le-grain-dor/
 shop: boulangerie
 ---
