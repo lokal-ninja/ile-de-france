@@ -1,6 +1,6 @@
 ---
 title: Servon
 url: /servon/
-latitude: 48.71
-longitude: 2.587
+latitude: 48.708
+longitude: 2.589
 ---

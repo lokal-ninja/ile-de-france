@@ -1,6 +1,6 @@
 ---
 title: Châtillon
 url: /chatillon/
-latitude: 48.801
-longitude: 2.287
+latitude: 48.806
+longitude: 2.292
 ---
