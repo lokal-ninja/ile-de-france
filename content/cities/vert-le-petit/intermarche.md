@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
-url: /saint-pierre-du-perray/intermarche/
+url: /vert-le-petit/intermarche/
 shop: supermarché
 ---
