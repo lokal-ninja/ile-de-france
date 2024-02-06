@@ -1,5 +1,5 @@
 ---
 title: "Normal"
 url: /paris/normal/
-shop: magasin de campagne
+shop: magasin de variétés
 ---
