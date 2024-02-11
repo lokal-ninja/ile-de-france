@@ -1,5 +1,5 @@
 ---
-title: "Gaurav Affaires"
+title: "Gaurav affaires"
 url: /paris/gaurav-affaires/
-shop: magasin de campagne
+shop: magasin de variétés
 ---

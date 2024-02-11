@@ -1,6 +1,6 @@
 ---
 title: Juvisy-sur-Orge
 url: /juvisy-sur-orge/
-latitude: 48.691
-longitude: 2.375
+latitude: 48.689
+longitude: 2.377
 ---
