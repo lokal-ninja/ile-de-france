@@ -1,5 +1,5 @@
 ---
 title: "Body Minute"
-url: /versailles/body-minute/
+url: /paris/body-minute-2/
 shop: beauté
 ---

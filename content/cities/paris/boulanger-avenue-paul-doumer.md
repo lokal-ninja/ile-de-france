@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
-url: /paris/boulanger-2/
+url: /paris/boulanger-avenue-paul-doumer/
 shop: électronique
 ---
