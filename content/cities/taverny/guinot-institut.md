@@ -1,5 +1,5 @@
 ---
-title: "Guinot institut"
+title: "Guinot Institut"
 url: /taverny/guinot-institut/
 shop: beauté
 ---
