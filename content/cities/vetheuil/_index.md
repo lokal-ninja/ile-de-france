@@ -1,6 +1,6 @@
 ---
 title: Vétheuil
 url: /vetheuil/
-latitude: 49.064
-longitude: 1.705
+latitude: 49.063
+longitude: 1.702
 ---
