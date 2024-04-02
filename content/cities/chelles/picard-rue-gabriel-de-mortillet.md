@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /chelles/picard-avenue-du-marechal-foch/
+url: /chelles/picard-rue-gabriel-de-mortillet/
 shop: aliments surgelés
 ---
