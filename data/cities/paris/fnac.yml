@@ -1,11 +1,11 @@
-id: 373232612
+id: 346655276
 type: way
-latitude: 48.87116
-longitude: 2.30456
-postcode: "75008"
+latitude: 48.87527
+longitude: 2.32716
+postcode: "75009"
 city: Paris
-street: "Avenue des Champs-Élysées"
-housenumber: 74
+street: "Rue Saint-Lazare"
+housenumber: 109
 phone: "+33 8 25 02 00 20"
-opening_hours: "Mo-Sa 10:00-20:30; Su 11:00-20:00"
-website: "https://www.fnac.com/Paris-Champs-Elysees/Fnac-Champs-Elysees/cl76/w-4"
+opening_hours: "Mo-Th 10:00-20:00; Fr 10:00-20:30; Sa 10:00-20:00; Su 11:00-19:00"
+website: "https://www.fnac.com/Paris-Saint-Lazare/Fnac-Saint-Lazare/cl72/w-4"

@@ -1,5 +1,5 @@
 ---
-title: "KARLY"
+title: "Karly"
 url: /puteaux/karly/
 shop: boulangerie
 ---
