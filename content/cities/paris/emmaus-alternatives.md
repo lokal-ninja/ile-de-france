@@ -1,5 +1,5 @@
 ---
-title: "Emmaüs Alternatives"
+title: "Emmaüs alternatives"
 url: /paris/emmaus-alternatives/
-shop: vêtements
+shop: charité
 ---
