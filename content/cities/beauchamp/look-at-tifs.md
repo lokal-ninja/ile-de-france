@@ -1,5 +1,5 @@
 ---
-title: "Look at tifs"
+title: "Look at Tifs"
 url: /beauchamp/look-at-tifs/
 shop: coiffeur
 ---

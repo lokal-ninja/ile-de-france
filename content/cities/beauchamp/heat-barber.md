@@ -1,5 +1,5 @@
 ---
-title: "Heat barber"
+title: "Heat Barber"
 url: /beauchamp/heat-barber/
 shop: coiffeur
 ---
