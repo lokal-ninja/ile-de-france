@@ -1,6 +1,6 @@
 ---
 title: Fresnes
 url: /fresnes/
-latitude: 48.754
-longitude: 2.325
+latitude: 48.756
+longitude: 2.322
 ---

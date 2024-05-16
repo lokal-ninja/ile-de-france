@@ -1,6 +1,6 @@
 ---
 title: Levallois-Perret
 url: /levallois-perret/
-latitude: 48.897
-longitude: 2.288
+latitude: 48.896
+longitude: 2.293
 ---
