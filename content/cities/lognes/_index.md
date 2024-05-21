@@ -1,6 +1,6 @@
 ---
 title: Lognes
 url: /lognes/
-latitude: 48.837
-longitude: 2.628
+latitude: 48.833
+longitude: 2.641
 ---
