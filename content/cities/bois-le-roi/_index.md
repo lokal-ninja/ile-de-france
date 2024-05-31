@@ -1,6 +1,6 @@
 ---
-title: Bois-le-Roi
+title: Bois le Roi
 url: /bois-le-roi/
-latitude: 48.475
-longitude: 2.692
+latitude: 48.474
+longitude: 2.693
 ---

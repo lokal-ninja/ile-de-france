@@ -1,6 +1,6 @@
 ---
 title: Gargenville
 url: /gargenville/
-latitude: 48.986
-longitude: 1.81
+latitude: 48.992
+longitude: 1.811
 ---
