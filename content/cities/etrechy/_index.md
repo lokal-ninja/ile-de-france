@@ -1,6 +1,6 @@
 ---
 title: Étréchy
 url: /etrechy/
-latitude: 48.489
-longitude: 2.188
+latitude: 48.485
+longitude: 2.193
 ---
