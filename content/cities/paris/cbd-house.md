@@ -1,5 +1,5 @@
 ---
-title: "CBD HOUSE"
+title: "CBD House"
 url: /paris/cbd-house/
 shop: cannabis
 ---
