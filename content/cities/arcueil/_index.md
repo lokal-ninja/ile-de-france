@@ -1,6 +1,6 @@
 ---
 title: Arcueil
 url: /arcueil/
-latitude: 48.807
-longitude: 2.336
+latitude: 48.802
+longitude: 2.331
 ---
