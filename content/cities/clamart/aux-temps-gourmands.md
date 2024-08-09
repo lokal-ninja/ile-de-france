@@ -1,5 +1,5 @@
 ---
-title: "Aux Temps Gourmands"
+title: "Aux temps gourmands"
 url: /clamart/aux-temps-gourmands/
 shop: boulangerie
 ---
