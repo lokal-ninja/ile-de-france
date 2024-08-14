@@ -1,5 +1,5 @@
 ---
-title: "E. Leclerc Drive"
+title: "E.Leclerc Drive"
 url: /lisses/e-leclerc-drive/
-shop: supermarché
+shop: avant-poste
 ---

@@ -7,5 +7,5 @@ city: Paris
 street: "Rue du Temple"
 housenumber: 174
 phone: "+33 1 42 71 41 77"
-opening_hours: "Mo-Sa 10:00-19:00 ; Su 14:00-18:00"
+opening_hours: "Mo-Sa 10:00-19:00; Su 14:00-18:00"
 website: "https://magasins.gifi.fr"
