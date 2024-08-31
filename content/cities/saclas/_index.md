@@ -1,6 +1,6 @@
 ---
 title: Saclas
 url: /saclas/
-latitude: 48.36
+latitude: 48.361
 longitude: 2.125
 ---
