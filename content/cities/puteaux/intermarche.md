@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /puteaux/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

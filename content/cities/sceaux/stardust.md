@@ -1,5 +1,5 @@
 ---
 title: "Stardust"
 url: /sceaux/stardust/
-shop: tabac
+shop: Tabak
 ---

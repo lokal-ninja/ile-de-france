@@ -1,5 +1,5 @@
 ---
 title: "YS Destockage"
 url: /franconville/ys-destockage/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hep'istache"
 url: /versailles/hepistache/
-shop: charcuterie
+shop: Feinkost
 ---

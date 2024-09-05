@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /asnieres-sur-seine/monoprix-rue-des-bourguignons/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aaatchoum"
 url: /versailles/aaatchoum/
-shop: jouets
+shop: Spielzeug
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lila"
 url: /paris/lila/
-shop: bijoux
+shop: Schmuck
 ---

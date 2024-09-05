@@ -1,5 +1,5 @@
 ---
 title: "Le Verger de Plaisance"
 url: /paris/le-verger-de-plaisance/
-shop: légumes
+shop: Gemüse & Obst
 ---

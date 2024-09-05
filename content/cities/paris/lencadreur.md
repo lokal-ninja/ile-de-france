@@ -1,5 +1,5 @@
 ---
 title: "L'Encadreur"
 url: /paris/lencadreur/
-shop: cadre
+shop: Rahmen
 ---

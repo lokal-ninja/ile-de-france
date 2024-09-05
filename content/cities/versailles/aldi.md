@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /versailles/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

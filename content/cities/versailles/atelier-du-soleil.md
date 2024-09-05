@@ -1,5 +1,5 @@
 ---
 title: "Atelier Du Soleil"
 url: /versailles/atelier-du-soleil/
-shop: cadre
+shop: Rahmen
 ---

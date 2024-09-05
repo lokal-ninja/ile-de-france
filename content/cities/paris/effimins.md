@@ -1,5 +1,5 @@
 ---
 title: "Effimins"
 url: /paris/effimins/
-shop: massage
+shop: Massage
 ---

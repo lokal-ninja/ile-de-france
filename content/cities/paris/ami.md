@@ -1,5 +1,5 @@
 ---
 title: "Ami"
 url: /paris/ami/
-shop: vêtements
+shop: Kleidung
 ---

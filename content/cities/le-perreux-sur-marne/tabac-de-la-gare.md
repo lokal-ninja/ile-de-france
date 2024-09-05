@@ -1,5 +1,5 @@
 ---
 title: "Tabac de la gare"
 url: /le-perreux-sur-marne/tabac-de-la-gare/
-shop: tabac
+shop: Tabak
 ---

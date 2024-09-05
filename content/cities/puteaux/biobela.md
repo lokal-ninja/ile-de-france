@@ -1,5 +1,5 @@
 ---
 title: "Biobela"
 url: /puteaux/biobela/
-shop: coiffeur
+shop: Friseur
 ---

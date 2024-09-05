@@ -1,5 +1,5 @@
 ---
 title: "Pierre Hermé"
 url: /paris/pierre-herme-rue-des-abbesses/
-shop: pâtisserie
+shop: Konditorei
 ---

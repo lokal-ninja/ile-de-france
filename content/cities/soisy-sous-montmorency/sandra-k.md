@@ -1,5 +1,5 @@
 ---
 title: "Sandra K"
 url: /soisy-sous-montmorency/sandra-k/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /fontainebleau/courir/
-shop: chaussures
+shop: Schuhe
 ---

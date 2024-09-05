@@ -1,5 +1,5 @@
 ---
 title: "V"
 url: /versailles/v/
-shop: beauté
+shop: Kosmetik
 ---

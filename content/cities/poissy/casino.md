@@ -1,5 +1,5 @@
 ---
 title: "Casino"
 url: /poissy/casino/
-shop: supermarché
+shop: Supermarkt
 ---

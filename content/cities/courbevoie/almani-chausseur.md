@@ -1,5 +1,5 @@
 ---
 title: "Almani Chausseur"
 url: /courbevoie/almani-chausseur/
-shop: chaussures
+shop: Schuhe
 ---

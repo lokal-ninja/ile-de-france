@@ -1,5 +1,5 @@
 ---
 title: "Les Piqueurs"
 url: /paris/les-piqueurs/
-shop: alcool
+shop: Spirituosen
 ---

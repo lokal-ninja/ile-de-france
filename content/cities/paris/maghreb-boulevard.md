@@ -1,5 +1,5 @@
 ---
 title: "Maghreb Boulevard"
 url: /paris/maghreb-boulevard/
-shop: vêtements
+shop: Kleidung
 ---

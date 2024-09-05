@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /fontenay-aux-roses/carrefour-market/
-shop: supermarché
+shop: Supermarkt
 ---

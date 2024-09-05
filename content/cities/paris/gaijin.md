@@ -1,5 +1,5 @@
 ---
 title: "Gaijin"
 url: /paris/gaijin/
-shop: vêtements
+shop: Kleidung
 ---

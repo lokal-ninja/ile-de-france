@@ -1,5 +1,5 @@
 ---
 title: "Richmond"
 url: /paris/richmond/
-shop: vêtements
+shop: Kleidung
 ---

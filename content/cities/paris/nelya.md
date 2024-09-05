@@ -1,5 +1,5 @@
 ---
 title: "Nelya"
 url: /paris/nelya/
-shop: boulangerie
+shop: Bäckerei
 ---

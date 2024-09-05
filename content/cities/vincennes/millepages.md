@@ -1,5 +1,5 @@
 ---
 title: "Millepages"
 url: /vincennes/millepages/
-shop: livres
+shop: Bücher
 ---

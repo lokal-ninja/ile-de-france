@@ -1,5 +1,5 @@
 ---
 title: "Marka Market"
 url: /dammarie-les-lys/marka-market/
-shop: supermarché
+shop: Supermarkt
 ---

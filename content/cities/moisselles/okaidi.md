@@ -1,5 +1,5 @@
 ---
 title: "Okaïdi"
 url: /moisselles/okaidi/
-shop: vêtements
+shop: Kleidung
 ---

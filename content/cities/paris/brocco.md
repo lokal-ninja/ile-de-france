@@ -1,5 +1,5 @@
 ---
 title: "Brocco"
 url: /paris/brocco/
-shop: boulangerie
+shop: Bäckerei
 ---

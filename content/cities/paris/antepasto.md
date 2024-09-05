@@ -1,5 +1,5 @@
 ---
 title: "Antepasto"
 url: /paris/antepasto/
-shop: charcuterie
+shop: Feinkost
 ---

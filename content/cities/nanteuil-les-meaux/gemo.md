@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /nanteuil-les-meaux/gemo/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schott"
 url: /paris/schott/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /yerres/intermarche-super/
-shop: supermarché
+shop: Supermarkt
 ---

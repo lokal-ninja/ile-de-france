@@ -1,5 +1,5 @@
 ---
 title: "Monop'"
 url: /pantin/monop/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /fontainebleau/paul/
-shop: boulangerie
+shop: Bäckerei
 ---

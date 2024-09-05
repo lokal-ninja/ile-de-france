@@ -1,5 +1,5 @@
 ---
 title: "Pressing Menilmontant"
 url: /paris/pressing-menilmontant/
-shop: blanchisserie
+shop: Wäscherei
 ---

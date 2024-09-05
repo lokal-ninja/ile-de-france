@@ -1,5 +1,5 @@
 ---
 title: "Racines"
 url: /paris/racines/
-shop: légumes
+shop: Gemüse & Obst
 ---

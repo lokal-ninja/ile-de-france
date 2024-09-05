@@ -1,5 +1,5 @@
 ---
 title: "Le Moulin d'Ange"
 url: /stains/le-moulin-dange/
-shop: boulangerie
+shop: Bäckerei
 ---

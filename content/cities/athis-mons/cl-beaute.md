@@ -1,5 +1,5 @@
 ---
 title: "CL Beauté"
 url: /athis-mons/cl-beaute/
-shop: beauté
+shop: Kosmetik
 ---

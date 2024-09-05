@@ -1,5 +1,5 @@
 ---
 title: "Zaad"
 url: /poissy/zaad/
-shop: commodité
+shop: Lebensmittel
 ---

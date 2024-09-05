@@ -1,5 +1,5 @@
 ---
 title: "Cotélac"
 url: /paris/cotelac/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coccinelle Express"
 url: /ris-orangis/coccinelle-express/
-shop: supermarché
+shop: Supermarkt
 ---

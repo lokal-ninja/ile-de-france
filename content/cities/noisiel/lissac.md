@@ -1,5 +1,5 @@
 ---
 title: "Lissac"
 url: /noisiel/lissac/
-shop: opticien
+shop: Optiker
 ---

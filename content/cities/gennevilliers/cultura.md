@@ -1,5 +1,5 @@
 ---
 title: "Cultura"
 url: /gennevilliers/cultura/
-shop: livres
+shop: Bücher
 ---

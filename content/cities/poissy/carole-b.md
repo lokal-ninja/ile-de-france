@@ -1,5 +1,5 @@
 ---
 title: "Carole. B"
 url: /poissy/carole-b/
-shop: coiffeur
+shop: Friseur
 ---

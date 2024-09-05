@@ -1,5 +1,5 @@
 ---
 title: "Fresh Avenue"
 url: /gentilly/fresh-avenue/
-shop: légumes
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /rambouillet/orange/
-shop: téléphone portable
+shop: Handy
 ---

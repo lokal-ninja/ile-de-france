@@ -1,5 +1,5 @@
 ---
 title: "Histoire d'Or"
 url: /le-chesnay-rocquencourt/histoire-dor/
-shop: bijoux
+shop: Schmuck
 ---

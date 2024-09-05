@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /puteaux/krys/
-shop: opticien
+shop: Optiker
 ---

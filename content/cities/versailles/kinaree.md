@@ -1,5 +1,5 @@
 ---
 title: "Kinaree"
 url: /versailles/kinaree/
-shop: massage
+shop: Massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shana"
 url: /paris/shana/
-shop: vêtements
+shop: Kleidung
 ---

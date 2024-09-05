@@ -1,5 +1,5 @@
 ---
 title: "Elmo"
 url: /pierrelaye/elmo/
-shop: meubles
+shop: Möbel
 ---

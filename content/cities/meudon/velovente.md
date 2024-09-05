@@ -1,5 +1,5 @@
 ---
 title: "Velovente"
 url: /meudon/velovente/
-shop: vélo
+shop: Fahrrad
 ---

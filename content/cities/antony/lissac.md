@@ -1,5 +1,5 @@
 ---
 title: "Lissac"
 url: /antony/lissac/
-shop: opticien
+shop: Optiker
 ---

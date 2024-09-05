@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /boissise-la-bertrand/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

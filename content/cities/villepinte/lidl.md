@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /villepinte/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

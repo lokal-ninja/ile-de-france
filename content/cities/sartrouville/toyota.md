@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /sartrouville/toyota/
-shop: voiture
+shop: Autohaus
 ---

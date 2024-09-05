@@ -1,5 +1,5 @@
 ---
 title: "Cabaïa"
 url: /le-chesnay/cabaia/
-shop: sac
+shop: Taschen & Koffer
 ---

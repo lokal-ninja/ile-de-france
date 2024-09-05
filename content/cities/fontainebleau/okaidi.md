@@ -1,5 +1,5 @@
 ---
 title: "Okaïdi"
 url: /fontainebleau/okaidi/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /levallois-perret/monoprix/
-shop: supermarché
+shop: Supermarkt
 ---

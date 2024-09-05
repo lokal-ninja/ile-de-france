@@ -1,5 +1,5 @@
 ---
 title: "Guinot"
 url: /versailles/guinot/
-shop: beauté
+shop: Kosmetik
 ---

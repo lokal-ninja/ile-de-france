@@ -1,5 +1,5 @@
 ---
 title: "Bonnières Informatique"
 url: /bonnieres-sur-seine/bonnieres-informatique/
-shop: ordinateur
+shop: Computer
 ---

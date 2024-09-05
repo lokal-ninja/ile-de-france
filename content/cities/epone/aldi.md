@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /epone/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

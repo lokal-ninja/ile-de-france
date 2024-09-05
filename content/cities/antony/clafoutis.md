@@ -1,5 +1,5 @@
 ---
 title: "Clafoutis"
 url: /antony/clafoutis/
-shop: charcuterie
+shop: Feinkost
 ---

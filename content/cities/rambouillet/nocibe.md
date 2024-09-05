@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /rambouillet/nocibe/
-shop: beauté
+shop: Kosmetik
 ---

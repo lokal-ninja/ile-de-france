@@ -1,5 +1,5 @@
 ---
 title: "Steph'ruits"
 url: /bagnolet/stephruits/
-shop: légumes
+shop: Gemüse & Obst
 ---

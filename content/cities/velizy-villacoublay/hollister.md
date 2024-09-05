@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /velizy-villacoublay/hollister/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nougat"
 url: /paris/nougat/
-shop: confiserie
+shop: Süßwaren
 ---

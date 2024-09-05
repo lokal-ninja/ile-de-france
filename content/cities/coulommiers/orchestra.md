@@ -1,5 +1,5 @@
 ---
 title: "Orchestra"
 url: /coulommiers/orchestra/
-shop: vêtements
+shop: Kleidung
 ---

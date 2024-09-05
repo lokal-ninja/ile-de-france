@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /paris/darty-boulevard-de-belleville/
-shop: électronique
+shop: Elektronik
 ---

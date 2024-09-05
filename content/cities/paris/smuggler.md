@@ -1,5 +1,5 @@
 ---
 title: "Smuggler"
 url: /paris/smuggler/
-shop: vêtements
+shop: Kleidung
 ---

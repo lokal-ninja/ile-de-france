@@ -1,5 +1,5 @@
 ---
 title: "Velectrik Moov"
 url: /fontainebleau/velectrik-moov/
-shop: vélo
+shop: Fahrrad
 ---

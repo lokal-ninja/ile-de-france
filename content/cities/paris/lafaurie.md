@@ -1,5 +1,5 @@
 ---
 title: "LAFAURIE"
 url: /paris/lafaurie/
-shop: vêtements
+shop: Kleidung
 ---

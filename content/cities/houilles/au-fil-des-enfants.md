@@ -1,5 +1,5 @@
 ---
 title: "Au fil des enfants"
 url: /houilles/au-fil-des-enfants/
-shop: tissu
+shop: Textil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Kabira"
 url: /juvisy-sur-orge/boucherie-kabira/
-shop: boucherie
+shop: Metzgerei
 ---

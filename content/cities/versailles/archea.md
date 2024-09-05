@@ -1,5 +1,5 @@
 ---
 title: "Archea"
 url: /versailles/archea/
-shop: meubles
+shop: Möbel
 ---

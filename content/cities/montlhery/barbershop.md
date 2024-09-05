@@ -1,5 +1,5 @@
 ---
 title: "Barbershop"
 url: /montlhery/barbershop/
-shop: coiffeur
+shop: Friseur
 ---

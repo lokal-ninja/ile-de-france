@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /moisselles/etam/
-shop: vêtements
+shop: Kleidung
 ---

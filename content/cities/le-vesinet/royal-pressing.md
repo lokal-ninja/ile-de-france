@@ -1,5 +1,5 @@
 ---
 title: "Royal Pressing"
 url: /le-vesinet/royal-pressing/
-shop: blanchisserie
+shop: Wäscherei
 ---

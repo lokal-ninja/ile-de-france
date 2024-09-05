@@ -1,5 +1,5 @@
 ---
 title: "Vapotella"
 url: /bretigny-sur-orge/vapotella/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

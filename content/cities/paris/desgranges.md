@@ -1,5 +1,5 @@
 ---
 title: "Desgranges"
 url: /paris/desgranges/
-shop: boulangerie
+shop: Bäckerei
 ---

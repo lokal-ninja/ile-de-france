@@ -1,5 +1,5 @@
 ---
 title: "Fichet"
 url: /paris/fichet/
-shop: serrurier
+shop: Schlüsseldienst
 ---

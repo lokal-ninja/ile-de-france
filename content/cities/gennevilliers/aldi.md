@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /gennevilliers/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

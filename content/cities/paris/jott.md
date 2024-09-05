@@ -1,5 +1,5 @@
 ---
 title: "Jott"
 url: /paris/jott/
-shop: vêtements
+shop: Kleidung
 ---

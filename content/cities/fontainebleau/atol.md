@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /fontainebleau/atol/
-shop: opticien
+shop: Optiker
 ---

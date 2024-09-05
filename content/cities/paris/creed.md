@@ -1,5 +1,5 @@
 ---
 title: "Creed"
 url: /paris/creed/
-shop: parfumerie
+shop: Parfümerie
 ---

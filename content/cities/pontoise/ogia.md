@@ -1,5 +1,5 @@
 ---
 title: "OGIA"
 url: /pontoise/ogia/
-shop: boulangerie
+shop: Bäckerei
 ---

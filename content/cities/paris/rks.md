@@ -1,5 +1,5 @@
 ---
 title: "RKS"
 url: /paris/rks/
-shop: vêtements
+shop: Kleidung
 ---

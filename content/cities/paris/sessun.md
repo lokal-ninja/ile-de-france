@@ -1,5 +1,5 @@
 ---
 title: "Sessùn"
 url: /paris/sessun/
-shop: vêtements
+shop: Kleidung
 ---

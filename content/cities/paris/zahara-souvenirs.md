@@ -1,5 +1,5 @@
 ---
 title: "Zahara Souvenirs"
 url: /paris/zahara-souvenirs/
-shop: cadeau
+shop: Andenken
 ---

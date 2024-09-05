@@ -1,5 +1,5 @@
 ---
 title: "Miller"
 url: /paris/miller/
-shop: bijoux
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Noyoco"
 url: /paris/noyoco/
-shop: vêtements
+shop: Kleidung
 ---

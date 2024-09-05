@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
 url: /montesson/rituals/
-shop: beauté
+shop: Kosmetik
 ---

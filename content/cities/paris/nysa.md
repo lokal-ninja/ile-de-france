@@ -1,5 +1,5 @@
 ---
 title: "Nysa"
 url: /paris/nysa/
-shop: vin
+shop: Wein
 ---

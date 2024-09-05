@@ -1,5 +1,5 @@
 ---
 title: "Brisach Provins"
 url: /provins/brisach-provins/
-shop: cheminée
+shop: Kamine & Öfen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Degriffmac"
 url: /paris/degriffmac/
-shop: ordinateur
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gillery"
 url: /paris/gillery/
-shop: antiquités
+shop: Antiquitäten
 ---

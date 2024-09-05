@@ -1,5 +1,5 @@
 ---
 title: "Le Palais d'Afrique"
 url: /pantin/le-palais-dafrique/
-shop: commodité
+shop: Lebensmittel
 ---

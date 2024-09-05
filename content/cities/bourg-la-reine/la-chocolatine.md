@@ -1,5 +1,5 @@
 ---
 title: "La Chocolatine"
 url: /bourg-la-reine/la-chocolatine/
-shop: boulangerie
+shop: Bäckerei
 ---

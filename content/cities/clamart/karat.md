@@ -1,5 +1,5 @@
 ---
 title: "Karat"
 url: /clamart/karat/
-shop: bijoux
+shop: Schmuck
 ---

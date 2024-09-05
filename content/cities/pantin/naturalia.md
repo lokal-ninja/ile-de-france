@@ -1,5 +1,5 @@
 ---
 title: "Naturalia"
 url: /pantin/naturalia/
-shop: supermarché
+shop: Supermarkt
 ---

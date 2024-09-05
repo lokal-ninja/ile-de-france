@@ -1,5 +1,5 @@
 ---
 title: "POINT LAVERIE"
 url: /le-raincy/point-laverie/
-shop: blanchisserie
+shop: Wäscherei
 ---

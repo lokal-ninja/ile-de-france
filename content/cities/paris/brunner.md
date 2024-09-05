@@ -1,5 +1,5 @@
 ---
 title: "brunner"
 url: /paris/brunner/
-shop: meubles
+shop: Möbel
 ---

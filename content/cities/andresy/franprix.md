@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /andresy/franprix/
-shop: commodité
+shop: Lebensmittel
 ---

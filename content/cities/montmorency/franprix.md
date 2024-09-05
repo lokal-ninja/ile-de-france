@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /montmorency/franprix/
-shop: commodité
+shop: Lebensmittel
 ---

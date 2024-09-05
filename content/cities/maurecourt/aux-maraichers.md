@@ -1,5 +1,5 @@
 ---
 title: "Aux Maraichers"
 url: /maurecourt/aux-maraichers/
-shop: légumes
+shop: Gemüse & Obst
 ---

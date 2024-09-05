@@ -1,5 +1,5 @@
 ---
 title: "Ketty's Fleurs"
 url: /montreuil/kettys-fleurs/
-shop: fleuriste
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /saint-mande/franprix/
-shop: commodité
+shop: Lebensmittel
 ---

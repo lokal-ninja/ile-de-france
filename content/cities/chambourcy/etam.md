@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /chambourcy/etam/
-shop: vêtements
+shop: Kleidung
 ---

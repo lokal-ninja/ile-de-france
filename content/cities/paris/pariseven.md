@@ -1,5 +1,5 @@
 ---
 title: "Pariseven"
 url: /paris/pariseven/
-shop: boulangerie
+shop: Bäckerei
 ---

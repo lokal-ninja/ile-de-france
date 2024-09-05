@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie des Huats"
 url: /arcueil/boulangerie-des-huats/
-shop: boulangerie
+shop: Bäckerei
 ---

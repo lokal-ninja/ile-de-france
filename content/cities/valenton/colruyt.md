@@ -1,5 +1,5 @@
 ---
 title: "Colruyt"
 url: /valenton/colruyt/
-shop: supermarché
+shop: Supermarkt
 ---

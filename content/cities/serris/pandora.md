@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /serris/pandora/
-shop: bijoux
+shop: Schmuck
 ---

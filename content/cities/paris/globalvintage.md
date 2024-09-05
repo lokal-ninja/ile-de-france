@@ -1,5 +1,5 @@
 ---
 title: "GlobalVintage"
 url: /paris/globalvintage/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /courbevoie/renault/
-shop: voiture
+shop: Autohaus
 ---

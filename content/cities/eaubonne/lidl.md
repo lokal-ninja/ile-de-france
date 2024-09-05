@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /eaubonne/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

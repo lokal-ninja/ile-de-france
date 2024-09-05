@@ -1,5 +1,5 @@
 ---
 title: "Day by Day"
 url: /paris/day-by-day/
-shop: commodité
+shop: Lebensmittel
 ---

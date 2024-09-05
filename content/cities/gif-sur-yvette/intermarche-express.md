@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Express"
 url: /gif-sur-yvette/intermarche-express/
-shop: supermarché
+shop: Supermarkt
 ---

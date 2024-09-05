@@ -1,5 +1,5 @@
 ---
 title: "Lilawadee"
 url: /paris/lilawadee/
-shop: massage
+shop: Massage
 ---

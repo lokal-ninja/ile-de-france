@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /thiais/decathlon/
-shop: sports
+shop: Sport
 ---

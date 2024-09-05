@@ -1,5 +1,5 @@
 ---
 title: "Amarilys"
 url: /paris/amarilys/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Viviana Nails"
 url: /poissy/viviana-nails/
-shop: beauté
+shop: Kosmetik
 ---

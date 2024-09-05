@@ -1,5 +1,5 @@
 ---
 title: "La Palmeraie"
 url: /provins/la-palmeraie/
-shop: légumes
+shop: Gemüse & Obst
 ---

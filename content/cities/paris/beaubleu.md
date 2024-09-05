@@ -1,5 +1,5 @@
 ---
 title: "Beaubleu"
 url: /paris/beaubleu/
-shop: montres
+shop: Uhren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Regards"
 url: /verrieres-le-buisson/regards/
-shop: opticien
+shop: Optiker
 ---

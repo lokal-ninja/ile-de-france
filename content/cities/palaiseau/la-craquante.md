@@ -1,5 +1,5 @@
 ---
 title: "La Craquante"
 url: /palaiseau/la-craquante/
-shop: boulangerie
+shop: Bäckerei
 ---

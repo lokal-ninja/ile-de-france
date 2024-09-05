@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /bois-colombes/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

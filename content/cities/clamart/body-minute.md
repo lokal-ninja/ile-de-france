@@ -1,5 +1,5 @@
 ---
 title: "Body Minute"
 url: /clamart/body-minute/
-shop: beauté
+shop: Kosmetik
 ---

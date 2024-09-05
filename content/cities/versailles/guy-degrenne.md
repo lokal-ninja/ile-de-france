@@ -1,5 +1,5 @@
 ---
 title: "Guy Degrenne"
 url: /versailles/guy-degrenne/
-shop: meubles
+shop: Möbel
 ---

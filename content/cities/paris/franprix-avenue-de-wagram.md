@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /paris/franprix-avenue-de-wagram/
-shop: commodité
+shop: Lebensmittel
 ---

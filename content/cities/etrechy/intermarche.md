@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /etrechy/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

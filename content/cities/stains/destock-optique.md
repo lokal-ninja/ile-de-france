@@ -1,5 +1,5 @@
 ---
 title: "DESTOCK OPTIQUE"
 url: /stains/destock-optique/
-shop: opticien
+shop: Optiker
 ---

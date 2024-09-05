@@ -1,5 +1,5 @@
 ---
 title: "Couleur Vrac"
 url: /creteil/couleur-vrac/
-shop: commodité
+shop: Lebensmittel
 ---

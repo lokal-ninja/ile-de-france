@@ -1,5 +1,5 @@
 ---
 title: "B Primeurs"
 url: /versailles/b-primeurs/
-shop: légumes
+shop: Gemüse & Obst
 ---

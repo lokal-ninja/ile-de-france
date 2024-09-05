@@ -1,5 +1,5 @@
 ---
 title: "Cobra"
 url: /paris/cobra/
-shop: hifi
+shop: Hifi
 ---

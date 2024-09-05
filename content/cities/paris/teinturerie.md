@@ -1,5 +1,5 @@
 ---
 title: "Teinturerie"
 url: /paris/teinturerie/
-shop: blanchisserie
+shop: Wäscherei
 ---

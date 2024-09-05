@@ -1,5 +1,5 @@
 ---
 title: "Rapid'Market"
 url: /rungis/rapidmarket/
-shop: commodité
+shop: Lebensmittel
 ---

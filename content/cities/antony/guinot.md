@@ -1,5 +1,5 @@
 ---
 title: "Guinot"
 url: /antony/guinot/
-shop: beauté
+shop: Kosmetik
 ---

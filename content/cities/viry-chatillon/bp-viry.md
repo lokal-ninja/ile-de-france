@@ -1,5 +1,5 @@
 ---
 title: "BP Viry"
 url: /viry-chatillon/bp-viry/
-shop: commodité
+shop: Lebensmittel
 ---

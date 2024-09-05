@@ -1,5 +1,5 @@
 ---
 title: "Alinéa"
 url: /herblay-sur-seine/alinea/
-shop: meubles
+shop: Möbel
 ---

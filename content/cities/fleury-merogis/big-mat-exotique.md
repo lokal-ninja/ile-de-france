@@ -1,5 +1,5 @@
 ---
 title: "Big Mat Exotique"
 url: /fleury-merogis/big-mat-exotique/
-shop: commodité
+shop: Lebensmittel
 ---

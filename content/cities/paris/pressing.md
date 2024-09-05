@@ -1,5 +1,5 @@
 ---
 title: "Pressing"
 url: /paris/pressing/
-shop: blanchisserie
+shop: Wäscherei
 ---

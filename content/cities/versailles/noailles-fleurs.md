@@ -1,5 +1,5 @@
 ---
 title: "Noailles Fleurs"
 url: /versailles/noailles-fleurs/
-shop: fleuriste
+shop: Blumen
 ---

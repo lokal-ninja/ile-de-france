@@ -1,5 +1,5 @@
 ---
 title: "Apertivus"
 url: /paris/apertivus/
-shop: charcuterie
+shop: Feinkost
 ---

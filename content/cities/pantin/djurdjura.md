@@ -1,5 +1,5 @@
 ---
 title: "Djurdjura"
 url: /pantin/djurdjura/
-shop: boulangerie
+shop: Bäckerei
 ---

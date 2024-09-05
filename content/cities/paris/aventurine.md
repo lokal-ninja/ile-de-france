@@ -1,5 +1,5 @@
 ---
 title: "Aventurine"
 url: /paris/aventurine/
-shop: bijoux
+shop: Schmuck
 ---

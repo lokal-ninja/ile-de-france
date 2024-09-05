@@ -1,5 +1,5 @@
 ---
 title: "Naturenville"
 url: /paris/naturenville/
-shop: légumes
+shop: Gemüse & Obst
 ---

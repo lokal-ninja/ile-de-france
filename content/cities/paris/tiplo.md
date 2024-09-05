@@ -1,5 +1,5 @@
 ---
 title: "Tiplo"
 url: /paris/tiplo/
-shop: cheminée
+shop: Kamine & Öfen
 ---

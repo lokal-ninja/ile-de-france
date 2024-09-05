@@ -1,5 +1,5 @@
 ---
 title: "Caramel"
 url: /paris/caramel/
-shop: vêtements
+shop: Kleidung
 ---

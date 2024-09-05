@@ -1,5 +1,5 @@
 ---
 title: "Leonidas"
 url: /pontault-combault/leonidas/
-shop: chocolat
+shop: Schokolade
 ---

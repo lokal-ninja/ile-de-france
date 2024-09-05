@@ -1,5 +1,5 @@
 ---
 title: "Copycat"
 url: /serris/copycat/
-shop: copyshop
+shop: Kopieren
 ---

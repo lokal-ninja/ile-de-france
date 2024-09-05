@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /provins/schmidt/
-shop: cuisine
+shop: Küchen
 ---

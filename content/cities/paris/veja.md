@@ -1,5 +1,5 @@
 ---
 title: "Veja"
 url: /paris/veja/
-shop: chaussures
+shop: Schuhe
 ---

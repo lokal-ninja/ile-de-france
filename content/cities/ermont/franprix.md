@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /ermont/franprix/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault Occasion / KIA / Salva"
 url: /osny/renault-occasion-kia-salva/
-shop: voiture
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galactica"
 url: /paris/galactica/
-shop: érotique
+shop: Erotik
 ---

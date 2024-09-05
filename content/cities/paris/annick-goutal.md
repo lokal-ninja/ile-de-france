@@ -1,5 +1,5 @@
 ---
 title: "Annick Goutal"
 url: /paris/annick-goutal/
-shop: parfumerie
+shop: Parfümerie
 ---

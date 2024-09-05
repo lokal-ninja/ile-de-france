@@ -1,5 +1,5 @@
 ---
 title: "Bozin"
 url: /arcueil/bozin/
-shop: coiffeur
+shop: Friseur
 ---

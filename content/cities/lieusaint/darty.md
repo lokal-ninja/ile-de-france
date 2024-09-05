@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /lieusaint/darty/
-shop: électronique
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charles"
 url: /pontault-combault/boucherie-charles/
-shop: boucherie
+shop: Metzgerei
 ---

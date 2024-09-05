@@ -1,5 +1,5 @@
 ---
 title: "Tlmc"
 url: /mennecy/tlmc/
-shop: commerce
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conforama"
 url: /torcy/conforama/
-shop: meubles
+shop: Möbel
 ---

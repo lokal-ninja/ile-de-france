@@ -1,5 +1,5 @@
 ---
 title: "Gana"
 url: /paris/gana/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gotham Avenue"
 url: /cachan/gotham-avenue/
-shop: coiffeur
+shop: Friseur
 ---

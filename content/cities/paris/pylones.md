@@ -1,5 +1,5 @@
 ---
 title: "Pylones"
 url: /paris/pylones/
-shop: cadeau
+shop: Andenken
 ---

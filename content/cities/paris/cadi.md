@@ -1,5 +1,5 @@
 ---
 title: "Cadi"
 url: /paris/cadi/
-shop: vin
+shop: Wein
 ---

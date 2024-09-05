@@ -1,5 +1,5 @@
 ---
 title: "Citad'in"
 url: /paris/citadin/
-shop: beauté
+shop: Kosmetik
 ---

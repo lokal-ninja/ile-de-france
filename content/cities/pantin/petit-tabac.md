@@ -1,5 +1,5 @@
 ---
 title: "Petit Tabac"
 url: /pantin/petit-tabac/
-shop: tabac
+shop: Tabak
 ---

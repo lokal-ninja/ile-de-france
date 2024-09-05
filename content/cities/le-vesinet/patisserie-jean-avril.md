@@ -1,5 +1,5 @@
 ---
 title: "Pâtisserie Jean Avril"
 url: /le-vesinet/patisserie-jean-avril/
-shop: boulangerie
+shop: Bäckerei
 ---

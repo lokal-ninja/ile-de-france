@@ -1,5 +1,5 @@
 ---
 title: "Woodstock"
 url: /paris/woodstock/
-shop: vêtements
+shop: Kleidung
 ---

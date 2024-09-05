@@ -1,5 +1,5 @@
 ---
 title: "Qibla"
 url: /paris/qibla/
-shop: religion
+shop: Religion
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sommier"
 url: /paris/sommier/
-shop: shop
+shop: Allgemein
 ---

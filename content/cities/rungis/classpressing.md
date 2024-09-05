@@ -1,5 +1,5 @@
 ---
 title: "Class'Pressing"
 url: /rungis/classpressing/
-shop: blanchisserie
+shop: Wäscherei
 ---

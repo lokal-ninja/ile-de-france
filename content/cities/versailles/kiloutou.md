@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /versailles/kiloutou/
-shop: outils
+shop: Werkzeuge
 ---

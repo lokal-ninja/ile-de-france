@@ -1,5 +1,5 @@
 ---
 title: "HEPTODE"
 url: /orsay/heptode/
-shop: musique
+shop: Musik
 ---

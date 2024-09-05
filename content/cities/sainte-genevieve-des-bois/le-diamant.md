@@ -1,5 +1,5 @@
 ---
 title: "Le Diamant"
 url: /sainte-genevieve-des-bois/le-diamant/
-shop: coiffeur
+shop: Friseur
 ---

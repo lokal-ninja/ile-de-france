@@ -1,5 +1,5 @@
 ---
 title: "Le Triporteur"
 url: /sceaux/le-triporteur/
-shop: vélo
+shop: Fahrrad
 ---

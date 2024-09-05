@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /coulommiers/blackstore/
-shop: vêtements
+shop: Kleidung
 ---

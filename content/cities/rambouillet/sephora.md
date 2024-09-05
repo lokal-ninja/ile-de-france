@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /rambouillet/sephora/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blissim"
 url: /paris/blissim/
-shop: beauté
+shop: Kosmetik
 ---

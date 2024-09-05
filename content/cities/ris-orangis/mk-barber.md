@@ -1,5 +1,5 @@
 ---
 title: "MK Barber"
 url: /ris-orangis/mk-barber/
-shop: coiffeur
+shop: Friseur
 ---

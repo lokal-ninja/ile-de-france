@@ -1,5 +1,5 @@
 ---
 title: "BOCAVRAC"
 url: /rueil-malmaison/bocavrac/
-shop: commodité
+shop: Lebensmittel
 ---

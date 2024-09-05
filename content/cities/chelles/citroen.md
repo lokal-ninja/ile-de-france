@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /chelles/citroen/
-shop: voiture
+shop: Autohaus
 ---

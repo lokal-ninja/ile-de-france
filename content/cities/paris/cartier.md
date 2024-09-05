@@ -1,5 +1,5 @@
 ---
 title: "Cartier"
 url: /paris/cartier/
-shop: bijoux
+shop: Schmuck
 ---

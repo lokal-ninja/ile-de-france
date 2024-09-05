@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /pontault-combault/fnac/
-shop: livres
+shop: Bücher
 ---

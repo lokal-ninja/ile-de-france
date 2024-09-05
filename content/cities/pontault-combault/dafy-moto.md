@@ -1,5 +1,5 @@
 ---
 title: "Dafy Moto"
 url: /pontault-combault/dafy-moto/
-shop: moto
+shop: Motorrad
 ---

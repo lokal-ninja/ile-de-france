@@ -1,5 +1,5 @@
 ---
 title: "BarberHouse"
 url: /bailly-romainvilliers/barberhouse/
-shop: coiffeur
+shop: Friseur
 ---

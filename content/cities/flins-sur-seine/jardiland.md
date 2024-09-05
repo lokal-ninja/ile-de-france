@@ -1,5 +1,5 @@
 ---
 title: "Jardiland"
 url: /flins-sur-seine/jardiland/
-shop: centre de jardinage
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parks"
 url: /paris/parks/
-shop: vêtements
+shop: Kleidung
 ---

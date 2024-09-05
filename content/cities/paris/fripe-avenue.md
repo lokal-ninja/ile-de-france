@@ -1,5 +1,5 @@
 ---
 title: "Fripe Avenue"
 url: /paris/fripe-avenue/
-shop: vêtements
+shop: Kleidung
 ---

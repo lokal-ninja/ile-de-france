@@ -1,5 +1,5 @@
 ---
 title: "Richelieu"
 url: /le-vesinet/richelieu/
-shop: chaussures
+shop: Schuhe
 ---

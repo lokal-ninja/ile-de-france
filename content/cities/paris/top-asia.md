@@ -1,5 +1,5 @@
 ---
 title: "Top Asia"
 url: /paris/top-asia/
-shop: supermarché
+shop: Supermarkt
 ---

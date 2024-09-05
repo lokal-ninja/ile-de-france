@@ -1,5 +1,5 @@
 ---
 title: "Tofopolis"
 url: /poissy/tofopolis/
-shop: jeux
+shop: Spiele
 ---

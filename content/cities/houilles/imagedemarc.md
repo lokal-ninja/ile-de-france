@@ -1,5 +1,5 @@
 ---
 title: "Imagedemarc"
 url: /houilles/imagedemarc/
-shop: copyshop
+shop: Kopieren
 ---

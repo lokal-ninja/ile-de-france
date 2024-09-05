@@ -1,5 +1,5 @@
 ---
 title: "Anagramme"
 url: /meudon/anagramme/
-shop: livres
+shop: Bücher
 ---

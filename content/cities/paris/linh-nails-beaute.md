@@ -1,5 +1,5 @@
 ---
 title: "Linh Nails Beauté"
 url: /paris/linh-nails-beaute/
-shop: beauté
+shop: Kosmetik
 ---

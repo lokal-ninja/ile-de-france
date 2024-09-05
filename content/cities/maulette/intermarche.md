@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /maulette/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

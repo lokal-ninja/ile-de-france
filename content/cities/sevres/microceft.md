@@ -1,5 +1,5 @@
 ---
 title: "Microceft"
 url: /sevres/microceft/
-shop: ordinateur
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Bedouet"
 url: /sainte-genevieve-des-bois/boulangerie-bedouet/
-shop: boulangerie
+shop: Bäckerei
 ---

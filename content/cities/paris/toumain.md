@@ -1,5 +1,5 @@
 ---
 title: "Toumain"
 url: /paris/toumain/
-shop: bijoux
+shop: Schmuck
 ---

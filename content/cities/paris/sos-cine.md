@@ -1,5 +1,5 @@
 ---
 title: "Sos Cine"
 url: /paris/sos-cine/
-shop: caméra
+shop: Kamera
 ---

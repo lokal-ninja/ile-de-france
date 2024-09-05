@@ -1,5 +1,5 @@
 ---
 title: "Diagonal"
 url: /lesigny/diagonal/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AMG"
 url: /poissy/amg/
-shop: voiture
+shop: Autohaus
 ---

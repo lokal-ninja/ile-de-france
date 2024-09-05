@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Express"
 url: /ermont/intermarche-express/
-shop: supermarché
+shop: Supermarkt
 ---

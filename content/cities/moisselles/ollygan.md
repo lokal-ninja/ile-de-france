@@ -1,5 +1,5 @@
 ---
 title: "Ollygan"
 url: /moisselles/ollygan/
-shop: vêtements
+shop: Kleidung
 ---

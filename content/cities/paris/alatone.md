@@ -1,5 +1,5 @@
 ---
 title: "Alatone"
 url: /paris/alatone/
-shop: vêtements
+shop: Kleidung
 ---

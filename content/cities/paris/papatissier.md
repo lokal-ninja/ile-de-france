@@ -1,5 +1,5 @@
 ---
 title: "Papatissier"
 url: /paris/papatissier/
-shop: boulangerie
+shop: Bäckerei
 ---

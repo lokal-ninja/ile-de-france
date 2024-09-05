@@ -1,5 +1,5 @@
 ---
 title: "Les opticiens de tradition"
 url: /courbevoie/les-opticiens-de-tradition/
-shop: opticien
+shop: Optiker
 ---

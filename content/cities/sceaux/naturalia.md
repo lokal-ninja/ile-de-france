@@ -1,5 +1,5 @@
 ---
 title: "Naturalia"
 url: /sceaux/naturalia/
-shop: supermarché
+shop: Supermarkt
 ---

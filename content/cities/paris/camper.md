@@ -1,5 +1,5 @@
 ---
 title: "Camper"
 url: /paris/camper/
-shop: chaussures
+shop: Schuhe
 ---

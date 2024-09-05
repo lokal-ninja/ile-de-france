@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /le-chesnay/hollister/
-shop: vêtements
+shop: Kleidung
 ---

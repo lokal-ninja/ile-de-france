@@ -1,5 +1,5 @@
 ---
 title: "Pressing"
 url: /chaville/pressing/
-shop: blanchisserie
+shop: Wäscherei
 ---

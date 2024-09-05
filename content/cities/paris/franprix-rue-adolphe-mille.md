@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /paris/franprix-rue-adolphe-mille/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fournil"
 url: /bagnolet/fournil/
-shop: pâtisserie
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bonjour de Paris"
 url: /paris/bonjour-de-paris/
-shop: cadeau
+shop: Andenken
 ---

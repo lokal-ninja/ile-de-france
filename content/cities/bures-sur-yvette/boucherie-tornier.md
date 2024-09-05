@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Tornier"
 url: /bures-sur-yvette/boucherie-tornier/
-shop: boucherie
+shop: Metzgerei
 ---

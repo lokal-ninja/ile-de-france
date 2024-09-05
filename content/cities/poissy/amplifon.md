@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /poissy/amplifon/
-shop: les appareils auditifs
+shop: Hörgeräte
 ---

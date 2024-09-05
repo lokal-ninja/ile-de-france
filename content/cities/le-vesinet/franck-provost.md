@@ -1,5 +1,5 @@
 ---
 title: "Franck Provost"
 url: /le-vesinet/franck-provost/
-shop: coiffeur
+shop: Friseur
 ---

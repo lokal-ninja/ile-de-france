@@ -1,5 +1,5 @@
 ---
 title: "Confettis"
 url: /versailles/confettis/
-shop: chaussures
+shop: Schuhe
 ---

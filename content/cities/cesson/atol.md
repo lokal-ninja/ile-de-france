@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /cesson/atol/
-shop: opticien
+shop: Optiker
 ---

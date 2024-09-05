@@ -1,5 +1,5 @@
 ---
 title: "Cuts"
 url: /paris/cuts/
-shop: boucherie
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "French Optical"
 url: /paris/french-optical/
-shop: opticien
+shop: Optiker
 ---

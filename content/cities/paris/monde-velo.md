@@ -1,5 +1,5 @@
 ---
 title: "Monde vélo"
 url: /paris/monde-velo/
-shop: vélo
+shop: Fahrrad
 ---

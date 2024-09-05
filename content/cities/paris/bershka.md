@@ -1,5 +1,5 @@
 ---
 title: "Bershka"
 url: /paris/bershka/
-shop: vêtements
+shop: Kleidung
 ---

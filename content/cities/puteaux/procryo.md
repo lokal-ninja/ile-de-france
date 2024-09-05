@@ -1,5 +1,5 @@
 ---
 title: "Procryo"
 url: /puteaux/procryo/
-shop: beauté
+shop: Kosmetik
 ---

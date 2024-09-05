@@ -1,5 +1,5 @@
 ---
 title: "Tendance"
 url: /paris/tendance/
-shop: vêtements
+shop: Kleidung
 ---

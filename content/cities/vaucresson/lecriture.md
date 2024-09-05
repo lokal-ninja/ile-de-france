@@ -1,5 +1,5 @@
 ---
 title: "L'Ecriture"
 url: /vaucresson/lecriture/
-shop: livres
+shop: Bücher
 ---

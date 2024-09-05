@@ -1,5 +1,5 @@
 ---
 title: "Cookeva"
 url: /saint-mande/cookeva/
-shop: meubles
+shop: Möbel
 ---

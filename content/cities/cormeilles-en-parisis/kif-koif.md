@@ -1,5 +1,5 @@
 ---
 title: "Kif Koif"
 url: /cormeilles-en-parisis/kif-koif/
-shop: coiffeur
+shop: Friseur
 ---

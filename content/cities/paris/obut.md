@@ -1,5 +1,5 @@
 ---
 title: "Obut"
 url: /paris/obut/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elysa"
 url: /puteaux/elysa/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "nysa"
 url: /courbevoie/nysa/
-shop: vin
+shop: Wein
 ---

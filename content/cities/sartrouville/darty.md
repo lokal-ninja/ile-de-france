@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /sartrouville/darty/
-shop: électronique
+shop: Elektronik
 ---

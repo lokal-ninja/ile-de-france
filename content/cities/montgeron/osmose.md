@@ -1,5 +1,5 @@
 ---
 title: ".osmose"
 url: /montgeron/osmose/
-shop: boulangerie
+shop: Bäckerei
 ---

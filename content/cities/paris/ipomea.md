@@ -1,5 +1,5 @@
 ---
 title: "Ipoméa"
 url: /paris/ipomea/
-shop: fleuriste
+shop: Blumen
 ---

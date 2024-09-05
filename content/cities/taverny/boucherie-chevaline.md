@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Chevaline"
 url: /taverny/boucherie-chevaline/
-shop: boucherie
+shop: Metzgerei
 ---

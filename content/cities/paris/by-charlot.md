@@ -1,5 +1,5 @@
 ---
 title: "By Charlot"
 url: /paris/by-charlot/
-shop: cadeau
+shop: Andenken
 ---

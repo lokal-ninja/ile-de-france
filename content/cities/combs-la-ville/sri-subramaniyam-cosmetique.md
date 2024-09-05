@@ -1,5 +1,5 @@
 ---
 title: "Sri Subramaniyam Cosmetique"
 url: /combs-la-ville/sri-subramaniyam-cosmetique/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brisach"
 url: /dammarie-les-lys/brisach/
-shop: cheminée
+shop: Kamine & Öfen
 ---

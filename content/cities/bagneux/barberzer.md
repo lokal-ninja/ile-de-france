@@ -1,5 +1,5 @@
 ---
 title: "BarberZer"
 url: /bagneux/barberzer/
-shop: coiffeur
+shop: Friseur
 ---

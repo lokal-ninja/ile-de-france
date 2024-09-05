@@ -1,5 +1,5 @@
 ---
 title: "Monbleu"
 url: /paris/monbleu/
-shop: fromage
+shop: Käse
 ---

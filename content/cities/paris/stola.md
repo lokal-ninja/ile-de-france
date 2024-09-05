@@ -1,5 +1,5 @@
 ---
 title: "Stola"
 url: /paris/stola/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mitman"
 url: /paris/mitman/
-shop: copyshop
+shop: Kopieren
 ---

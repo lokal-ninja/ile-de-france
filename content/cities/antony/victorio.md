@@ -1,5 +1,5 @@
 ---
 title: "Victorio"
 url: /antony/victorio/
-shop: vêtements
+shop: Kleidung
 ---

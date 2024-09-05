@@ -1,5 +1,5 @@
 ---
 title: "Héroïnes"
 url: /paris/heroines/
-shop: vêtements
+shop: Kleidung
 ---

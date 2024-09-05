@@ -1,5 +1,5 @@
 ---
 title: "Best Primeur"
 url: /nanterre/best-primeur/
-shop: légumes
+shop: Gemüse & Obst
 ---

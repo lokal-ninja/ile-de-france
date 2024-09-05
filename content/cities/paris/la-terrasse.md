@@ -1,5 +1,5 @@
 ---
 title: "La Terrasse"
 url: /paris/la-terrasse/
-shop: boissons
+shop: Getränke
 ---

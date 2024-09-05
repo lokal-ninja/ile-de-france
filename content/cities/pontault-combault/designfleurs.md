@@ -1,5 +1,5 @@
 ---
 title: "Designfleurs"
 url: /pontault-combault/designfleurs/
-shop: fleuriste
+shop: Blumen
 ---

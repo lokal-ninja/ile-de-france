@@ -1,5 +1,5 @@
 ---
 title: "BiVapo"
 url: /paris/bivapo/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

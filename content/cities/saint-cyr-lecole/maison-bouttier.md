@@ -1,5 +1,5 @@
 ---
 title: "Maison Bouttier"
 url: /saint-cyr-lecole/maison-bouttier/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dory"
 url: /guyancourt/dory/
-shop: blanchisserie
+shop: Wäscherei
 ---

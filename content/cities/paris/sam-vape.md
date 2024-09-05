@@ -1,5 +1,5 @@
 ---
 title: "Sam Vape"
 url: /paris/sam-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

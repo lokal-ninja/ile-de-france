@@ -1,5 +1,5 @@
 ---
 title: "À Livr'Ouvert"
 url: /paris/a-livrouvert/
-shop: livres
+shop: Bücher
 ---

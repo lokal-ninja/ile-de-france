@@ -1,5 +1,5 @@
 ---
 title: "Vauclair"
 url: /paris/vauclair/
-shop: art
+shop: Kunst
 ---

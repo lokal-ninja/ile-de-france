@@ -1,5 +1,5 @@
 ---
 title: "CyclObike"
 url: /paris/cyclobike/
-shop: vélo
+shop: Fahrrad
 ---

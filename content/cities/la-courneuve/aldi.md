@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /la-courneuve/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

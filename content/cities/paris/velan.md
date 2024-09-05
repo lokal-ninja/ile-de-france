@@ -1,5 +1,5 @@
 ---
 title: "Velan"
 url: /paris/velan/
-shop: commodité
+shop: Lebensmittel
 ---

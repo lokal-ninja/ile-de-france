@@ -1,5 +1,5 @@
 ---
 title: "Atol les Opticiens"
 url: /bures-sur-yvette/atol-les-opticiens/
-shop: opticien
+shop: Optiker
 ---

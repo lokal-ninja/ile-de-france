@@ -1,5 +1,5 @@
 ---
 title: "Ozo"
 url: /paris/ozo/
-shop: vélo
+shop: Fahrrad
 ---

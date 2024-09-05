@@ -1,5 +1,5 @@
 ---
 title: "Okaïdi"
 url: /rambouillet/okaidi/
-shop: vêtements
+shop: Kleidung
 ---

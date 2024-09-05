@@ -1,5 +1,5 @@
 ---
 title: "Mephisto"
 url: /versailles/mephisto/
-shop: chaussures
+shop: Schuhe
 ---

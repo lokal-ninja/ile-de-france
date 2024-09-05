@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /arpajon/atol/
-shop: opticien
+shop: Optiker
 ---

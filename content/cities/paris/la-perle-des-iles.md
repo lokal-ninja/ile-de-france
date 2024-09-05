@@ -1,5 +1,5 @@
 ---
 title: "La Perle des Îles"
 url: /paris/la-perle-des-iles/
-shop: commodité
+shop: Lebensmittel
 ---

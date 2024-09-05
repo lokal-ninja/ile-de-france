@@ -1,5 +1,5 @@
 ---
 title: "Ikks"
 url: /enghien-les-bains/ikks/
-shop: vêtements
+shop: Kleidung
 ---

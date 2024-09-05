@@ -1,5 +1,5 @@
 ---
 title: "KiWi"
 url: /paris/kiwi/
-shop: kiosque
+shop: Kiosk
 ---

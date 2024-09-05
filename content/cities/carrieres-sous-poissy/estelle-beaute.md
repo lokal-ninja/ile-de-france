@@ -1,5 +1,5 @@
 ---
 title: "Estelle Beauté"
 url: /carrieres-sous-poissy/estelle-beaute/
-shop: beauté
+shop: Kosmetik
 ---

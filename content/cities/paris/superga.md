@@ -1,5 +1,5 @@
 ---
 title: "Superga"
 url: /paris/superga/
-shop: chaussures
+shop: Schuhe
 ---

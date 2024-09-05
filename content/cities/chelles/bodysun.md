@@ -1,5 +1,5 @@
 ---
 title: "Bodysun"
 url: /chelles/bodysun/
-shop: beauté
+shop: Kosmetik
 ---

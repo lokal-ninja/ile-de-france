@@ -1,5 +1,5 @@
 ---
 title: "Grand Frais"
 url: /moisselles/grand-frais/
-shop: supermarché
+shop: Supermarkt
 ---

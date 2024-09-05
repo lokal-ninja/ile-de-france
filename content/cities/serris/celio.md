@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /serris/celio/
-shop: vêtements
+shop: Kleidung
 ---

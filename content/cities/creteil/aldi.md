@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /creteil/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

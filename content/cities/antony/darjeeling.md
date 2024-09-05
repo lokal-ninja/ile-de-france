@@ -1,5 +1,5 @@
 ---
 title: "Darjeeling"
 url: /antony/darjeeling/
-shop: vêtements
+shop: Kleidung
 ---

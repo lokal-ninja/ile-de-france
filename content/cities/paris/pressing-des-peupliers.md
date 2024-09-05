@@ -1,5 +1,5 @@
 ---
 title: "Pressing des Peupliers"
 url: /paris/pressing-des-peupliers/
-shop: blanchisserie
+shop: Wäscherei
 ---

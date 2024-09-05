@@ -1,5 +1,5 @@
 ---
 title: "Extravaganza"
 url: /ballancourt-sur-essonne/extravaganza/
-shop: coiffeur
+shop: Friseur
 ---

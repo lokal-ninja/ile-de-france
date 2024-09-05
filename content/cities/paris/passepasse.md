@@ -1,5 +1,5 @@
 ---
 title: "PassePasse"
 url: /paris/passepasse/
-shop: fête
+shop: Partyzubehör
 ---

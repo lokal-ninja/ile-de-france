@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /etampes/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

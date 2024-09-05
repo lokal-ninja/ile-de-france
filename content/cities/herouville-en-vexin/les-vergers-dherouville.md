@@ -1,5 +1,5 @@
 ---
 title: "Les vergers d’Hérouville"
 url: /herouville-en-vexin/les-vergers-dherouville/
-shop: légumes
+shop: Gemüse & Obst
 ---

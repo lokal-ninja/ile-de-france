@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /thiais/primark/
-shop: vêtements
+shop: Kleidung
 ---

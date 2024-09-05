@@ -1,5 +1,5 @@
 ---
 title: "RMK"
 url: /paris/rmk/
-shop: commodité
+shop: Lebensmittel
 ---

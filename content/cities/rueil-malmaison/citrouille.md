@@ -1,5 +1,5 @@
 ---
 title: "Citrouille"
 url: /rueil-malmaison/citrouille/
-shop: jouets
+shop: Spielzeug
 ---

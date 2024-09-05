@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /breval/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

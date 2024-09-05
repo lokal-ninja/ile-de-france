@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie Rovecchio"
 url: /puteaux/fromagerie-rovecchio/
-shop: fromage
+shop: Käse
 ---

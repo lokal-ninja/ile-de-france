@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /malakoff/avia/
-shop: commodité
+shop: Lebensmittel
 ---

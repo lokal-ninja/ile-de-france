@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /provins/kiabi/
-shop: vêtements
+shop: Kleidung
 ---

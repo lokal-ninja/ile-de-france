@@ -1,5 +1,5 @@
 ---
 title: "Pontault Primeurs"
 url: /pontault-combault/pontault-primeurs/
-shop: légumes
+shop: Gemüse & Obst
 ---

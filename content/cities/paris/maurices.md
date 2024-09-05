@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /paris/maurices/
-shop: vêtements
+shop: Kleidung
 ---

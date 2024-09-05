@@ -1,5 +1,5 @@
 ---
 title: "Da Costa Automobile"
 url: /taverny/da-costa-automobile/
-shop: voiture
+shop: Autohaus
 ---

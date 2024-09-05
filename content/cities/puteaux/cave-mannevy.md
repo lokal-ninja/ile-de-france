@@ -1,5 +1,5 @@
 ---
 title: "Cave Mannevy"
 url: /puteaux/cave-mannevy/
-shop: alcool
+shop: Spirituosen
 ---

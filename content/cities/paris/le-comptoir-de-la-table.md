@@ -1,5 +1,5 @@
 ---
 title: "Le Comptoir de la Table"
 url: /paris/le-comptoir-de-la-table/
-shop: articles ménagers
+shop: Haushaltsartikel
 ---

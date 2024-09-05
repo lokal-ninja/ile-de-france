@@ -1,5 +1,5 @@
 ---
 title: "WasHour"
 url: /paris/washour/
-shop: blanchisserie
+shop: Wäscherei
 ---

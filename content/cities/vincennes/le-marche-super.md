@@ -1,5 +1,5 @@
 ---
 title: "Le marché super"
 url: /vincennes/le-marche-super/
-shop: commodité
+shop: Lebensmittel
 ---

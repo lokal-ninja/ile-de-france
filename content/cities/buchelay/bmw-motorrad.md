@@ -1,5 +1,5 @@
 ---
 title: "BMW Motorrad"
 url: /buchelay/bmw-motorrad/
-shop: moto
+shop: Motorrad
 ---

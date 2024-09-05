@@ -1,5 +1,5 @@
 ---
 title: "TennisPro"
 url: /morainvilliers/tennispro/
-shop: sports
+shop: Sport
 ---

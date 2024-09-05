@@ -1,5 +1,5 @@
 ---
 title: "BCBG"
 url: /poissy/bcbg/
-shop: coiffeur
+shop: Friseur
 ---

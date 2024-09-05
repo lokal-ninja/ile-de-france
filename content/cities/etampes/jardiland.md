@@ -1,5 +1,5 @@
 ---
 title: "Jardiland"
 url: /etampes/jardiland/
-shop: centre de jardinage
+shop: Garten-Center
 ---

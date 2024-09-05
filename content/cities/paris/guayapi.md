@@ -1,5 +1,5 @@
 ---
 title: "Guayapi"
 url: /paris/guayapi/
-shop: commodité
+shop: Lebensmittel
 ---

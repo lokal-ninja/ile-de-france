@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /montreuil/boulangerie/
-shop: boulangerie
+shop: Bäckerei
 ---

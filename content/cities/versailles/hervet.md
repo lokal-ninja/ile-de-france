@@ -1,5 +1,5 @@
 ---
 title: "Hervet"
 url: /versailles/hervet/
-shop: boulangerie
+shop: Bäckerei
 ---

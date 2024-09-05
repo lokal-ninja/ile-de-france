@@ -1,5 +1,5 @@
 ---
 title: "HairCoiffure"
 url: /trappes/haircoiffure/
-shop: coiffeur
+shop: Friseur
 ---

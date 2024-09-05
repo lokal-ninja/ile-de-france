@@ -1,5 +1,5 @@
 ---
 title: "LocalHome"
 url: /saint-ouen-laumone/localhome/
-shop: commodité
+shop: Lebensmittel
 ---

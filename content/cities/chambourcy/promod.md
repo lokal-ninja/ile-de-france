@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /chambourcy/promod/
-shop: vêtements
+shop: Kleidung
 ---

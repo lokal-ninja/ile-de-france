@@ -1,5 +1,5 @@
 ---
 title: "Hafele France"
 url: /taverny/hafele-france/
-shop: commerce
+shop: Baustoffe
 ---

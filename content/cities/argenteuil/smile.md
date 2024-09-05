@@ -1,5 +1,5 @@
 ---
 title: "Smile"
 url: /argenteuil/smile/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VapoCorner"
 url: /bondy/vapocorner/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

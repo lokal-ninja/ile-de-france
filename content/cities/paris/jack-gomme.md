@@ -1,5 +1,5 @@
 ---
 title: "Jack Gomme"
 url: /paris/jack-gomme/
-shop: sac
+shop: Taschen & Koffer
 ---

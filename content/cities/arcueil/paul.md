@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /arcueil/paul/
-shop: boulangerie
+shop: Bäckerei
 ---

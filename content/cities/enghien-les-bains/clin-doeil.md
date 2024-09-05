@@ -1,5 +1,5 @@
 ---
 title: "Clin d'Œil"
 url: /enghien-les-bains/clin-doeil/
-shop: cadeau
+shop: Andenken
 ---

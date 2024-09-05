@@ -1,5 +1,5 @@
 ---
 title: "D'lyss Coiffure"
 url: /monsoult/dlyss-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

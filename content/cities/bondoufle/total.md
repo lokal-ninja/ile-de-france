@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /bondoufle/total/
-shop: commodité
+shop: Lebensmittel
 ---

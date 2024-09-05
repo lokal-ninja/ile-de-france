@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier"
 url: /poissy/latelier/
-shop: coiffeur
+shop: Friseur
 ---

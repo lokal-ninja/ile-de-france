@@ -1,5 +1,5 @@
 ---
 title: "Devernois"
 url: /fontainebleau/devernois/
-shop: vêtements
+shop: Kleidung
 ---

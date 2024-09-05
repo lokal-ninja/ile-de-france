@@ -1,5 +1,5 @@
 ---
 title: "Couderc"
 url: /paris/couderc/
-shop: chocolat
+shop: Schokolade
 ---

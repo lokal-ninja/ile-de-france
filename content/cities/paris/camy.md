@@ -1,5 +1,5 @@
 ---
 title: "Camy"
 url: /paris/camy/
-shop: beauté
+shop: Kosmetik
 ---

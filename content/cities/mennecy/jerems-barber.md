@@ -1,5 +1,5 @@
 ---
 title: "Jerem's Barber"
 url: /mennecy/jerems-barber/
-shop: coiffeur
+shop: Friseur
 ---

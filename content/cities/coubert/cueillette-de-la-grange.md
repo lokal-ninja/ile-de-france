@@ -1,5 +1,5 @@
 ---
 title: "Cueillette de la Grange"
 url: /coubert/cueillette-de-la-grange/
-shop: légumes
+shop: Gemüse & Obst
 ---

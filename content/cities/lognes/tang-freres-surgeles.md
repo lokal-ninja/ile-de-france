@@ -1,5 +1,5 @@
 ---
 title: "Tang Frères Surgelés"
 url: /lognes/tang-freres-surgeles/
-shop: supermarché
+shop: Supermarkt
 ---

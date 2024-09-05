@@ -1,5 +1,5 @@
 ---
 title: "Hircus"
 url: /paris/hircus/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /rambouillet/optical-center/
-shop: opticien
+shop: Optiker
 ---

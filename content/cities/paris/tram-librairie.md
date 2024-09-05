@@ -1,5 +1,5 @@
 ---
 title: "TRAM librairie"
 url: /paris/tram-librairie/
-shop: livres
+shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ouzeri"
 url: /paris/ouzeri/
-shop: charcuterie
+shop: Feinkost
 ---

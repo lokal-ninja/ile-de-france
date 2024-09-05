@@ -1,5 +1,5 @@
 ---
 title: "Papatissier"
 url: /courbevoie/papatissier/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adresse"
 url: /paris/adresse/
-shop: vêtements
+shop: Kleidung
 ---

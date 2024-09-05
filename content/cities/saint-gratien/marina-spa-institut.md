@@ -1,5 +1,5 @@
 ---
 title: "Marina Spa Institut"
 url: /saint-gratien/marina-spa-institut/
-shop: massage
+shop: Massage
 ---

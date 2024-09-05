@@ -1,5 +1,5 @@
 ---
 title: "Truffaut"
 url: /pierrelaye/truffaut/
-shop: centre de jardinage
+shop: Garten-Center
 ---

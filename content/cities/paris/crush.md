@@ -1,5 +1,5 @@
 ---
 title: "Crush"
 url: /paris/crush/
-shop: pâtisserie
+shop: Konditorei
 ---

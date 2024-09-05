@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Bacillus"
 url: /paris/boulangerie-bacillus/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coif'Elle-Lui"
 url: /versailles/coifelle-lui/
-shop: coiffeur
+shop: Friseur
 ---

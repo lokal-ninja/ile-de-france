@@ -1,5 +1,5 @@
 ---
 title: "De Neuville"
 url: /paris/de-neuville/
-shop: chocolat
+shop: Schokolade
 ---

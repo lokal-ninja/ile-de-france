@@ -1,5 +1,5 @@
 ---
 title: "Lahcenbio"
 url: /paris/lahcenbio/
-shop: supermarché
+shop: Supermarkt
 ---

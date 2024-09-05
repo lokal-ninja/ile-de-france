@@ -1,5 +1,5 @@
 ---
 title: "Mangeons frais"
 url: /pontault-combault/mangeons-frais/
-shop: légumes
+shop: Gemüse & Obst
 ---

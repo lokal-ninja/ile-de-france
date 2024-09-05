@@ -1,5 +1,5 @@
 ---
 title: "Fibris"
 url: /paris/fibris/
-shop: vêtements
+shop: Kleidung
 ---

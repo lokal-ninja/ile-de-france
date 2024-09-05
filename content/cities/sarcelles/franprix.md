@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /sarcelles/franprix/
-shop: commodité
+shop: Lebensmittel
 ---

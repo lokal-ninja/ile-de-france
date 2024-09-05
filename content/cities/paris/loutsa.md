@@ -1,5 +1,5 @@
 ---
 title: "Loutsa"
 url: /paris/loutsa/
-shop: café
+shop: Kaffee
 ---

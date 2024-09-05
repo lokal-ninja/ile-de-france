@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /chambourcy/nocibe/
-shop: beauté
+shop: Kosmetik
 ---

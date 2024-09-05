@@ -1,5 +1,5 @@
 ---
 title: "Fred"
 url: /vincennes/fred/
-shop: boulangerie
+shop: Bäckerei
 ---

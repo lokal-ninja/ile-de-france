@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /crosne/coccimarket/
-shop: commodité
+shop: Lebensmittel
 ---

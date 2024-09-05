@@ -1,5 +1,5 @@
 ---
 title: "Ferme Trubuil Bot"
 url: /saclay/ferme-trubuil-bot/
-shop: ferme
+shop: Hofladen
 ---

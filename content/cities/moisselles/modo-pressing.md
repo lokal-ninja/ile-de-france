@@ -1,5 +1,5 @@
 ---
 title: "MODO Pressing"
 url: /moisselles/modo-pressing/
-shop: blanchisserie
+shop: Wäscherei
 ---

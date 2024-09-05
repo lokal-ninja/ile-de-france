@@ -1,5 +1,5 @@
 ---
 title: "Chapel"
 url: /paris/chapel/
-shop: pâtisserie
+shop: Konditorei
 ---

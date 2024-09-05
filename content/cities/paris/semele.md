@@ -1,5 +1,5 @@
 ---
 title: "Sémélé"
 url: /paris/semele/
-shop: vin
+shop: Wein
 ---

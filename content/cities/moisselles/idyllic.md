@@ -1,5 +1,5 @@
 ---
 title: "Idyllic"
 url: /moisselles/idyllic/
-shop: chaussures
+shop: Schuhe
 ---

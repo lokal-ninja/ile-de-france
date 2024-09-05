@@ -1,5 +1,5 @@
 ---
 title: "Freed of London"
 url: /paris/freed-of-london/
-shop: vêtements
+shop: Kleidung
 ---

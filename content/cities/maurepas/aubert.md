@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /maurepas/aubert/
-shop: produits pour bébés
+shop: Babysachen
 ---

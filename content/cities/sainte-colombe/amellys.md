@@ -1,5 +1,5 @@
 ---
 title: "Amel'Lys"
 url: /sainte-colombe/amellys/
-shop: fleuriste
+shop: Blumen
 ---

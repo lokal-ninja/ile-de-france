@@ -1,5 +1,5 @@
 ---
 title: "Fabiola"
 url: /paris/fabiola/
-shop: vêtements
+shop: Kleidung
 ---

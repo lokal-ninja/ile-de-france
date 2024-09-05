@@ -1,5 +1,5 @@
 ---
 title: "Tryba"
 url: /la-queue-lez-yvelines/tryba/
-shop: portes
+shop: Türen
 ---

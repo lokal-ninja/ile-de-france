@@ -1,5 +1,5 @@
 ---
 title: "Naturenville"
 url: /paris/naturenville-rue-de-la-durance/
-shop: légumes
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jalalia"
 url: /saint-denis/jalalia/
-shop: commodité
+shop: Lebensmittel
 ---

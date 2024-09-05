@@ -1,5 +1,5 @@
 ---
 title: "Huet"
 url: /puteaux/huet/
-shop: boucherie
+shop: Metzgerei
 ---

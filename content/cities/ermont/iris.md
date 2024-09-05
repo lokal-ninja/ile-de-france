@@ -1,5 +1,5 @@
 ---
 title: "Iris"
 url: /ermont/iris/
-shop: vêtements
+shop: Kleidung
 ---

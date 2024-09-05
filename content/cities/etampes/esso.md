@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /etampes/esso/
-shop: commodité
+shop: Lebensmittel
 ---

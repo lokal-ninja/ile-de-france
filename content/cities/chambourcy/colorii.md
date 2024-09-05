@@ -1,5 +1,5 @@
 ---
 title: "Colorii"
 url: /chambourcy/colorii/
-shop: beauté
+shop: Kosmetik
 ---

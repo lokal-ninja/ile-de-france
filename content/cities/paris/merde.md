@@ -1,5 +1,5 @@
 ---
 title: "Merde"
 url: /paris/merde/
-shop: cadeau
+shop: Andenken
 ---

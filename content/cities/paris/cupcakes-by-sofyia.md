@@ -1,5 +1,5 @@
 ---
 title: "Cupcakes by Sofyia"
 url: /paris/cupcakes-by-sofyia/
-shop: pâtisserie
+shop: Konditorei
 ---

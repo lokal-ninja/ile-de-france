@@ -1,5 +1,5 @@
 ---
 title: "Lavotomatic"
 url: /pierrelaye/lavotomatic/
-shop: blanchisserie
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Octavio Amado"
 url: /paris/octavio-amado/
-shop: lampes
+shop: Lampen
 ---

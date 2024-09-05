@@ -1,5 +1,5 @@
 ---
 title: "Chanel"
 url: /velizy-villacoublay/chanel/
-shop: vêtements
+shop: Kleidung
 ---

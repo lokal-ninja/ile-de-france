@@ -1,5 +1,5 @@
 ---
 title: "Optical Boissénart"
 url: /cesson/optical-boissenart/
-shop: opticien
+shop: Optiker
 ---

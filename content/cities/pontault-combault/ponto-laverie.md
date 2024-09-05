@@ -1,5 +1,5 @@
 ---
 title: "Ponto Laverie"
 url: /pontault-combault/ponto-laverie/
-shop: blanchisserie
+shop: Wäscherei
 ---

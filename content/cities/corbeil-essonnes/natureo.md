@@ -1,5 +1,5 @@
 ---
 title: "NaturéO"
 url: /corbeil-essonnes/natureo/
-shop: supermarché
+shop: Supermarkt
 ---

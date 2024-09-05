@@ -1,5 +1,5 @@
 ---
 title: "Habitat"
 url: /paris/habitat/
-shop: vacant
+shop: Leerstehend
 ---

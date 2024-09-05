@@ -1,5 +1,5 @@
 ---
 title: "Personnali'Thé"
 url: /versailles/personnalithe/
-shop: livres
+shop: Bücher
 ---

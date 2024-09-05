@@ -1,5 +1,5 @@
 ---
 title: "Naturalia"
 url: /montreuil/naturalia/
-shop: supermarché
+shop: Supermarkt
 ---

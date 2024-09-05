@@ -1,5 +1,5 @@
 ---
 title: "Toscane"
 url: /cesson/toscane/
-shop: vêtements
+shop: Kleidung
 ---

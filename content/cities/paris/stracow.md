@@ -1,5 +1,5 @@
 ---
 title: "Stracow"
 url: /paris/stracow/
-shop: vêtements
+shop: Kleidung
 ---

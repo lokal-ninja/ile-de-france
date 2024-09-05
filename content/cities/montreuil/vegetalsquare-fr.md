@@ -1,5 +1,5 @@
 ---
 title: "Vegetalsquare.fr"
 url: /montreuil/vegetalsquare-fr/
-shop: aliments surgelés
+shop: Tiefkühl
 ---

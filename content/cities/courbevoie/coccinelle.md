@@ -1,5 +1,5 @@
 ---
 title: "Coccinelle"
 url: /courbevoie/coccinelle/
-shop: supermarché
+shop: Supermarkt
 ---

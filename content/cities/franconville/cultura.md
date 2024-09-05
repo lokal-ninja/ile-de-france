@@ -1,5 +1,5 @@
 ---
 title: "Cultura"
 url: /franconville/cultura/
-shop: livres
+shop: Bücher
 ---

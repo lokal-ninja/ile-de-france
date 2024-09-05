@@ -1,5 +1,5 @@
 ---
 title: "Samsoe"
 url: /paris/samsoe/
-shop: vêtements
+shop: Kleidung
 ---

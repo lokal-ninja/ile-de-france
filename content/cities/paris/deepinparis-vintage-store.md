@@ -1,5 +1,5 @@
 ---
 title: "DEEPINPARIS vintage store"
 url: /paris/deepinparis-vintage-store/
-shop: vêtements
+shop: Kleidung
 ---

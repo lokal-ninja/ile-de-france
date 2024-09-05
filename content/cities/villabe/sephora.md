@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /villabe/sephora/
-shop: beauté
+shop: Kosmetik
 ---

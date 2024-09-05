@@ -1,5 +1,5 @@
 ---
 title: "Intemporel"
 url: /paris/intemporel/
-shop: coiffeur
+shop: Friseur
 ---

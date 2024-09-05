@@ -1,5 +1,5 @@
 ---
 title: "Harry star"
 url: /paris/harry-star/
-shop: commodité
+shop: Lebensmittel
 ---

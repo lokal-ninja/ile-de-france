@@ -1,5 +1,5 @@
 ---
 title: "La Romainville"
 url: /servon/la-romainville/
-shop: pâtisserie
+shop: Konditorei
 ---

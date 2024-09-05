@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /paris/schmidt/
-shop: cuisine
+shop: Küchen
 ---

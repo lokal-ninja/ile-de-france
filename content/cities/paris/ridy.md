@@ -1,5 +1,5 @@
 ---
 title: "Ridy"
 url: /paris/ridy/
-shop: vélo
+shop: Fahrrad
 ---

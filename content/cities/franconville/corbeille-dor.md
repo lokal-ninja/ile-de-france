@@ -1,5 +1,5 @@
 ---
 title: "Corbeille d'Or"
 url: /franconville/corbeille-dor/
-shop: bijoux
+shop: Schmuck
 ---

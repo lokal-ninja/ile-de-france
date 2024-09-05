@@ -1,5 +1,5 @@
 ---
 title: "Diesel"
 url: /paris/diesel/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /lognes/gifi/
-shop: magasin de variétés
+shop: Kramladen
 ---

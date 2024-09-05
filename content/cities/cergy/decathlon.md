@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /cergy/decathlon/
-shop: sports
+shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harcour"
 url: /versailles/harcour/
-shop: vêtements
+shop: Kleidung
 ---

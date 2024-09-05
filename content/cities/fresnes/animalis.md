@@ -1,5 +1,5 @@
 ---
 title: "Animalis"
 url: /fresnes/animalis/
-shop: chaussures
+shop: Schuhe
 ---

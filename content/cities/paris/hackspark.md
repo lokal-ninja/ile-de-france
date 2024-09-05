@@ -1,5 +1,5 @@
 ---
 title: "Hackspark"
 url: /paris/hackspark/
-shop: électronique
+shop: Elektronik
 ---

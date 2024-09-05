@@ -1,5 +1,5 @@
 ---
 title: "La Vignery"
 url: /pontault-combault/la-vignery/
-shop: vin
+shop: Wein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /montrouge/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

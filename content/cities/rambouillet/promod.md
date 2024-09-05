@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /rambouillet/promod/
-shop: vêtements
+shop: Kleidung
 ---

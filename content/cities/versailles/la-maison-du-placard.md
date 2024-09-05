@@ -1,5 +1,5 @@
 ---
 title: "La Maison du Placard"
 url: /versailles/la-maison-du-placard/
-shop: meubles
+shop: Möbel
 ---

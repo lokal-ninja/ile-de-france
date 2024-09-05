@@ -1,5 +1,5 @@
 ---
 title: "Kawa"
 url: /paris/kawa/
-shop: commerce
+shop: Baustoffe
 ---

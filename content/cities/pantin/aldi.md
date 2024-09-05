@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pantin/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /paris/giant/
-shop: vélo
+shop: Fahrrad
 ---

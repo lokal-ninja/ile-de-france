@@ -1,5 +1,5 @@
 ---
 title: "Ding Fring"
 url: /pontoise/ding-fring/
-shop: vêtements
+shop: Kleidung
 ---

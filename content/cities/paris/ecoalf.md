@@ -1,5 +1,5 @@
 ---
 title: "Ecoalf"
 url: /paris/ecoalf/
-shop: vêtements
+shop: Kleidung
 ---

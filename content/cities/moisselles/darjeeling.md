@@ -1,5 +1,5 @@
 ---
 title: "Darjeeling"
 url: /moisselles/darjeeling/
-shop: vêtements
+shop: Kleidung
 ---

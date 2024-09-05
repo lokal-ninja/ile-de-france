@@ -1,5 +1,5 @@
 ---
 title: "Dubois"
 url: /ecquevilly/dubois/
-shop: boulangerie
+shop: Bäckerei
 ---

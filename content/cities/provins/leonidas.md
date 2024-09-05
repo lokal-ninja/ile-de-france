@@ -1,5 +1,5 @@
 ---
 title: "Leonidas"
 url: /provins/leonidas/
-shop: chocolat
+shop: Schokolade
 ---

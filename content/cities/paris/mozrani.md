@@ -1,5 +1,5 @@
 ---
 title: "Mozrani"
 url: /paris/mozrani/
-shop: commodité
+shop: Lebensmittel
 ---

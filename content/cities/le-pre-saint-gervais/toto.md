@@ -1,5 +1,5 @@
 ---
 title: "Toto"
 url: /le-pre-saint-gervais/toto/
-shop: tissu
+shop: Textil
 ---

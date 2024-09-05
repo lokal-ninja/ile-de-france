@@ -1,5 +1,5 @@
 ---
 title: "La Rose d'Orient"
 url: /paris/la-rose-dorient/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Naturenville"
 url: /puteaux/naturenville/
-shop: commodité
+shop: Lebensmittel
 ---

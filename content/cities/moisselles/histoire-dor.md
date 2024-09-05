@@ -1,5 +1,5 @@
 ---
 title: "Histoire d'Or"
 url: /moisselles/histoire-dor/
-shop: bijoux
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fulkoli"
 url: /paris/fulkoli/
-shop: pâtisserie
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Idéco Store"
 url: /paris/ideco-store/
-shop: vêtements
+shop: Kleidung
 ---

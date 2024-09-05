@@ -1,5 +1,5 @@
 ---
 title: "boxy"
 url: /gargenville/boxy/
-shop: supermarché
+shop: Supermarkt
 ---

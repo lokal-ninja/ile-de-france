@@ -1,5 +1,5 @@
 ---
 title: "Glamour"
 url: /torcy/glamour/
-shop: beauté
+shop: Kosmetik
 ---

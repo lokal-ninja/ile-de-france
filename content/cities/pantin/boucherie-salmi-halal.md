@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Salmi (halal)"
 url: /pantin/boucherie-salmi-halal/
-shop: boucherie
+shop: Metzgerei
 ---

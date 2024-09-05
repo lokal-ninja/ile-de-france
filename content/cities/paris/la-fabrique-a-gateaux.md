@@ -1,5 +1,5 @@
 ---
 title: "La Fabrique à Gâteaux"
 url: /paris/la-fabrique-a-gateaux/
-shop: pâtisserie
+shop: Konditorei
 ---

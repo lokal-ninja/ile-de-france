@@ -1,5 +1,5 @@
 ---
 title: "Avenir Pêche"
 url: /vanves/avenir-peche/
-shop: pêche
+shop: Angeln
 ---

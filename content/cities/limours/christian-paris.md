@@ -1,5 +1,5 @@
 ---
 title: "Christian Paris"
 url: /limours/christian-paris/
-shop: bijoux
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vélomonde"
 url: /versailles/velomonde/
-shop: vélo
+shop: Fahrrad
 ---

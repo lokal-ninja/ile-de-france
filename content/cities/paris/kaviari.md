@@ -1,5 +1,5 @@
 ---
 title: "Kaviari"
 url: /paris/kaviari/
-shop: charcuterie
+shop: Feinkost
 ---
