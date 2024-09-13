@@ -1,5 +1,5 @@
 ---
 title: "DietPlus"
 url: /coulommiers/dietplus/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

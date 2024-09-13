@@ -1,5 +1,5 @@
 ---
 title: "Bemlight"
 url: /franconville/bemlight/
-shop: Großhandel
+shop: vente en gros
 ---

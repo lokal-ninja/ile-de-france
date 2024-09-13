@@ -1,5 +1,5 @@
 ---
 title: "Au Jardin d'Aurélie"
 url: /vaureal/au-jardin-daurelie/
-shop: Gemüse & Obst
+shop: légumes
 ---

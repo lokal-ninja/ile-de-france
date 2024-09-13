@@ -1,5 +1,5 @@
 ---
 title: "Azomsport"
 url: /paris/azomsport/
-shop: Sport
+shop: sports
 ---

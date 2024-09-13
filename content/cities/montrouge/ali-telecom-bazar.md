@@ -1,5 +1,5 @@
 ---
 title: "Ali Telecom Bazar"
 url: /montrouge/ali-telecom-bazar/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Choco au carré"
 url: /paris/choco-au-carre/
-shop: Schokolade
+shop: chocolat
 ---

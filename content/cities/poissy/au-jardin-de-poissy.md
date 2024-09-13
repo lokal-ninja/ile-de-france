@@ -1,5 +1,5 @@
 ---
 title: "Au Jardin de Poissy"
 url: /poissy/au-jardin-de-poissy/
-shop: Blumen
+shop: fleuriste
 ---

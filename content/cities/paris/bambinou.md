@@ -1,5 +1,5 @@
 ---
 title: "Bambinou"
 url: /paris/bambinou/
-shop: Babysachen
+shop: produits pour bébés
 ---

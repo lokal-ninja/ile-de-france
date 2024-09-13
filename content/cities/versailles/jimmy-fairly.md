@@ -1,5 +1,5 @@
 ---
 title: "Jimmy Fairly"
 url: /versailles/jimmy-fairly/
-shop: Optiker
+shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Holland Bikes"
 url: /lagny-sur-marne/holland-bikes/
-shop: Fahrrad
+shop: vélo
 ---

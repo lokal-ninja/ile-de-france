@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /paris/fnac/
-shop: Elektronik
+shop: électronique
 ---

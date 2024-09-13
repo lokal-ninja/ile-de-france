@@ -1,5 +1,5 @@
 ---
 title: "TOP CAR"
 url: /argenteuil/top-car/
-shop: Autohaus
+shop: voiture
 ---

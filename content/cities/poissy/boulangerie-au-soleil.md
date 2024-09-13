@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Au Soleil"
 url: /poissy/boulangerie-au-soleil/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Style DH"
 url: /ozoir-la-ferriere/style-dh/
-shop: Friseur
+shop: coiffeur
 ---

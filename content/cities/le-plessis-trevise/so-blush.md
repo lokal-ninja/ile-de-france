@@ -1,5 +1,5 @@
 ---
 title: "So Blush"
 url: /le-plessis-trevise/so-blush/
-shop: Kosmetik
+shop: beauté
 ---

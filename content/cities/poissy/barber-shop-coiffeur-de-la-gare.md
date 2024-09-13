@@ -1,5 +1,5 @@
 ---
 title: "Barber Shop - Coiffeur de la gare"
 url: /poissy/barber-shop-coiffeur-de-la-gare/
-shop: Friseur
+shop: coiffeur
 ---

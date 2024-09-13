@@ -1,5 +1,5 @@
 ---
 title: "Suntime"
 url: /clamart/suntime/
-shop: Kosmetik
+shop: beauté
 ---

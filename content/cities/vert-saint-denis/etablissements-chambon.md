@@ -1,5 +1,5 @@
 ---
 title: "Établissements Chambon"
 url: /vert-saint-denis/etablissements-chambon/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

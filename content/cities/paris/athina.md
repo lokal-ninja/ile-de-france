@@ -1,5 +1,5 @@
 ---
 title: "Athina"
 url: /paris/athina/
-shop: Kleidung
+shop: vêtements
 ---

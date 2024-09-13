@@ -1,5 +1,5 @@
 ---
 title: "Le Chardon"
 url: /jouars-pontchartrain/le-chardon/
-shop: Blumen
+shop: fleuriste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ridy"
 url: /bagnolet/ridy/
-shop: Fahrrad
+shop: vélo
 ---

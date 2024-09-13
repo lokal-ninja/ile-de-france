@@ -1,5 +1,5 @@
 ---
 title: "David Supermarket"
 url: /mitry-mory/david-supermarket/
-shop: Lebensmittel
+shop: commodité
 ---

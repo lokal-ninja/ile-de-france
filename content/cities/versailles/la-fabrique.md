@@ -1,5 +1,5 @@
 ---
 title: "La Fabrique"
 url: /versailles/la-fabrique/
-shop: Nähzubehör
+shop: couture
 ---

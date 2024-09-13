@@ -1,5 +1,5 @@
 ---
 title: "Bébé 9"
 url: /montigny-les-cormeilles/bebe-9/
-shop: Babysachen
+shop: produits pour bébés
 ---

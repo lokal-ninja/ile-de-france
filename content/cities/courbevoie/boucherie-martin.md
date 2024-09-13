@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Martin"
 url: /courbevoie/boucherie-martin/
-shop: Metzgerei
+shop: boucherie
 ---

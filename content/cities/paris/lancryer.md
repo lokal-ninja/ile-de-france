@@ -1,5 +1,5 @@
 ---
 title: "Lancryer"
 url: /paris/lancryer/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

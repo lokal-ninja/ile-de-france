@@ -1,5 +1,5 @@
 ---
 title: "Chez Appu cosmétiques"
 url: /le-plessis-trevise/chez-appu-cosmetiques/
-shop: Lebensmittel
+shop: commodité
 ---

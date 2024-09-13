@@ -1,5 +1,5 @@
 ---
 title: "Retoucherie"
 url: /chelles/retoucherie/
-shop: Schneiderei
+shop: tailleur
 ---

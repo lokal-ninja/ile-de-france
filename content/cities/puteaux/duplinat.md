@@ -1,5 +1,5 @@
 ---
 title: "DupliNat"
 url: /puteaux/duplinat/
-shop: Kopieren
+shop: copyshop
 ---

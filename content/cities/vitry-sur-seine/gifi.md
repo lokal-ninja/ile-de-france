@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /vitry-sur-seine/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

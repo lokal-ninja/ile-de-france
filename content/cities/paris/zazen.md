@@ -1,5 +1,5 @@
 ---
 title: "Zazen"
 url: /paris/zazen/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Maison du Kilt"
 url: /paris/la-maison-du-kilt/
-shop: Andenken
+shop: cadeau
 ---

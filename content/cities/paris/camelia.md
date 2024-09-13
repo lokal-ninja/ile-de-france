@@ -1,5 +1,5 @@
 ---
 title: "Camélia"
 url: /paris/camelia/
-shop: Kleidung
+shop: vêtements
 ---

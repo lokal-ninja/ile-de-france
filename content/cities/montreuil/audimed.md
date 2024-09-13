@@ -1,5 +1,5 @@
 ---
 title: "Audimed"
 url: /montreuil/audimed/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

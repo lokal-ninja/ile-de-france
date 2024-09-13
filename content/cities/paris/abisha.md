@@ -1,5 +1,5 @@
 ---
 title: "Abisha"
 url: /paris/abisha/
-shop: Friseur
+shop: coiffeur
 ---

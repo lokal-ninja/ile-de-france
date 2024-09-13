@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
 url: /cesson/boulanger/
-shop: Elektronik
+shop: électronique
 ---

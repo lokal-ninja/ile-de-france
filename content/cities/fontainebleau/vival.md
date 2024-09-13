@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /fontainebleau/vival/
-shop: Lebensmittel
+shop: commodité
 ---

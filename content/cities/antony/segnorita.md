@@ -1,5 +1,5 @@
 ---
 title: "Segnorita"
 url: /antony/segnorita/
-shop: Kleidung
+shop: vêtements
 ---

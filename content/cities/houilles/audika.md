@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /houilles/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Avomarques"
 url: /clamart/avomarques/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wade Photo France"
 url: /cergy/wade-photo-france/
-shop: Foto
+shop: photo
 ---

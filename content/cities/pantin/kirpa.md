@@ -1,5 +1,5 @@
 ---
 title: "Kirpa"
 url: /pantin/kirpa/
-shop: Lebensmittel
+shop: commodité
 ---

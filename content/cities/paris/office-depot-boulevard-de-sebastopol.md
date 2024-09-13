@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /paris/office-depot-boulevard-de-sebastopol/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

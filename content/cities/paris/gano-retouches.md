@@ -1,5 +1,5 @@
 ---
 title: "Gano Retouches"
 url: /paris/gano-retouches/
-shop: Schneiderei
+shop: tailleur
 ---

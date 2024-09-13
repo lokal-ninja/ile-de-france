@@ -1,5 +1,5 @@
 ---
 title: "Ikba"
 url: /paris/ikba/
-shop: Blumen
+shop: fleuriste
 ---

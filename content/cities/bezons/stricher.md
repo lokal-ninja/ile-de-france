@@ -1,5 +1,5 @@
 ---
 title: "Stricher"
 url: /bezons/stricher/
-shop: Mieten
+shop: location de stockage
 ---

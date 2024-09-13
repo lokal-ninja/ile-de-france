@@ -1,5 +1,5 @@
 ---
 title: "Carré"
 url: /paris/carre/
-shop: Fliesen
+shop: tuiles
 ---

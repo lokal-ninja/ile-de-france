@@ -1,5 +1,5 @@
 ---
 title: "IDM"
 url: /paris/idm/
-shop: Textil
+shop: tissu
 ---

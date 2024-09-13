@@ -1,5 +1,5 @@
 ---
 title: "Chocolats Colas"
 url: /maule/chocolats-colas/
-shop: Schokolade
+shop: chocolat
 ---

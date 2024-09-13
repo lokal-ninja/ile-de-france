@@ -1,5 +1,5 @@
 ---
 title: "Bobiclou"
 url: /chennevieres-sur-marne/bobiclou/
-shop: Fahrrad
+shop: vélo
 ---

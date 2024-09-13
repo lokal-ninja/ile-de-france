@@ -1,5 +1,5 @@
 ---
 title: "commepiedsnus.com"
 url: /paris/commepiedsnus-com/
-shop: Schuhe
+shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Sérail"
 url: /pantin/le-serail/
-shop: Konditorei
+shop: pâtisserie
 ---

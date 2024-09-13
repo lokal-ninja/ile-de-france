@@ -1,5 +1,5 @@
 ---
 title: "AD Carrosserie CMV Auto"
 url: /fontenay-aux-roses/ad-carrosserie-cmv-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

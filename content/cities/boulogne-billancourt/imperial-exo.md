@@ -1,5 +1,5 @@
 ---
 title: "Impérial Exo"
 url: /boulogne-billancourt/imperial-exo/
-shop: Supermarkt
+shop: supermarché
 ---

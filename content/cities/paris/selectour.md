@@ -1,5 +1,5 @@
 ---
 title: "Selectour"
 url: /paris/selectour/
-shop: Reisebüro
+shop: agence de voyage
 ---

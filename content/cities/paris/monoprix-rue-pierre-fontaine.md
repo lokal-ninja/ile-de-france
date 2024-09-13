@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /paris/monoprix-rue-pierre-fontaine/
-shop: Supermarkt
+shop: supermarché
 ---

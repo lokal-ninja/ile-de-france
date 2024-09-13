@@ -1,5 +1,5 @@
 ---
 title: "Athis Voyages Services"
 url: /athis-mons/athis-voyages-services/
-shop: Reisebüro
+shop: agence de voyage
 ---

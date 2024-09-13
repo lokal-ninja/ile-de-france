@@ -1,5 +1,5 @@
 ---
 title: "L'Épi d'Or"
 url: /paris/lepi-dor/
-shop: Bäckerei
+shop: boulangerie
 ---

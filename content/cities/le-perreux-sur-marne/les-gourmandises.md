@@ -1,5 +1,5 @@
 ---
 title: "Les Gourmandises"
 url: /le-perreux-sur-marne/les-gourmandises/
-shop: Bäckerei
+shop: boulangerie
 ---

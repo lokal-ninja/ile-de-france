@@ -1,5 +1,5 @@
 ---
 title: "Salon de Bronzage"
 url: /gonesse/salon-de-bronzage/
-shop: Kosmetik
+shop: beauté
 ---

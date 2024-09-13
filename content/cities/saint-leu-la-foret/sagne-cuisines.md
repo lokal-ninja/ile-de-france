@@ -1,5 +1,5 @@
 ---
 title: "Sagne Cuisines"
 url: /saint-leu-la-foret/sagne-cuisines/
-shop: Küchen
+shop: cuisine
 ---

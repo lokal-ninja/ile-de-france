@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /mareuil-les-meaux/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

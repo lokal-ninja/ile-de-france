@@ -1,5 +1,5 @@
 ---
 title: "Résidence Féline du Normont"
 url: /labbeville/residence-feline-du-normont/
-shop: Tiere
+shop: animal de compagnie
 ---

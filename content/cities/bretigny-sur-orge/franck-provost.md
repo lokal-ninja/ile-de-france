@@ -1,5 +1,5 @@
 ---
 title: "Franck Provost"
 url: /bretigny-sur-orge/franck-provost/
-shop: Friseur
+shop: coiffeur
 ---

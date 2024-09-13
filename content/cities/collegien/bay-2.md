@@ -1,5 +1,5 @@
 ---
 title: "Bay 2"
 url: /collegien/bay-2/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grand Marché Primeurs"
 url: /saint-cyr-lecole/grand-marche-primeurs/
-shop: Gemüse & Obst
+shop: légumes
 ---

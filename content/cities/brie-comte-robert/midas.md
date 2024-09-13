@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /brie-comte-robert/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

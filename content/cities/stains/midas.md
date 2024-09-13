@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /stains/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

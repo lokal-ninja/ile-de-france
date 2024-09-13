@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /milly-la-foret/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

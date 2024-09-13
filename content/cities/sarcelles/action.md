@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /sarcelles/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /montreuil/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

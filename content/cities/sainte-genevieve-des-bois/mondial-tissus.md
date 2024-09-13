@@ -1,5 +1,5 @@
 ---
 title: "Mondial Tissus"
 url: /sainte-genevieve-des-bois/mondial-tissus/
-shop: Textil
+shop: tissu
 ---

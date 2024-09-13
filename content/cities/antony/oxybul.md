@@ -1,5 +1,5 @@
 ---
 title: "Oxybul"
 url: /antony/oxybul/
-shop: Spielzeug
+shop: jouets
 ---

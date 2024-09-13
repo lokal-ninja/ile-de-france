@@ -1,5 +1,5 @@
 ---
 title: "Le Petit Biclou"
 url: /paris/le-petit-biclou/
-shop: Fahrrad
+shop: vélo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /bois-colombes/monoprix/
-shop: Supermarkt
+shop: supermarché
 ---

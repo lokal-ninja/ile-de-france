@@ -1,5 +1,5 @@
 ---
 title: "Lecreux frères"
 url: /paris/lecreux-freres/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

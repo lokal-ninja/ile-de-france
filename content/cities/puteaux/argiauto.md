@@ -1,5 +1,5 @@
 ---
 title: "Argiauto"
 url: /puteaux/argiauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

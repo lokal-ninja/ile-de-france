@@ -1,5 +1,5 @@
 ---
 title: "Retoucherie"
 url: /paris/retoucherie/
-shop: Schneiderei
+shop: tailleur
 ---

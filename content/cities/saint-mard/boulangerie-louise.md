@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Louise"
 url: /saint-mard/boulangerie-louise/
-shop: Bäckerei
+shop: boulangerie
 ---

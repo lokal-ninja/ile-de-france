@@ -1,5 +1,5 @@
 ---
 title: "Maison Baillon"
 url: /neuilly-sur-seine/maison-baillon/
-shop: Bäckerei
+shop: boulangerie
 ---

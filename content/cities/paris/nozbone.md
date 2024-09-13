@@ -1,5 +1,5 @@
 ---
 title: "Nozbone"
 url: /paris/nozbone/
-shop: Sport
+shop: sports
 ---

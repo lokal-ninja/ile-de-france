@@ -1,5 +1,5 @@
 ---
 title: "Flipside"
 url: /paris/flipside/
-shop: Kleidung
+shop: vêtements
 ---

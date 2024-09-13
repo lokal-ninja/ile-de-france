@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /thiais/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

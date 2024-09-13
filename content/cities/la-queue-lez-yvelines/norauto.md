@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /la-queue-lez-yvelines/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

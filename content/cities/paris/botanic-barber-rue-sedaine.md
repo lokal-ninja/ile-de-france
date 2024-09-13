@@ -1,5 +1,5 @@
 ---
 title: "Botanic Barber"
 url: /paris/botanic-barber-rue-sedaine/
-shop: Friseur
+shop: coiffeur
 ---

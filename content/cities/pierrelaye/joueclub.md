@@ -1,5 +1,5 @@
 ---
 title: "JouéClub"
 url: /pierrelaye/joueclub/
-shop: Spielzeug
+shop: jouets
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atelier 36"
 url: /houilles/atelier-36/
-shop: Rahmen
+shop: cadre
 ---

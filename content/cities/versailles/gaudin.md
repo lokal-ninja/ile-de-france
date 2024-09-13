@@ -1,5 +1,5 @@
 ---
 title: "Gaudin"
 url: /versailles/gaudin/
-shop: Metzgerei
+shop: boucherie
 ---

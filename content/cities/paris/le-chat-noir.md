@@ -1,5 +1,5 @@
 ---
 title: "Le Chat Noir"
 url: /paris/le-chat-noir/
-shop: Andenken
+shop: cadeau
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centre Optique"
 url: /verrieres-le-buisson/centre-optique/
-shop: Optiker
+shop: opticien
 ---

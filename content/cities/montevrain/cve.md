@@ -1,5 +1,5 @@
 ---
 title: "Cve"
 url: /montevrain/cve/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

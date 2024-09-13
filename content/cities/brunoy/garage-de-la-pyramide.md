@@ -1,5 +1,5 @@
 ---
 title: "Garage de la pyramide"
 url: /brunoy/garage-de-la-pyramide/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

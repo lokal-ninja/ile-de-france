@@ -1,5 +1,5 @@
 ---
 title: "Relais Maurepas"
 url: /maurepas/relais-maurepas/
-shop: Lebensmittel
+shop: commodité
 ---

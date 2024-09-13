@@ -1,5 +1,5 @@
 ---
 title: "GTA Motors"
 url: /roissy-en-brie/gta-motors/
-shop: Autohaus
+shop: voiture
 ---

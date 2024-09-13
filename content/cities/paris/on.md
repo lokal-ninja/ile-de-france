@@ -1,5 +1,5 @@
 ---
 title: "On"
 url: /paris/on/
-shop: Sport
+shop: sports
 ---

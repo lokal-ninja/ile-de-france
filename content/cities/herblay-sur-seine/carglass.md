@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /herblay-sur-seine/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

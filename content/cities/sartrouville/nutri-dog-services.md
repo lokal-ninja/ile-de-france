@@ -1,5 +1,5 @@
 ---
 title: "Nutri-dog Services"
 url: /sartrouville/nutri-dog-services/
-shop: Tiere
+shop: animal de compagnie
 ---

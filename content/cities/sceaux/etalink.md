@@ -1,5 +1,5 @@
 ---
 title: "ETALINK"
 url: /sceaux/etalink/
-shop: Computer
+shop: ordinateur
 ---

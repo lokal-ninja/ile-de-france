@@ -1,5 +1,5 @@
 ---
 title: "Artocarpus"
 url: /paris/artocarpus/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Service retouche"
 url: /paris/service-retouche/
-shop: Schuhe
+shop: chaussures
 ---

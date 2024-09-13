@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /paris/fnac-rue-saint-lazare/
-shop: Elektronik
+shop: électronique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carolie"
 url: /versailles/carolie/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

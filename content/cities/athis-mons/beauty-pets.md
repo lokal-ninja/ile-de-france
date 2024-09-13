@@ -1,5 +1,5 @@
 ---
 title: "Beauty Pets"
 url: /athis-mons/beauty-pets/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

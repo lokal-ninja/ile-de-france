@@ -1,5 +1,5 @@
 ---
 title: "Raboni"
 url: /trappes/raboni/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dietplus"
 url: /pontault-combault/dietplus/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

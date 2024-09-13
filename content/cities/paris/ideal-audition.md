@@ -1,5 +1,5 @@
 ---
 title: "Ideal Audition"
 url: /paris/ideal-audition/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

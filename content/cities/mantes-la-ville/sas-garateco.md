@@ -1,5 +1,5 @@
 ---
 title: "SAS Garateco"
 url: /mantes-la-ville/sas-garateco/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Antiquités Saint-Louis"
 url: /versailles/antiquites-saint-louis/
-shop: Antiquitäten
+shop: antiquités
 ---

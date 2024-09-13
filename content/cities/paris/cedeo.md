@@ -1,5 +1,5 @@
 ---
 title: "Cedeo"
 url: /paris/cedeo/
-shop: Baumarkt
+shop: à faire soi-même
 ---

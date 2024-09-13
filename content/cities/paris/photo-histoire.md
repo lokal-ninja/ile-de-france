@@ -1,5 +1,5 @@
 ---
 title: "Photo Histoire"
 url: /paris/photo-histoire/
-shop: Foto
+shop: photo
 ---

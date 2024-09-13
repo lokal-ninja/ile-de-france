@@ -1,5 +1,5 @@
 ---
 title: "TotalEnergies"
 url: /paris/totalenergies/
-shop: Lebensmittel
+shop: commodité
 ---

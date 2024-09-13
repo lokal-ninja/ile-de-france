@@ -1,5 +1,5 @@
 ---
 title: "Today Computers"
 url: /paris/today-computers/
-shop: Computer
+shop: ordinateur
 ---

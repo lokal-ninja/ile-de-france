@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
 url: /saint-germain-en-laye/calzedonia/
-shop: Kleidung
+shop: vêtements
 ---

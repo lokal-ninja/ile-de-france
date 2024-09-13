@@ -1,5 +1,5 @@
 ---
 title: "Le Voltaire"
 url: /paris/le-voltaire/
-shop: Tabak
+shop: tabac
 ---

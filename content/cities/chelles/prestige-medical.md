@@ -1,5 +1,5 @@
 ---
 title: "Prestige Médical"
 url: /chelles/prestige-medical/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VPN Autos Versailles"
 url: /versailles/vpn-autos-versailles/
-shop: Autohaus
+shop: voiture
 ---

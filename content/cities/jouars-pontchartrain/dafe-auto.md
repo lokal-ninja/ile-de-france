@@ -1,5 +1,5 @@
 ---
 title: "Dafe Auto"
 url: /jouars-pontchartrain/dafe-auto/
-shop: Autohaus
+shop: voiture
 ---

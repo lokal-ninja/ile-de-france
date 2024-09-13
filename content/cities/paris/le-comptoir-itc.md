@@ -1,5 +1,5 @@
 ---
 title: "Le comptoir ITC"
 url: /paris/le-comptoir-itc/
-shop: Elektronik
+shop: électronique
 ---

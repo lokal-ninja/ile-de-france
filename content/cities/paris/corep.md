@@ -1,5 +1,5 @@
 ---
 title: "Corep"
 url: /paris/corep/
-shop: Kopieren
+shop: copyshop
 ---

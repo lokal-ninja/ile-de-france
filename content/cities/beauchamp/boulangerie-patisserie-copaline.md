@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie pâtisserie Copaline"
 url: /beauchamp/boulangerie-patisserie-copaline/
-shop: Bäckerei
+shop: boulangerie
 ---

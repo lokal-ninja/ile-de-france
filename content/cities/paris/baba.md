@@ -1,5 +1,5 @@
 ---
 title: "Baba"
 url: /paris/baba/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

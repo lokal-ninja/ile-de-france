@@ -1,5 +1,5 @@
 ---
 title: "Briconautes"
 url: /croissy-sur-seine/briconautes/
-shop: Baumarkt
+shop: à faire soi-même
 ---

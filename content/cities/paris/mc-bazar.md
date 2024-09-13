@@ -1,5 +1,5 @@
 ---
 title: "MC. Bazar"
 url: /paris/mc-bazar/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lemon Story"
 url: /paris/lemon-story/
-shop: Lebensmittel
+shop: commodité
 ---

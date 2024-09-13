@@ -1,5 +1,5 @@
 ---
 title: "Natalys"
 url: /paris/natalys/
-shop: Babysachen
+shop: produits pour bébés
 ---

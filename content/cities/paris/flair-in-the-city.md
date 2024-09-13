@@ -1,5 +1,5 @@
 ---
 title: "Flair in the City"
 url: /paris/flair-in-the-city/
-shop: Tiere
+shop: animal de compagnie
 ---

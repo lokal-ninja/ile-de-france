@@ -1,5 +1,5 @@
 ---
 title: "Eden Hair"
 url: /le-raincy/eden-hair/
-shop: Friseur
+shop: coiffeur
 ---

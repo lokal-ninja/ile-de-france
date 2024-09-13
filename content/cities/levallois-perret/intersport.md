@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /levallois-perret/intersport/
-shop: Sport
+shop: sports
 ---

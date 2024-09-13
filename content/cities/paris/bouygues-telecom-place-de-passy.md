@@ -1,5 +1,5 @@
 ---
 title: "Bouygues Telecom"
 url: /paris/bouygues-telecom-place-de-passy/
-shop: Handy
+shop: téléphone portable
 ---

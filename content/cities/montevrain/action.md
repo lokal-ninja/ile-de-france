@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /montevrain/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

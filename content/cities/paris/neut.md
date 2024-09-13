@@ -1,5 +1,5 @@
 ---
 title: "Neut"
 url: /paris/neut/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

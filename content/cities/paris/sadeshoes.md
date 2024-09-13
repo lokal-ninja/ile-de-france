@@ -1,5 +1,5 @@
 ---
 title: "Sadéshoes"
 url: /paris/sadeshoes/
-shop: Schuhe
+shop: chaussures
 ---

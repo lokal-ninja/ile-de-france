@@ -1,5 +1,5 @@
 ---
 title: "Colorine"
 url: /le-plessis-bouchard/colorine/
-shop: Farben
+shop: peinture
 ---

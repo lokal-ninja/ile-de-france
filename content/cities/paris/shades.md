@@ -1,5 +1,5 @@
 ---
 title: "Shades"
 url: /paris/shades/
-shop: Optiker
+shop: opticien
 ---

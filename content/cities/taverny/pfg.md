@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /taverny/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

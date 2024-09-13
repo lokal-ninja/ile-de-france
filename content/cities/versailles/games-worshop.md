@@ -1,5 +1,5 @@
 ---
 title: "Games Worshop"
 url: /versailles/games-worshop/
-shop: Spiele
+shop: jeux
 ---

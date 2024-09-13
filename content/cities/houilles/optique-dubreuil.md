@@ -1,5 +1,5 @@
 ---
 title: "Optique Dubreuil"
 url: /houilles/optique-dubreuil/
-shop: Optiker
+shop: opticien
 ---

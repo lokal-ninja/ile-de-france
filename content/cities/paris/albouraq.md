@@ -1,5 +1,5 @@
 ---
 title: "Albouraq"
 url: /paris/albouraq/
-shop: Religion
+shop: religion
 ---

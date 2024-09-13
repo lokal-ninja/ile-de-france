@@ -1,5 +1,5 @@
 ---
 title: "Naturhouse"
 url: /croissy-sur-seine/naturhouse/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

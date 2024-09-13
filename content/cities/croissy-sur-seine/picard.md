@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /croissy-sur-seine/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

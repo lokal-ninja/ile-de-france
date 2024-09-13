@@ -1,5 +1,5 @@
 ---
 title: "Crèmerie Brune"
 url: /paris/cremerie-brune/
-shop: Milch
+shop: produits laitiers
 ---

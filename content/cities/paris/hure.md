@@ -1,5 +1,5 @@
 ---
 title: "Huré"
 url: /paris/hure/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EVA ALBARRAN"
 url: /paris/eva-albarran/
-shop: Kunst
+shop: art
 ---

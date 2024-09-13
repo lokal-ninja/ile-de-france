@@ -1,5 +1,5 @@
 ---
 title: "Rock The Killim"
 url: /paris/rock-the-killim/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chambre funéraire Avon"
 url: /avon/chambre-funeraire-avon/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

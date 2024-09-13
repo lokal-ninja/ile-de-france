@@ -1,5 +1,5 @@
 ---
 title: "Bicloune"
 url: /paris/bicloune/
-shop: Fahrrad
+shop: vélo
 ---

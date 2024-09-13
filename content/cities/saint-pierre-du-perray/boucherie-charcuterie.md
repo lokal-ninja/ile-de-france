@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charcuterie"
 url: /saint-pierre-du-perray/boucherie-charcuterie/
-shop: Metzgerei
+shop: boucherie
 ---

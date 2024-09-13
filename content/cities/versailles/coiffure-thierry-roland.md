@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Thierry Roland"
 url: /versailles/coiffure-thierry-roland/
-shop: Friseur
+shop: coiffeur
 ---

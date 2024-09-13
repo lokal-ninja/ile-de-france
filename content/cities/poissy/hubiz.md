@@ -1,5 +1,5 @@
 ---
 title: "Hubiz"
 url: /poissy/hubiz/
-shop: Zeitungen
+shop: marchand de journaux
 ---

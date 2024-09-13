@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /vert-saint-denis/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

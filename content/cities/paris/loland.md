@@ -1,5 +1,5 @@
 ---
 title: "Loland"
 url: /paris/loland/
-shop: Andenken
+shop: cadeau
 ---

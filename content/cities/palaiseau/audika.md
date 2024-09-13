@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /palaiseau/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

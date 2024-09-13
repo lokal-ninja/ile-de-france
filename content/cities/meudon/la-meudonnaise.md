@@ -1,5 +1,5 @@
 ---
 title: "La Meudonnaise"
 url: /meudon/la-meudonnaise/
-shop: Bäckerei
+shop: boulangerie
 ---

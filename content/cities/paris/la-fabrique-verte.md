@@ -1,5 +1,5 @@
 ---
 title: "La Fabrique verte"
 url: /paris/la-fabrique-verte/
-shop: Blumen
+shop: fleuriste
 ---

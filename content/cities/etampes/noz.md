@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /etampes/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

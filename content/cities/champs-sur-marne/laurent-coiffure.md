@@ -1,5 +1,5 @@
 ---
 title: "Laurent Coiffure"
 url: /champs-sur-marne/laurent-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

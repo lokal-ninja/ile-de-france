@@ -1,5 +1,5 @@
 ---
 title: "Maison Roggio"
 url: /montrouge/maison-roggio/
-shop: Bäckerei
+shop: boulangerie
 ---

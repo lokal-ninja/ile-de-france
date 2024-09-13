@@ -1,5 +1,5 @@
 ---
 title: "Alliance"
 url: /argenteuil/alliance/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

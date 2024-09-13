@@ -1,5 +1,5 @@
 ---
 title: "Célia-Sandra"
 url: /poissy/celia-sandra/
-shop: Friseur
+shop: coiffeur
 ---

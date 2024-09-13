@@ -1,5 +1,5 @@
 ---
 title: "Itiopia"
 url: /paris/itiopia/
-shop: Lebensmittel
+shop: commodité
 ---

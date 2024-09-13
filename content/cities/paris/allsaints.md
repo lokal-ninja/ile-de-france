@@ -1,5 +1,5 @@
 ---
 title: "AllSaints"
 url: /paris/allsaints/
-shop: Kleidung
+shop: vêtements
 ---

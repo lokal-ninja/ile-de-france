@@ -1,5 +1,5 @@
 ---
 title: "Bokawa"
 url: /paris/bokawa/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /paris/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

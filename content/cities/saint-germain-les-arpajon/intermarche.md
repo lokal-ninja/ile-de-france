@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /saint-germain-les-arpajon/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

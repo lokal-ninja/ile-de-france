@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /itteville/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /chelles/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /sainte-genevieve-des-bois/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

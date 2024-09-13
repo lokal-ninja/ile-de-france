@@ -1,5 +1,5 @@
 ---
 title: "Fiat"
 url: /paris/fiat/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

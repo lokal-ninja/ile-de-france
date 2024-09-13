@@ -1,5 +1,5 @@
 ---
 title: "Merci"
 url: /paris/merci/
-shop: Kleidung
+shop: vêtements
 ---

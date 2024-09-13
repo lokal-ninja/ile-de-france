@@ -1,5 +1,5 @@
 ---
 title: "Esprit"
 url: /moisselles/esprit/
-shop: Kleidung
+shop: vêtements
 ---

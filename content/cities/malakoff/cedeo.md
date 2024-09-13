@@ -1,5 +1,5 @@
 ---
 title: "CEDEO"
 url: /malakoff/cedeo/
-shop: Eisenwaren
+shop: matériel informatique
 ---

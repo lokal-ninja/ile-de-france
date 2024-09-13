@@ -1,5 +1,5 @@
 ---
 title: "Audioprox"
 url: /ozoir-la-ferriere/audioprox/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

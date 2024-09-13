@@ -1,5 +1,5 @@
 ---
 title: "Patricia"
 url: /paris/patricia/
-shop: Schuhe
+shop: chaussures
 ---

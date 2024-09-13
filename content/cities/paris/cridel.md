@@ -1,5 +1,5 @@
 ---
 title: "Cridel"
 url: /paris/cridel/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

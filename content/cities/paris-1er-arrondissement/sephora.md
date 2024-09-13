@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /paris-1er-arrondissement/sephora/
-shop: Kosmetik
+shop: beauté
 ---

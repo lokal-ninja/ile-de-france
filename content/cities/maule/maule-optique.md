@@ -1,5 +1,5 @@
 ---
 title: "Maule Optique"
 url: /maule/maule-optique/
-shop: Optiker
+shop: opticien
 ---

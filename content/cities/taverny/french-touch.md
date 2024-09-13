@@ -1,5 +1,5 @@
 ---
 title: "French Touch"
 url: /taverny/french-touch/
-shop: Friseur
+shop: coiffeur
 ---

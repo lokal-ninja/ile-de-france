@@ -1,5 +1,5 @@
 ---
 title: "Yann Couvreur"
 url: /paris/yann-couvreur/
-shop: Konditorei
+shop: pâtisserie
 ---

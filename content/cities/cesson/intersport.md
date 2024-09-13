@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /cesson/intersport/
-shop: Sport
+shop: sports
 ---

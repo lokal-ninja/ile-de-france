@@ -1,5 +1,5 @@
 ---
 title: "Bel Chou's"
 url: /montigny-les-cormeilles/bel-chous/
-shop: Allgemein
+shop: shop
 ---

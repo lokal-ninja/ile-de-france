@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /igny/bp/
-shop: Lebensmittel
+shop: commodité
 ---

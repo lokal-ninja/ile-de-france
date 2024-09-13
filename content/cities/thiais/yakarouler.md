@@ -1,5 +1,5 @@
 ---
 title: "Yakarouler"
 url: /thiais/yakarouler/
-shop: Autoteile
+shop: pièces de voitures
 ---

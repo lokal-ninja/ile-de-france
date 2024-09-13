@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /le-plessis-robinson/boulangerie/
-shop: Bäckerei
+shop: boulangerie
 ---

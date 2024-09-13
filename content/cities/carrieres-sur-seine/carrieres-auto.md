@@ -1,5 +1,5 @@
 ---
 title: "Carrieres Auto"
 url: /carrieres-sur-seine/carrieres-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

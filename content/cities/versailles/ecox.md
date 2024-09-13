@@ -1,5 +1,5 @@
 ---
 title: "Ecox"
 url: /versailles/ecox/
-shop: Fahrrad
+shop: vélo
 ---

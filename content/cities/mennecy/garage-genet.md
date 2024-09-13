@@ -1,5 +1,5 @@
 ---
 title: "Garage Genet"
 url: /mennecy/garage-genet/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

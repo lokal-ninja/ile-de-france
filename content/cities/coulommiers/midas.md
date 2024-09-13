@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /coulommiers/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

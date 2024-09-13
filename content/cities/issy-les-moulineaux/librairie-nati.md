@@ -1,5 +1,5 @@
 ---
 title: "Librairie Nati"
 url: /issy-les-moulineaux/librairie-nati/
-shop: Bücher
+shop: livres
 ---

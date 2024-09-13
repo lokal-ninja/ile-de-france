@@ -1,5 +1,5 @@
 ---
 title: "Ekosport"
 url: /paris/ekosport/
-shop: Sport
+shop: sports
 ---

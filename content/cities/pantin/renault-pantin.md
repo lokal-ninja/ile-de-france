@@ -1,5 +1,5 @@
 ---
 title: "Renault - Pantin"
 url: /pantin/renault-pantin/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lavotronic"
 url: /paris/lavotronic/
-shop: Wäscherei
+shop: blanchisserie
 ---

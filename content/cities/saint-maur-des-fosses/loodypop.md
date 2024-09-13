@@ -1,5 +1,5 @@
 ---
 title: "LoodyPop"
 url: /saint-maur-des-fosses/loodypop/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maxime Ollivier"
 url: /issy-les-moulineaux/maxime-ollivier/
-shop: Bäckerei
+shop: boulangerie
 ---

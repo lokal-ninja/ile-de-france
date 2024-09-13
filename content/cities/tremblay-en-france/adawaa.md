@@ -1,5 +1,5 @@
 ---
 title: "Adawaa"
 url: /tremblay-en-france/adawaa/
-shop: Dorfladen
+shop: magasin de campagne
 ---

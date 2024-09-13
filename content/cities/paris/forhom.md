@@ -1,5 +1,5 @@
 ---
 title: "Forhom"
 url: /paris/forhom/
-shop: Zeitungen
+shop: marchand de journaux
 ---

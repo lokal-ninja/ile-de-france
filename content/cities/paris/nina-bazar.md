@@ -1,5 +1,5 @@
 ---
 title: "Nina Bazar"
 url: /paris/nina-bazar/
-shop: Kramladen
+shop: magasin de variétés
 ---

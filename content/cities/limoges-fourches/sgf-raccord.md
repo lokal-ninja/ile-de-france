@@ -1,5 +1,5 @@
 ---
 title: "SGF Raccord"
 url: /limoges-fourches/sgf-raccord/
-shop: Baustoffe
+shop: commerce
 ---

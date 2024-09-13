@@ -1,5 +1,5 @@
 ---
 title: "Esthétique Minceur"
 url: /pontault-combault/esthetique-minceur/
-shop: Kosmetik
+shop: beauté
 ---

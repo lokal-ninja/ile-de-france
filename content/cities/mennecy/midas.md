@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /mennecy/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

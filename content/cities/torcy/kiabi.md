@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /torcy/kiabi/
-shop: Kleidung
+shop: vêtements
 ---

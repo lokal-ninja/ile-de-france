@@ -1,5 +1,5 @@
 ---
 title: "Tlms"
 url: /thieux/tlms/
-shop: Mieten
+shop: location de stockage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nora Orientale"
 url: /pantin/nora-orientale/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La fromagerie de Montmartre"
 url: /paris/la-fromagerie-de-montmartre/
-shop: Käse
+shop: fromage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /argenteuil/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

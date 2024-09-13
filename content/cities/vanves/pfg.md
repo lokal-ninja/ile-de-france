@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /vanves/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

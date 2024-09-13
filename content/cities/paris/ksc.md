@@ -1,5 +1,5 @@
 ---
 title: "KSC"
 url: /paris/ksc/
-shop: Bäckerei
+shop: boulangerie
 ---

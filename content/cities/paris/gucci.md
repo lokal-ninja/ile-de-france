@@ -1,5 +1,5 @@
 ---
 title: "Gucci"
 url: /paris/gucci/
-shop: Kleidung
+shop: vêtements
 ---

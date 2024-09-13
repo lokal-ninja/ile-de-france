@@ -1,5 +1,5 @@
 ---
 title: "nutrisport performances"
 url: /servon/nutrisport-performances/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

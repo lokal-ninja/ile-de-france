@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /versailles/honda/
-shop: Autohaus
+shop: voiture
 ---

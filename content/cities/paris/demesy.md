@@ -1,5 +1,5 @@
 ---
 title: "Demesy"
 url: /paris/demesy/
-shop: Friseur
+shop: coiffeur
 ---

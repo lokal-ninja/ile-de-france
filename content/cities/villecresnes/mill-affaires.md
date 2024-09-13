@@ -1,5 +1,5 @@
 ---
 title: "Mill Affaires"
 url: /villecresnes/mill-affaires/
-shop: Allgemein
+shop: shop
 ---

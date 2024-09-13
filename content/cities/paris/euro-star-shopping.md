@@ -1,5 +1,5 @@
 ---
 title: "Euro star shopping"
 url: /paris/euro-star-shopping/
-shop: Kramladen
+shop: magasin de variétés
 ---

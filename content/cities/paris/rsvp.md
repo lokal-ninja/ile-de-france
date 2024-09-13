@@ -1,5 +1,5 @@
 ---
 title: "RSVP"
 url: /paris/rsvp/
-shop: Leder
+shop: cuir
 ---

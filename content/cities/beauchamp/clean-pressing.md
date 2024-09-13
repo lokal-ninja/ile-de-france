@@ -1,5 +1,5 @@
 ---
 title: "Clean Pressing"
 url: /beauchamp/clean-pressing/
-shop: Wäscherei
+shop: blanchisserie
 ---

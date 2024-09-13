@@ -1,5 +1,5 @@
 ---
 title: "Rowlands"
 url: /paris/rowlands/
-shop: Kleidung
+shop: vêtements
 ---

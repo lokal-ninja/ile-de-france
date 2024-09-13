@@ -1,5 +1,5 @@
 ---
 title: "Manalit"
 url: /paris/manalit/
-shop: Zeitungen
+shop: marchand de journaux
 ---

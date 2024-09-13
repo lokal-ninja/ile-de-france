@@ -1,5 +1,5 @@
 ---
 title: "Lejeune Frères"
 url: /paris/lejeune-freres/
-shop: Eisenwaren
+shop: matériel informatique
 ---

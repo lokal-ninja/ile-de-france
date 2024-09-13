@@ -1,5 +1,5 @@
 ---
 title: "Laverie l'Am Winner"
 url: /bagneux/laverie-lam-winner/
-shop: Wäscherei
+shop: blanchisserie
 ---

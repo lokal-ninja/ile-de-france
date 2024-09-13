@@ -1,5 +1,5 @@
 ---
 title: "Etam"
 url: /le-chesnay-rocquencourt/etam/
-shop: Kleidung
+shop: vêtements
 ---

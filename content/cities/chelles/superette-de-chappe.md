@@ -1,5 +1,5 @@
 ---
 title: "Supérette de Chappe"
 url: /chelles/superette-de-chappe/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aramisauto Cergy"
 url: /puiseux-pontoise/aramisauto-cergy/
-shop: Autohaus
+shop: voiture
 ---

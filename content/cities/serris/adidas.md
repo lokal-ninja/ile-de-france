@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
 url: /serris/adidas/
-shop: Sport
+shop: sports
 ---

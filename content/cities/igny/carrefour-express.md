@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /igny/carrefour-express/
-shop: Lebensmittel
+shop: commodité
 ---

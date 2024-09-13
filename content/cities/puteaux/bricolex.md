@@ -1,5 +1,5 @@
 ---
 title: "Bricolex"
 url: /puteaux/bricolex/
-shop: Baumarkt
+shop: à faire soi-même
 ---

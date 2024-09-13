@@ -1,5 +1,5 @@
 ---
 title: "Coifferie d'Achères"
 url: /acheres/coifferie-dacheres/
-shop: Friseur
+shop: coiffeur
 ---

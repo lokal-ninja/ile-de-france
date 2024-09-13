@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /torcy/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

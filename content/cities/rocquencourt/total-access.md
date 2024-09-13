@@ -1,5 +1,5 @@
 ---
 title: "Total Access"
 url: /rocquencourt/total-access/
-shop: Lebensmittel
+shop: commodité
 ---

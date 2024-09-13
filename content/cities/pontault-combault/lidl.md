@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /pontault-combault/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

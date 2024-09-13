@@ -1,5 +1,5 @@
 ---
 title: "The Good Food"
 url: /versailles/the-good-food/
-shop: Süßwaren
+shop: confiserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Entract’ Beauté"
 url: /breuillet/entract-beaute/
-shop: Kosmetik
+shop: beauté
 ---

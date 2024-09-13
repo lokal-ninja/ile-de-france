@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /poissy/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

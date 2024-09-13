@@ -1,5 +1,5 @@
 ---
 title: "Amapola"
 url: /paris/amapola/
-shop: Blumen
+shop: fleuriste
 ---

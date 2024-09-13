@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Cemre"
 url: /torcy/coiffure-cemre/
-shop: Friseur
+shop: coiffeur
 ---

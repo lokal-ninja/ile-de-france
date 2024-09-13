@@ -1,5 +1,5 @@
 ---
 title: "Pressing Petite Mauldre"
 url: /beynes/pressing-petite-mauldre/
-shop: Wäscherei
+shop: blanchisserie
 ---

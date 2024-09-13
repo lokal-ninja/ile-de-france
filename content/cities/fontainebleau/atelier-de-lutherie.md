@@ -1,5 +1,5 @@
 ---
 title: "Atelier de Lutherie"
 url: /fontainebleau/atelier-de-lutherie/
-shop: Instrumente
+shop: instrument de musique
 ---

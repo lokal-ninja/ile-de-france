@@ -1,5 +1,5 @@
 ---
 title: "Elegantia"
 url: /taverny/elegantia/
-shop: Kosmetik
+shop: beauté
 ---

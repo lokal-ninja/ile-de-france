@@ -1,5 +1,5 @@
 ---
 title: "Pharmacie Zaoui"
 url: /coubron/pharmacie-zaoui/
-shop: Drogerie
+shop: chimiste
 ---

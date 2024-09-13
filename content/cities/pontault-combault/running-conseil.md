@@ -1,5 +1,5 @@
 ---
 title: "Running Conseil"
 url: /pontault-combault/running-conseil/
-shop: Sport
+shop: sports
 ---

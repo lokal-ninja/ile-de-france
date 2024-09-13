@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /le-vesinet/midas-boulevard-carnot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

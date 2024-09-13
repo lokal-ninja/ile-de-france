@@ -1,5 +1,5 @@
 ---
 title: "Chocolaterie de Beussent"
 url: /fontainebleau/chocolaterie-de-beussent/
-shop: Schokolade
+shop: chocolat
 ---

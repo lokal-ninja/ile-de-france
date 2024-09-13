@@ -1,5 +1,5 @@
 ---
 title: "Kiss market"
 url: /champs-sur-marne/kiss-market/
-shop: Lebensmittel
+shop: commodité
 ---

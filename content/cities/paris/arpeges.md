@@ -1,5 +1,5 @@
 ---
 title: "Arpèges"
 url: /paris/arpeges/
-shop: Instrumente
+shop: instrument de musique
 ---

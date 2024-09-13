@@ -1,5 +1,5 @@
 ---
 title: "Stockage Self Service"
 url: /saint-ouen-laumone/stockage-self-service/
-shop: Mieten
+shop: location de stockage
 ---

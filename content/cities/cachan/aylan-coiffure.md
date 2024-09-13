@@ -1,5 +1,5 @@
 ---
 title: "Aylan Coiffure"
 url: /cachan/aylan-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

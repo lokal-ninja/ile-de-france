@@ -1,5 +1,5 @@
 ---
 title: "Bécanes d'Antoine"
 url: /pantin/becanes-dantoine/
-shop: Fahrrad
+shop: vélo
 ---

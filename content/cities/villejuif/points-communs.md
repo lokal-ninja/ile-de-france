@@ -1,5 +1,5 @@
 ---
 title: "Points Communs"
 url: /villejuif/points-communs/
-shop: Bücher
+shop: livres
 ---

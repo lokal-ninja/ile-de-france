@@ -1,5 +1,5 @@
 ---
 title: "Artisan Boulanger"
 url: /bois-colombes/artisan-boulanger/
-shop: Bäckerei
+shop: boulangerie
 ---

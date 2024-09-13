@@ -1,5 +1,5 @@
 ---
 title: "Théonah"
 url: /limours/theonah/
-shop: Kosmetik
+shop: beauté
 ---

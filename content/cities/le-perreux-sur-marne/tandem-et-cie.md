@@ -1,5 +1,5 @@
 ---
 title: "Tandem et Cie"
 url: /le-perreux-sur-marne/tandem-et-cie/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

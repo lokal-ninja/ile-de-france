@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /plaisir/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

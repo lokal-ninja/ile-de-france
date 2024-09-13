@@ -1,5 +1,5 @@
 ---
 title: "Pimkie"
 url: /chambourcy/pimkie/
-shop: Kleidung
+shop: vêtements
 ---

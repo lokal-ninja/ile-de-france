@@ -1,5 +1,5 @@
 ---
 title: "Retif"
 url: /vert-saint-denis/retif/
-shop: Allgemein
+shop: shop
 ---

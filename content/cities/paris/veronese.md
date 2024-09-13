@@ -1,5 +1,5 @@
 ---
 title: "Veronese"
 url: /paris/veronese/
-shop: Lampen
+shop: lampes
 ---

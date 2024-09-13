@@ -1,5 +1,5 @@
 ---
 title: "Vegas"
 url: /fontainebleau/vegas/
-shop: Kleidung
+shop: vêtements
 ---

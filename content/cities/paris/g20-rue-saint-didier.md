@@ -1,5 +1,5 @@
 ---
 title: "G20"
 url: /paris/g20-rue-saint-didier/
-shop: Supermarkt
+shop: supermarché
 ---

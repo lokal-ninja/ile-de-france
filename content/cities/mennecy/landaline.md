@@ -1,5 +1,5 @@
 ---
 title: "L'Andaline"
 url: /mennecy/landaline/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Montmach"
 url: /montmachoux/la-montmach/
-shop: Basteln
+shop: artisanat
 ---

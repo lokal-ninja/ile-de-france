@@ -1,5 +1,5 @@
 ---
 title: "Alain Afflelou"
 url: /bretigny-sur-orge/alain-afflelou/
-shop: Optiker
+shop: opticien
 ---

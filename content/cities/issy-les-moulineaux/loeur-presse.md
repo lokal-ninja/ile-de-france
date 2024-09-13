@@ -1,5 +1,5 @@
 ---
 title: "Loeur Presse"
 url: /issy-les-moulineaux/loeur-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

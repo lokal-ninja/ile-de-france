@@ -1,5 +1,5 @@
 ---
 title: "Pressing Clean Service"
 url: /montevrain/pressing-clean-service/
-shop: Wäscherei
+shop: blanchisserie
 ---

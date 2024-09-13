@@ -1,5 +1,5 @@
 ---
 title: "Dior"
 url: /paris/dior/
-shop: Kleidung
+shop: vêtements
 ---

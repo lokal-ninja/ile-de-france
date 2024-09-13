@@ -1,5 +1,5 @@
 ---
 title: "Monop'"
 url: /saint-germain-en-laye/monop/
-shop: Lebensmittel
+shop: commodité
 ---

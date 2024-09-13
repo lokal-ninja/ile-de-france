@@ -1,5 +1,5 @@
 ---
 title: "UnicOptic"
 url: /le-vesinet/unicoptic/
-shop: Optiker
+shop: opticien
 ---

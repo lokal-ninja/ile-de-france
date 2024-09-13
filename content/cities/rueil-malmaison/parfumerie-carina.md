@@ -1,5 +1,5 @@
 ---
 title: "Parfumerie Carina"
 url: /rueil-malmaison/parfumerie-carina/
-shop: Parfümerie
+shop: parfumerie
 ---

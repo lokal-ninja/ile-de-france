@@ -1,5 +1,5 @@
 ---
 title: "Fluopap"
 url: /paris/fluopap/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

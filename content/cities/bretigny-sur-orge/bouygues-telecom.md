@@ -1,5 +1,5 @@
 ---
 title: "Bouygues Telecom"
 url: /bretigny-sur-orge/bouygues-telecom/
-shop: Handy
+shop: téléphone portable
 ---

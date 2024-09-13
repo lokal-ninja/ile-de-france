@@ -1,5 +1,5 @@
 ---
 title: "KIKO Milano"
 url: /bretigny-sur-orge/kiko-milano/
-shop: Kosmetik
+shop: beauté
 ---

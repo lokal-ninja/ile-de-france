@@ -1,5 +1,5 @@
 ---
 title: "Le Vieux Moulin"
 url: /la-ferte-gaucher/le-vieux-moulin/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Lys d'Or"
 url: /brunoy/le-lys-dor/
-shop: Kosmetik
+shop: beauté
 ---

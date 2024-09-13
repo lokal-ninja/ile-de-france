@@ -1,5 +1,5 @@
 ---
 title: "Hussanain"
 url: /paris/hussanain/
-shop: Kramladen
+shop: magasin de variétés
 ---

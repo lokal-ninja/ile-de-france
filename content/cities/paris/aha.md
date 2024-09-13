@@ -1,5 +1,5 @@
 ---
 title: "aha"
 url: /paris/aha/
-shop: Friseur
+shop: coiffeur
 ---

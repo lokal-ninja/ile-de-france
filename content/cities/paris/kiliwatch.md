@@ -1,5 +1,5 @@
 ---
 title: "Kiliwatch"
 url: /paris/kiliwatch/
-shop: Kleidung
+shop: vêtements
 ---

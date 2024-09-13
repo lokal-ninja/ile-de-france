@@ -1,5 +1,5 @@
 ---
 title: "Coxobus"
 url: /amillis/coxobus/
-shop: Autoteile
+shop: pièces de voitures
 ---

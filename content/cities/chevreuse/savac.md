@@ -1,5 +1,5 @@
 ---
 title: "SAVAC"
 url: /chevreuse/savac/
-shop: Reisebüro
+shop: agence de voyage
 ---

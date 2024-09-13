@@ -1,5 +1,5 @@
 ---
 title: "Maison Bourg"
 url: /taverny/maison-bourg/
-shop: Bäckerei
+shop: boulangerie
 ---

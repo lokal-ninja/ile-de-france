@@ -1,5 +1,5 @@
 ---
 title: "Hewad Travel"
 url: /paris/hewad-travel/
-shop: Reisebüro
+shop: agence de voyage
 ---

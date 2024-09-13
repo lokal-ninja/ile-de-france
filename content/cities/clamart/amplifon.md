@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /clamart/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

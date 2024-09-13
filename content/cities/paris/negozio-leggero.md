@@ -1,5 +1,5 @@
 ---
 title: "Negozio Leggero"
 url: /paris/negozio-leggero/
-shop: Lebensmittel
+shop: commodité
 ---

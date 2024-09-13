@@ -1,5 +1,5 @@
 ---
 title: "Zespà"
 url: /paris/zespa/
-shop: Schuhe
+shop: chaussures
 ---

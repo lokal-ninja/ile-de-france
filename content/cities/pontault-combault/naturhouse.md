@@ -1,5 +1,5 @@
 ---
 title: "Naturhouse"
 url: /pontault-combault/naturhouse/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

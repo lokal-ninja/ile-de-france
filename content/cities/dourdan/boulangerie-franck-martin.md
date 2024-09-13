@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Franck Martin"
 url: /dourdan/boulangerie-franck-martin/
-shop: Bäckerei
+shop: boulangerie
 ---

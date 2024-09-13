@@ -1,5 +1,5 @@
 ---
 title: "Barber Shop"
 url: /taverny/barber-shop/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Saint James"
 url: /paris/saint-james/
-shop: Kleidung
+shop: vêtements
 ---

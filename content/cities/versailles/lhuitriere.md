@@ -1,5 +1,5 @@
 ---
 title: "L'Huitrière"
 url: /versailles/lhuitriere/
-shop: Fisch
+shop: fruits de mer
 ---

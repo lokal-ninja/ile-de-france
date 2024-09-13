@@ -1,5 +1,5 @@
 ---
 title: "Le Rameau"
 url: /saint-denis/le-rameau/
-shop: Tabak
+shop: tabac
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Besson Chaussures"
 url: /herblay-sur-seine/besson-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

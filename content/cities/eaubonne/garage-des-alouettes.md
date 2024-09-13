@@ -1,5 +1,5 @@
 ---
 title: "Garage des Alouettes"
 url: /eaubonne/garage-des-alouettes/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

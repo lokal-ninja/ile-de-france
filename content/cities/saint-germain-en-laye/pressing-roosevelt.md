@@ -1,5 +1,5 @@
 ---
 title: "Pressing Roosevelt"
 url: /saint-germain-en-laye/pressing-roosevelt/
-shop: Wäscherei
+shop: blanchisserie
 ---

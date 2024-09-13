@@ -1,5 +1,5 @@
 ---
 title: "Cherche Midi"
 url: /paris/cherche-midi/
-shop: Baumarkt
+shop: à faire soi-même
 ---

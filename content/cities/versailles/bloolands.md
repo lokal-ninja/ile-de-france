@@ -1,5 +1,5 @@
 ---
 title: "Bloolands"
 url: /versailles/bloolands/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Produits d’antan"
 url: /paris/produits-dantan/
-shop: Baumarkt
+shop: à faire soi-même
 ---

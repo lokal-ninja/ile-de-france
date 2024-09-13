@@ -1,5 +1,5 @@
 ---
 title: "Point Smoke"
 url: /courbevoie/point-smoke/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

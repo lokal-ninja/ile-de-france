@@ -1,5 +1,5 @@
 ---
 title: "Kujten"
 url: /paris/kujten/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /montevrain/peugeot/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atelier carrosserie"
 url: /varennes-sur-seine/atelier-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

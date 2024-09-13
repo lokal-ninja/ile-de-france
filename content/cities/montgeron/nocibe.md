@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /montgeron/nocibe/
-shop: Kosmetik
+shop: beauté
 ---

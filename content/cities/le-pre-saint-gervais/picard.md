@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /le-pre-saint-gervais/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

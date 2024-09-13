@@ -1,5 +1,5 @@
 ---
 title: "Lanqui Spa Saxe"
 url: /paris/lanqui-spa-saxe/
-shop: Massage
+shop: massage
 ---

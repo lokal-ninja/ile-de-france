@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /nemours/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse - Au chapeau Rouge"
 url: /briis-sous-forges/tabac-presse-au-chapeau-rouge/
-shop: Zeitungen
+shop: marchand de journaux
 ---

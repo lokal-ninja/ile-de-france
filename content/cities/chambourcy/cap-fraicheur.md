@@ -1,5 +1,5 @@
 ---
 title: "Cap Fraicheur"
 url: /chambourcy/cap-fraicheur/
-shop: Fisch
+shop: fruits de mer
 ---

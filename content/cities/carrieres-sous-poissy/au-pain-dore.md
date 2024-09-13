@@ -1,5 +1,5 @@
 ---
 title: "Au Pain Doré"
 url: /carrieres-sous-poissy/au-pain-dore/
-shop: Bäckerei
+shop: boulangerie
 ---

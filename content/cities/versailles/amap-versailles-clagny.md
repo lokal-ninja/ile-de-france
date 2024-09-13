@@ -1,5 +1,5 @@
 ---
 title: "AMAP Versailles (Clagny)"
 url: /versailles/amap-versailles-clagny/
-shop: Hofladen
+shop: ferme
 ---

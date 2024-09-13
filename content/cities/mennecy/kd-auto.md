@@ -1,5 +1,5 @@
 ---
 title: "Kd Auto"
 url: /mennecy/kd-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

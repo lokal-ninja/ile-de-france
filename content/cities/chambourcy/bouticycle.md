@@ -1,5 +1,5 @@
 ---
 title: "Bouticycle"
 url: /chambourcy/bouticycle/
-shop: Fahrrad
+shop: vélo
 ---

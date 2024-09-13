@@ -1,5 +1,5 @@
 ---
 title: "Leonidas"
 url: /nanterre/leonidas/
-shop: Schokolade
+shop: chocolat
 ---

@@ -1,5 +1,5 @@
 ---
 title: "FM diffusion"
 url: /chatou/fm-diffusion/
-shop: Motorrad
+shop: moto
 ---

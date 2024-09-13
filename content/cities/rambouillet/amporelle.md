@@ -1,5 +1,5 @@
 ---
 title: "Amporelle"
 url: /rambouillet/amporelle/
-shop: Schmuck
+shop: bijoux
 ---

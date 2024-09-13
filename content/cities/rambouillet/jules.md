@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /rambouillet/jules/
-shop: Kleidung
+shop: vêtements
 ---

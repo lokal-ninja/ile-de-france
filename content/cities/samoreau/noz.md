@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /samoreau/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

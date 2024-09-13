@@ -1,5 +1,5 @@
 ---
 title: "AD9"
 url: /paris/ad9/
-shop: Modehaus
+shop: boutique
 ---

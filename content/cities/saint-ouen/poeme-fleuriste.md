@@ -1,5 +1,5 @@
 ---
 title: "Poème Fleuriste"
 url: /saint-ouen/poeme-fleuriste/
-shop: Blumen
+shop: fleuriste
 ---

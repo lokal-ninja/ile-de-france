@@ -1,5 +1,5 @@
 ---
 title: "La Bulle des Artistes"
 url: /thomery/la-bulle-des-artistes/
-shop: Basteln
+shop: artisanat
 ---

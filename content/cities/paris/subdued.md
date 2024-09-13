@@ -1,5 +1,5 @@
 ---
 title: "Subdued"
 url: /paris/subdued/
-shop: Kleidung
+shop: vêtements
 ---

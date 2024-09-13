@@ -1,5 +1,5 @@
 ---
 title: "The Exclusive Dog"
 url: /cormeilles-en-parisis/the-exclusive-dog/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

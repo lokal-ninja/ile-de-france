@@ -1,5 +1,5 @@
 ---
 title: "Autobacs"
 url: /pierrelaye/autobacs/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

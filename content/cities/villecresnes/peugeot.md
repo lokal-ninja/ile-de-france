@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /villecresnes/peugeot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

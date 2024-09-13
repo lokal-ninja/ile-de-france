@@ -1,5 +1,5 @@
 ---
 title: "Toto"
 url: /boulogne-billancourt/toto/
-shop: Textil
+shop: tissu
 ---

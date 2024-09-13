@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /puteaux/monoprix/
-shop: Supermarkt
+shop: supermarché
 ---

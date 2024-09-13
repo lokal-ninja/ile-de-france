@@ -1,5 +1,5 @@
 ---
 title: "Horlogerie Bijouterie"
 url: /paris/horlogerie-bijouterie/
-shop: Schmuck
+shop: bijoux
 ---

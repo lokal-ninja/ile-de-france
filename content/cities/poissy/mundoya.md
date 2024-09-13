@@ -1,5 +1,5 @@
 ---
 title: "Mundoya"
 url: /poissy/mundoya/
-shop: Kosmetik
+shop: beauté
 ---

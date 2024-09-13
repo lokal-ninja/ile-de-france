@@ -1,5 +1,5 @@
 ---
 title: "Joffo"
 url: /paris/joffo/
-shop: Friseur
+shop: coiffeur
 ---

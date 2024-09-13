@@ -1,5 +1,5 @@
 ---
 title: "Sobrino Auto"
 url: /pontault-combault/sobrino-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

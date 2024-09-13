@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /marolles-en-hurepoix/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

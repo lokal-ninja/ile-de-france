@@ -1,5 +1,5 @@
 ---
 title: "Bmc Autos"
 url: /dammarie-les-lys/bmc-autos/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

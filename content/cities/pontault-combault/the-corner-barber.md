@@ -1,5 +1,5 @@
 ---
 title: "The Corner Barber"
 url: /pontault-combault/the-corner-barber/
-shop: Friseur
+shop: coiffeur
 ---

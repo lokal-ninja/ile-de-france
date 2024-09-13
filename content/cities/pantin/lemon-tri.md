@@ -1,5 +1,5 @@
 ---
 title: "Lemon Tri"
 url: /pantin/lemon-tri/
-shop: Gebrauchtwaren
+shop: charité
 ---

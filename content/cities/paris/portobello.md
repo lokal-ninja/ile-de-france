@@ -1,5 +1,5 @@
 ---
 title: "Portobello"
 url: /paris/portobello/
-shop: Möbel
+shop: meubles
 ---

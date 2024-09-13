@@ -1,5 +1,5 @@
 ---
 title: "AIC Sport"
 url: /arcueil/aic-sport/
-shop: Fahrrad
+shop: vélo
 ---

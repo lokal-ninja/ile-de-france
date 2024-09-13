@@ -1,5 +1,5 @@
 ---
 title: "La Chocolaterie"
 url: /asnieres-sur-seine/la-chocolaterie/
-shop: Schokolade
+shop: chocolat
 ---

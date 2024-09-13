@@ -1,5 +1,5 @@
 ---
 title: "Micro Piles"
 url: /chelles/micro-piles/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Châble"
 url: /la-ferte-gaucher/boulangerie-chable/
-shop: Bäckerei
+shop: boulangerie
 ---

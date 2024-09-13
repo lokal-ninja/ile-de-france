@@ -1,5 +1,5 @@
 ---
 title: "Reine"
 url: /paris/reine/
-shop: Textil
+shop: tissu
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leroy Merlin Matériaux"
 url: /massy/leroy-merlin-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

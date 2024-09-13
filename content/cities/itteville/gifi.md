@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /itteville/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

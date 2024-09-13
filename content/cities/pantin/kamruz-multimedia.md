@@ -1,5 +1,5 @@
 ---
 title: "Kamruz Multimédia"
 url: /pantin/kamruz-multimedia/
-shop: Handy
+shop: téléphone portable
 ---

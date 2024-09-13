@@ -1,5 +1,5 @@
 ---
 title: "Arthur Bonnet"
 url: /cormeilles-en-parisis/arthur-bonnet/
-shop: Küchen
+shop: cuisine
 ---

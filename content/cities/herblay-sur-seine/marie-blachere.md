@@ -1,5 +1,5 @@
 ---
 title: "Marie Blachère"
 url: /herblay-sur-seine/marie-blachere/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barber Shop"
 url: /chatenay-malabry/barber-shop/
-shop: Friseur
+shop: coiffeur
 ---

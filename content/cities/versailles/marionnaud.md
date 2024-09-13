@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /versailles/marionnaud/
-shop: Parfümerie
+shop: parfumerie
 ---

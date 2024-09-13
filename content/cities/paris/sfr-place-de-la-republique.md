@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /paris/sfr-place-de-la-republique/
-shop: Handy
+shop: téléphone portable
 ---

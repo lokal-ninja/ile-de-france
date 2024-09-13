@@ -1,5 +1,5 @@
 ---
 title: "Sena"
 url: /moissy-cramayel/sena/
-shop: Kramladen
+shop: magasin de variétés
 ---

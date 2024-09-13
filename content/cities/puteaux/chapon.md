@@ -1,5 +1,5 @@
 ---
 title: "Chapon"
 url: /puteaux/chapon/
-shop: Schokolade
+shop: chocolat
 ---

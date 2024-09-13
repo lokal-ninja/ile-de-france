@@ -1,5 +1,5 @@
 ---
 title: "Okaïdi"
 url: /paris/okaidi/
-shop: Kleidung
+shop: vêtements
 ---

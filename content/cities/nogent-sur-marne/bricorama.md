@@ -1,5 +1,5 @@
 ---
 title: "Bricorama"
 url: /nogent-sur-marne/bricorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

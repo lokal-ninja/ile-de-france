@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Laborie"
 url: /gif-sur-yvette/boulangerie-laborie/
-shop: Bäckerei
+shop: boulangerie
 ---

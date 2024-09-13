@@ -1,5 +1,5 @@
 ---
 title: "Pharmacie du Centre"
 url: /ozoir-la-ferriere/pharmacie-du-centre/
-shop: Drogerie
+shop: chimiste
 ---

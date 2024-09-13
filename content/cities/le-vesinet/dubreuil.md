@@ -1,5 +1,5 @@
 ---
 title: "Dubreuil"
 url: /le-vesinet/dubreuil/
-shop: Schmuck
+shop: bijoux
 ---

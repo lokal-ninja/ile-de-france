@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Laplace"
 url: /arcueil/boulangerie-laplace/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lebara exotique du perreux"
 url: /le-perreux-sur-marne/lebara-exotique-du-perreux/
-shop: Lebensmittel
+shop: commodité
 ---

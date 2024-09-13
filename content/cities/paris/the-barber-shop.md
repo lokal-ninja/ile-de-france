@@ -1,5 +1,5 @@
 ---
 title: "The Barber Shop"
 url: /paris/the-barber-shop/
-shop: Friseur
+shop: coiffeur
 ---

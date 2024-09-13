@@ -1,5 +1,5 @@
 ---
 title: "Domino Bazar"
 url: /paris/domino-bazar/
-shop: Eisenwaren
+shop: matériel informatique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Timberland"
 url: /fontainebleau/timberland/
-shop: Kleidung
+shop: vêtements
 ---

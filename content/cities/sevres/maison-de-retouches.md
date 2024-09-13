@@ -1,5 +1,5 @@
 ---
 title: "Maison de Retouches"
 url: /sevres/maison-de-retouches/
-shop: Schneiderei
+shop: tailleur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Loto"
 url: /issy-les-moulineaux/loto/
-shop: Lotterie
+shop: loterie
 ---

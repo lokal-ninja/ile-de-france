@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
 url: /rambouillet/micromania/
-shop: Videospiele
+shop: jeux vidéo
 ---

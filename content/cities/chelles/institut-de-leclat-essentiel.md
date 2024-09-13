@@ -1,5 +1,5 @@
 ---
 title: "Institut de l'éclat essentiel"
 url: /chelles/institut-de-leclat-essentiel/
-shop: Kosmetik
+shop: beauté
 ---

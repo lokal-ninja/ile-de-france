@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /lognes/office-depot/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

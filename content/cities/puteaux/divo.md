@@ -1,5 +1,5 @@
 ---
 title: "Divo"
 url: /puteaux/divo/
-shop: Lebensmittel
+shop: commodité
 ---

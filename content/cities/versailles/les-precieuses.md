@@ -1,5 +1,5 @@
 ---
 title: "Les Précieuses"
 url: /versailles/les-precieuses/
-shop: Schmuck
+shop: bijoux
 ---

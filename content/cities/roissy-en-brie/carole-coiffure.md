@@ -1,5 +1,5 @@
 ---
 title: "Carole Coiffure"
 url: /roissy-en-brie/carole-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

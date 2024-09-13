@@ -1,5 +1,5 @@
 ---
 title: "Miyam"
 url: /montreuil/miyam/
-shop: Lebensmittel
+shop: commodité
 ---

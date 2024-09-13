@@ -1,5 +1,5 @@
 ---
 title: "MSL"
 url: /ivry-sur-seine/msl/
-shop: Wäscherei
+shop: blanchisserie
 ---

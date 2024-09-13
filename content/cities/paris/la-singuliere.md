@@ -1,5 +1,5 @@
 ---
 title: "La Singulière"
 url: /paris/la-singuliere/
-shop: Antiquitäten
+shop: antiquités
 ---

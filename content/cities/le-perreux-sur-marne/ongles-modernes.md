@@ -1,5 +1,5 @@
 ---
 title: "Ongles modernes"
 url: /le-perreux-sur-marne/ongles-modernes/
-shop: Kosmetik
+shop: beauté
 ---

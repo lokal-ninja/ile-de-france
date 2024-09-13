@@ -1,5 +1,5 @@
 ---
 title: "Cavavin"
 url: /fontainebleau/cavavin/
-shop: Wein
+shop: vin
 ---

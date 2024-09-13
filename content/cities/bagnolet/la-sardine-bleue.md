@@ -1,5 +1,5 @@
 ---
 title: "La Sardine Bleue"
 url: /bagnolet/la-sardine-bleue/
-shop: Fahrrad
+shop: vélo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "YellowKorner"
 url: /paris/yellowkorner/
-shop: Kunst
+shop: art
 ---

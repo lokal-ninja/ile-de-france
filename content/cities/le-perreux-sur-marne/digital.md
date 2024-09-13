@@ -1,5 +1,5 @@
 ---
 title: "Digital"
 url: /le-perreux-sur-marne/digital/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MODO"
 url: /moisselles/modo/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

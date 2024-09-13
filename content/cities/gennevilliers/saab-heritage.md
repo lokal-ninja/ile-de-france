@@ -1,5 +1,5 @@
 ---
 title: "Saab Héritage"
 url: /gennevilliers/saab-heritage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

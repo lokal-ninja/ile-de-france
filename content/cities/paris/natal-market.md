@@ -1,5 +1,5 @@
 ---
 title: "Natal Market"
 url: /paris/natal-market/
-shop: Babysachen
+shop: produits pour bébés
 ---

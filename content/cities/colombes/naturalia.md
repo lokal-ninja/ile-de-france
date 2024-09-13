@@ -1,5 +1,5 @@
 ---
 title: "Naturalia"
 url: /colombes/naturalia/
-shop: Supermarkt
+shop: supermarché
 ---

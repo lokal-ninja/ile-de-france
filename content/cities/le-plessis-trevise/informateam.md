@@ -1,5 +1,5 @@
 ---
 title: "Informateam"
 url: /le-plessis-trevise/informateam/
-shop: Computer
+shop: ordinateur
 ---

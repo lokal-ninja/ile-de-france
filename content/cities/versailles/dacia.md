@@ -1,5 +1,5 @@
 ---
 title: "Dacia"
 url: /versailles/dacia/
-shop: Autohaus
+shop: voiture
 ---

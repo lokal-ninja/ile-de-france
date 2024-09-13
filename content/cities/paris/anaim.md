@@ -1,5 +1,5 @@
 ---
 title: "Anaïm"
 url: /paris/anaim/
-shop: Kleidung
+shop: vêtements
 ---

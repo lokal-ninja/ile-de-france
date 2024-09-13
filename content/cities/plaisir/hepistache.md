@@ -1,5 +1,5 @@
 ---
 title: "Hep'istache"
 url: /plaisir/hepistache/
-shop: Supermarkt
+shop: supermarché
 ---

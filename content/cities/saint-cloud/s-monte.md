@@ -1,5 +1,5 @@
 ---
 title: "S.Monte"
 url: /saint-cloud/s-monte/
-shop: Bäckerei
+shop: boulangerie
 ---

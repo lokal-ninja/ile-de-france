@@ -1,5 +1,5 @@
 ---
 title: "Sucré Cœur"
 url: /paris/sucre-coeur/
-shop: Konditorei
+shop: pâtisserie
 ---

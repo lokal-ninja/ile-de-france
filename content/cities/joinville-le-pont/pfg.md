@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /joinville-le-pont/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

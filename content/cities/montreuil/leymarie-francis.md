@@ -1,5 +1,5 @@
 ---
 title: "Leymarie Francis"
 url: /montreuil/leymarie-francis/
-shop: Blumen
+shop: fleuriste
 ---

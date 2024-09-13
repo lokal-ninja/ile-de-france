@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /juvisy-sur-orge/auchan/
-shop: Supermarkt
+shop: supermarché
 ---

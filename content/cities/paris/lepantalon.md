@@ -1,5 +1,5 @@
 ---
 title: "LePantalon"
 url: /paris/lepantalon/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /etampes/intermarche-super/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Celine Delphi"
 url: /le-plessis-trevise/celine-delphi/
-shop: Friseur
+shop: coiffeur
 ---

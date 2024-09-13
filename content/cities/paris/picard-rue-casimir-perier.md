@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /paris/picard-rue-casimir-perier/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

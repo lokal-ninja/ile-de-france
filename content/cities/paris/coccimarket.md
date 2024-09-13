@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /paris/coccimarket/
-shop: Lebensmittel
+shop: commodité
 ---

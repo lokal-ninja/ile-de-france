@@ -1,5 +1,5 @@
 ---
 title: "Charlotte et Juliette"
 url: /le-vesinet/charlotte-et-juliette/
-shop: Andenken
+shop: cadeau
 ---

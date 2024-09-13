@@ -1,5 +1,5 @@
 ---
 title: "Pacemaker"
 url: /champagne-sur-oise/pacemaker/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AT Supermarché"
 url: /paris/at-supermarche/
-shop: Lebensmittel
+shop: commodité
 ---

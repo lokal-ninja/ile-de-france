@@ -1,5 +1,5 @@
 ---
 title: "Muskhane"
 url: /paris/muskhane/
-shop: Warenhaus
+shop: grand magasin
 ---

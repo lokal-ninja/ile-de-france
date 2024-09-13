@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /jouy-en-josas/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

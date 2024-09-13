@@ -1,5 +1,5 @@
 ---
 title: "Chez Jules"
 url: /le-pecq/chez-jules/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castorama"
 url: /cormeilles-en-parisis/castorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

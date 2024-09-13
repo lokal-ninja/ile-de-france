@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /viry-chatillon/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

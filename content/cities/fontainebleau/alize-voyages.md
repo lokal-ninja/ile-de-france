@@ -1,5 +1,5 @@
 ---
 title: "Alizé Voyages"
 url: /fontainebleau/alize-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

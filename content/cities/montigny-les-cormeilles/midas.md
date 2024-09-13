@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /montigny-les-cormeilles/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

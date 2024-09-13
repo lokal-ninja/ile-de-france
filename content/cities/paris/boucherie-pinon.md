@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Pinon"
 url: /paris/boucherie-pinon/
-shop: Metzgerei
+shop: boucherie
 ---

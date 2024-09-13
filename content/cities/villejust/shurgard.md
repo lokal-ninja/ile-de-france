@@ -1,5 +1,5 @@
 ---
 title: "Shurgard"
 url: /villejust/shurgard/
-shop: Mieten
+shop: location de stockage
 ---

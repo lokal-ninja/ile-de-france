@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /gazeran/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

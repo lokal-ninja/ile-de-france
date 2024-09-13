@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /coulommiers/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pak Auto"
 url: /vaux-le-penil/pak-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

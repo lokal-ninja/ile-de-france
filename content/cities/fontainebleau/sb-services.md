@@ -1,5 +1,5 @@
 ---
 title: "SB Services"
 url: /fontainebleau/sb-services/
-shop: Lebensmittel
+shop: commodité
 ---

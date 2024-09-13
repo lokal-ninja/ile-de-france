@@ -1,5 +1,5 @@
 ---
 title: "Philippe Moret"
 url: /avrainville/philippe-moret/
-shop: Garten-Center
+shop: centre de jardinage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Saint-Maclou"
 url: /velizy-villacoublay/saint-maclou/
-shop: Baumarkt
+shop: à faire soi-même
 ---

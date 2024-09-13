@@ -1,5 +1,5 @@
 ---
-title: "Macon et Lesquoy"
+title: "Macon & Lesquoy"
 url: /paris/macon-et-lesquoy/
-shop: Modehaus
+shop: boutique
 ---

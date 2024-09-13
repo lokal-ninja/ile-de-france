@@ -1,5 +1,5 @@
 ---
 title: "Acuitis"
 url: /rambouillet/acuitis/
-shop: Optiker
+shop: opticien
 ---

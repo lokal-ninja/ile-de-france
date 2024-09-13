@@ -1,5 +1,5 @@
 ---
 title: "Nirvana"
 url: /chelles/nirvana/
-shop: Erotik
+shop: érotique
 ---

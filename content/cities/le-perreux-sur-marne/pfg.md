@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /le-perreux-sur-marne/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Swapfiets"
 url: /paris/swapfiets/
-shop: Mieten
+shop: location de stockage
 ---

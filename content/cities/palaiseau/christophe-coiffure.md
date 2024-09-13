@@ -1,5 +1,5 @@
 ---
 title: "Christophe Coiffure"
 url: /palaiseau/christophe-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

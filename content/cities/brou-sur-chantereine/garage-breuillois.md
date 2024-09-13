@@ -1,5 +1,5 @@
 ---
 title: "Garage Breuillois"
 url: /brou-sur-chantereine/garage-breuillois/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

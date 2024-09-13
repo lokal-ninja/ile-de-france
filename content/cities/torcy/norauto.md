@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /torcy/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

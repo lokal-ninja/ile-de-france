@@ -1,5 +1,5 @@
 ---
 title: "Kawa Factory"
 url: /pontault-combault/kawa-factory/
-shop: Motorrad
+shop: moto
 ---

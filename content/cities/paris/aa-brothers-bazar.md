@@ -1,5 +1,5 @@
 ---
 title: "AA. Brothers Bazar"
 url: /paris/aa-brothers-bazar/
-shop: Lebensmittel
+shop: commodité
 ---

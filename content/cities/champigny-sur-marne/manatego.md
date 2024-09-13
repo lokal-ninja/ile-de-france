@@ -1,5 +1,5 @@
 ---
 title: "MANATEGO"
 url: /champigny-sur-marne/manatego/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

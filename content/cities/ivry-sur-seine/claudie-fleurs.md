@@ -1,5 +1,5 @@
 ---
 title: "Claudie Fleurs"
 url: /ivry-sur-seine/claudie-fleurs/
-shop: Blumen
+shop: fleuriste
 ---

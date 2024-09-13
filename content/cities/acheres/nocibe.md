@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /acheres/nocibe/
-shop: Kosmetik
+shop: beauté
 ---

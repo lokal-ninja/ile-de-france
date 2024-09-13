@@ -1,5 +1,5 @@
 ---
 title: "Antiquités Claude"
 url: /puteaux/antiquites-claude/
-shop: Antiquitäten
+shop: antiquités
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hafa"
 url: /chaville/hafa/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

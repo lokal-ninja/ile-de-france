@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Habhab"
 url: /asnieres-sur-seine/boulangerie-habhab/
-shop: Bäckerei
+shop: boulangerie
 ---

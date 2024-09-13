@@ -1,5 +1,5 @@
 ---
 title: "Franck Provost"
 url: /chaville/franck-provost/
-shop: Friseur
+shop: coiffeur
 ---

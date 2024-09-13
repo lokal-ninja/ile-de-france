@@ -1,5 +1,5 @@
 ---
 title: "Seat BNA Chelles"
 url: /chelles/seat-bna-chelles/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chez Rose"
 url: /paris/chez-rose/
-shop: Blumen
+shop: fleuriste
 ---

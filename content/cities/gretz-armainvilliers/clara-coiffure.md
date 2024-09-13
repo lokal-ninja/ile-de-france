@@ -1,5 +1,5 @@
 ---
 title: "Clara Coiffure"
 url: /gretz-armainvilliers/clara-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

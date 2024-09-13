@@ -1,5 +1,5 @@
 ---
 title: "Onfroy"
 url: /paris/onfroy/
-shop: Bäckerei
+shop: boulangerie
 ---

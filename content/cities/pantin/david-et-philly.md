@@ -1,5 +1,5 @@
 ---
 title: "David et Philly"
 url: /pantin/david-et-philly/
-shop: Schmuck
+shop: bijoux
 ---

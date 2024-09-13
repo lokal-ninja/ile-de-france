@@ -1,5 +1,5 @@
 ---
 title: "Épicerie Roots"
 url: /paris/epicerie-roots/
-shop: Gemüse & Obst
+shop: légumes
 ---

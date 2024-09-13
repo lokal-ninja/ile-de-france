@@ -1,5 +1,5 @@
 ---
 title: "Aux Délices de Plaisance"
 url: /neuilly-plaisance/aux-delices-de-plaisance/
-shop: Bäckerei
+shop: boulangerie
 ---

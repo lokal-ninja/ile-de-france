@@ -1,5 +1,5 @@
 ---
 title: "Fabio Salsa"
 url: /villabe/fabio-salsa/
-shop: Friseur
+shop: coiffeur
 ---

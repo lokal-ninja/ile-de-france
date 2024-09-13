@@ -1,5 +1,5 @@
 ---
 title: "Truffaut"
 url: /gazeran/truffaut/
-shop: Garten-Center
+shop: centre de jardinage
 ---

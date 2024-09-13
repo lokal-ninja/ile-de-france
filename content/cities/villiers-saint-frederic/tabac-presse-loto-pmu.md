@@ -1,5 +1,5 @@
 ---
 title: "Tabac-Presse-Loto-PMU"
 url: /villiers-saint-frederic/tabac-presse-loto-pmu/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Filao"
 url: /saclas/filao/
-shop: Fisch
+shop: fruits de mer
 ---

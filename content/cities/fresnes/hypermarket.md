@@ -1,5 +1,5 @@
 ---
 title: "Hypermarket"
 url: /fresnes/hypermarket/
-shop: Supermarkt
+shop: supermarché
 ---

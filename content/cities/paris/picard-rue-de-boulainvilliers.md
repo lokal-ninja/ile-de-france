@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /paris/picard-rue-de-boulainvilliers/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

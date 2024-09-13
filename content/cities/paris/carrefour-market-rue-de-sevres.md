@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /paris/carrefour-market-rue-de-sevres/
-shop: Supermarkt
+shop: supermarché
 ---

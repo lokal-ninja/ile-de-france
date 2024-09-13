@@ -1,5 +1,5 @@
 ---
 title: "Laurent Coiffure"
 url: /fontainebleau/laurent-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

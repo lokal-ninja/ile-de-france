@@ -1,5 +1,5 @@
 ---
 title: "Garage Olympío"
 url: /gonesse/garage-olympio/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

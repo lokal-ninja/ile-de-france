@@ -1,5 +1,5 @@
 ---
 title: "Westfield Forum des Halles"
 url: /paris/westfield-forum-des-halles/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

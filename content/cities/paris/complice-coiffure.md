@@ -1,5 +1,5 @@
 ---
 title: "Complice Coiffure"
 url: /paris/complice-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

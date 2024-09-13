@@ -1,5 +1,5 @@
 ---
 title: "Michette"
 url: /paris/michette/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

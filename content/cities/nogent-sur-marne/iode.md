@@ -1,5 +1,5 @@
 ---
 title: "iOdé"
 url: /nogent-sur-marne/iode/
-shop: Fisch
+shop: fruits de mer
 ---

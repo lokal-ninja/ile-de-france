@@ -1,5 +1,5 @@
 ---
 title: "Igloo"
 url: /chatillon/igloo/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /taverny/franprix/
-shop: Lebensmittel
+shop: commodité
 ---

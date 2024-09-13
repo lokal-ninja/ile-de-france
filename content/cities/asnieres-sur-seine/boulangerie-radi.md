@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Radi"
 url: /asnieres-sur-seine/boulangerie-radi/
-shop: Bäckerei
+shop: boulangerie
 ---

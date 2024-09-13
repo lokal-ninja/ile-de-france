@@ -1,5 +1,5 @@
 ---
 title: "Seralu"
 url: /paris/seralu/
-shop: Schlüsseldienst
+shop: serrurier
 ---

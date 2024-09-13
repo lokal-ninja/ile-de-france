@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /poissy/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

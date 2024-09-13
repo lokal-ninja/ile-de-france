@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /asnieres-sur-seine/franprix/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Conforama"
 url: /paris/conforama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

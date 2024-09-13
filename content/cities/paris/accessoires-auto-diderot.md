@@ -1,5 +1,5 @@
 ---
 title: "Accessoires Auto Diderot"
 url: /paris/accessoires-auto-diderot/
-shop: Autoteile
+shop: pièces de voitures
 ---

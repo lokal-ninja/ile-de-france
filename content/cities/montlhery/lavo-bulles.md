@@ -1,5 +1,5 @@
 ---
 title: "Lav'o bulles"
 url: /montlhery/lavo-bulles/
-shop: Wäscherei
+shop: blanchisserie
 ---

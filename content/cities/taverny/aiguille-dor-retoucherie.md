@@ -1,5 +1,5 @@
 ---
 title: "Aiguille d'or Retoucherie"
 url: /taverny/aiguille-dor-retoucherie/
-shop: Allgemein
+shop: shop
 ---

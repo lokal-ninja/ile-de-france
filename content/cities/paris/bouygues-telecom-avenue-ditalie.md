@@ -1,5 +1,5 @@
 ---
 title: "Bouygues télécom"
 url: /paris/bouygues-telecom-avenue-ditalie/
-shop: Handy
+shop: téléphone portable
 ---

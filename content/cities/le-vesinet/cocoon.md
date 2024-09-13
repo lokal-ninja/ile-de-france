@@ -1,5 +1,5 @@
 ---
 title: "Cocoon"
 url: /le-vesinet/cocoon/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

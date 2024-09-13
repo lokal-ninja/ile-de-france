@@ -1,5 +1,5 @@
 ---
 title: "J.M. Weston"
 url: /paris/j-m-weston/
-shop: Schuhe
+shop: chaussures
 ---

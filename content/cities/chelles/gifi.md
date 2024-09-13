@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /chelles/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

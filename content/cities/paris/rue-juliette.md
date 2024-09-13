@@ -1,5 +1,5 @@
 ---
 title: "Rue Juliette"
 url: /paris/rue-juliette/
-shop: Lebensmittel
+shop: commodité
 ---

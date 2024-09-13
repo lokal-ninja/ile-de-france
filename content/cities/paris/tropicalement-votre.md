@@ -1,5 +1,5 @@
 ---
 title: "Tropicalement Vôtre"
 url: /paris/tropicalement-votre/
-shop: Reisebüro
+shop: agence de voyage
 ---

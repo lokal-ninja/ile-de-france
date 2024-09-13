@@ -1,5 +1,5 @@
 ---
 title: "KTC"
 url: /paris/ktc/
-shop: Handy
+shop: téléphone portable
 ---

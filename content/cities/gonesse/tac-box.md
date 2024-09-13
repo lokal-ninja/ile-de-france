@@ -1,5 +1,5 @@
 ---
 title: "TAC Box"
 url: /gonesse/tac-box/
-shop: Mieten
+shop: location de stockage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chaussea"
 url: /chaville/chaussea/
-shop: Schuhe
+shop: chaussures
 ---

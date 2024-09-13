@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /massy/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

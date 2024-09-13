@@ -1,5 +1,5 @@
 ---
 title: "Lubexpress"
 url: /evry-courcouronnes/lubexpress/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

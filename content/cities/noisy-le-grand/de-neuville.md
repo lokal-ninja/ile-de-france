@@ -1,5 +1,5 @@
 ---
 title: "De Neuville"
 url: /noisy-le-grand/de-neuville/
-shop: Schokolade
+shop: chocolat
 ---

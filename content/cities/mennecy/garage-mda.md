@@ -1,5 +1,5 @@
 ---
 title: "Garage Mda"
 url: /mennecy/garage-mda/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

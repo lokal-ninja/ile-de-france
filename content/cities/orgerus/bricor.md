@@ -1,5 +1,5 @@
 ---
 title: "Bricor"
 url: /orgerus/bricor/
-shop: Baumarkt
+shop: à faire soi-même
 ---

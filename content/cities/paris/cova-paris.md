@@ -1,5 +1,5 @@
 ---
 title: "Cova Paris"
 url: /paris/cova-paris/
-shop: Konditorei
+shop: pâtisserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /le-perreux-sur-marne/renault/
-shop: Autohaus
+shop: voiture
 ---

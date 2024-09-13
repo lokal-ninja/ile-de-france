@@ -1,5 +1,5 @@
 ---
 title: "LPB"
 url: /paris/lpb/
-shop: Babysachen
+shop: produits pour bébés
 ---

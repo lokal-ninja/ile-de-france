@@ -1,5 +1,5 @@
 ---
 title: "commerce vacant"
 url: /motrouge/commerce-vacant/
-shop: Tiere
+shop: animal de compagnie
 ---

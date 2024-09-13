@@ -1,5 +1,5 @@
 ---
 title: "Le Zèbre"
 url: /saint-remy-les-chevreuse/le-zebre/
-shop: Andenken
+shop: cadeau
 ---

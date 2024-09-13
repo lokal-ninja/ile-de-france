@@ -1,5 +1,5 @@
 ---
 title: "Guinot"
 url: /paris/guinot/
-shop: Kosmetik
+shop: beauté
 ---

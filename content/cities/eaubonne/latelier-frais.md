@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier Frais"
 url: /eaubonne/latelier-frais/
-shop: Supermarkt
+shop: supermarché
 ---

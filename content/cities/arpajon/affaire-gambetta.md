@@ -1,5 +1,5 @@
 ---
 title: "Affaire Gambetta"
 url: /arpajon/affaire-gambetta/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /saint-mande/carrefour-city/
-shop: Supermarkt
+shop: supermarché
 ---

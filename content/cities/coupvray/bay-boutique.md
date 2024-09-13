@@ -1,5 +1,5 @@
 ---
 title: "Bay Boutique"
 url: /coupvray/bay-boutique/
-shop: Andenken
+shop: cadeau
 ---

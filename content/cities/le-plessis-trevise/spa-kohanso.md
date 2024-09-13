@@ -1,5 +1,5 @@
 ---
 title: "Spa Ko'Hanso"
 url: /le-plessis-trevise/spa-kohanso/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Angelo Gabrieli"
 url: /le-vesinet/angelo-gabrieli/
-shop: Friseur
+shop: coiffeur
 ---

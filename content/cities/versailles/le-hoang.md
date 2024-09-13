@@ -1,5 +1,5 @@
 ---
 title: "Le Hoang"
 url: /versailles/le-hoang/
-shop: Zeitungen
+shop: marchand de journaux
 ---

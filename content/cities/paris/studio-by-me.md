@@ -1,5 +1,5 @@
 ---
 title: "Studio by me"
 url: /paris/studio-by-me/
-shop: Friseur
+shop: coiffeur
 ---

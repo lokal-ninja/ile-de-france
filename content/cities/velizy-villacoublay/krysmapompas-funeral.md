@@ -1,5 +1,5 @@
 ---
 title: "KrysmaPompas Funeral"
 url: /velizy-villacoublay/krysmapompas-funeral/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

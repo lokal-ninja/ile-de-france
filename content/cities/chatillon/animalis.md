@@ -1,5 +1,5 @@
 ---
 title: "Animalis"
 url: /chatillon/animalis/
-shop: Tiere
+shop: animal de compagnie
 ---

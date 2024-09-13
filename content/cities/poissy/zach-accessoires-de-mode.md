@@ -1,5 +1,5 @@
 ---
 title: "Zach accessoires de mode"
 url: /poissy/zach-accessoires-de-mode/
-shop: Kleidung
+shop: vêtements
 ---

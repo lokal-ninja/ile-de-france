@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Nardon"
 url: /versailles/boucherie-nardon/
-shop: Metzgerei
+shop: boucherie
 ---

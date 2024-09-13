@@ -1,5 +1,5 @@
 ---
 title: "Eleganzza"
 url: /marly-le-roi/eleganzza/
-shop: Friseur
+shop: coiffeur
 ---

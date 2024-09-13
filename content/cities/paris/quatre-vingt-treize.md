@@ -1,5 +1,5 @@
 ---
 title: "quatre vingt treize"
 url: /paris/quatre-vingt-treize/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /villabe/orange/
-shop: Handy
+shop: téléphone portable
 ---

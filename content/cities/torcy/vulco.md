@@ -1,5 +1,5 @@
 ---
 title: "Vulco"
 url: /torcy/vulco/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

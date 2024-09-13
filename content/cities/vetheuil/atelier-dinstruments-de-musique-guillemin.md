@@ -1,5 +1,5 @@
 ---
 title: "Atelier d'Instruments de Musique Guillemin"
 url: /vetheuil/atelier-dinstruments-de-musique-guillemin/
-shop: Instrumente
+shop: instrument de musique
 ---

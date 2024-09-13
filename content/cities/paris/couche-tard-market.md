@@ -1,5 +1,5 @@
 ---
 title: "Couche Tard Market"
 url: /paris/couche-tard-market/
-shop: Lebensmittel
+shop: commodité
 ---

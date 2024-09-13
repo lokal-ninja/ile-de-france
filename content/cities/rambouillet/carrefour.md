@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /rambouillet/carrefour/
-shop: Gasflaschen
+shop: gaz
 ---

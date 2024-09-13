@@ -1,5 +1,5 @@
 ---
 title: "L'Épée de Bois"
 url: /paris/lepee-de-bois/
-shop: Spielzeug
+shop: jouets
 ---

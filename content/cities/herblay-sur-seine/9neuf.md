@@ -1,5 +1,5 @@
 ---
 title: "9Neuf"
 url: /herblay-sur-seine/9neuf/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuinThéSens"
 url: /chevreuse/quinthesens/
-shop: Tee
+shop: thé
 ---

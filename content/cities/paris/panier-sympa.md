@@ -1,5 +1,5 @@
 ---
 title: "Panier Sympa"
 url: /paris/panier-sympa/
-shop: Lebensmittel
+shop: commodité
 ---

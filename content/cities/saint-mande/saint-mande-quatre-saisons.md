@@ -1,5 +1,5 @@
 ---
 title: "Saint-Mandé Quatre Saisons"
 url: /saint-mande/saint-mande-quatre-saisons/
-shop: Gemüse & Obst
+shop: légumes
 ---

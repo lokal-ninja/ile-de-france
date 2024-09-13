@@ -1,5 +1,5 @@
 ---
 title: "Utile"
 url: /paris/utile/
-shop: Lebensmittel
+shop: commodité
 ---

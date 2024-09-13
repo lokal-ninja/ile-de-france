@@ -1,5 +1,5 @@
 ---
 title: "Citroën Félix Faure Limay"
 url: /limay/citroen-felix-faure-limay/
-shop: Autohaus
+shop: voiture
 ---

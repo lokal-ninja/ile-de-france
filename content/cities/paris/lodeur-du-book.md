@@ -1,5 +1,5 @@
 ---
 title: "L'Odeur du Book"
 url: /paris/lodeur-du-book/
-shop: Bücher
+shop: livres
 ---

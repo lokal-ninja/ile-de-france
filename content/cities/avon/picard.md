@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /avon/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

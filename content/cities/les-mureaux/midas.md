@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /les-mureaux/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

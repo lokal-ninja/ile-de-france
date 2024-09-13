@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /torcy/franprix/
-shop: Lebensmittel
+shop: commodité
 ---

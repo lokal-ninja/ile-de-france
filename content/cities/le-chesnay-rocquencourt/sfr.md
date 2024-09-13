@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /le-chesnay-rocquencourt/sfr/
-shop: Handy
+shop: téléphone portable
 ---

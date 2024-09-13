@@ -1,5 +1,5 @@
 ---
 title: "NSV Alimentation"
 url: /chelles/nsv-alimentation/
-shop: Lebensmittel
+shop: commodité
 ---

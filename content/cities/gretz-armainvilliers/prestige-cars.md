@@ -1,5 +1,5 @@
 ---
 title: "Prestige Cars"
 url: /gretz-armainvilliers/prestige-cars/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

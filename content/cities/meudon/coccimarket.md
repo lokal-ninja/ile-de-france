@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /meudon/coccimarket/
-shop: Lebensmittel
+shop: commodité
 ---

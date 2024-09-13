@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /pontault-combault/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "West Bike"
 url: /coignieres/west-bike/
-shop: Motorrad
+shop: moto
 ---

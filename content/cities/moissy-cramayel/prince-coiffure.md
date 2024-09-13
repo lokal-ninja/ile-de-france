@@ -1,5 +1,5 @@
 ---
 title: "Prince Coiffure"
 url: /moissy-cramayel/prince-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

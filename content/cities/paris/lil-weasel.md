@@ -1,5 +1,5 @@
 ---
 title: "Lil Weasel"
 url: /paris/lil-weasel/
-shop: Textil
+shop: tissu
 ---

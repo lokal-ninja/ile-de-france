@@ -1,5 +1,5 @@
 ---
 title: "Garage Renault"
 url: /paris/garage-renault/
-shop: Autohaus
+shop: voiture
 ---

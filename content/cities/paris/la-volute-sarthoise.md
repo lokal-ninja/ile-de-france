@@ -1,5 +1,5 @@
 ---
 title: "La Volute Sarthoise"
 url: /paris/la-volute-sarthoise/
-shop: Tabak
+shop: tabac
 ---

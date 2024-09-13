@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /issy-les-moulineaux/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

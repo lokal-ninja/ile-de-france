@@ -1,5 +1,5 @@
 ---
 title: "Boris B."
 url: /paris/boris-b/
-shop: Friseur
+shop: coiffeur
 ---

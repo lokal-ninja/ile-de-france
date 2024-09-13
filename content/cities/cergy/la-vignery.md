@@ -1,5 +1,5 @@
 ---
 title: "La Vignery"
 url: /cergy/la-vignery/
-shop: Wein
+shop: vin
 ---

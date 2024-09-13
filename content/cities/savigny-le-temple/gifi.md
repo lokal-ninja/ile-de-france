@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /savigny-le-temple/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

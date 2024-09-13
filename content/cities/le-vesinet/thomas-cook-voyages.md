@@ -1,5 +1,5 @@
 ---
 title: "Thomas Cook Voyages"
 url: /le-vesinet/thomas-cook-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

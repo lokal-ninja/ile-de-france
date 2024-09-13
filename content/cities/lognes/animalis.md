@@ -1,5 +1,5 @@
 ---
 title: "Animalis"
 url: /lognes/animalis/
-shop: Tiere
+shop: animal de compagnie
 ---

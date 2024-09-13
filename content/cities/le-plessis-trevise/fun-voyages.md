@@ -1,5 +1,5 @@
 ---
 title: "Fun voyages"
 url: /le-plessis-trevise/fun-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

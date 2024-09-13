@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /taverny/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

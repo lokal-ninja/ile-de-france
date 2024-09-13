@@ -1,5 +1,5 @@
 ---
 title: "Parapharmacie Nadjahi"
 url: /rambouillet/parapharmacie-nadjahi/
-shop: Drogerie
+shop: chimiste
 ---

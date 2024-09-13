@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /gennevilliers/stokomani/
-shop: Kramladen
+shop: magasin de variétés
 ---

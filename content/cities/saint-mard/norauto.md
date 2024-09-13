@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /saint-mard/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

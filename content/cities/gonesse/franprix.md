@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /gonesse/franprix/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /houilles/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

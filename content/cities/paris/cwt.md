@@ -1,5 +1,5 @@
 ---
 title: "CWT"
 url: /paris/cwt/
-shop: Reisebüro
+shop: agence de voyage
 ---

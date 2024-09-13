@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /crecy-la-chapelle/intermarche-super/
-shop: Supermarkt
+shop: supermarché
 ---

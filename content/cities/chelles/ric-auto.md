@@ -1,5 +1,5 @@
 ---
 title: "Ric Auto"
 url: /chelles/ric-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

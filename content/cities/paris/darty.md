@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /paris/darty/
-shop: Küchen
+shop: cuisine
 ---

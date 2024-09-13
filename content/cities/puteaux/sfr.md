@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /puteaux/sfr/
-shop: Handy
+shop: téléphone portable
 ---

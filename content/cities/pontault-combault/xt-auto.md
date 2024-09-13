@@ -1,5 +1,5 @@
 ---
 title: "Xt Auto"
 url: /pontault-combault/xt-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

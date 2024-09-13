@@ -1,5 +1,5 @@
 ---
 title: "Fabio Salsa"
 url: /rambouillet/fabio-salsa/
-shop: Friseur
+shop: coiffeur
 ---

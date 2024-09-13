@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /vert-saint-denis/honda/
-shop: Motorrad
+shop: moto
 ---

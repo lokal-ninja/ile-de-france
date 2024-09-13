@@ -1,5 +1,5 @@
 ---
 title: "Cybele"
 url: /paris/cybele/
-shop: Bücher
+shop: livres
 ---

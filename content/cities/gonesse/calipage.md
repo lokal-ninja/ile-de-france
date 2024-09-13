@@ -1,5 +1,5 @@
 ---
 title: "Calipage"
 url: /gonesse/calipage/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

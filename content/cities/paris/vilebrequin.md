@@ -1,5 +1,5 @@
 ---
 title: "Vilebrequin"
 url: /paris/vilebrequin/
-shop: Kleidung
+shop: vêtements
 ---

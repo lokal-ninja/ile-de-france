@@ -1,5 +1,5 @@
 ---
 title: "Jackie-jag"
 url: /courbevoie/jackie-jag/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

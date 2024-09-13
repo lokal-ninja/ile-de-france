@@ -1,5 +1,5 @@
 ---
 title: "Chevignon"
 url: /serris/chevignon/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /saint-brice-sous-foret/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

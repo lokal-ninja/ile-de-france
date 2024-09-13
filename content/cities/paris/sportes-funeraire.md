@@ -1,5 +1,5 @@
 ---
 title: "Sportès Funéraire"
 url: /paris/sportes-funeraire/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

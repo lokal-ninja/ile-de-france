@@ -1,5 +1,5 @@
 ---
 title: "Dimension Carrelage"
 url: /eragny-sur-oise/dimension-carrelage/
-shop: Möbel
+shop: meubles
 ---

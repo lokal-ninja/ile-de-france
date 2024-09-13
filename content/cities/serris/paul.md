@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /serris/paul/
-shop: Bäckerei
+shop: boulangerie
 ---

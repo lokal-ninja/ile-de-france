@@ -1,5 +1,5 @@
 ---
 title: "Entendre"
 url: /bourg-la-reine/entendre/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

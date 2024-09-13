@@ -1,5 +1,5 @@
 ---
 title: "PL-Performances"
 url: /hardricourt/pl-performances/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

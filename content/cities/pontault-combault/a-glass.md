@@ -1,5 +1,5 @@
 ---
 title: "A+ Glass"
 url: /pontault-combault/a-glass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

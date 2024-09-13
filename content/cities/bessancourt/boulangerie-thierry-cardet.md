@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Thierry Cardet"
 url: /bessancourt/boulangerie-thierry-cardet/
-shop: Bäckerei
+shop: boulangerie
 ---

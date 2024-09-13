@@ -1,5 +1,5 @@
 ---
 title: "Leonidas"
 url: /taverny/leonidas/
-shop: Schokolade
+shop: chocolat
 ---

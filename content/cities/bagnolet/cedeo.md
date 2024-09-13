@@ -1,5 +1,5 @@
 ---
 title: "Cedeo"
 url: /bagnolet/cedeo/
-shop: Eisenwaren
+shop: matériel informatique
 ---

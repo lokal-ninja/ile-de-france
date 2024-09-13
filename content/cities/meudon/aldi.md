@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /meudon/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

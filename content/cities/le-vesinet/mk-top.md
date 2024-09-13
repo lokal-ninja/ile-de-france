@@ -1,5 +1,5 @@
 ---
 title: "MK Top"
 url: /le-vesinet/mk-top/
-shop: Möbel
+shop: meubles
 ---

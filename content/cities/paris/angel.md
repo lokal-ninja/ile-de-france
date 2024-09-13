@@ -1,5 +1,5 @@
 ---
 title: "Angel"
 url: /paris/angel/
-shop: Metzgerei
+shop: boucherie
 ---

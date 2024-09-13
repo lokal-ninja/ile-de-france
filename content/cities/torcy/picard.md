@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /torcy/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

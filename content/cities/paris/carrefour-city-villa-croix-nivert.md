@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /paris/carrefour-city-villa-croix-nivert/
-shop: Supermarkt
+shop: supermarché
 ---

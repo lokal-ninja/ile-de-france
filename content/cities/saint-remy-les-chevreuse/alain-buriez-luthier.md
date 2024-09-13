@@ -1,5 +1,5 @@
 ---
 title: "Alain Buriez Luthier"
 url: /saint-remy-les-chevreuse/alain-buriez-luthier/
-shop: Musik
+shop: musique
 ---

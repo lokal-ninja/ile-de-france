@@ -1,5 +1,5 @@
 ---
 title: "J Well"
 url: /paris/j-well/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

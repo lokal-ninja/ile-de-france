@@ -1,5 +1,5 @@
 ---
 title: "Art’monie Coiffure"
 url: /paris/artmonie-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

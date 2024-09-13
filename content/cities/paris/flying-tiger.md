@@ -1,5 +1,5 @@
 ---
 title: "Flying Tiger"
 url: /paris/flying-tiger/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

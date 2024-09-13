@@ -1,5 +1,5 @@
 ---
 title: "Gris Gall"
 url: /paris/gris-gall/
-shop: Fisch
+shop: fruits de mer
 ---

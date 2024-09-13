@@ -1,5 +1,5 @@
 ---
 title: "Les Délices de Villemomble"
 url: /villemomble/les-delices-de-villemomble/
-shop: Bäckerei
+shop: boulangerie
 ---

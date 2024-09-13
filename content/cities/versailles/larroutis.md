@@ -1,5 +1,5 @@
 ---
 title: "Larroutis"
 url: /versailles/larroutis/
-shop: Schmuck
+shop: bijoux
 ---

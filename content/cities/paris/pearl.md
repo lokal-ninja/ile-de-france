@@ -1,5 +1,5 @@
 ---
 title: "Pearl"
 url: /paris/pearl/
-shop: Kramladen
+shop: magasin de variétés
 ---

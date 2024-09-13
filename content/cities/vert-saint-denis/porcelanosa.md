@@ -1,5 +1,5 @@
 ---
 title: "Porcelanosa"
 url: /vert-saint-denis/porcelanosa/
-shop: Badezimmer
+shop: salle de bains
 ---

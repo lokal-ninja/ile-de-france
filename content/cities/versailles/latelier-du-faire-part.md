@@ -1,5 +1,5 @@
 ---
 title: "L'atelier du faire-part"
 url: /versailles/latelier-du-faire-part/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

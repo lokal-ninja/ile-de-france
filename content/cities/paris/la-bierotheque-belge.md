@@ -1,5 +1,5 @@
 ---
 title: "La biérothèque Belge"
 url: /paris/la-bierotheque-belge/
-shop: Spirituosen
+shop: alcool
 ---

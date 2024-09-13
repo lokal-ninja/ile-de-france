@@ -1,5 +1,5 @@
 ---
 title: "Naturéo"
 url: /pierrelaye/natureo/
-shop: Bioladen
+shop: alimentation saine
 ---

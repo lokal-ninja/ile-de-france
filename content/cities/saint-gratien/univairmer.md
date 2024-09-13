@@ -1,5 +1,5 @@
 ---
 title: "Univairmer"
 url: /saint-gratien/univairmer/
-shop: Reisebüro
+shop: agence de voyage
 ---

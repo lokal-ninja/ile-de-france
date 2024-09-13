@@ -1,5 +1,5 @@
 ---
 title: "La Samaritaine"
 url: /paris/la-samaritaine/
-shop: Warenhaus
+shop: grand magasin
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /saintry-sur-seine/proxi/
-shop: Kramladen
+shop: magasin de variétés
 ---

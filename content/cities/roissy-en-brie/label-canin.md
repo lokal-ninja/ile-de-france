@@ -1,5 +1,5 @@
 ---
 title: "Label Canin"
 url: /roissy-en-brie/label-canin/
-shop: Tiere
+shop: animal de compagnie
 ---

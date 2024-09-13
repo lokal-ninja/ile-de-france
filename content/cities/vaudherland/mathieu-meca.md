@@ -1,5 +1,5 @@
 ---
 title: "MATHIEU MECA"
 url: /vaudherland/mathieu-meca/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Numidia"
 url: /juvisy-sur-orge/boucherie-numidia/
-shop: Metzgerei
+shop: boucherie
 ---

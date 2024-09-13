@@ -1,5 +1,5 @@
 ---
 title: "Decopont"
 url: /pontault-combault/decopont/
-shop: Baumarkt
+shop: à faire soi-même
 ---

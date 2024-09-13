@@ -1,5 +1,5 @@
 ---
 title: "Cultura"
 url: /lieusaint/cultura/
-shop: Dorfladen
+shop: magasin de campagne
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nuance Lighting"
 url: /antony/nuance-lighting/
-shop: Lampen
+shop: lampes
 ---

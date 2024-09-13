@@ -1,5 +1,5 @@
 ---
 title: "Breuillet Optique"
 url: /breuillet/breuillet-optique/
-shop: Optiker
+shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Bouquine"
 url: /rueil-malmaison/la-bouquine/
-shop: Bücher
+shop: livres
 ---

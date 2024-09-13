@@ -1,5 +1,5 @@
 ---
 title: "Mina retouches"
 url: /paris/mina-retouches/
-shop: Schneiderei
+shop: tailleur
 ---

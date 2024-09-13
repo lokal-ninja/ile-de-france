@@ -1,5 +1,5 @@
 ---
 title: "Auto Yed"
 url: /levallois-perret/auto-yed/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kryss coiffure"
 url: /vert-le-grand/kryss-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

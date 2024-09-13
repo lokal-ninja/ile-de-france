@@ -1,5 +1,5 @@
 ---
 title: "Getir"
 url: /paris/getir/
-shop: Außenstelle
+shop: avant-poste
 ---

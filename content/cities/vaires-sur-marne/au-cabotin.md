@@ -1,5 +1,5 @@
 ---
 title: "Au Cabotin"
 url: /vaires-sur-marne/au-cabotin/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

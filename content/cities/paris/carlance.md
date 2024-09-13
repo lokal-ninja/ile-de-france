@@ -1,5 +1,5 @@
 ---
 title: "Carlance"
 url: /paris/carlance/
-shop: Kosmetik
+shop: beauté
 ---

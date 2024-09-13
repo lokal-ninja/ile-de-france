@@ -1,5 +1,5 @@
 ---
 title: "Librairie Tropiques"
 url: /paris/librairie-tropiques/
-shop: Bücher
+shop: livres
 ---

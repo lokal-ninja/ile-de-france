@@ -1,5 +1,5 @@
 ---
 title: "Electro Dépôt"
 url: /herblay-sur-seine/electro-depot/
-shop: Elektronik
+shop: électronique
 ---

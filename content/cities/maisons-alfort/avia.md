@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /maisons-alfort/avia/
-shop: Lebensmittel
+shop: commodité
 ---

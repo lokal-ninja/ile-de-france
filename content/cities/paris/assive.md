@@ -1,5 +1,5 @@
 ---
 title: "Assive"
 url: /paris/assive/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

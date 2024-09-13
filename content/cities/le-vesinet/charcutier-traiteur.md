@@ -1,5 +1,5 @@
 ---
 title: "Charcutier Traiteur"
 url: /le-vesinet/charcutier-traiteur/
-shop: Metzgerei
+shop: boucherie
 ---

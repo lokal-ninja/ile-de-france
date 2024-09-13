@@ -1,5 +1,5 @@
 ---
 title: "Garage Jaurès"
 url: /ivry-sur-seine/garage-jaures/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cuisines Elite"
 url: /pontault-combault/cuisines-elite/
-shop: Küchen
+shop: cuisine
 ---

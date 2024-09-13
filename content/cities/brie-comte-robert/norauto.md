@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /brie-comte-robert/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

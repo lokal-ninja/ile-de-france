@@ -1,5 +1,5 @@
 ---
 title: "Chez Driot"
 url: /boissy-le-chatel/chez-driot/
-shop: Bäckerei
+shop: boulangerie
 ---

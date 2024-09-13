@@ -1,5 +1,5 @@
 ---
 title: "VeloRepar"
 url: /paris/velorepar/
-shop: Fahrrad
+shop: vélo
 ---

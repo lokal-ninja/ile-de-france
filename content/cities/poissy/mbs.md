@@ -1,5 +1,5 @@
 ---
 title: "MBS"
 url: /poissy/mbs/
-shop: Autoteile
+shop: pièces de voitures
 ---

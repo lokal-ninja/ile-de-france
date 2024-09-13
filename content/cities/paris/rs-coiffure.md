@@ -1,5 +1,5 @@
 ---
 title: "RS coiffure"
 url: /paris/rs-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barb'Hair Studio"
 url: /chevry-cossigny/barbhair-studio/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Guillaume D"
 url: /paris/salon-guillaume-d/
-shop: Friseur
+shop: coiffeur
 ---

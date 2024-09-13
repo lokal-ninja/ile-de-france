@@ -1,5 +1,5 @@
 ---
 title: "Modes 77"
 url: /ozoir-la-ferriere/modes-77/
-shop: Kleidung
+shop: vêtements
 ---

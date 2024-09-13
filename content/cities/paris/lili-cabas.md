@@ -1,5 +1,5 @@
 ---
 title: "Lili Cabas"
 url: /paris/lili-cabas/
-shop: Kleidung
+shop: vêtements
 ---

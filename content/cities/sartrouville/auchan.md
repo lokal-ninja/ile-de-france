@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /sartrouville/auchan/
-shop: Supermarkt
+shop: supermarché
 ---

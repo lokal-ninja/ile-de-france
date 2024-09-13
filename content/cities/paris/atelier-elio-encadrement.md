@@ -1,5 +1,5 @@
 ---
 title: "Atelier Elio Encadrement"
 url: /paris/atelier-elio-encadrement/
-shop: Rahmen
+shop: cadre
 ---

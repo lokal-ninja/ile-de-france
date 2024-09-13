@@ -1,5 +1,5 @@
 ---
 title: "Silvera Bastille"
 url: /paris/silvera-bastille/
-shop: Möbel
+shop: meubles
 ---

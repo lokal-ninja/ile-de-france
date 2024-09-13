@@ -1,5 +1,5 @@
 ---
 title: "l'Abeille biomonde"
 url: /moret-loing-et-orvanne/labeille-biomonde/
-shop: Supermarkt
+shop: supermarché
 ---

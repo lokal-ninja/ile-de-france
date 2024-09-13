@@ -1,5 +1,5 @@
 ---
 title: "Entre Pots"
 url: /paris/entre-pots/
-shop: Lebensmittel
+shop: commodité
 ---

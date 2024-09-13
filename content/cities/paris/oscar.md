@@ -1,5 +1,5 @@
 ---
 title: "Oscar"
 url: /paris/oscar/
-shop: Kleidung
+shop: vêtements
 ---

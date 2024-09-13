@@ -1,5 +1,5 @@
 ---
 title: "Modern MultiServices"
 url: /paris/modern-multiservices/
-shop: Handy
+shop: téléphone portable
 ---

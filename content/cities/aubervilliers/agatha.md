@@ -1,5 +1,5 @@
 ---
 title: "Agatha"
 url: /aubervilliers/agatha/
-shop: Schmuck
+shop: bijoux
 ---

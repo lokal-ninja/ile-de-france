@@ -1,5 +1,5 @@
 ---
 title: "ASP Automobile"
 url: /rambouillet/asp-automobile/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

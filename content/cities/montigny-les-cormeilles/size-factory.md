@@ -1,5 +1,5 @@
 ---
 title: "Size Factory"
 url: /montigny-les-cormeilles/size-factory/
-shop: Kleidung
+shop: vêtements
 ---

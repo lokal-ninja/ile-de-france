@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /pierrefitte-sur-seine/franprix/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault Rousseau"
 url: /saint-brice-sous-foret/renault-rousseau/
-shop: Autohaus
+shop: voiture
 ---

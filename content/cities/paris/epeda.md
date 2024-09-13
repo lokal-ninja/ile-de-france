@@ -1,5 +1,5 @@
 ---
 title: "Epeda"
 url: /paris/epeda/
-shop: Betten
+shop: lit
 ---

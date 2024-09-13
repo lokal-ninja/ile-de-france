@@ -1,5 +1,5 @@
 ---
 title: "Jeff King Of Cars"
 url: /cormeilles-en-parisis/jeff-king-of-cars/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

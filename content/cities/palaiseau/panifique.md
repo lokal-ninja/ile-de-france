@@ -1,5 +1,5 @@
 ---
 title: "Panifique"
 url: /palaiseau/panifique/
-shop: Bäckerei
+shop: boulangerie
 ---

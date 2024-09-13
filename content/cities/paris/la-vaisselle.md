@@ -1,5 +1,5 @@
 ---
 title: "La Vaisselle"
 url: /paris/la-vaisselle/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

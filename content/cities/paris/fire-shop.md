@@ -1,5 +1,5 @@
 ---
 title: "Fire Shop"
 url: /paris/fire-shop/
-shop: Baustoffe
+shop: commerce
 ---

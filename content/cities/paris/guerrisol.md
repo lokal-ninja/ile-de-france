@@ -1,5 +1,5 @@
 ---
 title: "Guerrisol"
 url: /paris/guerrisol/
-shop: Kleidung
+shop: vêtements
 ---

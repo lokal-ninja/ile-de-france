@@ -1,5 +1,5 @@
 ---
 title: "Hervé Toilettage"
 url: /ozoir-la-ferriere/herve-toilettage/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Toiletterie"
 url: /nozay/la-toiletterie/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

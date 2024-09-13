@@ -1,5 +1,5 @@
 ---
 title: "Ecox"
 url: /paris/ecox/
-shop: Fahrrad
+shop: vélo
 ---

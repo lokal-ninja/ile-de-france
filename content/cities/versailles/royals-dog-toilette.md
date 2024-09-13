@@ -1,5 +1,5 @@
 ---
 title: "royal's dog toilette"
 url: /versailles/royals-dog-toilette/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

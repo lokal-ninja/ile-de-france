@@ -1,5 +1,5 @@
 ---
 title: "Philippe Hurel"
 url: /paris/philippe-hurel/
-shop: Möbel
+shop: meubles
 ---

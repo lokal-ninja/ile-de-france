@@ -1,5 +1,5 @@
 ---
 title: "Garage des Trivaux"
 url: /clamart/garage-des-trivaux/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

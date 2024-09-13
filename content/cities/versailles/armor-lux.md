@@ -1,5 +1,5 @@
 ---
 title: "Armor Lux"
 url: /versailles/armor-lux/
-shop: Kleidung
+shop: vêtements
 ---

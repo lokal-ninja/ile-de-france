@@ -1,5 +1,5 @@
 ---
 title: "Modular Square"
 url: /paris/modular-square/
-shop: Instrumente
+shop: instrument de musique
 ---

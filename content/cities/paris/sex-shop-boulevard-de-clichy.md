@@ -1,5 +1,5 @@
 ---
 title: "Sex Shop"
 url: /paris/sex-shop-boulevard-de-clichy/
-shop: Erotik
+shop: érotique
 ---

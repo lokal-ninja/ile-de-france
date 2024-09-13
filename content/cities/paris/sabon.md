@@ -1,5 +1,5 @@
 ---
 title: "Sabon"
 url: /paris/sabon/
-shop: Kosmetik
+shop: beauté
 ---

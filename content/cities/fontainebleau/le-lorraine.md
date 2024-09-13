@@ -1,5 +1,5 @@
 ---
 title: "Le Lorraine"
 url: /fontainebleau/le-lorraine/
-shop: Zeitungen
+shop: marchand de journaux
 ---

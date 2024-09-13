@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc"
 url: /moisselles/e-leclerc/
-shop: Reisebüro
+shop: agence de voyage
 ---

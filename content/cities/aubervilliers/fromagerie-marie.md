@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie Marie"
 url: /aubervilliers/fromagerie-marie/
-shop: Käse
+shop: fromage
 ---

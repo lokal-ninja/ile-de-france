@@ -1,5 +1,5 @@
 ---
 title: "Bulle de jeux"
 url: /fontainebleau/bulle-de-jeux/
-shop: Spiele
+shop: jeux
 ---

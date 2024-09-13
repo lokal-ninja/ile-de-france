@@ -1,5 +1,5 @@
 ---
 title: "Au panier blanc"
 url: /beynes/au-panier-blanc/
-shop: Wäscherei
+shop: blanchisserie
 ---

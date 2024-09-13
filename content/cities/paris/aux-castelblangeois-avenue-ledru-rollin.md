@@ -1,5 +1,5 @@
 ---
 title: "Aux Castelblangeois"
 url: /paris/aux-castelblangeois-avenue-ledru-rollin/
-shop: Bäckerei
+shop: boulangerie
 ---

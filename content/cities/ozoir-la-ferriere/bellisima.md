@@ -1,5 +1,5 @@
 ---
 title: "Bellisima"
 url: /ozoir-la-ferriere/bellisima/
-shop: Friseur
+shop: coiffeur
 ---

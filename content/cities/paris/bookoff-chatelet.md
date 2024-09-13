@@ -1,5 +1,5 @@
 ---
 title: "Bookoff Châtelet"
 url: /paris/bookoff-chatelet/
-shop: Bücher
+shop: livres
 ---

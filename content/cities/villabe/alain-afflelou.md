@@ -1,5 +1,5 @@
 ---
 title: "Alain Afflelou"
 url: /villabe/alain-afflelou/
-shop: Optiker
+shop: opticien
 ---

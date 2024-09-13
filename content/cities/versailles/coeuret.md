@@ -1,5 +1,5 @@
 ---
 title: "Coeuret"
 url: /versailles/coeuret/
-shop: Metzgerei
+shop: boucherie
 ---

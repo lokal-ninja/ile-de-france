@@ -1,5 +1,5 @@
 ---
 title: "Ronde des Pains"
 url: /villeneuve-le-roi/ronde-des-pains/
-shop: Bäckerei
+shop: boulangerie
 ---

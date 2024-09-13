@@ -1,5 +1,5 @@
 ---
 title: "Central Garage"
 url: /chelles/central-garage/
-shop: Autoteile
+shop: pièces de voitures
 ---

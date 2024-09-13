@@ -1,5 +1,5 @@
 ---
 title: "Alinéa"
 url: /buchelay/alinea/
-shop: Möbel
+shop: meubles
 ---

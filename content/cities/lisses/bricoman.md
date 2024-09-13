@@ -1,5 +1,5 @@
 ---
 title: "Bricoman"
 url: /lisses/bricoman/
-shop: Baumarkt
+shop: à faire soi-même
 ---

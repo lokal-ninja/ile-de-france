@@ -1,5 +1,5 @@
 ---
 title: "Pompes Funèbres"
 url: /montevrain/pompes-funebres/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

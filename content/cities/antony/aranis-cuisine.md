@@ -1,5 +1,5 @@
 ---
 title: "Aranis Cuisine"
 url: /antony/aranis-cuisine/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smartland"
 url: /romainville/smartland/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

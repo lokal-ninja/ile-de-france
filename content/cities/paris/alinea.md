@@ -1,5 +1,5 @@
 ---
 title: "Alinéa"
 url: /paris/alinea/
-shop: Möbel
+shop: meubles
 ---

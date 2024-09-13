@@ -1,5 +1,5 @@
 ---
 title: "Babioles"
 url: /antony/babioles/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

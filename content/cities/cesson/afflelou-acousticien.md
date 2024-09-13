@@ -1,5 +1,5 @@
 ---
 title: "Afflelou Acousticien"
 url: /cesson/afflelou-acousticien/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

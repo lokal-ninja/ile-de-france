@@ -1,5 +1,5 @@
 ---
 title: "Zapa"
 url: /versailles/zapa/
-shop: Kleidung
+shop: vêtements
 ---

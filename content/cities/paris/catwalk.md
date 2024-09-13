@@ -1,5 +1,5 @@
 ---
 title: "Catwalk"
 url: /paris/catwalk/
-shop: Friseur
+shop: coiffeur
 ---

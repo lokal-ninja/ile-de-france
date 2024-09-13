@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Rémy"
 url: /paris/boulangerie-remy/
-shop: Bäckerei
+shop: boulangerie
 ---

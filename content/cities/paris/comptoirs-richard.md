@@ -1,5 +1,5 @@
 ---
 title: "Comptoirs Richard"
 url: /paris/comptoirs-richard/
-shop: Kaffee
+shop: café
 ---

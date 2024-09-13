@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /bretigny-sur-orge/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

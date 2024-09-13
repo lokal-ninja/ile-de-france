@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /saint-mande/monoprix/
-shop: Supermarkt
+shop: supermarché
 ---

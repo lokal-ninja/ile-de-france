@@ -1,5 +1,5 @@
 ---
 title: "Chinemachine"
 url: /paris/chinemachine/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Patisserie Granger"
 url: /morsang-sur-orge/boulangerie-patisserie-granger/
-shop: Bäckerei
+shop: boulangerie
 ---

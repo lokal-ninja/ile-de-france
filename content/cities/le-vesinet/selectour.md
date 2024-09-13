@@ -1,5 +1,5 @@
 ---
 title: "Sélectour"
 url: /le-vesinet/selectour/
-shop: Reisebüro
+shop: agence de voyage
 ---

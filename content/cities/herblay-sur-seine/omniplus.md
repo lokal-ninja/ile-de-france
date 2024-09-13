@@ -1,5 +1,5 @@
 ---
 title: "OMNIplus"
 url: /herblay-sur-seine/omniplus/
-shop: Autohaus
+shop: voiture
 ---

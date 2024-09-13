@@ -1,5 +1,5 @@
 ---
 title: "Matière à Lire"
 url: /paris/matiere-a-lire/
-shop: Bücher
+shop: livres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barber Coffee"
 url: /lognes/barber-coffee/
-shop: Friseur
+shop: coiffeur
 ---

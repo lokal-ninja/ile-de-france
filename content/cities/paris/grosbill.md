@@ -1,5 +1,5 @@
 ---
 title: "Grosbill"
 url: /paris/grosbill/
-shop: Computer
+shop: ordinateur
 ---

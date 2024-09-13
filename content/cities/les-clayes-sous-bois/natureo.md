@@ -1,5 +1,5 @@
 ---
 title: "Naturé’O"
 url: /les-clayes-sous-bois/natureo/
-shop: Supermarkt
+shop: supermarché
 ---

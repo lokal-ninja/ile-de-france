@@ -1,5 +1,5 @@
 ---
 title: "De Neuville"
 url: /mennecy/de-neuville/
-shop: Schokolade
+shop: chocolat
 ---

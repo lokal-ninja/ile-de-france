@@ -1,5 +1,5 @@
 ---
 title: "Market du Luzard"
 url: /noisiel/market-du-luzard/
-shop: Metzgerei
+shop: boucherie
 ---

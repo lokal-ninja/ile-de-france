@@ -1,5 +1,5 @@
 ---
 title: "Au rocher d'Avon"
 url: /avon/au-rocher-davon/
-shop: Bäckerei
+shop: boulangerie
 ---

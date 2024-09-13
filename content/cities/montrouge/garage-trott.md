@@ -1,5 +1,5 @@
 ---
 title: "Garage Trott"
 url: /montrouge/garage-trott/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Épicerie Exotique"
 url: /soisy-sous-montmorency/epicerie-exotique/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Izac"
 url: /fontainebleau/izac/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Marinère"
 url: /plaisir/la-marinere/
-shop: Gemüse & Obst
+shop: légumes
 ---

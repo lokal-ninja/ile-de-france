@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /chevry-cossigny/peugeot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

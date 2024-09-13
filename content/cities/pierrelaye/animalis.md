@@ -1,5 +1,5 @@
 ---
 title: "Animalis"
 url: /pierrelaye/animalis/
-shop: Tiere
+shop: animal de compagnie
 ---

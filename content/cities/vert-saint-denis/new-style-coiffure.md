@@ -1,5 +1,5 @@
 ---
 title: "New Style Coiffure"
 url: /vert-saint-denis/new-style-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

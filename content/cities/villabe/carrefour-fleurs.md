@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Fleurs"
 url: /villabe/carrefour-fleurs/
-shop: Blumen
+shop: fleuriste
 ---

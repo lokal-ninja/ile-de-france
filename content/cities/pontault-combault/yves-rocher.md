@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /pontault-combault/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

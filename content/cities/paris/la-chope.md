@@ -1,5 +1,5 @@
 ---
 title: "La Chope"
 url: /paris/la-chope/
-shop: Tabak
+shop: tabac
 ---

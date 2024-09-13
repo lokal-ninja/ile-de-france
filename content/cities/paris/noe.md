@@ -1,5 +1,5 @@
 ---
 title: "Noë"
 url: /paris/noe/
-shop: Kleidung
+shop: vêtements
 ---

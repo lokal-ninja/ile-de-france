@@ -1,5 +1,5 @@
 ---
 title: "Boulinier"
 url: /paris/boulinier/
-shop: Bücher
+shop: livres
 ---

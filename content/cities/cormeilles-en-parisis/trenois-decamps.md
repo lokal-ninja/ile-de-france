@@ -1,5 +1,5 @@
 ---
 title: "Trenois Decamps"
 url: /cormeilles-en-parisis/trenois-decamps/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ExpresShop"
 url: /paris/expresshop/
-shop: Lebensmittel
+shop: commodité
 ---

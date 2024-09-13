@@ -1,5 +1,5 @@
 ---
 title: "FMR"
 url: /pantin/fmr/
-shop: Waffen
+shop: armes
 ---

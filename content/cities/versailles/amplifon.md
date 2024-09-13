@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /versailles/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

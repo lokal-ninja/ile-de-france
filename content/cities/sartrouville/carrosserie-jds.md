@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie JDS"
 url: /sartrouville/carrosserie-jds/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

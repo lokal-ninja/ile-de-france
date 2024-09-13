@@ -1,5 +1,5 @@
 ---
 title: "Mercadier"
 url: /paris/mercadier/
-shop: Farben
+shop: peinture
 ---

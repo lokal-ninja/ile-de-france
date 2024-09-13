@@ -1,5 +1,5 @@
 ---
 title: "Maje"
 url: /paris/maje/
-shop: Kleidung
+shop: vêtements
 ---

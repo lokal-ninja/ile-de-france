@@ -1,5 +1,5 @@
 ---
 title: "Franespa"
 url: /pontault-combault/franespa/
-shop: Badezimmer
+shop: salle de bains
 ---

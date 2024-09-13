@@ -1,5 +1,5 @@
 ---
 title: "Bouquet's"
 url: /sevres/bouquets/
-shop: Blumen
+shop: fleuriste
 ---

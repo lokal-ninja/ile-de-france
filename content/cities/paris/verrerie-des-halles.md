@@ -1,5 +1,5 @@
 ---
 title: "Verrerie des Halles"
 url: /paris/verrerie-des-halles/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

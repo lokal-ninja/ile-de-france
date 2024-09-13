@@ -1,5 +1,5 @@
 ---
 title: "Paraboot"
 url: /versailles/paraboot/
-shop: Schuhe
+shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paula B."
 url: /versailles/paula-b/
-shop: Kleidung
+shop: vêtements
 ---

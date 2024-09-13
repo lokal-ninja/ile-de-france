@@ -1,5 +1,5 @@
 ---
 title: "Parrenin"
 url: /saint-germain-en-laye/parrenin/
-shop: Schmuck
+shop: bijoux
 ---

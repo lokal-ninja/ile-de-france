@@ -1,5 +1,5 @@
 ---
 title: "Sitec"
 url: /paris/sitec/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALTS Multiservice"
 url: /paris/alts-multiservice/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gémo"
 url: /gennevilliers/gemo/
-shop: Kleidung
+shop: vêtements
 ---

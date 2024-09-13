@@ -1,5 +1,5 @@
 ---
 title: "Revert"
 url: /versailles/revert/
-shop: Eisenwaren
+shop: matériel informatique
 ---

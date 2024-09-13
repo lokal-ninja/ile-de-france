@@ -1,5 +1,5 @@
 ---
 title: "Crocodisc"
 url: /paris/crocodisc/
-shop: Musik
+shop: musique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /le-perreux-sur-marne/atol/
-shop: Optiker
+shop: opticien
 ---

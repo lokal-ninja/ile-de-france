@@ -1,5 +1,5 @@
 ---
 title: "Maison Lamotte"
 url: /triel-sur-seine/maison-lamotte/
-shop: Bäckerei
+shop: boulangerie
 ---

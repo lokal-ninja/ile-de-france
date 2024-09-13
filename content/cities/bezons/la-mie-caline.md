@@ -1,5 +1,5 @@
 ---
 title: "La Mie Câline"
 url: /bezons/la-mie-caline/
-shop: Bäckerei
+shop: boulangerie
 ---

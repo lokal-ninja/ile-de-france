@@ -1,5 +1,5 @@
 ---
 title: "Carol Voyages"
 url: /pantin/carol-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

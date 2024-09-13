@@ -1,5 +1,5 @@
 ---
 title: "Boutique Yves Legrand"
 url: /issy-les-moulineaux/boutique-yves-legrand/
-shop: Spirituosen
+shop: alcool
 ---

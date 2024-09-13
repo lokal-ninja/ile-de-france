@@ -1,5 +1,5 @@
 ---
 title: "La Récolte"
 url: /paris/la-recolte/
-shop: Hofladen
+shop: ferme
 ---

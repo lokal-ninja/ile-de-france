@@ -1,5 +1,5 @@
 ---
 title: "Vix Toiletage"
 url: /fontainebleau/vix-toiletage/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

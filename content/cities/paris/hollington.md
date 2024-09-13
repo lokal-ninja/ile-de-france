@@ -1,5 +1,5 @@
 ---
 title: "Hollington"
 url: /paris/hollington/
-shop: Kleidung
+shop: vêtements
 ---

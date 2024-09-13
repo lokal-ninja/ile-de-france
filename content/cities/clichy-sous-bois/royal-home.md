@@ -1,5 +1,5 @@
 ---
 title: "Royal Home"
 url: /clichy-sous-bois/royal-home/
-shop: Möbel
+shop: meubles
 ---

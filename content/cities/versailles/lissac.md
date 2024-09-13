@@ -1,5 +1,5 @@
 ---
 title: "Lissac"
 url: /versailles/lissac/
-shop: Optiker
+shop: opticien
 ---

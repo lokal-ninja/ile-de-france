@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /gennevilliers/carrefour/
-shop: Supermarkt
+shop: supermarché
 ---

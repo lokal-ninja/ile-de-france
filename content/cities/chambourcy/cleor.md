@@ -1,5 +1,5 @@
 ---
 title: "Cleor"
 url: /chambourcy/cleor/
-shop: Schmuck
+shop: bijoux
 ---

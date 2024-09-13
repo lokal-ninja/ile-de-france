@@ -1,5 +1,5 @@
 ---
 title: "Free"
 url: /paris/free/
-shop: Handy
+shop: téléphone portable
 ---

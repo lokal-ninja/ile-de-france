@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /poissy/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

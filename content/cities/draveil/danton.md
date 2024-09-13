@@ -1,5 +1,5 @@
 ---
 title: "Danton"
 url: /draveil/danton/
-shop: Bäckerei
+shop: boulangerie
 ---

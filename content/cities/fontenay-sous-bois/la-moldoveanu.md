@@ -1,5 +1,5 @@
 ---
 title: "La Moldoveanu"
 url: /fontenay-sous-bois/la-moldoveanu/
-shop: Lebensmittel
+shop: commodité
 ---

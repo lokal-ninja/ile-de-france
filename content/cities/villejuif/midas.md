@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /villejuif/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

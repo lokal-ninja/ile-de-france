@@ -1,5 +1,5 @@
 ---
 title: "Coreex"
 url: /chelles/coreex/
-shop: Kopieren
+shop: copyshop
 ---

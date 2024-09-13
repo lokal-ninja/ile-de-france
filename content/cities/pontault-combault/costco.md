@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /pontault-combault/costco/
-shop: Großhandel
+shop: vente en gros
 ---

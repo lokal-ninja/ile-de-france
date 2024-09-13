@@ -1,5 +1,5 @@
 ---
 title: "Toit et Moi"
 url: /mantes-la-jolie/toit-et-moi/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Nottin"
 url: /bourg-la-reine/garage-nottin/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

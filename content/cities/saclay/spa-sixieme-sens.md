@@ -1,5 +1,5 @@
 ---
 title: "Spa Sixieme Sens"
 url: /saclay/spa-sixieme-sens/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
 url: /gennevilliers/boulanger/
-shop: Elektronik
+shop: électronique
 ---

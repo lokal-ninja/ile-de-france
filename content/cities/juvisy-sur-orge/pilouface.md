@@ -1,5 +1,5 @@
 ---
 title: "Pilouface"
 url: /juvisy-sur-orge/pilouface/
-shop: Kleidung
+shop: vêtements
 ---

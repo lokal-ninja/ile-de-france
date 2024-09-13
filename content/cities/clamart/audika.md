@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /clamart/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

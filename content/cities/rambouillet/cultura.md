@@ -1,5 +1,5 @@
 ---
 title: "Cultura"
 url: /rambouillet/cultura/
-shop: Bücher
+shop: livres
 ---

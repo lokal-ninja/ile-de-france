@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /chatillon/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

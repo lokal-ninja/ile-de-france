@@ -1,5 +1,5 @@
 ---
 title: "La Ferme !"
 url: /charenton-le-pont/la-ferme/
-shop: Käse
+shop: fromage
 ---

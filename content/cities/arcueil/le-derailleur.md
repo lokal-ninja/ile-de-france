@@ -1,5 +1,5 @@
 ---
 title: "Le Dérailleur"
 url: /arcueil/le-derailleur/
-shop: Fahrrad
+shop: vélo
 ---

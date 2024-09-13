@@ -1,5 +1,5 @@
 ---
 title: "Maison Belle Mer"
 url: /pantin/maison-belle-mer/
-shop: Fisch
+shop: fruits de mer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le bateau de Paray"
 url: /paray-vieille-poste/le-bateau-de-paray/
-shop: Fisch
+shop: fruits de mer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /versailles/carrefour-city-rue-des-etats-generaux/
-shop: Supermarkt
+shop: supermarché
 ---

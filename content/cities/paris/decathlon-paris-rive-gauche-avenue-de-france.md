@@ -1,5 +1,5 @@
 ---
 title: "Decathlon Paris Rive Gauche"
 url: /paris/decathlon-paris-rive-gauche-avenue-de-france/
-shop: Sport
+shop: sports
 ---

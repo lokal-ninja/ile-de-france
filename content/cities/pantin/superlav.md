@@ -1,5 +1,5 @@
 ---
 title: "Superlav"
 url: /pantin/superlav/
-shop: Wäscherei
+shop: blanchisserie
 ---

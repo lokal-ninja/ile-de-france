@@ -1,5 +1,5 @@
 ---
 title: "LocaKaze"
 url: /fresnes/locakaze/
-shop: Mieten
+shop: location de stockage
 ---

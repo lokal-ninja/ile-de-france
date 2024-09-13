@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /paris/total/
-shop: Lebensmittel
+shop: commodité
 ---

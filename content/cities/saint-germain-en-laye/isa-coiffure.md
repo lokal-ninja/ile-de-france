@@ -1,5 +1,5 @@
 ---
 title: "Isa Coiffure"
 url: /saint-germain-en-laye/isa-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

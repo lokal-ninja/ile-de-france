@@ -1,5 +1,5 @@
 ---
 title: "Repareco"
 url: /melun/repareco/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

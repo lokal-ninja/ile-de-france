@@ -1,5 +1,5 @@
 ---
 title: "Caprice"
 url: /saint-pierre-du-perray/caprice/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sai Vitry Exotique"
 url: /vitry-sur-seine/sai-vitry-exotique/
-shop: Lebensmittel
+shop: commodité
 ---

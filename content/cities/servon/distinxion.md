@@ -1,5 +1,5 @@
 ---
 title: "Distinxion"
 url: /servon/distinxion/
-shop: Autohaus
+shop: voiture
 ---

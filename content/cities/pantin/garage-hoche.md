@@ -1,5 +1,5 @@
 ---
 title: "Garage Hoche"
 url: /pantin/garage-hoche/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

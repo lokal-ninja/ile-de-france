@@ -1,5 +1,5 @@
 ---
 title: "Totem"
 url: /pantin/totem/
-shop: Großhandel
+shop: vente en gros
 ---

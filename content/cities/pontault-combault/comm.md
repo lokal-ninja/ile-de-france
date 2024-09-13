@@ -1,5 +1,5 @@
 ---
 title: "COMM"
 url: /pontault-combault/comm/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

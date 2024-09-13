@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /domont/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

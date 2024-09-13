@@ -1,5 +1,5 @@
 ---
 title: "Stalingrad Piercing"
 url: /paris/stalingrad-piercing/
-shop: Tattoo
+shop: tatouage
 ---

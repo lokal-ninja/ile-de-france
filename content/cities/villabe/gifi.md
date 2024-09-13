@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /villabe/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

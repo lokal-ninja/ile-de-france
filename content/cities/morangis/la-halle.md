@@ -1,5 +1,5 @@
 ---
 title: "La Halle"
 url: /morangis/la-halle/
-shop: Kleidung
+shop: vêtements
 ---

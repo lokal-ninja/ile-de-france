@@ -1,5 +1,5 @@
 ---
 title: "Ecolocomotion"
 url: /vaureal/ecolocomotion/
-shop: Fahrrad
+shop: vélo
 ---

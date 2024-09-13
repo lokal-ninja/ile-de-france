@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /herblay-sur-seine/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

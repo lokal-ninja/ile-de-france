@@ -1,5 +1,5 @@
 ---
 title: "CuisineShop"
 url: /paris/cuisineshop/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

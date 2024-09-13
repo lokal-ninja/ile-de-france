@@ -1,5 +1,5 @@
 ---
 title: "Casino"
 url: /fontainebleau/casino/
-shop: Supermarkt
+shop: supermarché
 ---

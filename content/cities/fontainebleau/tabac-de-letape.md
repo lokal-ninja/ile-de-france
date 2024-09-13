@@ -1,5 +1,5 @@
 ---
 title: "Tabac de l'Étape"
 url: /fontainebleau/tabac-de-letape/
-shop: Zeitungen
+shop: marchand de journaux
 ---

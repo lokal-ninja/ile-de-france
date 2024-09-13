@@ -1,5 +1,5 @@
 ---
 title: "Chricycles"
 url: /bougival/chricycles/
-shop: Fahrrad
+shop: vélo
 ---

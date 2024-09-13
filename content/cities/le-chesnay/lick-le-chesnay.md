@@ -1,5 +1,5 @@
 ---
 title: "Lick Le Chesnay"
 url: /le-chesnay/lick-le-chesnay/
-shop: Handy
+shop: téléphone portable
 ---

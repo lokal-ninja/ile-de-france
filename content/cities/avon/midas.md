@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /avon/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /pontault-combault/optical-center/
-shop: Optiker
+shop: opticien
 ---

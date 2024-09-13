@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /villebon-sur-yvette/decathlon/
-shop: Sport
+shop: sports
 ---

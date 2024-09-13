@@ -1,5 +1,5 @@
 ---
 title: "Bocalinda"
 url: /arpajon/bocalinda/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Nouvelle Réserve"
 url: /limay/la-nouvelle-reserve/
-shop: Bücher
+shop: livres
 ---

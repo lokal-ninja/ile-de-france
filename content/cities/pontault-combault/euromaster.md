@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /pontault-combault/euromaster/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

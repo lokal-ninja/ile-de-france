@@ -1,5 +1,5 @@
 ---
 title: "Aux Colonnes"
 url: /versailles/aux-colonnes/
-shop: Schokolade
+shop: chocolat
 ---

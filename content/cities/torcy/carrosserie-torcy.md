@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Torcy"
 url: /torcy/carrosserie-torcy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

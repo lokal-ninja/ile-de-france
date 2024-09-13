@@ -1,5 +1,5 @@
 ---
 title: "U Express"
 url: /villiers-sur-marne/u-express/
-shop: Supermarkt
+shop: supermarché
 ---

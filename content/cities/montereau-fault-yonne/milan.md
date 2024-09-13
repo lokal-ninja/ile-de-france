@@ -1,5 +1,5 @@
 ---
 title: "Milan"
 url: /montereau-fault-yonne/milan/
-shop: Baumarkt
+shop: à faire soi-même
 ---

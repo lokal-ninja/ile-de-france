@@ -1,5 +1,5 @@
 ---
 title: "CTA"
 url: /saint-germain-en-laye/cta/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Pierre"
 url: /arcueil/garage-pierre/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

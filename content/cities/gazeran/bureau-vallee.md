@@ -1,5 +1,5 @@
 ---
 title: "Bureau Vallée"
 url: /gazeran/bureau-vallee/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MC Cosmétique"
 url: /pantin/mc-cosmetique/
-shop: Friseur
+shop: coiffeur
 ---

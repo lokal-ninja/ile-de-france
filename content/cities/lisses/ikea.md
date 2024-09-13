@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /lisses/ikea/
-shop: Möbel
+shop: meubles
 ---

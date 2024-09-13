@@ -1,5 +1,5 @@
 ---
 title: "Eric Stipa"
 url: /asnieres-sur-seine/eric-stipa/
-shop: Friseur
+shop: coiffeur
 ---

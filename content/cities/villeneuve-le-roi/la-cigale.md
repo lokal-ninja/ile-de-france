@@ -1,5 +1,5 @@
 ---
 title: "La Cigale"
 url: /villeneuve-le-roi/la-cigale/
-shop: Lebensmittel
+shop: commodité
 ---

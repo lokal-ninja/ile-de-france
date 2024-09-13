@@ -1,5 +1,5 @@
 ---
 title: "Orbis Pictus"
 url: /paris/orbis-pictus/
-shop: Kunst
+shop: art
 ---

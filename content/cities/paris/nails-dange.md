@@ -1,5 +1,5 @@
 ---
 title: "Nails d'Ange"
 url: /paris/nails-dange/
-shop: Kosmetik
+shop: beauté
 ---

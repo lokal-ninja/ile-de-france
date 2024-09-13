@@ -1,5 +1,5 @@
 ---
 title: "Nanina"
 url: /paris/nanina/
-shop: Feinkost
+shop: charcuterie
 ---

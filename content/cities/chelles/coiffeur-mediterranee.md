@@ -1,5 +1,5 @@
 ---
 title: "Coiffeur Mediterranée"
 url: /chelles/coiffeur-mediterranee/
-shop: Friseur
+shop: coiffeur
 ---

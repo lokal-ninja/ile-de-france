@@ -1,5 +1,5 @@
 ---
 title: "Paulette Bike"
 url: /paris/paulette-bike/
-shop: Fahrrad
+shop: vélo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cecile Jeanne"
 url: /paris/cecile-jeanne/
-shop: Schmuck
+shop: bijoux
 ---

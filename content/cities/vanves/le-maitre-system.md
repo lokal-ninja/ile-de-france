@@ -1,5 +1,5 @@
 ---
 title: "Le Maitre System"
 url: /vanves/le-maitre-system/
-shop: Wäscherei
+shop: blanchisserie
 ---

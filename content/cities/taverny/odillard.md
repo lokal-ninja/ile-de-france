@@ -1,5 +1,5 @@
 ---
 title: "Odillard"
 url: /taverny/odillard/
-shop: Metzgerei
+shop: boucherie
 ---

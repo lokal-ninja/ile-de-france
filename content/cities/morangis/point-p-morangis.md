@@ -1,5 +1,5 @@
 ---
 title: "Point P Morangis"
 url: /morangis/point-p-morangis/
-shop: Baumarkt
+shop: à faire soi-même
 ---

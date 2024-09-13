@@ -1,5 +1,5 @@
 ---
 title: "Nuances coiffure"
 url: /le-perreux-sur-marne/nuances-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

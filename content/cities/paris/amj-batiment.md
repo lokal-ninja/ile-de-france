@@ -1,5 +1,5 @@
 ---
 title: "AMJ Batiment"
 url: /paris/amj-batiment/
-shop: Eisenwaren
+shop: matériel informatique
 ---

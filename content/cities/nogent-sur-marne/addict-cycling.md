@@ -1,5 +1,5 @@
 ---
 title: "Addict Cycling"
 url: /nogent-sur-marne/addict-cycling/
-shop: Fahrrad
+shop: vélo
 ---

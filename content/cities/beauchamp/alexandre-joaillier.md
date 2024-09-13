@@ -1,5 +1,5 @@
 ---
 title: "Alexandre Joaillier"
 url: /beauchamp/alexandre-joaillier/
-shop: Schmuck
+shop: bijoux
 ---

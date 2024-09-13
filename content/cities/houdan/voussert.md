@@ -1,5 +1,5 @@
 ---
 title: "Voussert"
 url: /houdan/voussert/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

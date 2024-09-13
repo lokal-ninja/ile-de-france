@@ -1,5 +1,5 @@
 ---
 title: "Bocalinda"
 url: /montlhery/bocalinda/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

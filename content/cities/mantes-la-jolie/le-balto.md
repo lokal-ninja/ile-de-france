@@ -1,5 +1,5 @@
 ---
 title: "Le Balto"
 url: /mantes-la-jolie/le-balto/
-shop: Tabak
+shop: tabac
 ---

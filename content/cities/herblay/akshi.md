@@ -1,5 +1,5 @@
 ---
 title: "Akshi"
 url: /herblay/akshi/
-shop: Kosmetik
+shop: beauté
 ---

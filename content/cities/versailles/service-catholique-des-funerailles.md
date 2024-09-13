@@ -1,5 +1,5 @@
 ---
 title: "Service Catholique des Funérailles"
 url: /versailles/service-catholique-des-funerailles/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

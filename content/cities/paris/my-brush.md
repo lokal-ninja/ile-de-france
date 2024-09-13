@@ -1,5 +1,5 @@
 ---
 title: "My Brush"
 url: /paris/my-brush/
-shop: Friseur
+shop: coiffeur
 ---

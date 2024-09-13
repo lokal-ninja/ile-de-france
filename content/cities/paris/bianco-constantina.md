@@ -1,5 +1,5 @@
 ---
 title: "Bianco Constantina"
 url: /paris/bianco-constantina/
-shop: Blumen
+shop: fleuriste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caroll"
 url: /moisselles/caroll/
-shop: Kleidung
+shop: vêtements
 ---

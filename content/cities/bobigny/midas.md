@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /bobigny/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

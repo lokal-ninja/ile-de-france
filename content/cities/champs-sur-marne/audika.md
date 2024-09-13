@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /champs-sur-marne/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

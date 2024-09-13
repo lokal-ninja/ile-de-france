@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /orly/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

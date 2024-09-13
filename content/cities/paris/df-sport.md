@@ -1,5 +1,5 @@
 ---
 title: "DF sport"
 url: /paris/df-sport/
-shop: Kleidung
+shop: vêtements
 ---

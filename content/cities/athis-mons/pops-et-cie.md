@@ -1,5 +1,5 @@
 ---
 title: "Pops et Cie"
 url: /athis-mons/pops-et-cie/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

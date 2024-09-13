@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /argenteuil/office-depot/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

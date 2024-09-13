@@ -1,5 +1,5 @@
 ---
 title: "Malaco"
 url: /paris/malaco/
-shop: Kleidung
+shop: vêtements
 ---

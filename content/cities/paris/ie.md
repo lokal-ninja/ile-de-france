@@ -1,5 +1,5 @@
 ---
 title: "ie"
 url: /paris/ie/
-shop: Babysachen
+shop: produits pour bébés
 ---

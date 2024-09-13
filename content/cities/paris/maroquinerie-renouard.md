@@ -1,5 +1,5 @@
 ---
 title: "Maroquinerie Renouard"
 url: /paris/maroquinerie-renouard/
-shop: Leder
+shop: cuir
 ---

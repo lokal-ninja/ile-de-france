@@ -1,5 +1,5 @@
 ---
 title: "Capelli Studio"
 url: /puteaux/capelli-studio/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /rosny-sous-bois/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

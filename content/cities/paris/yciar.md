@@ -1,5 +1,5 @@
 ---
 title: "Yciar"
 url: /paris/yciar/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ENGIE"
 url: /gennevilliers/engie/
-shop: Allgemein
+shop: shop
 ---

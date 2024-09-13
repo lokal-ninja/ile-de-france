@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /arpajon/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CreaConcept"
 url: /paris/creaconcept/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

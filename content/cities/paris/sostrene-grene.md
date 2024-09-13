@@ -1,5 +1,5 @@
 ---
 title: "Søstrene Grene"
 url: /paris/sostrene-grene/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

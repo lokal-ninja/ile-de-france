@@ -1,5 +1,5 @@
 ---
 title: "Peugeot Retail Business"
 url: /nanterre/peugeot-retail-business/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

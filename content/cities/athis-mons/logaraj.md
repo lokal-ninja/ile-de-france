@@ -1,5 +1,5 @@
 ---
 title: "Logaraj"
 url: /athis-mons/logaraj/
-shop: Kramladen
+shop: magasin de variétés
 ---

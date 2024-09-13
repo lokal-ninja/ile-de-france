@@ -1,5 +1,5 @@
 ---
 title: "Bleu Libellule"
 url: /chambourcy/bleu-libellule/
-shop: Friseurbedarf
+shop: fournitures pour coiffeurs
 ---

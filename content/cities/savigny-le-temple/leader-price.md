@@ -1,5 +1,5 @@
 ---
 title: "Leader Price"
 url: /savigny-le-temple/leader-price/
-shop: Supermarkt
+shop: supermarché
 ---

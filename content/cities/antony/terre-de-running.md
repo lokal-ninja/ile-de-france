@@ -1,5 +1,5 @@
 ---
 title: "Terre de Running"
 url: /antony/terre-de-running/
-shop: Sport
+shop: sports
 ---

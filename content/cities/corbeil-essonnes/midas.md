@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /corbeil-essonnes/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

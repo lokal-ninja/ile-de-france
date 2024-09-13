@@ -1,5 +1,5 @@
 ---
 title: "Scan Emotion"
 url: /le-chesnay-rocquencourt/scan-emotion/
-shop: Foto
+shop: photo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Minelli"
 url: /paris/minelli/
-shop: Schuhe
+shop: chaussures
 ---

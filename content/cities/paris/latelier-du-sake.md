@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier du Saké"
 url: /paris/latelier-du-sake/
-shop: Spirituosen
+shop: alcool
 ---

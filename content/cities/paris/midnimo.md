@@ -1,5 +1,5 @@
 ---
 title: "Midnimo"
 url: /paris/midnimo/
-shop: Handy
+shop: téléphone portable
 ---

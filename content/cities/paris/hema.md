@@ -1,5 +1,5 @@
 ---
 title: "HEMA"
 url: /paris/hema/
-shop: Kramladen
+shop: magasin de variétés
 ---

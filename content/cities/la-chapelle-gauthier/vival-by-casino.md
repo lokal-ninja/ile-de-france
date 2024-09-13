@@ -1,5 +1,5 @@
 ---
 title: "VIVAL By Casino"
 url: /la-chapelle-gauthier/vival-by-casino/
-shop: Lebensmittel
+shop: commodité
 ---

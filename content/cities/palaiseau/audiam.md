@@ -1,5 +1,5 @@
 ---
 title: "Audiam"
 url: /palaiseau/audiam/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

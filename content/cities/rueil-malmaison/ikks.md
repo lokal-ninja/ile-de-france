@@ -1,5 +1,5 @@
 ---
 title: "Ikks"
 url: /rueil-malmaison/ikks/
-shop: Kleidung
+shop: vêtements
 ---

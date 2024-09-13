@@ -1,5 +1,5 @@
 ---
 title: "Bosfore Voyages"
 url: /pantin/bosfore-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

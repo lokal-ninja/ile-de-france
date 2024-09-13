@@ -1,5 +1,5 @@
 ---
 title: "Leonidas"
 url: /bretigny-sur-orge/leonidas/
-shop: Schokolade
+shop: chocolat
 ---

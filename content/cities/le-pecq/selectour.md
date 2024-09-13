@@ -1,5 +1,5 @@
 ---
 title: "Selectour"
 url: /le-pecq/selectour/
-shop: Reisebüro
+shop: agence de voyage
 ---

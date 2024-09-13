@@ -1,5 +1,5 @@
 ---
 title: "Agence Israëlite"
 url: /pantin/agence-israelite/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

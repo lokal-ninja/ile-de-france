@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /pierrefitte/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

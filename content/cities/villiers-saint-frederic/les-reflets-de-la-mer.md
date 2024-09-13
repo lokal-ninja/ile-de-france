@@ -1,5 +1,5 @@
 ---
 title: "Les Reflets de la Mer"
 url: /villiers-saint-frederic/les-reflets-de-la-mer/
-shop: Fisch
+shop: fruits de mer
 ---

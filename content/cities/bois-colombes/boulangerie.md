@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /bois-colombes/boulangerie/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Service Chesnay"
 url: /le-chesnay-rocquencourt/auto-service-chesnay/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

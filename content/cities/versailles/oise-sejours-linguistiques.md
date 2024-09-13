@@ -1,5 +1,5 @@
 ---
 title: "OISE Séjours Linguistiques"
 url: /versailles/oise-sejours-linguistiques/
-shop: Reisebüro
+shop: agence de voyage
 ---

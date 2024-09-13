@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /paris/carrefour-express-rue-rambuteau/
-shop: Lebensmittel
+shop: commodité
 ---

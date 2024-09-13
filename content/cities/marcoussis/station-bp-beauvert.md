@@ -1,5 +1,5 @@
 ---
 title: "Station BP Beauvert"
 url: /marcoussis/station-bp-beauvert/
-shop: Lebensmittel
+shop: commodité
 ---

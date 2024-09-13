@@ -1,5 +1,5 @@
 ---
 title: "Ong Ming"
 url: /paris/ong-ming/
-shop: Metzgerei
+shop: boucherie
 ---

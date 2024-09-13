@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /chelles/kiloutou/
-shop: Baumarkt
+shop: à faire soi-même
 ---

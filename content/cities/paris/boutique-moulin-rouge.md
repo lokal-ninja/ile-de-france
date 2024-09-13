@@ -1,5 +1,5 @@
 ---
 title: "Boutique Moulin Rouge"
 url: /paris/boutique-moulin-rouge/
-shop: Andenken
+shop: cadeau
 ---

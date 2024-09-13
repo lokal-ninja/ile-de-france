@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /bobigny/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

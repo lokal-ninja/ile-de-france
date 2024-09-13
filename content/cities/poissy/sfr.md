@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /poissy/sfr/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Fromagerie Quatrehomme"
 url: /issy-les-moulineaux/la-fromagerie-quatrehomme/
-shop: Käse
+shop: fromage
 ---

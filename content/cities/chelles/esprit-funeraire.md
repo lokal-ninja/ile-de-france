@@ -1,5 +1,5 @@
 ---
 title: "Esprit Funéraire"
 url: /chelles/esprit-funeraire/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

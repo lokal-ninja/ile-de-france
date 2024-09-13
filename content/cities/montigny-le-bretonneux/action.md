@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /montigny-le-bretonneux/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

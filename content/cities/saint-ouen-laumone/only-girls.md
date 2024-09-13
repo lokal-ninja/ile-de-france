@@ -1,5 +1,5 @@
 ---
 title: "Only Girls"
 url: /saint-ouen-laumone/only-girls/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

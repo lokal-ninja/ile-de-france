@@ -1,5 +1,5 @@
 ---
 title: "Lavomatique"
 url: /paris/lavomatique/
-shop: Wäscherei
+shop: blanchisserie
 ---

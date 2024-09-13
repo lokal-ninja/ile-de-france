@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /paris/cuisinella/
-shop: Küchen
+shop: cuisine
 ---

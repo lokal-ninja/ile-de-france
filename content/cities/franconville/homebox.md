@@ -1,5 +1,5 @@
 ---
 title: "Homebox"
 url: /franconville/homebox/
-shop: Mieten
+shop: location de stockage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /acheres/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

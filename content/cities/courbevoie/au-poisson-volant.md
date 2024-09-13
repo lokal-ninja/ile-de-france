@@ -1,5 +1,5 @@
 ---
 title: "Au Poisson Volant"
 url: /courbevoie/au-poisson-volant/
-shop: Fisch
+shop: fruits de mer
 ---

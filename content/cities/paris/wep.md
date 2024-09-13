@@ -1,5 +1,5 @@
 ---
 title: "WEP"
 url: /paris/wep/
-shop: Reisebüro
+shop: agence de voyage
 ---

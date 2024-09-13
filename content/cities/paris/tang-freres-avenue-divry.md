@@ -1,5 +1,5 @@
 ---
 title: "Tang Frères"
 url: /paris/tang-freres-avenue-divry/
-shop: Supermarkt
+shop: supermarché
 ---

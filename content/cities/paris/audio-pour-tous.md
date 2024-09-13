@@ -1,5 +1,5 @@
 ---
 title: "Audio pour tous"
 url: /paris/audio-pour-tous/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

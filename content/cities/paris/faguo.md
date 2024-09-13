@@ -1,5 +1,5 @@
 ---
 title: "Faguo"
 url: /paris/faguo/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Inter Coiffure"
 url: /ozoir-la-ferriere/inter-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

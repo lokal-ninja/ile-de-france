@@ -1,5 +1,5 @@
 ---
 title: "La Halle"
 url: /paris/la-halle/
-shop: Kleidung
+shop: vêtements
 ---

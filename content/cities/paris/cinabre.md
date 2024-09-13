@@ -1,5 +1,5 @@
 ---
 title: "Cinabre"
 url: /paris/cinabre/
-shop: Modehaus
+shop: boutique
 ---

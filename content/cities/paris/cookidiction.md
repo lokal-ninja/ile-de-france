@@ -1,5 +1,5 @@
 ---
 title: "Cookidiction"
 url: /paris/cookidiction/
-shop: Konditorei
+shop: pâtisserie
 ---

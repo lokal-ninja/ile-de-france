@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /mantes-la-jolie/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

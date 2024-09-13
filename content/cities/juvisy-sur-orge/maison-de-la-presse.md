@@ -1,5 +1,5 @@
 ---
 title: "Maison de la Presse"
 url: /juvisy-sur-orge/maison-de-la-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Charcuterie"
 url: /chaumes-en-brie/boucherie-charcuterie/
-shop: Metzgerei
+shop: boucherie
 ---

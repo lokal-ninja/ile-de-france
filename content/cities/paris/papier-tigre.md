@@ -1,5 +1,5 @@
 ---
 title: "Papier Tigre"
 url: /paris/papier-tigre/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

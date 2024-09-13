@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /serris/fnac/
-shop: Elektronik
+shop: électronique
 ---

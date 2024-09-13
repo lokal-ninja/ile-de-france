@@ -1,5 +1,5 @@
 ---
 title: "Music Studio"
 url: /villenoy/music-studio/
-shop: Instrumente
+shop: instrument de musique
 ---

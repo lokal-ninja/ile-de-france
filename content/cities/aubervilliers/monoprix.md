@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /aubervilliers/monoprix/
-shop: Supermarkt
+shop: supermarché
 ---

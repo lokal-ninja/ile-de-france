@@ -1,5 +1,5 @@
 ---
 title: "Laboté"
 url: /paris/labote/
-shop: Kosmetik
+shop: beauté
 ---

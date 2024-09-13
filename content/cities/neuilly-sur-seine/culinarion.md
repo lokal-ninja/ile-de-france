@@ -1,5 +1,5 @@
 ---
 title: "Culinarion"
 url: /neuilly-sur-seine/culinarion/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centre Commercial Pontault"
 url: /pontault-combault/centre-commercial-pontault/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

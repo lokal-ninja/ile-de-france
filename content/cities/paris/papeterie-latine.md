@@ -1,5 +1,5 @@
 ---
 title: "Papeterie Latine"
 url: /paris/papeterie-latine/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

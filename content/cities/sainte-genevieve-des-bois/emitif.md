@@ -1,5 +1,5 @@
 ---
 title: "EMI'TIF"
 url: /sainte-genevieve-des-bois/emitif/
-shop: Friseur
+shop: coiffeur
 ---

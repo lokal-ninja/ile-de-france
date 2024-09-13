@@ -1,5 +1,5 @@
 ---
 title: "Josserand Automobile"
 url: /pantin/josserand-automobile/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

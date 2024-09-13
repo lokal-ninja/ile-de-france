@@ -1,5 +1,5 @@
 ---
 title: "Digifix"
 url: /puteaux/digifix/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Épicerie Lebara - Épicerie Bon Marché"
 url: /gonesse/epicerie-lebara-epicerie-bon-marche/
-shop: Lebensmittel
+shop: commodité
 ---

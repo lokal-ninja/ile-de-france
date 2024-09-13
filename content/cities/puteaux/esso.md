@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /puteaux/esso/
-shop: Lebensmittel
+shop: commodité
 ---

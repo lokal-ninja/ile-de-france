@@ -1,5 +1,5 @@
 ---
 title: "ProtecDevil"
 url: /cormeilles-en-parisis/protecdevil/
-shop: Elektrisch
+shop: électrique
 ---

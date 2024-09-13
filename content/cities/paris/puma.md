@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /paris/puma/
-shop: Kleidung
+shop: vêtements
 ---

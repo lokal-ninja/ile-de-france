@@ -1,5 +1,5 @@
 ---
 title: "GSM Assistance"
 url: /courbevoie/gsm-assistance/
-shop: Handy
+shop: téléphone portable
 ---

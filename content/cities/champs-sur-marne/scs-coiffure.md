@@ -1,5 +1,5 @@
 ---
 title: "Scs Coiffure"
 url: /champs-sur-marne/scs-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

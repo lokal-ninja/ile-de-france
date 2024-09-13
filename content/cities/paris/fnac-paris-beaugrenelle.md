@@ -1,5 +1,5 @@
 ---
 title: "Fnac Paris - Beaugrenelle"
 url: /paris/fnac-paris-beaugrenelle/
-shop: Bücher
+shop: livres
 ---

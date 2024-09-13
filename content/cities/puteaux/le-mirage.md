@@ -1,5 +1,5 @@
 ---
 title: "Le Mirage"
 url: /puteaux/le-mirage/
-shop: Massage
+shop: massage
 ---

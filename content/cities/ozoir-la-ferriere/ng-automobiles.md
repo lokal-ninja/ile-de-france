@@ -1,5 +1,5 @@
 ---
 title: "Ng Automobiles"
 url: /ozoir-la-ferriere/ng-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

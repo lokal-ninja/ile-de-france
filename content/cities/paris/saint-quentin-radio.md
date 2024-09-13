@@ -1,5 +1,5 @@
 ---
 title: "Saint-Quentin Radio"
 url: /paris/saint-quentin-radio/
-shop: Radiotechnik
+shop: radiotechnique
 ---

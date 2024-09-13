@@ -1,5 +1,5 @@
 ---
 title: "Mille et une Beauté"
 url: /fontainebleau/mille-et-une-beaute/
-shop: Kosmetik
+shop: beauté
 ---

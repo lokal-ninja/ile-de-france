@@ -1,5 +1,5 @@
 ---
 title: "Peintures de Paris"
 url: /le-pecq/peintures-de-paris/
-shop: Eisenwaren
+shop: matériel informatique
 ---

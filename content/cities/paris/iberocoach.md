@@ -1,5 +1,5 @@
 ---
 title: "IberoCoach"
 url: /paris/iberocoach/
-shop: Reisebüro
+shop: agence de voyage
 ---

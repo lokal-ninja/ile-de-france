@@ -1,5 +1,5 @@
 ---
 title: "Autobacs"
 url: /lognes/autobacs/
-shop: Autoteile
+shop: pièces de voitures
 ---

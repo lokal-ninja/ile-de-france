@@ -1,5 +1,5 @@
 ---
 title: "Act'if"
 url: /gournay-sur-marne/actif/
-shop: Friseur
+shop: coiffeur
 ---

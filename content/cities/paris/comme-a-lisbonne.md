@@ -1,5 +1,5 @@
 ---
 title: "Comme à Lisbonne"
 url: /paris/comme-a-lisbonne/
-shop: Feinkost
+shop: charcuterie
 ---

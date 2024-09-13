@@ -1,5 +1,5 @@
 ---
 title: "Domiline"
 url: /chelles/domiline/
-shop: Friseur
+shop: coiffeur
 ---

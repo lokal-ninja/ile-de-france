@@ -1,5 +1,5 @@
 ---
 title: "Les Roches"
 url: /mareil-sur-mauldre/les-roches/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

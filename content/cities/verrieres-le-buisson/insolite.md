@@ -1,5 +1,5 @@
 ---
 title: "Insolite"
 url: /verrieres-le-buisson/insolite/
-shop: Andenken
+shop: cadeau
 ---

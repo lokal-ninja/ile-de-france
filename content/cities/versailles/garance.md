@@ -1,5 +1,5 @@
 ---
 title: "Garance"
 url: /versailles/garance/
-shop: Schmuck
+shop: bijoux
 ---

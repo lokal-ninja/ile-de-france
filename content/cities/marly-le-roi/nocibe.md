@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /marly-le-roi/nocibe/
-shop: Kosmetik
+shop: beauté
 ---

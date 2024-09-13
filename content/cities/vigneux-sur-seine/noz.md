@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /vigneux-sur-seine/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

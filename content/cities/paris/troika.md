@@ -1,5 +1,5 @@
 ---
 title: "Troïka"
 url: /paris/troika/
-shop: Feinkost
+shop: charcuterie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jetlag Voyages"
 url: /paris/jetlag-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

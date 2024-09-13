@@ -1,5 +1,5 @@
 ---
 title: "Roc-Eclerc"
 url: /chelles/roc-eclerc/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elizabeth's Coiffure"
 url: /versailles/elizabeths-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

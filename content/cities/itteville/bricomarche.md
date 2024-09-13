@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /itteville/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

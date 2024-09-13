@@ -1,5 +1,5 @@
 ---
 title: "Selectour"
 url: /le-plessis-robinson/selectour/
-shop: Reisebüro
+shop: agence de voyage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /collegien/carrefour/
-shop: Supermarkt
+shop: supermarché
 ---

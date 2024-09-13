@@ -1,5 +1,5 @@
 ---
 title: "Trilogy Tatouage"
 url: /eaubonne/trilogy-tatouage/
-shop: Tattoo
+shop: tatouage
 ---

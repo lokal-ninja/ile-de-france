@@ -1,5 +1,5 @@
 ---
 title: "Franck Provost"
 url: /chambourcy/franck-provost/
-shop: Friseur
+shop: coiffeur
 ---

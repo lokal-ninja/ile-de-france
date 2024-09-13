@@ -1,5 +1,5 @@
 ---
 title: "Délices de Carpates"
 url: /colombes/delices-de-carpates/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto type"
 url: /pierrelaye/auto-type/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

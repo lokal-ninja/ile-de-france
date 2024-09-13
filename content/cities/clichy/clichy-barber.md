@@ -1,5 +1,5 @@
 ---
 title: "Clichy Barber"
 url: /clichy/clichy-barber/
-shop: Friseur
+shop: coiffeur
 ---

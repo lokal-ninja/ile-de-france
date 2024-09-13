@@ -1,5 +1,5 @@
 ---
 title: "Bazar Therapy"
 url: /paris/bazar-therapy/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pantin Boucherie"
 url: /pantin/pantin-boucherie/
-shop: Metzgerei
+shop: boucherie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Henri Selmer Paris"
 url: /paris/henri-selmer-paris/
-shop: Instrumente
+shop: instrument de musique
 ---

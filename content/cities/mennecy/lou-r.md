@@ -1,5 +1,5 @@
 ---
 title: "Lou R."
 url: /mennecy/lou-r/
-shop: Friseur
+shop: coiffeur
 ---

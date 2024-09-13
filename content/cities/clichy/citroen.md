@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /clichy/citroen/
-shop: Autohaus
+shop: voiture
 ---

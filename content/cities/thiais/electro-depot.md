@@ -1,5 +1,5 @@
 ---
 title: "Électro Dépot"
 url: /thiais/electro-depot/
-shop: Elektronik
+shop: électronique
 ---

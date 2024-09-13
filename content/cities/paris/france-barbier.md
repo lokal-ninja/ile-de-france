@@ -1,5 +1,5 @@
 ---
 title: "France Barbier"
 url: /paris/france-barbier/
-shop: Friseur
+shop: coiffeur
 ---

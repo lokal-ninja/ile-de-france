@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /villeneuve-le-roi/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

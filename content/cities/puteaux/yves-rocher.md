@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /puteaux/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

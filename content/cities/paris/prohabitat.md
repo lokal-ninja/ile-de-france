@@ -1,5 +1,5 @@
 ---
 title: "Pro'Habitat"
 url: /paris/prohabitat/
-shop: Jalousien
+shop: store de fenêtre
 ---

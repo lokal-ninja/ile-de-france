@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /buchelay/decathlon/
-shop: Sport
+shop: sports
 ---

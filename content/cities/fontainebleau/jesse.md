@@ -1,5 +1,5 @@
 ---
 title: "Jesse"
 url: /fontainebleau/jesse/
-shop: Schuhe
+shop: chaussures
 ---

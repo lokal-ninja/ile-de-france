@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /bry-sur-marne/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

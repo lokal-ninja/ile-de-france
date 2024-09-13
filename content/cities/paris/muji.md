@@ -1,5 +1,5 @@
 ---
 title: "Muji"
 url: /paris/muji/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

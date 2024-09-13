@@ -1,5 +1,5 @@
 ---
 title: "MD Auto"
 url: /roissy-en-brie/md-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /provins/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

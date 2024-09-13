@@ -1,5 +1,5 @@
 ---
 title: "TB Service"
 url: /pontault-combault/tb-service/
-shop: Eisenwaren
+shop: matériel informatique
 ---

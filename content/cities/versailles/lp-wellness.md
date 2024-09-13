@@ -1,5 +1,5 @@
 ---
 title: "LP Wellness"
 url: /versailles/lp-wellness/
-shop: Massage
+shop: massage
 ---

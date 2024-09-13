@@ -1,5 +1,5 @@
 ---
 title: "Day By Day"
 url: /ermont/day-by-day/
-shop: Lebensmittel
+shop: commodité
 ---

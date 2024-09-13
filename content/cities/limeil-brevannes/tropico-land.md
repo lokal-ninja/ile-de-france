@@ -1,5 +1,5 @@
 ---
 title: "Tropico Land"
 url: /limeil-brevannes/tropico-land/
-shop: Lebensmittel
+shop: commodité
 ---

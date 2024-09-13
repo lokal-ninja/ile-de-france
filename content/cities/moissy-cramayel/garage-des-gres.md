@@ -1,5 +1,5 @@
 ---
 title: "Garage des Grès"
 url: /moissy-cramayel/garage-des-gres/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

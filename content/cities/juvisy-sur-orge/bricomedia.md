@@ -1,5 +1,5 @@
 ---
 title: "Bricomedia"
 url: /juvisy-sur-orge/bricomedia/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MyOptik"
 url: /aubervilliers/myoptik/
-shop: Optiker
+shop: opticien
 ---

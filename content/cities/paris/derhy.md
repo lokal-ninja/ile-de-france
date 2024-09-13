@@ -1,5 +1,5 @@
 ---
 title: "Derhy *"
 url: /paris/derhy/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mistigriff - Mode Dégriffée"
 url: /poissy/mistigriff-mode-degriffee/
-shop: Kleidung
+shop: vêtements
 ---

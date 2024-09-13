@@ -1,5 +1,5 @@
 ---
 title: "S.B.S."
 url: /cachan/s-b-s/
-shop: Wäscherei
+shop: blanchisserie
 ---

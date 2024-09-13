@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /torcy/coccimarket/
-shop: Lebensmittel
+shop: commodité
 ---

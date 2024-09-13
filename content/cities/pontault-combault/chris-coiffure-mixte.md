@@ -1,5 +1,5 @@
 ---
 title: "Chris Coiffure Mixte"
 url: /pontault-combault/chris-coiffure-mixte/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monsieur Piano"
 url: /paris/monsieur-piano/
-shop: Instrumente
+shop: instrument de musique
 ---

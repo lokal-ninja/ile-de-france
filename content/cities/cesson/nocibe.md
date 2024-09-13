@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /cesson/nocibe/
-shop: Kosmetik
+shop: beauté
 ---

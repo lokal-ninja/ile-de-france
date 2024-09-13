@@ -1,5 +1,5 @@
 ---
 title: "CHB Autos"
 url: /chelles/chb-autos/
-shop: Autohaus
+shop: voiture
 ---

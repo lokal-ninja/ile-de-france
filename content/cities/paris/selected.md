@@ -1,5 +1,5 @@
 ---
 title: "Selected"
 url: /paris/selected/
-shop: Möbel
+shop: meubles
 ---

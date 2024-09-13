@@ -1,5 +1,5 @@
 ---
 title: "Bagatelles"
 url: /montgeron/bagatelles/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

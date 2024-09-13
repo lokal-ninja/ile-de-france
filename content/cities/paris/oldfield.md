@@ -1,5 +1,5 @@
 ---
 title: "Oldfield"
 url: /paris/oldfield/
-shop: Kleidung
+shop: vêtements
 ---

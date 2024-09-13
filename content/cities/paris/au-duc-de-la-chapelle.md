@@ -1,5 +1,5 @@
 ---
 title: "Au Duc de la Chapelle"
 url: /paris/au-duc-de-la-chapelle/
-shop: Bäckerei
+shop: boulangerie
 ---

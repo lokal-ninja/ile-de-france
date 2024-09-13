@@ -1,5 +1,5 @@
 ---
 title: "Altermundi"
 url: /paris/altermundi/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Androuet"
 url: /paris/androuet/
-shop: Käse
+shop: fromage
 ---

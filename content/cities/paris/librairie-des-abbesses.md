@@ -1,5 +1,5 @@
 ---
 title: "Librairie des Abbesses"
 url: /paris/librairie-des-abbesses/
-shop: Bücher
+shop: livres
 ---

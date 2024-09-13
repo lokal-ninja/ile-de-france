@@ -1,5 +1,5 @@
 ---
 title: "We Audition"
 url: /moisselles/we-audition/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

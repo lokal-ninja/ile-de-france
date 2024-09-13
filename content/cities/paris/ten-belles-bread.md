@@ -1,5 +1,5 @@
 ---
 title: "Ten Belles Bread"
 url: /paris/ten-belles-bread/
-shop: Bäckerei
+shop: boulangerie
 ---

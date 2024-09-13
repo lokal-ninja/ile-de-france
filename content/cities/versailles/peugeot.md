@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /versailles/peugeot/
-shop: Autohaus
+shop: voiture
 ---

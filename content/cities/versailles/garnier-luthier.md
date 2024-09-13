@@ -1,5 +1,5 @@
 ---
 title: "Garnier Luthier"
 url: /versailles/garnier-luthier/
-shop: Instrumente
+shop: instrument de musique
 ---

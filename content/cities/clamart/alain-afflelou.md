@@ -1,5 +1,5 @@
 ---
 title: "Alain Afflelou"
 url: /clamart/alain-afflelou/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

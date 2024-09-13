@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Bel Air"
 url: /pantin/boulangerie-bel-air/
-shop: Bäckerei
+shop: boulangerie
 ---

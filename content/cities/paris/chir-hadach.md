@@ -1,5 +1,5 @@
 ---
 title: "Chir Hadach"
 url: /paris/chir-hadach/
-shop: Kunst
+shop: art
 ---

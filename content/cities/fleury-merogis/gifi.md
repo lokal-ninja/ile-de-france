@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /fleury-merogis/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

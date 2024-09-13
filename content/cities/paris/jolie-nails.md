@@ -1,5 +1,5 @@
 ---
 title: "Jolie Nails"
 url: /paris/jolie-nails/
-shop: Kosmetik
+shop: beauté
 ---

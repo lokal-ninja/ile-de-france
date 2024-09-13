@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /chambourcy/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

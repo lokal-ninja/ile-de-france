@@ -1,5 +1,5 @@
 ---
 title: "L'Artisan de Montévrain"
 url: /montevrain/lartisan-de-montevrain/
-shop: Bäckerei
+shop: boulangerie
 ---

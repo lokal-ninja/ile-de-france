@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Samiry"
 url: /ivry-sur-seine/boucherie-samiry-rue-lenine/
-shop: Metzgerei
+shop: boucherie
 ---

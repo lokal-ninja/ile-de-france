@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /paris/fnac-avenue-des-champs-elysees/
-shop: Elektronik
+shop: électronique
 ---

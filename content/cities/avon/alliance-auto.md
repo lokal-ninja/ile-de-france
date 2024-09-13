@@ -1,5 +1,5 @@
 ---
 title: "Alliance Auto"
 url: /avon/alliance-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

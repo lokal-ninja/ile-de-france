@@ -1,5 +1,5 @@
 ---
 title: "Coiffeur Parisien"
 url: /ivry-sur-seine/coiffeur-parisien/
-shop: Friseur
+shop: coiffeur
 ---

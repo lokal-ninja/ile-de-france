@@ -1,5 +1,5 @@
 ---
 title: "Xenon Performance"
 url: /chilly-mazarin/xenon-performance/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

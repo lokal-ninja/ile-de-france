@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /le-plessis-robinson/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

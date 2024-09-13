@@ -1,5 +1,5 @@
 ---
 title: "Imagin'hair"
 url: /le-perreux-sur-marne/imaginhair/
-shop: Friseur
+shop: coiffeur
 ---

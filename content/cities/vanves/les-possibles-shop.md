@@ -1,5 +1,5 @@
 ---
 title: "Les Possibles Shop"
 url: /vanves/les-possibles-shop/
-shop: Andenken
+shop: cadeau
 ---

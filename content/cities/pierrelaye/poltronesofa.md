@@ -1,5 +1,5 @@
 ---
 title: "Poltronesofà"
 url: /pierrelaye/poltronesofa/
-shop: Möbel
+shop: meubles
 ---

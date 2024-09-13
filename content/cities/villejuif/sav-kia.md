@@ -1,5 +1,5 @@
 ---
 title: "SAV Kia"
 url: /villejuif/sav-kia/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

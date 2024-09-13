@@ -1,5 +1,5 @@
 ---
 title: "Kim Pressing"
 url: /champs-sur-marne/kim-pressing/
-shop: Wäscherei
+shop: blanchisserie
 ---

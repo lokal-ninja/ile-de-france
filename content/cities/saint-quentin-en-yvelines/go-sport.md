@@ -1,5 +1,5 @@
 ---
 title: "GO Sport"
 url: /saint-quentin-en-yvelines/go-sport/
-shop: Sport
+shop: sports
 ---

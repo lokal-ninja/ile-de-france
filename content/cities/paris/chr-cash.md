@@ -1,5 +1,5 @@
 ---
 title: "CHR Cash"
 url: /paris/chr-cash/
-shop: Lebensmittel
+shop: commodité
 ---

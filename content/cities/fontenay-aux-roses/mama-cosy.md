@@ -1,5 +1,5 @@
 ---
 title: "Mama Cosy"
 url: /fontenay-aux-roses/mama-cosy/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Milly orthopédie"
 url: /milly-la-foret/milly-orthopedie/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

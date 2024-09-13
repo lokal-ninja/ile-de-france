@@ -1,5 +1,5 @@
 ---
 title: "Image In Hair"
 url: /breuillet/image-in-hair/
-shop: Friseur
+shop: coiffeur
 ---

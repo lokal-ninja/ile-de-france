@@ -1,5 +1,5 @@
 ---
 title: "Tin-Tin Tatouages"
 url: /paris/tin-tin-tatouages/
-shop: Tattoo
+shop: tatouage
 ---

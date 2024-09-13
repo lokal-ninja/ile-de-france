@@ -1,5 +1,5 @@
 ---
 title: "Dafy Moto"
 url: /coignieres/dafy-moto/
-shop: Motorrad
+shop: moto
 ---

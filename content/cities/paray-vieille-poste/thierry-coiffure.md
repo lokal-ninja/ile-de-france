@@ -1,5 +1,5 @@
 ---
 title: "Thierry coiffure"
 url: /paray-vieille-poste/thierry-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

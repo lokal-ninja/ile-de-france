@@ -1,5 +1,5 @@
 ---
 title: "Le Petit Barbier"
 url: /moret-sur-loing/le-petit-barbier/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Histoire d'Or"
 url: /paris/histoire-dor/
-shop: Schmuck
+shop: bijoux
 ---

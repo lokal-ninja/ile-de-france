@@ -1,5 +1,5 @@
 ---
 title: "Maison Lefebvre"
 url: /meaux/maison-lefebvre/
-shop: Feinkost
+shop: charcuterie
 ---

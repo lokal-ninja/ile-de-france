@@ -1,5 +1,5 @@
 ---
 title: "Nono et Nora"
 url: /maisons-laffitte/nono-et-nora/
-shop: Kleidung
+shop: vêtements
 ---

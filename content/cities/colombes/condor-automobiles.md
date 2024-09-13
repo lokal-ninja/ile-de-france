@@ -1,5 +1,5 @@
 ---
 title: "Condor Automobiles"
 url: /colombes/condor-automobiles/
-shop: Autohaus
+shop: voiture
 ---

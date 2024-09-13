@@ -1,5 +1,5 @@
 ---
 title: "Poursin"
 url: /paris/poursin/
-shop: Eisenwaren
+shop: matériel informatique
 ---

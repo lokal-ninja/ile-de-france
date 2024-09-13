@@ -1,5 +1,5 @@
 ---
 title: "Selectour"
 url: /verrieres-le-buisson/selectour/
-shop: Reisebüro
+shop: agence de voyage
 ---

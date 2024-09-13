@@ -1,5 +1,5 @@
 ---
 title: "Aubépine"
 url: /domont/aubepine/
-shop: Kosmetik
+shop: beauté
 ---

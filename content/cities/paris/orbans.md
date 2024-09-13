@@ -1,5 +1,5 @@
 ---
 title: "Orban's"
 url: /paris/orbans/
-shop: Schuhe
+shop: chaussures
 ---

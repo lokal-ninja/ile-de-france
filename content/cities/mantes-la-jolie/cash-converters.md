@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /mantes-la-jolie/cash-converters/
-shop: Leiher
+shop: prêteur sur gages
 ---

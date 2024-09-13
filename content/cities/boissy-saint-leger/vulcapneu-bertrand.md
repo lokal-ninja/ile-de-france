@@ -1,5 +1,5 @@
 ---
 title: "Vulcapneu Bertrand"
 url: /boissy-saint-leger/vulcapneu-bertrand/
-shop: Reifen
+shop: pneus
 ---

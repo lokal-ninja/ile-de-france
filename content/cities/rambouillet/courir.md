@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /rambouillet/courir/
-shop: Schuhe
+shop: chaussures
 ---

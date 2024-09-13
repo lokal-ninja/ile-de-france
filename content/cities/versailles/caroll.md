@@ -1,5 +1,5 @@
 ---
 title: "Caroll"
 url: /versailles/caroll/
-shop: Kleidung
+shop: vêtements
 ---

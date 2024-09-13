@@ -1,5 +1,5 @@
 ---
 title: "Flaneurz"
 url: /pantin/flaneurz/
-shop: Sport
+shop: sports
 ---

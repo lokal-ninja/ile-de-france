@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /boulogne-billancourt/monoprix/
-shop: Supermarkt
+shop: supermarché
 ---

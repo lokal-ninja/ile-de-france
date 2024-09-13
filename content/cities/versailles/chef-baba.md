@@ -1,5 +1,5 @@
 ---
 title: "Chef Baba"
 url: /versailles/chef-baba/
-shop: Metzgerei
+shop: boucherie
 ---

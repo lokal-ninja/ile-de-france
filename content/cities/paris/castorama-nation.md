@@ -1,5 +1,5 @@
 ---
 title: "Castorama Nation"
 url: /paris/castorama-nation/
-shop: Baumarkt
+shop: à faire soi-même
 ---

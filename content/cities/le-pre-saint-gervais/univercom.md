@@ -1,5 +1,5 @@
 ---
 title: "Univercom"
 url: /le-pre-saint-gervais/univercom/
-shop: Kopieren
+shop: copyshop
 ---

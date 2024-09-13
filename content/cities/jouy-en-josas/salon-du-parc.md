@@ -1,5 +1,5 @@
 ---
 title: "Salon du Parc"
 url: /jouy-en-josas/salon-du-parc/
-shop: Friseur
+shop: coiffeur
 ---

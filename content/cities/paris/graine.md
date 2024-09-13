@@ -1,5 +1,5 @@
 ---
 title: "Graine"
 url: /paris/graine/
-shop: Bäckerei
+shop: boulangerie
 ---

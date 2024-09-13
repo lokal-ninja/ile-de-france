@@ -1,5 +1,5 @@
 ---
 title: "Bio Saveurs"
 url: /beauchamp/bio-saveurs/
-shop: Bioladen
+shop: alimentation saine
 ---

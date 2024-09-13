@@ -1,5 +1,5 @@
 ---
 title: "Reglauto"
 url: /arcueil/reglauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

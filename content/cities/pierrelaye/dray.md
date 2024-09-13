@@ -1,5 +1,5 @@
 ---
 title: "Dray"
 url: /pierrelaye/dray/
-shop: Elektronik
+shop: électronique
 ---

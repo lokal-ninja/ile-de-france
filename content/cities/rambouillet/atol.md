@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /rambouillet/atol/
-shop: Optiker
+shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Délice Ikbal"
 url: /pantin/delice-ikbal/
-shop: Metzgerei
+shop: boucherie
 ---

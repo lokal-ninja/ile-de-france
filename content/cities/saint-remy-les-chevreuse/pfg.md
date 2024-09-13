@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /saint-remy-les-chevreuse/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

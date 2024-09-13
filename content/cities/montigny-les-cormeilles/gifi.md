@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /montigny-les-cormeilles/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

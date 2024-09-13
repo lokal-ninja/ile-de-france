@@ -1,5 +1,5 @@
 ---
 title: "Cycles Lekeuss"
 url: /barbizon/cycles-lekeuss/
-shop: Fahrrad
+shop: vélo
 ---

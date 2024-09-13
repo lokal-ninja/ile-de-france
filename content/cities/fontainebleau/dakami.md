@@ -1,5 +1,5 @@
 ---
 title: "Dakami"
 url: /fontainebleau/dakami/
-shop: Kleidung
+shop: vêtements
 ---

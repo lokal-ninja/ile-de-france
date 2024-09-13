@@ -1,5 +1,5 @@
 ---
 title: "Audi"
 url: /vert-saint-denis/audi/
-shop: Autohaus
+shop: voiture
 ---

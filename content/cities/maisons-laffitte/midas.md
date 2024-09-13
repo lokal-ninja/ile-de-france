@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /maisons-laffitte/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

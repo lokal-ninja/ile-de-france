@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /versailles/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /malakoff/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

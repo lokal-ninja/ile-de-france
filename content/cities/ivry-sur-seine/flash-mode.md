@@ -1,5 +1,5 @@
 ---
 title: "Flash Mode"
 url: /ivry-sur-seine/flash-mode/
-shop: Taschen & Koffer
+shop: sac
 ---

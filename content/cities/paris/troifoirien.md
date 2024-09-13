@@ -1,5 +1,5 @@
 ---
 title: "Troifoirien"
 url: /paris/troifoirien/
-shop: Kramladen
+shop: magasin de variétés
 ---

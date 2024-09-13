@@ -1,5 +1,5 @@
 ---
 title: "Nazir"
 url: /clamart/nazir/
-shop: Eisenwaren
+shop: matériel informatique
 ---

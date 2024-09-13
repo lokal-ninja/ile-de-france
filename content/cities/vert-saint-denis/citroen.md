@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /vert-saint-denis/citroen/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Félicité"
 url: /paris/felicite/
-shop: Konditorei
+shop: pâtisserie
 ---

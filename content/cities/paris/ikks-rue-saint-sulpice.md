@@ -1,5 +1,5 @@
 ---
 title: "Ikks"
 url: /paris/ikks-rue-saint-sulpice/
-shop: Kleidung
+shop: vêtements
 ---

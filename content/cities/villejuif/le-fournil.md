@@ -1,5 +1,5 @@
 ---
 title: "Le Fournil"
 url: /villejuif/le-fournil/
-shop: Bäckerei
+shop: boulangerie
 ---

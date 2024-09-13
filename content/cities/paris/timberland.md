@@ -1,5 +1,5 @@
 ---
 title: "Timberland"
 url: /paris/timberland/
-shop: Kleidung
+shop: vêtements
 ---

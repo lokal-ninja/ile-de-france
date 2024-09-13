@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /villebon-sur-yvette/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

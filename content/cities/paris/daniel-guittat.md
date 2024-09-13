@@ -1,5 +1,5 @@
 ---
 title: "Daniel Guittat"
 url: /paris/daniel-guittat/
-shop: Blumen
+shop: fleuriste
 ---

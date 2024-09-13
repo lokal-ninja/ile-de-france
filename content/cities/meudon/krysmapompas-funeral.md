@@ -1,5 +1,5 @@
 ---
 title: "KrysmaPompas Funeral"
 url: /meudon/krysmapompas-funeral/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

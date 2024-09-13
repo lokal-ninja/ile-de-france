@@ -1,5 +1,5 @@
 ---
 title: "Easy Vape"
 url: /asnieres-sur-seine/easy-vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

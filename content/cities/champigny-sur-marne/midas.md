@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /champigny-sur-marne/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

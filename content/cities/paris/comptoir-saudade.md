@@ -1,5 +1,5 @@
 ---
 title: "Comptoir Saudade"
 url: /paris/comptoir-saudade/
-shop: Feinkost
+shop: charcuterie
 ---

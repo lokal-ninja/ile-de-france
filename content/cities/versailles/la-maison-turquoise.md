@@ -1,5 +1,5 @@
 ---
 title: "La Maison Turquoise"
 url: /versailles/la-maison-turquoise/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

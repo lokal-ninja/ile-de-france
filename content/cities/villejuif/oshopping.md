@@ -1,5 +1,5 @@
 ---
 title: "O'Shopping"
 url: /villejuif/oshopping/
-shop: Dorfladen
+shop: magasin de campagne
 ---

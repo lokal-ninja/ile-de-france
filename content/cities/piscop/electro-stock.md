@@ -1,5 +1,5 @@
 ---
 title: "Electro-Stock"
 url: /piscop/electro-stock/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

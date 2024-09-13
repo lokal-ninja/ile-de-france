@@ -1,5 +1,5 @@
 ---
 title: "Lr Conception"
 url: /montlhery/lr-conception/
-shop: Baumarkt
+shop: à faire soi-même
 ---

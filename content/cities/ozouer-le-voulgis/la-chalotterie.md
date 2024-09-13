@@ -1,5 +1,5 @@
 ---
 title: "La Chalotterie"
 url: /ozouer-le-voulgis/la-chalotterie/
-shop: Käse
+shop: fromage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crèmerie Frangins"
 url: /issy-les-moulineaux/cremerie-frangins/
-shop: Milch
+shop: produits laitiers
 ---

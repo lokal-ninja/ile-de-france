@@ -1,5 +1,5 @@
 ---
 title: "Guinot"
 url: /paris/guinot-boulevard-murat/
-shop: Kosmetik
+shop: beauté
 ---

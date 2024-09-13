@@ -1,5 +1,5 @@
 ---
 title: "Heytens"
 url: /pierrelaye/heytens/
-shop: Gardinen
+shop: rideau
 ---

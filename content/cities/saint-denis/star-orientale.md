@@ -1,5 +1,5 @@
 ---
 title: "Star Orientale"
 url: /saint-denis/star-orientale/
-shop: Lebensmittel
+shop: commodité
 ---

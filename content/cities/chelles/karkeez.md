@@ -1,5 +1,5 @@
 ---
 title: "Karkeez"
 url: /chelles/karkeez/
-shop: Autoteile
+shop: pièces de voitures
 ---

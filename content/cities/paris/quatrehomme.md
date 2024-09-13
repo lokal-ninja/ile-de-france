@@ -1,5 +1,5 @@
 ---
 title: "Quatrehomme"
 url: /paris/quatrehomme/
-shop: Käse
+shop: fromage
 ---

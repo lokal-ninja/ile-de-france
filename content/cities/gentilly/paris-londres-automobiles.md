@@ -1,5 +1,5 @@
 ---
 title: "Paris Londres Automobiles"
 url: /gentilly/paris-londres-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Les jardins de Bagneux"
 url: /bagneux/les-jardins-de-bagneux/
-shop: Gemüse & Obst
+shop: légumes
 ---

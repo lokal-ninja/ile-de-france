@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /asnieres-sur-seine/carrefour-city/
-shop: Supermarkt
+shop: supermarché
 ---

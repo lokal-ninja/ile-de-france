@@ -1,5 +1,5 @@
 ---
 title: "Nomie"
 url: /paris/nomie/
-shop: Gewürze
+shop: épices
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lunetterie de Fontainebleau"
 url: /fontainebleau/lunetterie-de-fontainebleau/
-shop: Optiker
+shop: opticien
 ---

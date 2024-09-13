@@ -1,5 +1,5 @@
 ---
 title: "VSD Look"
 url: /vert-saint-denis/vsd-look/
-shop: Friseur
+shop: coiffeur
 ---

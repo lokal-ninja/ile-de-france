@@ -1,5 +1,5 @@
 ---
 title: "Toute la Presse"
 url: /poissy/toute-la-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

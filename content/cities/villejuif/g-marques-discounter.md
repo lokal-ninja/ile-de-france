@@ -1,5 +1,5 @@
 ---
 title: "G Marques DiScounter"
 url: /villejuif/g-marques-discounter/
-shop: Lebensmittel
+shop: commodité
 ---

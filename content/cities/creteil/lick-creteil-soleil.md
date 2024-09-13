@@ -1,5 +1,5 @@
 ---
 title: "Lick Créteil Soleil"
 url: /creteil/lick-creteil-soleil/
-shop: Handy
+shop: téléphone portable
 ---

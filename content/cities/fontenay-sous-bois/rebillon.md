@@ -1,5 +1,5 @@
 ---
 title: "Rebillon"
 url: /fontenay-sous-bois/rebillon/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

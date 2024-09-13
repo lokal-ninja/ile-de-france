@@ -1,5 +1,5 @@
 ---
 title: "Elie Valiere"
 url: /suresnes/elie-valiere/
-shop: Friseur
+shop: coiffeur
 ---

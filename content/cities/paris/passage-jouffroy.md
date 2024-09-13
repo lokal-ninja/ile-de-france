@@ -1,5 +1,5 @@
 ---
 title: "Passage Jouffroy"
 url: /paris/passage-jouffroy/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

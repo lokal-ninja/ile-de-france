@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /sucy-en-brie/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

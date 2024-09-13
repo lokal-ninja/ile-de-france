@@ -1,5 +1,5 @@
 ---
 title: "LMK Alimentation Générale"
 url: /grigny/lmk-alimentation-generale/
-shop: Lebensmittel
+shop: commodité
 ---

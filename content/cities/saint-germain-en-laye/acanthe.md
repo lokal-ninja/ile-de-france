@@ -1,5 +1,5 @@
 ---
 title: "Acanthe"
 url: /saint-germain-en-laye/acanthe/
-shop: Kleidung
+shop: vêtements
 ---

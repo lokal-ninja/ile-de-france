@@ -1,5 +1,5 @@
 ---
 title: "BioBela"
 url: /paris/biobela/
-shop: Friseur
+shop: coiffeur
 ---

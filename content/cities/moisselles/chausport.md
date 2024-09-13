@@ -1,5 +1,5 @@
 ---
 title: "Chausport"
 url: /moisselles/chausport/
-shop: Schuhe
+shop: chaussures
 ---

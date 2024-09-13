@@ -1,5 +1,5 @@
 ---
 title: "Le Talion"
 url: /versailles/le-talion/
-shop: Friseur
+shop: coiffeur
 ---

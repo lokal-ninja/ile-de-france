@@ -1,5 +1,5 @@
 ---
 title: "Parashop"
 url: /paris/parashop/
-shop: Drogerie
+shop: chimiste
 ---

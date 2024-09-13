@@ -1,5 +1,5 @@
 ---
 title: "Atelier"
 url: /saint-ouen-laumone/atelier/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

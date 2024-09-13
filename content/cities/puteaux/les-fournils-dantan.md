@@ -1,5 +1,5 @@
 ---
 title: "Les Fournils d'Antan"
 url: /puteaux/les-fournils-dantan/
-shop: Bäckerei
+shop: boulangerie
 ---

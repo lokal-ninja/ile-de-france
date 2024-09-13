@@ -1,5 +1,5 @@
 ---
 title: "Kiloutou"
 url: /emerainville/kiloutou/
-shop: Mieten
+shop: location de stockage
 ---

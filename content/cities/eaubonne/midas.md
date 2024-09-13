@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /eaubonne/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

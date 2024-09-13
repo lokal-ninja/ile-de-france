@@ -1,5 +1,5 @@
 ---
 title: "Sitis market"
 url: /carrieres-sous-poissy/sitis-market/
-shop: Lebensmittel
+shop: commodité
 ---

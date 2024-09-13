@@ -1,5 +1,5 @@
 ---
 title: "PauseClopes"
 url: /fontainebleau/pauseclopes/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

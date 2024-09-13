@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /le-vesinet/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

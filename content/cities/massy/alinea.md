@@ -1,5 +1,5 @@
 ---
 title: "Alinea"
 url: /massy/alinea/
-shop: Möbel
+shop: meubles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sikkens"
 url: /sartrouville/sikkens/
-shop: Eisenwaren
+shop: matériel informatique
 ---

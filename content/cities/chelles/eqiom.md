@@ -1,5 +1,5 @@
 ---
 title: "EQIOM"
 url: /chelles/eqiom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

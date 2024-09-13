@@ -1,5 +1,5 @@
 ---
 title: "Lullabi"
 url: /paris/lullabi/
-shop: Babysachen
+shop: produits pour bébés
 ---

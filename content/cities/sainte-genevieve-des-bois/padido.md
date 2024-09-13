@@ -1,5 +1,5 @@
 ---
 title: "Padido"
 url: /sainte-genevieve-des-bois/padido/
-shop: Kleidung
+shop: vêtements
 ---

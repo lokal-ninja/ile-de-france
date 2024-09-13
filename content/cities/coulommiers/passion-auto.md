@@ -1,5 +1,5 @@
 ---
 title: "Passion Auto"
 url: /coulommiers/passion-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

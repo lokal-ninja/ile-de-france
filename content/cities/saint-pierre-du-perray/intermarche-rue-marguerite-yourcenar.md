@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /saint-pierre-du-perray/intermarche-rue-marguerite-yourcenar/
-shop: Supermarkt
+shop: gaz
 ---

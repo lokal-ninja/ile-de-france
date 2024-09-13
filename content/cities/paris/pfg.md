@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /paris/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

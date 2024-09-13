@@ -1,5 +1,5 @@
 ---
 title: "Kingsman barber"
 url: /paris/kingsman-barber/
-shop: Friseur
+shop: coiffeur
 ---

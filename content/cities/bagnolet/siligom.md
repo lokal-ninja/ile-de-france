@@ -1,5 +1,5 @@
 ---
 title: "Siligom"
 url: /bagnolet/siligom/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

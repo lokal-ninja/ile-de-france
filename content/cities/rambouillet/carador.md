@@ -1,5 +1,5 @@
 ---
 title: "Carador"
 url: /rambouillet/carador/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bagatelle"
 url: /paris/bagatelle/
-shop: Eisenwaren
+shop: matériel informatique
 ---

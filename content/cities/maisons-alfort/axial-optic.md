@@ -1,5 +1,5 @@
 ---
 title: "Axial Optic"
 url: /maisons-alfort/axial-optic/
-shop: Optiker
+shop: opticien
 ---

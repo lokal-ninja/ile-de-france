@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /paris/sephora-avenue-de-france/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metal Guitar"
 url: /paris/metal-guitar/
-shop: Instrumente
+shop: instrument de musique
 ---

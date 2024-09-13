@@ -1,5 +1,5 @@
 ---
 title: "De Neuville"
 url: /paris/de-neuville-rue-louis-braille/
-shop: Schokolade
+shop: chocolat
 ---

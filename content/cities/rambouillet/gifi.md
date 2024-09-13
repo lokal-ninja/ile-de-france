@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /rambouillet/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

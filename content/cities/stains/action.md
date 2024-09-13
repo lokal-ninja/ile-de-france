@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /stains/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grosbill"
 url: /thiais/grosbill/
-shop: Computer
+shop: ordinateur
 ---

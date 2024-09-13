@@ -1,5 +1,5 @@
 ---
 title: "Griffland Elkier"
 url: /juvisy-sur-orge/griffland-elkier/
-shop: Kleidung
+shop: vêtements
 ---

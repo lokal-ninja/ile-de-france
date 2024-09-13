@@ -1,5 +1,5 @@
 ---
 title: "Castorama"
 url: /pierrelaye/castorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

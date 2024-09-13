@@ -1,5 +1,5 @@
 ---
 title: "Remi Alban"
 url: /domont/remi-alban/
-shop: Friseur
+shop: coiffeur
 ---

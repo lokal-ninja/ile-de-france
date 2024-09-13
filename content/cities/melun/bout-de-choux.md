@@ -1,5 +1,5 @@
 ---
 title: "Bout de choux"
 url: /melun/bout-de-choux/
-shop: Bäckerei
+shop: boulangerie
 ---

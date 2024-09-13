@@ -1,5 +1,5 @@
 ---
 title: "Retouches"
 url: /paris/retouches/
-shop: Nähzubehör
+shop: couture
 ---

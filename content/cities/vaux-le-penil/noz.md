@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /vaux-le-penil/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /puteaux/monoprix-place-de-la-defense/
-shop: Supermarkt
+shop: supermarché
 ---

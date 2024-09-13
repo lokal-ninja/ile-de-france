@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /herblay-sur-seine/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

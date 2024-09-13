@@ -1,5 +1,5 @@
 ---
 title: "Reptiligne"
 url: /gazeran/reptiligne/
-shop: Tiere
+shop: animal de compagnie
 ---

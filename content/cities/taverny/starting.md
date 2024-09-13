@@ -1,5 +1,5 @@
 ---
 title: "Starting"
 url: /taverny/starting/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

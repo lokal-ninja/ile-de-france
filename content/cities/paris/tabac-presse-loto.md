@@ -1,5 +1,5 @@
 ---
 title: "Tabac presse Loto"
 url: /paris/tabac-presse-loto/
-shop: Wettbüro
+shop: bookmaker
 ---

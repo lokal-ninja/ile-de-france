@@ -1,5 +1,5 @@
 ---
 title: "Degriff"
 url: /pantin/degriff/
-shop: Kramladen
+shop: magasin de variétés
 ---

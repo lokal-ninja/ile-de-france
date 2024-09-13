@@ -1,5 +1,5 @@
 ---
 title: "Rapid' Market"
 url: /saint-mande/rapid-market/
-shop: Supermarkt
+shop: supermarché
 ---

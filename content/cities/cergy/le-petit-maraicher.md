@@ -1,5 +1,5 @@
 ---
 title: "Le Petit Maraîcher"
 url: /cergy/le-petit-maraicher/
-shop: Hofladen
+shop: ferme
 ---

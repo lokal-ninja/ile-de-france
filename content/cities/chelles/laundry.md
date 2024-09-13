@@ -1,5 +1,5 @@
 ---
 title: "Laundry"
 url: /chelles/laundry/
-shop: Wäscherei
+shop: blanchisserie
 ---

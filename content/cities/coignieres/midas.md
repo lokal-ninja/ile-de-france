@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /coignieres/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

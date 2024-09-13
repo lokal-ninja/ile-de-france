@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /colombes/nocibe/
-shop: Kosmetik
+shop: beauté
 ---

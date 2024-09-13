@@ -1,5 +1,5 @@
 ---
 title: "Velab"
 url: /paris/velab/
-shop: Fahrrad
+shop: vélo
 ---

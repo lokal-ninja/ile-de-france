@@ -1,5 +1,5 @@
 ---
 title: "Narbonne Accessoires"
 url: /pontault-combault/narbonne-accessoires/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magpress"
 url: /acheres/magpress/
-shop: Zeitungen
+shop: marchand de journaux
 ---

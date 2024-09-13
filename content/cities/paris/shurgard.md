@@ -1,5 +1,5 @@
 ---
 title: "Shurgard"
 url: /paris/shurgard/
-shop: Mieten
+shop: location de stockage
 ---

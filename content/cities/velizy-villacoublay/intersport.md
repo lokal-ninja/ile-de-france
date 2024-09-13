@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /velizy-villacoublay/intersport/
-shop: Sport
+shop: sports
 ---

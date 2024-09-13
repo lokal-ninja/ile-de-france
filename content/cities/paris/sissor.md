@@ -1,5 +1,5 @@
 ---
 title: "Sissor"
 url: /paris/sissor/
-shop: Kleidung
+shop: vêtements
 ---

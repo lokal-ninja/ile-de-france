@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /chambourcy/sephora/
-shop: Kosmetik
+shop: beauté
 ---

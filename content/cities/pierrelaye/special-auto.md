@@ -1,5 +1,5 @@
 ---
 title: "Spécial Auto"
 url: /pierrelaye/special-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

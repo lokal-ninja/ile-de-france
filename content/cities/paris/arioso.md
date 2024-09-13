@@ -1,5 +1,5 @@
 ---
 title: "Arioso"
 url: /paris/arioso/
-shop: Musik
+shop: musique
 ---

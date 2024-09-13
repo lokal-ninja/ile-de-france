@@ -1,5 +1,5 @@
 ---
 title: "Gédimat"
 url: /houilles/gedimat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

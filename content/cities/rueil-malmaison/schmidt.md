@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /rueil-malmaison/schmidt/
-shop: Küchen
+shop: cuisine
 ---

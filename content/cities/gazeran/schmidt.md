@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /gazeran/schmidt/
-shop: Küchen
+shop: cuisine
 ---

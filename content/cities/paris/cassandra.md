@@ -1,5 +1,5 @@
 ---
 title: "Cassandra"
 url: /paris/cassandra/
-shop: Erotik
+shop: érotique
 ---

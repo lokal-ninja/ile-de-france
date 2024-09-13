@@ -1,5 +1,5 @@
 ---
 title: "Tempo"
 url: /melun/tempo/
-shop: Instrumente
+shop: instrument de musique
 ---

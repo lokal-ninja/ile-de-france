@@ -1,5 +1,5 @@
 ---
 title: "Basicycle"
 url: /paris/basicycle/
-shop: Fahrrad
+shop: vélo
 ---

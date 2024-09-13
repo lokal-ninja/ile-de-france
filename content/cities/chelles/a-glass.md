@@ -1,5 +1,5 @@
 ---
 title: "A+ Glass"
 url: /chelles/a-glass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castorama"
 url: /les-lilas/castorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

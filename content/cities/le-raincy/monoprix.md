@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /le-raincy/monoprix/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Veneux"
 url: /veneux-les-sablons/garage-veneux/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

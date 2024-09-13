@@ -1,5 +1,5 @@
 ---
 title: "Lancel"
 url: /paris/lancel/
-shop: Warenhaus
+shop: grand magasin
 ---

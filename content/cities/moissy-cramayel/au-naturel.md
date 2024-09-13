@@ -1,5 +1,5 @@
 ---
 title: "Au Naturel"
 url: /moissy-cramayel/au-naturel/
-shop: Blumen
+shop: fleuriste
 ---

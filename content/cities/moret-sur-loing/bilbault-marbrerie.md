@@ -1,5 +1,5 @@
 ---
 title: "Bilbault Marbrerie"
 url: /moret-sur-loing/bilbault-marbrerie/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

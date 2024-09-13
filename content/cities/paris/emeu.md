@@ -1,5 +1,5 @@
 ---
 title: "Émeu"
 url: /paris/emeu/
-shop: Andenken
+shop: cadeau
 ---

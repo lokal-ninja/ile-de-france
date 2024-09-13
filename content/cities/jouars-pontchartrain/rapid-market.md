@@ -1,5 +1,5 @@
 ---
 title: "Rapid Market"
 url: /jouars-pontchartrain/rapid-market/
-shop: Lebensmittel
+shop: commodité
 ---

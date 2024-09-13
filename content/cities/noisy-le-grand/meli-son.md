@@ -1,5 +1,5 @@
 ---
 title: "Meli son"
 url: /noisy-le-grand/meli-son/
-shop: Musik
+shop: musique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Studio Coiffure"
 url: /torcy/studio-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

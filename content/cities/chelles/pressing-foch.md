@@ -1,5 +1,5 @@
 ---
 title: "Pressing Foch"
 url: /chelles/pressing-foch/
-shop: Wäscherei
+shop: blanchisserie
 ---

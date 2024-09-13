@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /le-plessis-trevise/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

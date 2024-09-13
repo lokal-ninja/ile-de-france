@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /taverny/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

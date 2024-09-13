@@ -1,5 +1,5 @@
 ---
 title: "Delbard"
 url: /soisy-sous-montmorency/delbard/
-shop: Garten-Center
+shop: centre de jardinage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Truffaut"
 url: /chatenay-malabry/truffaut/
-shop: Garten-Center
+shop: centre de jardinage
 ---

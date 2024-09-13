@@ -1,5 +1,5 @@
 ---
 title: "L'Institut Guinot"
 url: /puteaux/linstitut-guinot/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /villemomble/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

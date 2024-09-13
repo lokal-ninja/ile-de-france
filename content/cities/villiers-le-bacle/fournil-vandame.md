@@ -1,5 +1,5 @@
 ---
 title: "Fournil Vandame"
 url: /villiers-le-bacle/fournil-vandame/
-shop: Bäckerei
+shop: boulangerie
 ---

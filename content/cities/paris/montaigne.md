@@ -1,5 +1,5 @@
 ---
 title: "Montaigne"
 url: /paris/montaigne/
-shop: Antiquitäten
+shop: antiquités
 ---

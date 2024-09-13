@@ -1,5 +1,5 @@
 ---
 title: "Sport Auto"
 url: /pierrelaye/sport-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

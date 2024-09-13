@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /versailles/proxi/
-shop: Lebensmittel
+shop: commodité
 ---

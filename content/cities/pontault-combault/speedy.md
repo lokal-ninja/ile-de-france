@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /pontault-combault/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

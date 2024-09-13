@@ -1,5 +1,5 @@
 ---
 title: "We Audition"
 url: /rambouillet/we-audition/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

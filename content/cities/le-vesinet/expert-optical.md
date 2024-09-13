@@ -1,5 +1,5 @@
 ---
 title: "Expert Optical"
 url: /le-vesinet/expert-optical/
-shop: Optiker
+shop: opticien
 ---

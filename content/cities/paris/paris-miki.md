@@ -1,5 +1,5 @@
 ---
 title: "Paris Miki"
 url: /paris/paris-miki/
-shop: Optiker
+shop: opticien
 ---

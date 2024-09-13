@@ -1,5 +1,5 @@
 ---
 title: "Saperlipopette"
 url: /montreuil/saperlipopette/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

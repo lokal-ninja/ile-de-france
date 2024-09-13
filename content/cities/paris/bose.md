@@ -1,5 +1,5 @@
 ---
 title: "Bose"
 url: /paris/bose/
-shop: Hifi
+shop: hifi
 ---

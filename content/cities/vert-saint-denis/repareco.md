@@ -1,5 +1,5 @@
 ---
 title: "Repareco"
 url: /vert-saint-denis/repareco/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

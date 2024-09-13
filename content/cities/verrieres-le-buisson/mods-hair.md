@@ -1,5 +1,5 @@
 ---
 title: "Mod's Hair"
 url: /verrieres-le-buisson/mods-hair/
-shop: Friseur
+shop: coiffeur
 ---

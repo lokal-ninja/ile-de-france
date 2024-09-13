@@ -1,5 +1,5 @@
 ---
 title: "Thoma's Cakes"
 url: /arnouville/thomas-cakes/
-shop: Konditorei
+shop: pâtisserie
 ---

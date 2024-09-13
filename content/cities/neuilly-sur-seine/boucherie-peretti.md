@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Peretti"
 url: /neuilly-sur-seine/boucherie-peretti/
-shop: Metzgerei
+shop: boucherie
 ---

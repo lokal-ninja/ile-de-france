@@ -1,5 +1,5 @@
 ---
 title: "Art et Couleurs"
 url: /igny/art-et-couleurs/
-shop: Friseur
+shop: coiffeur
 ---

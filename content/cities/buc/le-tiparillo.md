@@ -1,5 +1,5 @@
 ---
 title: "Le Tiparillo"
 url: /buc/le-tiparillo/
-shop: Zeitungen
+shop: marchand de journaux
 ---

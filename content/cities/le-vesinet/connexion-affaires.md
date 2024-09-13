@@ -1,5 +1,5 @@
 ---
 title: "Connexion Affaires"
 url: /le-vesinet/connexion-affaires/
-shop: Kramladen
+shop: magasin de variétés
 ---

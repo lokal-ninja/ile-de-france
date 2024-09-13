@@ -1,5 +1,5 @@
 ---
 title: "Oïa"
 url: /fontainebleau/oia/
-shop: Kosmetik
+shop: beauté
 ---

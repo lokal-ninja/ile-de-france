@@ -1,5 +1,5 @@
 ---
 title: "So Ouest"
 url: /levallois-perret/so-ouest/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

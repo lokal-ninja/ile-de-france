@@ -1,5 +1,5 @@
 ---
 title: "Coiffeur Naya"
 url: /vaires-sur-marne/coiffeur-naya/
-shop: Friseur
+shop: coiffeur
 ---

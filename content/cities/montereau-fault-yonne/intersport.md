@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /montereau-fault-yonne/intersport/
-shop: Sport
+shop: sports
 ---

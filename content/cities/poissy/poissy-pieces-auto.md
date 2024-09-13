@@ -1,5 +1,5 @@
 ---
 title: "Poissy Pièces Auto"
 url: /poissy/poissy-pieces-auto/
-shop: Autoteile
+shop: pièces de voitures
 ---

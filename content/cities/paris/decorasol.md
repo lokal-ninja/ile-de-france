@@ -1,5 +1,5 @@
 ---
 title: "Décorasol"
 url: /paris/decorasol/
-shop: Teppiche
+shop: tapis
 ---

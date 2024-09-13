@@ -1,5 +1,5 @@
 ---
 title: "Press-in"
 url: /le-vesinet/press-in/
-shop: Wäscherei
+shop: blanchisserie
 ---

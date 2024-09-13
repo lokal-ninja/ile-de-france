@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /stains/coccimarket/
-shop: Lebensmittel
+shop: commodité
 ---

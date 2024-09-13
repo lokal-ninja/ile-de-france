@@ -1,5 +1,5 @@
 ---
 title: "Tryba"
 url: /mantes-la-jolie/tryba/
-shop: Glaserei
+shop: vitrerie
 ---

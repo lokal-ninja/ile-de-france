@@ -1,5 +1,5 @@
 ---
 title: "Oxfam France"
 url: /paris/oxfam-france/
-shop: Gebrauchtwaren
+shop: charité
 ---

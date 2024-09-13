@@ -1,5 +1,5 @@
 ---
 title: "Perle Noire"
 url: /massy/perle-noire/
-shop: Friseur
+shop: coiffeur
 ---

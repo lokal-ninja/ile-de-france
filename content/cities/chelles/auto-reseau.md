@@ -1,5 +1,5 @@
 ---
 title: "Auto Reseau"
 url: /chelles/auto-reseau/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

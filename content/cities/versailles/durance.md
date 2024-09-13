@@ -1,5 +1,5 @@
 ---
 title: "Durance"
 url: /versailles/durance/
-shop: Parfümerie
+shop: parfumerie
 ---

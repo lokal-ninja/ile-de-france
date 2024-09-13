@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Salam"
 url: /poissy/boucherie-salam/
-shop: Metzgerei
+shop: boucherie
 ---

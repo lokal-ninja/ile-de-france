@@ -1,5 +1,5 @@
 ---
 title: "Ami Telecom"
 url: /paris/ami-telecom/
-shop: Computer
+shop: ordinateur
 ---

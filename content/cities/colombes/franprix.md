@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /colombes/franprix/
-shop: Lebensmittel
+shop: commodité
 ---

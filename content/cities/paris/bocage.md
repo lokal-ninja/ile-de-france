@@ -1,5 +1,5 @@
 ---
 title: "Bocage"
 url: /paris/bocage/
-shop: Schuhe
+shop: chaussures
 ---

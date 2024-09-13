@@ -1,5 +1,5 @@
 ---
 title: "Vertbaudet"
 url: /gazeran/vertbaudet/
-shop: Kleidung
+shop: vêtements
 ---

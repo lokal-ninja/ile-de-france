@@ -1,5 +1,5 @@
 ---
 title: "Visa Center"
 url: /paris/visa-center/
-shop: Reisebüro
+shop: agence de voyage
 ---

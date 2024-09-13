@@ -1,5 +1,5 @@
 ---
 title: "Epicerie BT MARKET"
 url: /longueville/epicerie-bt-market/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vêt'Affaires"
 url: /savigny-le-temple/vetaffaires/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The North Face"
 url: /paris/the-north-face/
-shop: Kleidung
+shop: vêtements
 ---

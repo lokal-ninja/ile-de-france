@@ -1,5 +1,5 @@
 ---
 title: "Prodromus"
 url: /paris/prodromus/
-shop: Kunst
+shop: art
 ---

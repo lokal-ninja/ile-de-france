@@ -1,5 +1,5 @@
 ---
 title: "ODStore"
 url: /paris/odstore/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

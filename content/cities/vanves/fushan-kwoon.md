@@ -1,5 +1,5 @@
 ---
 title: "Fushan Kwoon"
 url: /vanves/fushan-kwoon/
-shop: Sport
+shop: sports
 ---

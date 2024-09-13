@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /cesson/krys/
-shop: Optiker
+shop: opticien
 ---

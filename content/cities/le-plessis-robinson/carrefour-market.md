@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /le-plessis-robinson/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

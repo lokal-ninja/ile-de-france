@@ -1,5 +1,5 @@
 ---
 title: "Le Studio de l'Audition"
 url: /orsay/le-studio-de-laudition/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

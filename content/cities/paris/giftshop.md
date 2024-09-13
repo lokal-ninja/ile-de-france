@@ -1,5 +1,5 @@
 ---
 title: "Giftshop"
 url: /paris/giftshop/
-shop: Andenken
+shop: cadeau
 ---

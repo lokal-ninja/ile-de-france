@@ -1,5 +1,5 @@
 ---
 title: "Maxima D.N."
 url: /puteaux/maxima-d-n/
-shop: Kramladen
+shop: magasin de variétés
 ---

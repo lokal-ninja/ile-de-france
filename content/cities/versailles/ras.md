@@ -1,5 +1,5 @@
 ---
 title: "RAS"
 url: /versailles/ras/
-shop: Schmuck
+shop: bijoux
 ---

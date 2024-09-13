@@ -1,5 +1,5 @@
 ---
 title: "Tabacos"
 url: /alfortville/tabacos/
-shop: Tabak
+shop: tabac
 ---

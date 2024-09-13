@@ -1,5 +1,5 @@
 ---
 title: "Gallery Ayn"
 url: /paris/gallery-ayn/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

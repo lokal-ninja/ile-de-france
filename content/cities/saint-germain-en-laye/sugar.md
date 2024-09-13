@@ -1,5 +1,5 @@
 ---
 title: "Sugar"
 url: /saint-germain-en-laye/sugar/
-shop: Kleidung
+shop: vêtements
 ---

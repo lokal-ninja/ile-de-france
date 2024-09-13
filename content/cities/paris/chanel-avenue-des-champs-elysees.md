@@ -1,5 +1,5 @@
 ---
 title: "Chanel"
 url: /paris/chanel-avenue-des-champs-elysees/
-shop: Kleidung
+shop: vêtements
 ---

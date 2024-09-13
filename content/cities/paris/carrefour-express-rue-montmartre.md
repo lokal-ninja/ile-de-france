@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /paris/carrefour-express-rue-montmartre/
-shop: Lebensmittel
+shop: commodité
 ---

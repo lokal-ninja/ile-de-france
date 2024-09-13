@@ -1,5 +1,5 @@
 ---
 title: "VelyVelo"
 url: /arcueil/velyvelo/
-shop: Fahrrad
+shop: vélo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poly Star Motos"
 url: /herblay-sur-seine/poly-star-motos/
-shop: Motorrad
+shop: moto
 ---

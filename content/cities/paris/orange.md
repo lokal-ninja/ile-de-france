@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /paris/orange/
-shop: Handy
+shop: téléphone portable
 ---

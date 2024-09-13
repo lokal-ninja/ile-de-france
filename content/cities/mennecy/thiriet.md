@@ -1,5 +1,5 @@
 ---
 title: "Thiriet"
 url: /mennecy/thiriet/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

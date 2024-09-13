@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /savigny-le-temple/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

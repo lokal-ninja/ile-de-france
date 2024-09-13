@@ -1,5 +1,5 @@
 ---
 title: "La Caverne"
 url: /paris/la-caverne/
-shop: Kramladen
+shop: magasin de variétés
 ---

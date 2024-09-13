@@ -1,5 +1,5 @@
 ---
 title: "Bazar Flocon"
 url: /courbevoie/bazar-flocon/
-shop: Lebensmittel
+shop: commodité
 ---

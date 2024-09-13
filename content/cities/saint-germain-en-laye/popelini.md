@@ -1,5 +1,5 @@
 ---
 title: "Popelini"
 url: /saint-germain-en-laye/popelini/
-shop: Konditorei
+shop: pâtisserie
 ---

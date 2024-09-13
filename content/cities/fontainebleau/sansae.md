@@ -1,5 +1,5 @@
 ---
 title: "Sansaé"
 url: /fontainebleau/sansae/
-shop: Kosmetik
+shop: beauté
 ---

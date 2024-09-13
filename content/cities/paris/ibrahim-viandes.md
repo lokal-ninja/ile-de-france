@@ -1,5 +1,5 @@
 ---
 title: "Ibrahim viandes"
 url: /paris/ibrahim-viandes/
-shop: Metzgerei
+shop: boucherie
 ---

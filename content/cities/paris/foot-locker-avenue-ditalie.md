@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
 url: /paris/foot-locker-avenue-ditalie/
-shop: Schuhe
+shop: chaussures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Libres Pensées"
 url: /marly-le-roi/libres-pensees/
-shop: Blumen
+shop: fleuriste
 ---

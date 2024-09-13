@@ -1,5 +1,5 @@
 ---
 title: "Les Lunettes de Sacha"
 url: /maule/les-lunettes-de-sacha/
-shop: Optiker
+shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goyard"
 url: /paris/goyard/
-shop: Taschen & Koffer
+shop: sac
 ---

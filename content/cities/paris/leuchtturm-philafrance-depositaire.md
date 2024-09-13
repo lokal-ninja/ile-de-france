@@ -1,5 +1,5 @@
 ---
 title: "Leuchtturm Philafrance Depositaire"
 url: /paris/leuchtturm-philafrance-depositaire/
-shop: Bücher
+shop: livres
 ---
