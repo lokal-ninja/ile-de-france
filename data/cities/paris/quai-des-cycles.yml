@@ -1,11 +1,11 @@
 id: 995537816
-type: way
+type: node
 latitude: 48.88751
 longitude: 2.3141
 postcode: "75017"
 city: Paris
-street: "Rue Cardinet"
-housenumber: 145
-phone: "+33 6 14 05 09 07"
-opening_hours: "We-Fr 09:30-18:30; Sa 10:00-19:00"
-website: "https://www.quaidescycles.fr/"
+street: Rue Cardinet
+housenumber: "145"
+phone: +33 6 14 05 09 07
+opening_hours: We-Fr 09:30-18:30; Sa 10:00-19:00
+website: https://www.quaidescycles.fr/

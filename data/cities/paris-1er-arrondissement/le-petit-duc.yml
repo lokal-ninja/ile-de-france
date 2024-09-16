@@ -1,11 +1,11 @@
 id: 663933576
-type: way
+type: node
 latitude: 48.86153
 longitude: 2.34716
 postcode: "75001"
 city: Paris 1er Arrondissement
-street: "Passage de la Canopée"
-housenumber: 
+street: Passage de la Canopée
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://www.petit-duc.com/"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://www.petit-duc.com/

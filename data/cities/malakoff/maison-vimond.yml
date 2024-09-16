@@ -4,8 +4,8 @@ latitude: 48.82139
 longitude: 2.30435
 postcode: "92240"
 city: Malakoff
-street: "Rue Béranger"
-housenumber: 1
-phone: "+33.9 51 28 53 11"
+street: Rue Béranger
+housenumber: "1"
+phone: +33.9 51 28 53 11
 opening_hours: ""
-website: "https://www.maisonvimond.fr"
+website: https://www.maisonvimond.fr

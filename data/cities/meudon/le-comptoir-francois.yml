@@ -4,8 +4,8 @@ latitude: 48.81145
 longitude: 2.2366
 postcode: "92190"
 city: Meudon
-street: "Place Rabelais"
-housenumber: 5
+street: Place Rabelais
+housenumber: "5"
 phone: "+33982519879"
-opening_hours: "Tu-Sa 10:00-13:30,15:30-20:00; Su 10:00-13:00"
-website: "https://www.lecomptoirfrancois.fr/"
+opening_hours: Tu-Sa 10:00-13:30,15:30-20:00; Su 10:00-13:00
+website: https://www.lecomptoirfrancois.fr/

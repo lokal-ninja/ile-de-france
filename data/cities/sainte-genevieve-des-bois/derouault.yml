@@ -1,11 +1,11 @@
 id: 716650995
-type: way
+type: node
 latitude: 48.65135
 longitude: 2.31663
 postcode: "91700"
 city: Sainte-Geneviève-des-Bois
-street: "Avenue Gabriel Péri"
-housenumber: 38
-phone: "+33 1 60 16 95 02"
+street: Avenue Gabriel Péri
+housenumber: "38"
+phone: +33 1 60 16 95 02
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.86568
 longitude: 2.32793
 postcode: ""
 city: Paris
-street: "Rue de Castiglione"
-housenumber: 6
-phone: "+33 1 44 58 10 10"
-opening_hours: "Tu-Su 12:00-16:00"
-website: "https://www.dorchestercollection.com/fr/paris/le-meurice/restaurants-bars/patisserie-meurice/"
+street: Rue de Castiglione
+housenumber: "6"
+phone: +33 1 44 58 10 10
+opening_hours: Tu-Su 12:00-16:00
+website: https://www.dorchestercollection.com/fr/paris/le-meurice/restaurants-bars/patisserie-meurice/

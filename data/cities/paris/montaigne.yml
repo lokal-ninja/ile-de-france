@@ -4,8 +4,8 @@ latitude: 48.85792
 longitude: 2.3664
 postcode: "75003"
 city: Paris
-street: "Rue Saint-Gilles"
-housenumber: 16
-phone: "+33 6 12 38 00 82"
-opening_hours: "Mo-Sa 10:00-12:00,15:00-19:00"
+street: Rue Saint-Gilles
+housenumber: "16"
+phone: +33 6 12 38 00 82
+opening_hours: Mo-Sa 10:00-12:00,15:00-19:00
 website: ""

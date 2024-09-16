@@ -4,8 +4,8 @@ latitude: 48.80291
 longitude: 2.26501
 postcode: "92140"
 city: Clamart
-street: "Avenue Jean Jaurès"
-housenumber: 41
-phone: "+33 1 55 95 33 97"
-opening_hours: "Su,Mo 12:00-19:00; Tu 10:00-20:00; We-Sa 11:00-20:00"
-website: "http://www.suntime.fr"
+street: Avenue Jean Jaurès
+housenumber: "41"
+phone: +33 1 55 95 33 97
+opening_hours: Su,Mo 12:00-19:00; Tu 10:00-20:00; We-Sa 11:00-20:00
+website: http://www.suntime.fr

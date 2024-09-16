@@ -4,8 +4,8 @@ latitude: 48.86535
 longitude: 2.37651
 postcode: "75011"
 city: Paris
-street: "Rue Oberkampf"
-housenumber: 86
+street: Rue Oberkampf
+housenumber: "86"
 phone: ""
-opening_hours: "Tu-Fr 10:00-14:00,15:00-19:30; Mo 16:30-19:30; Sa 10:00-19:30"
+opening_hours: Tu-Fr 10:00-14:00,15:00-19:30; Mo 16:30-19:30; Sa 10:00-19:30
 website: ""

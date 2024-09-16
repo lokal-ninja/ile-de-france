@@ -1,11 +1,11 @@
 id: 116139489
-type: way
+type: node
 latitude: 48.855
 longitude: 2.62701
 postcode: "77186"
 city: Noisiel
-street: "Rue Henri Menier"
-housenumber: 223
+street: Rue Henri Menier
+housenumber: "223"
 phone: ""
 opening_hours: ""
 website: ""

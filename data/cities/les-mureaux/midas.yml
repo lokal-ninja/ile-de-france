@@ -4,8 +4,8 @@ latitude: 48.98519
 longitude: 1.91224
 postcode: "78130"
 city: Les Mureaux
-street: "Avenue Paul Raoult"
-housenumber: 
-phone: "+33 1 34 74 67 00"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 09:00-17:00"
-website: "https://www.midas.fr/"
+street: Avenue Paul Raoult
+housenumber: ""
+phone: +33 1 34 74 67 00
+opening_hours: Mo-Fr 08:00-19:00, Sa 09:00-17:00
+website: https://www.midas.fr/

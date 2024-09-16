@@ -4,8 +4,8 @@ latitude: 48.89124
 longitude: 2.35189
 postcode: "75018"
 city: Paris
-street: "Rue Ordener"
+street: Rue Ordener
 housenumber: 26 quater
-phone: "+33 9 70 17 14 14"
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:30-22:00"
-website: "https://www.franprix.fr/magasins/5005"
+phone: +33 9 70 17 14 14
+opening_hours: Mo-Sa 07:30-22:00; Su 08:30-22:00
+website: https://www.franprix.fr/magasins/5005

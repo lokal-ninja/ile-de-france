@@ -4,8 +4,8 @@ latitude: 48.71293
 longitude: 2.24412
 postcode: "91120"
 city: Palaiseau
-street: "Rue de Paris"
-housenumber: 129
+street: Rue de Paris
+housenumber: "129"
 phone: ""
-opening_hours: "Mo,Tu 07:00-19:30; Th-Sa 07:00-19:30; Su 07:00-13:30"
+opening_hours: Mo,Tu 07:00-19:30; Th-Sa 07:00-19:30; Su 07:00-13:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.83053
 longitude: 2.3295
 postcode: "75014"
 city: Paris
-street: "Avenue du Général Leclerc"
-housenumber: 
+street: Avenue du Général Leclerc
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://velair.fr/"
+opening_hours: Mo-Sa 10:00-19:30
+website: https://velair.fr/

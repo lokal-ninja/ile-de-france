@@ -4,8 +4,8 @@ latitude: 48.841
 longitude: 2.33194
 postcode: "75014"
 city: Paris
-street: "Boulevard du Montparnasse"
-housenumber: 135
-phone: "+33 1 43 20 60 00"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.auxfeuxdelafete.com"
+street: Boulevard du Montparnasse
+housenumber: "135"
+phone: +33 1 43 20 60 00
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.auxfeuxdelafete.com

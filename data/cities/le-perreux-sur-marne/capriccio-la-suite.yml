@@ -4,8 +4,8 @@ latitude: 48.843
 longitude: 2.50426
 postcode: "94170"
 city: Le Perreux-sur-Marne
-street: "Rue de la Marne"
-housenumber: 1
-phone: "+33 1  43 24 32 66"
-opening_hours: "Tu-Sa 10:00-12:30,15:00-19:30; Su 10:00-13:00; "
-website: "capriccio.shop"
+street: Rue de la Marne
+housenumber: "1"
+phone: +33 1  43 24 32 66
+opening_hours: 'Tu-Sa 10:00-12:30,15:00-19:30; Su 10:00-13:00; '
+website: capriccio.shop

@@ -4,8 +4,8 @@ latitude: 48.84556
 longitude: 2.34275
 postcode: "75005"
 city: Paris
-street: "Rue Saint-Jacques"
-housenumber: 177
+street: Rue Saint-Jacques
+housenumber: "177"
 phone: ""
-opening_hours: "Fr-Tu 09:30-14:00,15:00-20:00"
+opening_hours: Fr-Tu 09:30-14:00,15:00-20:00
 website: ""

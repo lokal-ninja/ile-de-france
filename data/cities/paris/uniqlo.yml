@@ -4,8 +4,8 @@ latitude: 48.85229
 longitude: 2.33556
 postcode: "75006"
 city: Paris
-street: "Rue Clément"
-housenumber: 15
+street: Rue Clément
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
 website: ""

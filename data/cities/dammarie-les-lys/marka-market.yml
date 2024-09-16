@@ -1,11 +1,11 @@
 id: 113078529
-type: way
+type: node
 latitude: 48.52508
 longitude: 2.64413
 postcode: "77190"
 city: Dammarie-les-Lys
-street: "Avenue Jean Jaurès"
-housenumber: 775
+street: Avenue Jean Jaurès
+housenumber: "775"
 phone: ""
 opening_hours: ""
 website: ""

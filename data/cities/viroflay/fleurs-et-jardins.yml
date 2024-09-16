@@ -4,8 +4,8 @@ latitude: 48.79986
 longitude: 2.18499
 postcode: "78220"
 city: Viroflay
-street: "Place de Verdun"
-housenumber: 10
-phone: "+33 1 30 24 41 84"
-opening_hours: "Tu-Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 09:00-13:30"
+street: Place de Verdun
+housenumber: "10"
+phone: +33 1 30 24 41 84
+opening_hours: Tu-Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 09:00-13:30
 website: ""

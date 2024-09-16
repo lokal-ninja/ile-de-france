@@ -1,11 +1,11 @@
 id: 97554812
-type: way
+type: node
 latitude: 48.72245
 longitude: 2.65268
 postcode: "77173"
 city: Chevry-Cossigny
-street: "Rue Charles Pathé"
+street: Rue Charles Pathé
 housenumber: 1A
-phone: "+33 1 64 05 20 09"
+phone: +33 1 64 05 20 09
 opening_hours: ""
-website: "https://concessions.peugeot.fr/chevry-cossigny/"
+website: https://concessions.peugeot.fr/chevry-cossigny/

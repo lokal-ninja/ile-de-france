@@ -1,11 +1,11 @@
 id: 70870166
-type: way
+type: node
 latitude: 48.73085
 longitude: 2.43614
 postcode: "94290"
 city: Villeneuve-le-Roi
-street: "Rue de la Sablière"
-housenumber: 123
+street: Rue de la Sablière
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

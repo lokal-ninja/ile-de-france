@@ -1,11 +1,11 @@
 id: 114151041
-type: way
+type: node
 latitude: 48.62911
 longitude: 2.60361
 postcode: "77550"
 city: Moissy-Cramayel
-street: "Rue des Hauldres"
-housenumber: 35
-phone: "+33 1 64 88 69 22"
+street: Rue des Hauldres
+housenumber: "35"
+phone: +33 1 64 88 69 22
 opening_hours: ""
 website: ""

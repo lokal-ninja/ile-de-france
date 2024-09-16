@@ -4,8 +4,8 @@ latitude: 48.86693
 longitude: 2.36296
 postcode: "75003"
 city: Paris
-street: "Rue du Temple"
-housenumber: 180
-phone: "+33 1 43 48 63 36"
-opening_hours: "Mo-Sa 07:00-20:30; Su, PH closed"
-website: "https://www.maisonlandemaine.com/"
+street: Rue du Temple
+housenumber: "180"
+phone: +33 1 43 48 63 36
+opening_hours: Mo-Sa 07:00-20:30; Su, PH closed
+website: https://www.maisonlandemaine.com/

@@ -4,8 +4,8 @@ latitude: 48.81662
 longitude: 2.32665
 postcode: "92120"
 city: Montrouge
-street: "Boulevard du Général de Gaulle"
-housenumber: 6
-phone: "+33 9 70 17 10 00"
-opening_hours: "Mo-Sa 07:30-22:00; Su 09:00-22:00"
-website: "https://www.franprix.fr/magasins/1267"
+street: Boulevard du Général de Gaulle
+housenumber: "6"
+phone: +33 9 70 17 10 00
+opening_hours: Mo-Sa 07:30-22:00; Su 09:00-22:00
+website: https://www.franprix.fr/magasins/1267

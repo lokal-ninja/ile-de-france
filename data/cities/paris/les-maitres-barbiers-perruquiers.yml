@@ -4,8 +4,8 @@ latitude: 48.89021
 longitude: 2.32137
 postcode: "75017"
 city: Paris
-street: "Rue des Apennins"
-housenumber: 3
+street: Rue des Apennins
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

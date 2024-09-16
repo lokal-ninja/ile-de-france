@@ -4,8 +4,8 @@ latitude: 48.82434
 longitude: 2.2108
 postcode: "92310"
 city: Sèvres
-street: "Grande Rue"
-housenumber: 76
+street: Grande Rue
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-13:00"
-website: "https://bio-c-bon.eu/fr/nos_magasins/bio-c-bon-sevres"
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-13:00
+website: https://bio-c-bon.eu/fr/nos_magasins/bio-c-bon-sevres

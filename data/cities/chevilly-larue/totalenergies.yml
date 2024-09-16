@@ -4,8 +4,8 @@ latitude: 48.76459
 longitude: 2.35665
 postcode: "94550"
 city: Chevilly-Larue
-street: "Boulevard Circulaire Est"
-housenumber: 103
-phone: "+33 1 56 30 99 06"
-opening_hours: "24/7"
-website: "https://services.totalenergies.fr/"
+street: Boulevard Circulaire Est
+housenumber: "103"
+phone: +33 1 56 30 99 06
+opening_hours: 24/7
+website: https://services.totalenergies.fr/

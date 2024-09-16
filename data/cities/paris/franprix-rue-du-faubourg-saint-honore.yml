@@ -4,8 +4,8 @@ latitude: 48.87607
 longitude: 2.30303
 postcode: "75008"
 city: Paris
-street: "Rue du Faubourg Saint-Honoré"
-housenumber: 
+street: Rue du Faubourg Saint-Honoré
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-22:00"
-website: "https://www.franprix.fr/magasins/6203"
+opening_hours: Mo-Sa 08:30-22:00
+website: https://www.franprix.fr/magasins/6203

@@ -4,8 +4,8 @@ latitude: 48.8671
 longitude: 2.36588
 postcode: "75011"
 city: Paris
-street: "Avenue de la République"
-housenumber: 1
-phone: "+33 1 71 19 94 22"
-opening_hours: "Mo 14:00-19:30; Tu-Sa 10:00-19:30"
+street: Avenue de la République
+housenumber: "1"
+phone: +33 1 71 19 94 22
+opening_hours: Mo 14:00-19:30; Tu-Sa 10:00-19:30
 website: ""

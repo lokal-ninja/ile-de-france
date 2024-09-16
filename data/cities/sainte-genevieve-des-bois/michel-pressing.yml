@@ -1,11 +1,11 @@
 id: 135611881
-type: way
+type: node
 latitude: 48.65244
 longitude: 2.31608
 postcode: "91700"
 city: Sainte-Geneviève-des-Bois
-street: "Avenue Gabriel Péri"
-housenumber: 11
+street: Avenue Gabriel Péri
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.99658
 longitude: 2.06242
 postcode: "78780"
 city: Maurecourt
-street: "Rue du Maréchal Leclerc"
-housenumber: 10
-phone: "+33 1 39 74 81 43"
-opening_hours: "Mo-Fr 07:30-12:30,15:30-19:30; Sa 08:00-12:30,15:30-19:30; Su 09:00-12:30"
+street: Rue du Maréchal Leclerc
+housenumber: "10"
+phone: +33 1 39 74 81 43
+opening_hours: Mo-Fr 07:30-12:30,15:30-19:30; Sa 08:00-12:30,15:30-19:30; Su 09:00-12:30
 website: ""

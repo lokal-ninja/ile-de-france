@@ -1,11 +1,11 @@
 id: 80624239
-type: way
+type: node
 latitude: 48.77883
 longitude: 2.28145
 postcode: "92330"
 city: Sceaux
-street: "Rue Houdan"
-housenumber: 151
+street: Rue Houdan
+housenumber: "151"
 phone: ""
 opening_hours: ""
 website: ""

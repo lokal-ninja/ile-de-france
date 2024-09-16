@@ -1,11 +1,11 @@
 id: 226656753
-type: way
+type: node
 latitude: 48.99363
 longitude: 2.1968
 postcode: "95370"
 city: Montigny-lès-Cormeilles
-street: "Boulevard Victor Bordier"
-housenumber: 58
-phone: "+33 8 25 85 08 50"
-opening_hours: "Mo-Sa 09:30-20:00; Su 10:00-19:30"
-website: "https://magasins.boulanger.com/378-boulanger-montigny-les-cormeilles"
+street: Boulevard Victor Bordier
+housenumber: "58"
+phone: +33 8 25 85 08 50
+opening_hours: Mo-Sa 09:30-20:00; Su 10:00-19:30
+website: https://magasins.boulanger.com/378-boulanger-montigny-les-cormeilles

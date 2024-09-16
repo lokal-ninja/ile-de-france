@@ -4,8 +4,8 @@ latitude: 48.86576
 longitude: 2.36763
 postcode: "75011"
 city: Paris
-street: "Rue de Malte"
-housenumber: 47
+street: Rue de Malte
+housenumber: "47"
 phone: ""
 opening_hours: ""
-website: "https://lelabdubonheur.fr/index.php"
+website: https://lelabdubonheur.fr/index.php

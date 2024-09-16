@@ -1,11 +1,11 @@
 id: 85962272
-type: way
+type: node
 latitude: 48.91008
 longitude: 2.03132
 postcode: "78240"
 city: Chambourcy
-street: "Rue du Mur du Parc"
-housenumber: 
-phone: "+33 1 39 27 29 58"
+street: Rue du Mur du Parc
+housenumber: ""
+phone: +33 1 39 27 29 58
 opening_hours: ""
-website: "https://www.capfraicheur.fish"
+website: https://www.capfraicheur.fish

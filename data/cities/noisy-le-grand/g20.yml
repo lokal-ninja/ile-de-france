@@ -4,8 +4,8 @@ latitude: 48.83905
 longitude: 2.57321
 postcode: "93160"
 city: Noisy-le-Grand
-street: "Place Antoine Renard"
-housenumber: 5
-phone: "+33 1 43 04 77 64"
-opening_hours: "Mo-Sa 08:30-21:00, Su 09:00-21:00"
+street: Place Antoine Renard
+housenumber: "5"
+phone: +33 1 43 04 77 64
+opening_hours: Mo-Sa 08:30-21:00, Su 09:00-21:00
 website: ""

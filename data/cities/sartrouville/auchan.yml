@@ -1,11 +1,11 @@
 id: 131364545
-type: way
+type: node
 latitude: 48.94103
 longitude: 2.16494
 postcode: "78500"
 city: Sartrouville
-street: "Avenue Maurice Berteaux"
-housenumber: 80
-phone: "+33 1 61 04 30 70"
-opening_hours: "Mo-Sa 08:30-21:00; Su 09:00-13:30"
-website: "https://www.auchan.fr/magasins/supermarche-sartrouville/sl-1160"
+street: Avenue Maurice Berteaux
+housenumber: "80"
+phone: +33 1 61 04 30 70
+opening_hours: Mo-Sa 08:30-21:00; Su 09:00-13:30
+website: https://www.auchan.fr/magasins/supermarche-sartrouville/sl-1160

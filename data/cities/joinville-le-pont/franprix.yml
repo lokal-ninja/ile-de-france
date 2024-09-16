@@ -4,8 +4,8 @@ latitude: 48.81777
 longitude: 2.46652
 postcode: "94340"
 city: Joinville-le-Pont
-street: "Rue de Paris"
-housenumber: 32
+street: Rue de Paris
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://www.franprix.fr/magasins/4349"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://www.franprix.fr/magasins/4349

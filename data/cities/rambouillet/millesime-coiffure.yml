@@ -4,8 +4,8 @@ latitude: 48.64788
 longitude: 1.85698
 postcode: "78120"
 city: Rambouillet
-street: "Place de l'Europe"
-housenumber: 18
-phone: "+33 1 30 41 88 63"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 08:30-17:30"
+street: Place de l'Europe
+housenumber: "18"
+phone: +33 1 30 41 88 63
+opening_hours: Tu-Fr 09:00-19:00; Sa 08:30-17:30
 website: ""

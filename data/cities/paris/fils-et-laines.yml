@@ -4,8 +4,8 @@ latitude: 48.85635
 longitude: 2.3781
 postcode: "75011"
 city: Paris
-street: "Rue Basfroi"
-housenumber: 49
-phone: "+33 1 43 72 13 59"
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-18:00"
-website: "https://www.filsetlaines.com/"
+street: Rue Basfroi
+housenumber: "49"
+phone: +33 1 43 72 13 59
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-18:00
+website: https://www.filsetlaines.com/

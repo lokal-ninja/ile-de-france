@@ -5,7 +5,7 @@ longitude: 2.05274
 postcode: "78180"
 city: Montigny-le-Bretonneux
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 09:30-13:00,15:30-19:30; Sa 09:30-13:00,15:30-19:00; Su 9:45-12:45"
-website: "https://www.unpetittouralaferme.fr"
+opening_hours: Tu-Fr 09:30-13:00,15:30-19:30; Sa 09:30-13:00,15:30-19:00; Su 9:45-12:45
+website: https://www.unpetittouralaferme.fr

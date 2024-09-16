@@ -1,11 +1,11 @@
 id: 71355945
-type: way
+type: node
 latitude: 48.70557
 longitude: 2.20895
 postcode: "91120"
 city: Palaiseau
-street: "rue Théodore de Banville"
-housenumber: 12
+street: rue Théodore de Banville
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-18:00"
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-18:00
 website: ""

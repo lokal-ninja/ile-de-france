@@ -4,8 +4,8 @@ latitude: 48.76452
 longitude: 2.39228
 postcode: "94320"
 city: Thiais
-street: "Avenue René Panhard"
-housenumber: 99
+street: Avenue René Panhard
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.franprix.fr/magasins/5583"
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.franprix.fr/magasins/5583

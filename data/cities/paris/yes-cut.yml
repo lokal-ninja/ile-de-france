@@ -4,8 +4,8 @@ latitude: 48.87568
 longitude: 2.34164
 postcode: "75009"
 city: Paris
-street: "Rue de Châteaudun"
-housenumber: 5
+street: Rue de Châteaudun
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

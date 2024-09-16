@@ -4,8 +4,8 @@ latitude: 48.8725
 longitude: 2.29788
 postcode: "75008"
 city: Paris
-street: "Avenue des Champs-Élysées"
-housenumber: 125
+street: Avenue des Champs-Élysées
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.80748
 longitude: 2.13058
 postcode: "78000"
 city: Versailles
-street: "Rue Rameau"
-housenumber: 3
-phone: "+33 1 39072920"
-opening_hours: "Tu-Sa 14:15-19:00,09:00-12:45"
-website: "https://www.revert-bricolage-outillage-78.fr/"
+street: Rue Rameau
+housenumber: "3"
+phone: +33 1 39072920
+opening_hours: Tu-Sa 14:15-19:00,09:00-12:45
+website: https://www.revert-bricolage-outillage-78.fr/

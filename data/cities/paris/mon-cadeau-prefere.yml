@@ -4,8 +4,8 @@ latitude: 48.85973
 longitude: 2.27512
 postcode: "75116"
 city: Paris
-street: "Rue de la Pompe"
-housenumber: 15
-phone: "+33 1 45 04 20 06"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:30-19:00"
-website: "https://moncadeauprefere.blogspot.com/"
+street: Rue de la Pompe
+housenumber: "15"
+phone: +33 1 45 04 20 06
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:30-19:00
+website: https://moncadeauprefere.blogspot.com/

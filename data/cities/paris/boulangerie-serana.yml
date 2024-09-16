@@ -4,8 +4,8 @@ latitude: 48.87411
 longitude: 2.31577
 postcode: "75008"
 city: Paris
-street: "Rue de Miromesnil"
-housenumber: 43
+street: Rue de Miromesnil
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Th 06:15-20:30; Fr 06:15-19:30"
+opening_hours: Mo-Th 06:15-20:30; Fr 06:15-19:30
 website: ""

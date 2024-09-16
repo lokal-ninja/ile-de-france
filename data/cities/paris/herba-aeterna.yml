@@ -4,8 +4,8 @@ latitude: 48.86889
 longitude: 2.2847
 postcode: "75016"
 city: Paris
-street: "Rue Mesnil"
-housenumber: 4
+street: Rue Mesnil
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

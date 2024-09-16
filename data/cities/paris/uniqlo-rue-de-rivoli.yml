@@ -4,8 +4,8 @@ latitude: 48.85964
 longitude: 2.34423
 postcode: "75001"
 city: Paris
-street: "Rue de Rivoli"
-housenumber: 67
+street: Rue de Rivoli
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
+opening_hours: Mo-Su 10:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.95
 longitude: 2.87298
 postcode: "77124"
 city: Villenoy
-street: "Rue Gambetta"
-housenumber: 9
+street: Rue Gambetta
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Sa 10:00-12:30, 14:00-19:00"
-website: "https://musicstudio.fr/"
+opening_hours: Tu-Sa 10:00-12:30, 14:00-19:00
+website: https://musicstudio.fr/

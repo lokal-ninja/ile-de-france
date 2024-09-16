@@ -4,8 +4,8 @@ latitude: 48.85852
 longitude: 2.28048
 postcode: "75016"
 city: Paris
-street: "Rue Nicolo"
-housenumber: 9
-phone: "+33 1 45 24 53 89"
-opening_hours: "Mo-Sa 10:00-20:30; Su 10:00-20:30"
-website: "https://lamaisondutuina.com"
+street: Rue Nicolo
+housenumber: "9"
+phone: +33 1 45 24 53 89
+opening_hours: Mo-Sa 10:00-20:30; Su 10:00-20:30
+website: https://lamaisondutuina.com

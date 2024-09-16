@@ -4,8 +4,8 @@ latitude: 48.83147
 longitude: 2.32924
 postcode: "75014"
 city: Paris
-street: "Rue Mouton Duvernet"
-housenumber: 
+street: Rue Mouton Duvernet
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:00,14:00-19:00; Sa 09:00-13:00,14:00-18:30"
+opening_hours: Mo-Fr 08:30-13:00,14:00-19:00; Sa 09:00-13:00,14:00-18:30
 website: ""

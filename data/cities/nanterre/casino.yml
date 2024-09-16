@@ -4,8 +4,8 @@ latitude: 48.88995
 longitude: 2.19495
 postcode: "92000"
 city: Nanterre
-street: "Place Gabriel Péri"
-housenumber: 10
+street: Place Gabriel Péri
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.franprix.fr/magasins/6968"
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.franprix.fr/magasins/6968

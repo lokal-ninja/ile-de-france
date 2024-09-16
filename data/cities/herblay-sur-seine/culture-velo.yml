@@ -1,11 +1,11 @@
 id: 85300650
-type: way
+type: node
 latitude: 48.99895
 longitude: 2.17888
 postcode: "95220"
 city: Herblay-sur-Seine
-street: "Rue de la Marne"
+street: Rue de la Marne
 housenumber: 48 ter
 phone: ""
-opening_hours: "Mo 14:00-19:00,Tu-Sa 09:30-19:00"
+opening_hours: Mo 14:00-19:00,Tu-Sa 09:30-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 83658543
-type: way
+type: node
 latitude: 48.8286
 longitude: 1.96495
 postcode: "78370"
 city: Plaisir
-street: "Rue Henri Barbusse"
-housenumber: 70
+street: Rue Henri Barbusse
+housenumber: "70"
 phone: "+33130075250"
-opening_hours: "Mo-Sa 09:30-20:00; Su 10:00-19:30"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-plaisir-0070005500055"
+opening_hours: Mo-Sa 09:30-20:00; Su 10:00-19:30
+website: https://www.decathlon.fr/store-view/magasin-de-sports-plaisir-0070005500055

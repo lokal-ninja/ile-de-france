@@ -4,8 +4,8 @@ latitude: 48.85915
 longitude: 2.37975
 postcode: "75011"
 city: Paris
-street: "Avenue Parmentier"
-housenumber: 8
+street: Avenue Parmentier
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Sa 09:00-20:00"
+opening_hours: Tu-Sa 09:00-20:00
 website: ""

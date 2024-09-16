@@ -1,11 +1,11 @@
 id: 70668555
-type: way
+type: node
 latitude: 48.72135
 longitude: 2.28725
 postcode: "91300"
 city: Massy
-street: "Avenue du Maréchal de Lattre de Tassigny"
-housenumber: 
-phone: "+33 1 69 53 55 50"
-opening_hours: "Mo-Fr 07:45-19:00; Sa 09:00-19:00"
-website: "https://reseau.citroen.fr/massy"
+street: Avenue du Maréchal de Lattre de Tassigny
+housenumber: ""
+phone: +33 1 69 53 55 50
+opening_hours: Mo-Fr 07:45-19:00; Sa 09:00-19:00
+website: https://reseau.citroen.fr/massy

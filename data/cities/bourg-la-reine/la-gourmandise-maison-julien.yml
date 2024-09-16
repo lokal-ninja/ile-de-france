@@ -4,8 +4,8 @@ latitude: 48.77695
 longitude: 2.32357
 postcode: "92340"
 city: Bourg-la-Reine
-street: "Rue Charpentier"
-housenumber: 4
-phone: "+33 1 46 64 32 36"
-opening_hours: "Mo-Su 07:00-20:00"
+street: Rue Charpentier
+housenumber: "4"
+phone: +33 1 46 64 32 36
+opening_hours: Mo-Su 07:00-20:00
 website: ""

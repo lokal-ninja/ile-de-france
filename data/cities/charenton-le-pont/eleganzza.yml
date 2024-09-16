@@ -4,8 +4,8 @@ latitude: 48.82025
 longitude: 2.41556
 postcode: "94220"
 city: Charenton-le-Pont
-street: "Rue de Paris"
-housenumber: 52
+street: Rue de Paris
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-19:00"
-website: "https://www.ginagino.fr/"
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:30-19:00
+website: https://www.ginagino.fr/

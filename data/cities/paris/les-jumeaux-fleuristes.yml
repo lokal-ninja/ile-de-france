@@ -4,8 +4,8 @@ latitude: 48.85822
 longitude: 2.3774
 postcode: "75011"
 city: Paris
-street: "Rue Sedaine"
-housenumber: 73
+street: Rue Sedaine
+housenumber: "73"
 phone: ""
-opening_hours: "Tu-Sa 11:00-20:00; Su 10:00-18:00"
+opening_hours: Tu-Sa 11:00-20:00; Su 10:00-18:00
 website: ""

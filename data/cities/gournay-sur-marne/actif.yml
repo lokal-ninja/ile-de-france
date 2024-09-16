@@ -1,11 +1,11 @@
 id: 1160492454
-type: way
+type: node
 latitude: 48.8547
 longitude: 2.5731
 postcode: "93460"
 city: Gournay-sur-Marne
-street: "Boulevard de la Résistance"
-housenumber: 132
-phone: "+33 1 43 03 53 82"
+street: Boulevard de la Résistance
+housenumber: "132"
+phone: +33 1 43 03 53 82
 opening_hours: ""
 website: ""

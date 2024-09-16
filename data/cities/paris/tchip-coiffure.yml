@@ -4,8 +4,8 @@ latitude: 48.86129
 longitude: 2.34369
 postcode: "75001"
 city: Paris
-street: "Rue Saint-Honoré"
-housenumber: 60
+street: Rue Saint-Honoré
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://tchip.fr/salon/view/1667"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://tchip.fr/salon/view/1667

@@ -4,8 +4,8 @@ latitude: 48.84024
 longitude: 2.35104
 postcode: "75005"
 city: Paris
-street: "Rue Daubenton"
-housenumber: 37
+street: Rue Daubenton
+housenumber: "37"
 phone: ""
-opening_hours: "Mo 09:00-19:00, Tu-Sa 09:00-20:00, Su 09:00-14:00"
-website: "https://fleuriste-paris5.fr"
+opening_hours: Mo 09:00-19:00, Tu-Sa 09:00-20:00, Su 09:00-14:00
+website: https://fleuriste-paris5.fr

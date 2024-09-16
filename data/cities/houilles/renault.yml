@@ -1,11 +1,11 @@
 id: 131536281
-type: way
+type: node
 latitude: 48.93184
 longitude: 2.18323
 postcode: "78800"
 city: Houilles
-street: "Boulevard Henri Barbusse"
-housenumber: 124
+street: Boulevard Henri Barbusse
+housenumber: "124"
 phone: ""
 opening_hours: ""
 website: ""

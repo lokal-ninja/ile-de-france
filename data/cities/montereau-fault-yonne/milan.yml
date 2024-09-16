@@ -1,11 +1,11 @@
 id: 349314319
-type: way
+type: node
 latitude: 48.38677
 longitude: 2.96093
 postcode: "77130"
 city: Montereau-fault-Yonne
-street: "Chemin de Halage de l'Yonne"
-housenumber: 9
+street: Chemin de Halage de l'Yonne
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

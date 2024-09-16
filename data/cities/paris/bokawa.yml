@@ -4,8 +4,8 @@ latitude: 48.88356
 longitude: 2.39505
 postcode: "75019"
 city: Paris
-street: "Boulevard Sérurier"
-housenumber: 94
+street: Boulevard Sérurier
+housenumber: "94"
 phone: ""
 opening_hours: ""
-website: "https://www.bokawa.fr/"
+website: https://www.bokawa.fr/

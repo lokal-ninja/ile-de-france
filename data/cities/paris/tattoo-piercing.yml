@@ -4,8 +4,8 @@ latitude: 48.86138
 longitude: 2.3459
 postcode: "75001"
 city: Paris
-street: "Rue Berger"
-housenumber: 
+street: Rue Berger
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

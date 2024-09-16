@@ -1,11 +1,11 @@
 id: 122318552
-type: way
+type: node
 latitude: 48.91602
 longitude: 2.27785
 postcode: "92600"
 city: Asnières-sur-Seine
-street: "Rue de Colombes"
-housenumber: 116
+street: Rue de Colombes
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Sa 08:45-20:30; Su 09:00-13:00"
+opening_hours: Mo-Sa 08:45-20:30; Su 09:00-13:00
 website: ""

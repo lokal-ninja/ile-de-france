@@ -4,8 +4,8 @@ latitude: 48.84193
 longitude: 2.50523
 postcode: "94170"
 city: Le Perreux-sur-Marne
-street: "Avenue du Général de Gaulle"
-housenumber: 112
+street: Avenue du Général de Gaulle
+housenumber: "112"
 phone: ""
-opening_hours: "Tu 14:30-19:00,We-Sa 10:00-13:00,14:30-19:00; Su 10:00-13:00; "
-website: "https://www.chocolat-chapon.com/fr/magasins"
+opening_hours: 'Tu 14:30-19:00,We-Sa 10:00-13:00,14:30-19:00; Su 10:00-13:00; '
+website: https://www.chocolat-chapon.com/fr/magasins

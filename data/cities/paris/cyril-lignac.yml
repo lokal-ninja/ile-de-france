@@ -4,8 +4,8 @@ latitude: 48.8418
 longitude: 2.31407
 postcode: "75015"
 city: Paris
-street: "Boulevard Pasteur"
-housenumber: 55
-phone: "+33 1 55 87 21 40"
-opening_hours: "Tu-Fr 10:00-19:30; Sa-Su 10:00-19:00"
-website: "https://cyrillignac.com/"
+street: Boulevard Pasteur
+housenumber: "55"
+phone: +33 1 55 87 21 40
+opening_hours: Tu-Fr 10:00-19:30; Sa-Su 10:00-19:00
+website: https://cyrillignac.com/

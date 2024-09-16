@@ -1,11 +1,11 @@
 id: 166108509
-type: way
+type: node
 latitude: 48.77197
 longitude: 2.27313
 postcode: "92290"
 city: Châtenay-Malabry
-street: "Avenue Roger Salengro"
-housenumber: 72
+street: Avenue Roger Salengro
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Su 09:30-19:00"
-website: "https://www.truffaut.com/stores/chatenay-malabry"
+opening_hours: Mo-Su 09:30-19:00
+website: https://www.truffaut.com/stores/chatenay-malabry

@@ -1,11 +1,11 @@
 id: 445457826
-type: way
+type: node
 latitude: 48.5741
 longitude: 2.44313
 postcode: "91540"
 city: Mennecy
-street: "Rue Jean Jaurès"
-housenumber: 38
+street: Rue Jean Jaurès
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

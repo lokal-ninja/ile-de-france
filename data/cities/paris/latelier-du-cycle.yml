@@ -5,7 +5,7 @@ longitude: 2.32743
 postcode: "75014"
 city: Paris
 street: ""
-housenumber: 6
+housenumber: "6"
 phone: "+33186041181"
-opening_hours: "Mo,Sa 11:00-18:00; Tu-Fr 09:30-18:00"
+opening_hours: Mo,Sa 11:00-18:00; Tu-Fr 09:30-18:00
 website: ""

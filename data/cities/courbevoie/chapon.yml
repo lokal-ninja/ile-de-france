@@ -4,8 +4,8 @@ latitude: 48.90243
 longitude: 2.26888
 postcode: "92400"
 city: Courbevoie
-street: "Rue Edith Cavell"
-housenumber: 28
+street: Rue Edith Cavell
+housenumber: "28"
 phone: ""
-opening_hours: "Tu-Fr  11:00-14:00, 15:00-20:00; Sa 10:00-14:00, 15:00-20:00; Su 10:00-14:00"
-website: "https://chapon.com/"
+opening_hours: Tu-Fr  11:00-14:00, 15:00-20:00; Sa 10:00-14:00, 15:00-20:00; Su 10:00-14:00
+website: https://chapon.com/

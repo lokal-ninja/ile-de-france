@@ -4,8 +4,8 @@ latitude: 48.82348
 longitude: 2.3234
 postcode: "75014"
 city: Paris
-street: "Boulevard Brune"
-housenumber: 128
+street: Boulevard Brune
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Fr 15:00-19:30, We-Fr 10:00-14:00, Sa 09:00-19:30, Su 09:00-14:00"
+opening_hours: Mo-Fr 15:00-19:30, We-Fr 10:00-14:00, Sa 09:00-19:30, Su 09:00-14:00
 website: ""

@@ -5,7 +5,7 @@ longitude: 2.85331
 postcode: "77250"
 city: Écuelles
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://store.totalenergies.fr/fr_FR/NF001719"
+opening_hours: 24/7
+website: https://store.totalenergies.fr/fr_FR/NF001719

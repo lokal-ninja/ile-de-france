@@ -4,8 +4,8 @@ latitude: 48.84138
 longitude: 2.32634
 postcode: "75014"
 city: Paris
-street: "Rue Delambre"
-housenumber: 31
+street: Rue Delambre
+housenumber: "31"
 phone: "+33988020651"
-opening_hours: "Mo-Sa 10:30-20:00"
-website: "https://www.itartufi.fr"
+opening_hours: Mo-Sa 10:30-20:00
+website: https://www.itartufi.fr

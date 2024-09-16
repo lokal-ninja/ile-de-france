@@ -4,8 +4,8 @@ latitude: 48.9291
 longitude: 2.04267
 postcode: "78300"
 city: Poissy
-street: "Avenue des Ursulines"
-housenumber: 5
-phone: "+33 1 30 65 43 25"
-opening_hours: "Tu-Th 08:30-19:30; Fr-Sa 08:30-20:00; Su 09:00-13:30"
+street: Avenue des Ursulines
+housenumber: "5"
+phone: +33 1 30 65 43 25
+opening_hours: Tu-Th 08:30-19:30; Fr-Sa 08:30-20:00; Su 09:00-13:30
 website: ""

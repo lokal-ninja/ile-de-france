@@ -4,8 +4,8 @@ latitude: 48.85012
 longitude: 2.32748
 postcode: "75006"
 city: Paris
-street: "Boulevard Raspail"
-housenumber: 55
+street: Boulevard Raspail
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.tapis-bouznah.fr/"
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.tapis-bouznah.fr/

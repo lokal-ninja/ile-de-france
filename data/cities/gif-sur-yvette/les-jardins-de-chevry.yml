@@ -4,8 +4,8 @@ latitude: 48.68858
 longitude: 2.11508
 postcode: "91190"
 city: Gif-sur-Yvette
-street: "Place du Marché Neuf"
-housenumber: 11
-phone: "+33 6 13 88 33 06"
-opening_hours: "Tu-Sa 09:00-13:00,15:00-19:30; Su 09:00-13:00"
+street: Place du Marché Neuf
+housenumber: "11"
+phone: +33 6 13 88 33 06
+opening_hours: Tu-Sa 09:00-13:00,15:00-19:30; Su 09:00-13:00
 website: ""

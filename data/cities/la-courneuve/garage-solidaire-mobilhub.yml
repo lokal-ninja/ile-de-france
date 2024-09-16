@@ -4,8 +4,8 @@ latitude: 48.92609
 longitude: 2.38482
 postcode: "93120"
 city: La Courneuve
-street: "Boulevard Pasteur"
-housenumber: 66
-phone: "+33 7 81 80 16 21"
-opening_hours: "Mo-Fr 09:30-17:00"
+street: Boulevard Pasteur
+housenumber: "66"
+phone: +33 7 81 80 16 21
+opening_hours: Mo-Fr 09:30-17:00
 website: ""

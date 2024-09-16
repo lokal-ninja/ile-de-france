@@ -4,8 +4,8 @@ latitude: 48.90395
 longitude: 2.2681
 postcode: "92400"
 city: Courbevoie
-street: "Avenue de la Liberté"
-housenumber: 3
-phone: "+33 1 46 91 07 26"
-opening_hours: "Tu-Sa 10:00-13:30,15:30-19:30"
+street: Avenue de la Liberté
+housenumber: "3"
+phone: +33 1 46 91 07 26
+opening_hours: Tu-Sa 10:00-13:30,15:30-19:30
 website: ""

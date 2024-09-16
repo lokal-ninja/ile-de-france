@@ -1,11 +1,11 @@
 id: 613893282
-type: way
+type: node
 latitude: 49.03287
 longitude: 2.20602
 postcode: "95550"
 city: Taverny
-street: "rue Stéphane Hessel"
-housenumber: 9
+street: rue Stéphane Hessel
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.garage-peugeot-bessancourt.fr/"
+website: https://www.garage-peugeot-bessancourt.fr/

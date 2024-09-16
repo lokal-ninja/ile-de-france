@@ -4,8 +4,9 @@ latitude: 48.85936
 longitude: 2.37602
 postcode: "75011"
 city: Paris
-street: "Rue Popincourt"
-housenumber: 40
+street: Rue Popincourt
+housenumber: "40"
 phone: ""
-opening_hours: "Tu 09:30-19:45; We 10:30-19:45; Th 09:30-19:45; Fr 10:30-20:00; Sa 10:00-20:00; Su 10:00-13:00"
+opening_hours: Tu 09:30-19:45; We 10:30-19:45; Th 09:30-19:45; Fr 10:30-20:00; Sa
+    10:00-20:00; Su 10:00-13:00
 website: ""

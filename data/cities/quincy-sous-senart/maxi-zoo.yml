@@ -1,11 +1,11 @@
 id: 150025883
-type: way
+type: node
 latitude: 48.68323
 longitude: 2.53714
 postcode: "91480"
 city: Quincy-sous-Sénart
 street: ""
-housenumber: 
-phone: "+33 1 69 49 48 85"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.maxizoo.fr/stores/maxi-zoo-quincy-sous-senart/"
+housenumber: ""
+phone: +33 1 69 49 48 85
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.maxizoo.fr/stores/maxi-zoo-quincy-sous-senart/

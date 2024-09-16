@@ -4,8 +4,8 @@ latitude: 48.86741
 longitude: 2.3767
 postcode: "75011"
 city: Paris
-street: "Rue Jean-Pierre Timbaud"
-housenumber: 84
-phone: "+33 1 84 79 88 17"
-opening_hours: "Tu-Fr 10:00-20:00; Sa 09:30-20:00"
-website: "https://www.terroirs-avenir.fr/"
+street: Rue Jean-Pierre Timbaud
+housenumber: "84"
+phone: +33 1 84 79 88 17
+opening_hours: Tu-Fr 10:00-20:00; Sa 09:30-20:00
+website: https://www.terroirs-avenir.fr/

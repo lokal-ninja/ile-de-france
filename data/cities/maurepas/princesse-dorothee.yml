@@ -4,8 +4,8 @@ latitude: 48.76125
 longitude: 1.91339
 postcode: "78310"
 city: Maurepas
-street: "Avenue Louis Pasteur"
-housenumber: 3
-phone: "+33 1 30 49 21 55"
-opening_hours: "Mo-Su 10:00-19:00; Th 10:00-20:00"
-website: "https://www.princesse-dorothee.com/"
+street: Avenue Louis Pasteur
+housenumber: "3"
+phone: +33 1 30 49 21 55
+opening_hours: Mo-Su 10:00-19:00; Th 10:00-20:00
+website: https://www.princesse-dorothee.com/

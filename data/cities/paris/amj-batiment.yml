@@ -4,8 +4,8 @@ latitude: 48.89087
 longitude: 2.3779
 postcode: "75019"
 city: Paris
-street: "Rue de Joinville"
-housenumber: 15
+street: Rue de Joinville
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

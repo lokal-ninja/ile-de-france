@@ -1,11 +1,11 @@
 id: 168677437
-type: way
+type: node
 latitude: 48.56731
 longitude: 2.45148
 postcode: "91540"
 city: Mennecy
-street: "Rue Victor Grignard"
-housenumber: 9
-phone: "+33 1 64 57 30 40"
+street: Rue Victor Grignard
+housenumber: "9"
+phone: +33 1 64 57 30 40
 opening_hours: ""
 website: ""

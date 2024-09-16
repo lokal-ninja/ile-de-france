@@ -1,11 +1,11 @@
 id: 81618311
-type: way
+type: node
 latitude: 48.86562
 longitude: 2.41741
 postcode: "93170"
 city: Bagnolet
-street: "Avenue du Général de Gaulle"
-housenumber: 28
+street: Avenue du Général de Gaulle
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

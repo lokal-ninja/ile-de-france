@@ -4,8 +4,8 @@ latitude: 48.88709
 longitude: 2.32714
 postcode: "75018"
 city: Paris
-street: "Rue Hégésippe Moreau"
-housenumber: 9
-phone: "+33 1 44 70 98 81"
-opening_hours: "Tu-Sa 11:00-20:00; Su 11:00-15:00"
-website: "http://www.commeenpologne.fr/"
+street: Rue Hégésippe Moreau
+housenumber: "9"
+phone: +33 1 44 70 98 81
+opening_hours: Tu-Sa 11:00-20:00; Su 11:00-15:00
+website: http://www.commeenpologne.fr/

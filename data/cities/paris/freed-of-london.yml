@@ -4,8 +4,8 @@ latitude: 48.87797
 longitude: 2.33033
 postcode: "75009"
 city: Paris
-street: "Rue de Clichy"
-housenumber: 12
+street: Rue de Clichy
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:30; PH closed"
+opening_hours: Mo-Sa 10:00-18:30; PH closed
 website: ""

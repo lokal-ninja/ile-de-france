@@ -1,11 +1,11 @@
 id: 109481480
-type: way
+type: node
 latitude: 48.61341
 longitude: 2.37727
 postcode: "91070"
 city: Bondoufle
 street: ""
-housenumber: 
-phone: "+33 1 60 86 46 95"
-opening_hours: "24/7"
-website: "https://store.totalenergies.fr/en_EN/NF007443"
+housenumber: ""
+phone: +33 1 60 86 46 95
+opening_hours: 24/7
+website: https://store.totalenergies.fr/en_EN/NF007443

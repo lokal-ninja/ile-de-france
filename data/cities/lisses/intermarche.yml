@@ -1,11 +1,11 @@
 id: 129231024
-type: way
+type: node
 latitude: 48.59993
 longitude: 2.43354
 postcode: "91090"
 city: Lisses
-street: "Route de Corbeil"
-housenumber: 
+street: Route de Corbeil
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

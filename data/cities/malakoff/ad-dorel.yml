@@ -4,8 +4,8 @@ latitude: 48.82065
 longitude: 2.31158
 postcode: "92240"
 city: Malakoff
-street: "Avenue Pierre Brossolette"
-housenumber: 42
+street: Avenue Pierre Brossolette
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:30, 14:00-19:00"
-website: "https://www.dorel.fr/"
+opening_hours: Mo-Sa 10:00-12:30, 14:00-19:00
+website: https://www.dorel.fr/

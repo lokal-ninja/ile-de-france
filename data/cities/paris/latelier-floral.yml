@@ -4,8 +4,8 @@ latitude: 48.84705
 longitude: 2.38573
 postcode: "75012"
 city: Paris
-street: "Boulevard Diderot"
-housenumber: 104
+street: Boulevard Diderot
+housenumber: "104"
 phone: ""
-opening_hours: "Mo,Tu,Th-Sa 09:00-20:30; Su 09:00-19:00"
+opening_hours: Mo,Tu,Th-Sa 09:00-20:30; Su 09:00-19:00
 website: ""

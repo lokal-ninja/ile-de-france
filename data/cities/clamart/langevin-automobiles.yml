@@ -1,11 +1,11 @@
 id: 802999435
-type: way
+type: node
 latitude: 48.77813
 longitude: 2.23398
 postcode: "92140"
 city: Clamart
-street: "Avenue du Général de Gaulle"
-housenumber: 521
-phone: "+33 146301162"
+street: Avenue du Général de Gaulle
+housenumber: "521"
+phone: +33 146301162
 opening_hours: ""
-website: "http://www.langevin-automobiles.com"
+website: http://www.langevin-automobiles.com

@@ -4,8 +4,9 @@ latitude: 48.79342
 longitude: 2.28576
 postcode: "92260"
 city: Fontenay-aux-Roses
-street: "Rue La Boissière"
-housenumber: 7
-phone: "+33 6 80 74 48 49"
-opening_hours: "Tu 09:00-18:00; We 10:00-18:00; Th 09:00-17:00; Fr 10:00-18:00; Sa 09:00-18:00"
-website: "https://www.tiphainechocolat.com/"
+street: Rue La Boissière
+housenumber: "7"
+phone: +33 6 80 74 48 49
+opening_hours: Tu 09:00-18:00; We 10:00-18:00; Th 09:00-17:00; Fr 10:00-18:00; Sa
+    09:00-18:00
+website: https://www.tiphainechocolat.com/

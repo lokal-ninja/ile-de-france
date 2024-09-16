@@ -1,11 +1,11 @@
 id: 118106990
-type: way
+type: node
 latitude: 48.56725
 longitude: 2.44662
 postcode: "91540"
 city: Mennecy
-street: "Boulevard Charles de Gaulle"
-housenumber: 
+street: Boulevard Charles de Gaulle
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.points.fr/"
+website: https://www.points.fr/

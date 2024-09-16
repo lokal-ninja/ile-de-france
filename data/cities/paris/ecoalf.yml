@@ -4,8 +4,8 @@ latitude: 48.85836
 longitude: 2.35349
 postcode: "75004"
 city: Paris
-street: "Rue du Temple"
-housenumber: 14
+street: Rue du Temple
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 10:30-19:30; Su 11:00-19:00"
-website: "https://ecoalf.com/"
+opening_hours: Mo-Sa 10:30-19:30; Su 11:00-19:00
+website: https://ecoalf.com/

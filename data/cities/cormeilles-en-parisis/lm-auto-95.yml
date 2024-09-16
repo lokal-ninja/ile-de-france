@@ -4,8 +4,8 @@ latitude: 48.97514
 longitude: 2.18723
 postcode: "95240"
 city: Cormeilles-en-Parisis
-street: "Rue de la Paix"
-housenumber: 3
-phone: "+33 1 39 60 40 07"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:00"
-website: "https://www.123autoservice.fr/garage/lm-auto-95/"
+street: Rue de la Paix
+housenumber: "3"
+phone: +33 1 39 60 40 07
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:00
+website: https://www.123autoservice.fr/garage/lm-auto-95/

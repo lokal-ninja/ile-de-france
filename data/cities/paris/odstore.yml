@@ -4,8 +4,8 @@ latitude: 48.86267
 longitude: 2.34748
 postcode: "75001"
 city: Paris
-street: "Rue Rambuteau"
-housenumber: 118
+street: Rue Rambuteau
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

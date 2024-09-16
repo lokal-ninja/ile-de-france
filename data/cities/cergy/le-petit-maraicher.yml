@@ -4,8 +4,8 @@ latitude: 49.02302
 longitude: 2.08192
 postcode: "95000"
 city: Cergy
-street: "Chemin des Pâtis"
-housenumber: 49
+street: Chemin des Pâtis
+housenumber: "49"
 phone: ""
-opening_hours: "We-Fr 15:00-19:00; Sa 15:00-18:00"
-website: "https://www.lepetitmaraicher.fr"
+opening_hours: We-Fr 15:00-19:00; Sa 15:00-18:00
+website: https://www.lepetitmaraicher.fr

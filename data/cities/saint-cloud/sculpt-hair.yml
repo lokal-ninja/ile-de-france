@@ -4,8 +4,8 @@ latitude: 48.84426
 longitude: 2.21903
 postcode: "92210"
 city: Saint-Cloud
-street: "Place du Pas de Saint-Cloud"
-housenumber: 1
+street: Place du Pas de Saint-Cloud
+housenumber: "1"
 phone: "+33146025419"
-opening_hours: "Tu-Sa 09:00-19:00"
+opening_hours: Tu-Sa 09:00-19:00
 website: ""

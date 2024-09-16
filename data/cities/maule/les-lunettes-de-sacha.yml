@@ -4,8 +4,8 @@ latitude: 48.90926
 longitude: 1.84927
 postcode: "78580"
 city: Maule
-street: "Rue du Plat d'Etain"
-housenumber: 2
+street: Rue du Plat d'Etain
+housenumber: "2"
 phone: "+33130906860"
-opening_hours: "Tu-Sa 09:15-12:15, 15:00-19:00"
-website: "https://www.leslunettesdesacha.com/"
+opening_hours: Tu-Sa 09:15-12:15, 15:00-19:00
+website: https://www.leslunettesdesacha.com/

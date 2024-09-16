@@ -4,8 +4,8 @@ latitude: 48.87377
 longitude: 2.31577
 postcode: "75008"
 city: Paris
-street: "Rue La Boétie"
-housenumber: 29
-phone: "+33 1 45 22 55 50"
-opening_hours: "Mo-Fr 06:30-20:30; Sa 07:00-20:30"
-website: "https://www.maison-kayser.com/fr/boulangeries/100001019-boetie-miromesnil.html"
+street: Rue La Boétie
+housenumber: "29"
+phone: +33 1 45 22 55 50
+opening_hours: Mo-Fr 06:30-20:30; Sa 07:00-20:30
+website: https://www.maison-kayser.com/fr/boulangeries/100001019-boetie-miromesnil.html

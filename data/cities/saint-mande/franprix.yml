@@ -4,8 +4,8 @@ latitude: 48.83835
 longitude: 2.41785
 postcode: "94160"
 city: Saint-Mandé
-street: "Avenue du Général de Gaulle"
-housenumber: 69
+street: Avenue du Général de Gaulle
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://www.franprix.fr/magasins/5370"
+opening_hours: Mo-Su 09:00-20:00
+website: https://www.franprix.fr/magasins/5370

@@ -4,8 +4,9 @@ latitude: 48.77932
 longitude: 2.68072
 postcode: "77330"
 city: Ozoir-la-Ferrière
-street: "Avenue du Général Leclerc"
-housenumber: 126
+street: Avenue du Général Leclerc
+housenumber: "126"
 phone: ""
-opening_hours: "Mo 15:30-19:45, Tu-Fr 07:15-14:15, 16:15-19:45; Sa 09:15-18:15; Su Off"
+opening_hours: Mo 15:30-19:45, Tu-Fr 07:15-14:15, 16:15-19:45; Sa 09:15-18:15; Su
+    Off
 website: ""

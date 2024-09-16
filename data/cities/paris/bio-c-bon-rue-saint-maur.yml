@@ -4,8 +4,8 @@ latitude: 48.86868
 longitude: 2.37497
 postcode: "75011"
 city: Paris
-street: "Rue Saint-Maur"
-housenumber: 142
-phone: "+33 1 43 38 39 43"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-13:00"
-website: "https://bio-c-bon.eu/fr/nos_magasins/bio-c-bon-paris-saint-maur"
+street: Rue Saint-Maur
+housenumber: "142"
+phone: +33 1 43 38 39 43
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-13:00
+website: https://bio-c-bon.eu/fr/nos_magasins/bio-c-bon-paris-saint-maur

@@ -1,11 +1,11 @@
 id: 540986415
-type: way
+type: node
 latitude: 48.9063
 longitude: 2.28435
 postcode: "92600"
 city: Asnières-sur-Seine
-street: "Rue de la Station"
-housenumber: 2
-phone: "+33 1 40 86 27 55"
-opening_hours: "Mo-Sa 07:00-20:30; Su 07:00-20:00"
+street: Rue de la Station
+housenumber: "2"
+phone: +33 1 40 86 27 55
+opening_hours: Mo-Sa 07:00-20:30; Su 07:00-20:00
 website: ""

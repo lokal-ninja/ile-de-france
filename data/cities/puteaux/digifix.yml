@@ -4,8 +4,8 @@ latitude: 48.88155
 longitude: 2.23858
 postcode: "92800"
 city: Puteaux
-street: "Rue Jean Jaurès"
-housenumber: 130
-phone: "+33 1 82 14 25 94"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.digifix.fr/"
+street: Rue Jean Jaurès
+housenumber: "130"
+phone: +33 1 82 14 25 94
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.digifix.fr/

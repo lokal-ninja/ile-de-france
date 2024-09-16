@@ -4,8 +4,8 @@ latitude: 48.85795
 longitude: 2.36632
 postcode: "75003"
 city: Paris
-street: "Rue Saint-Gilles"
-housenumber: 18
-phone: "+33 1 55 28 50 61"
-opening_hours: "We-Sa 13:00-19:00"
-website: "https://www.ledeun.com/"
+street: Rue Saint-Gilles
+housenumber: "18"
+phone: +33 1 55 28 50 61
+opening_hours: We-Sa 13:00-19:00
+website: https://www.ledeun.com/

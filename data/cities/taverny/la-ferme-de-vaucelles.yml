@@ -4,8 +4,8 @@ latitude: 49.02314
 longitude: 2.23273
 postcode: "95150"
 city: TAVERNY
-street: "Rue de Vaucelles"
-housenumber: 4
+street: Rue de Vaucelles
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,We-Sa 08:00-13:00,16:00-20:00; Su 08:30-13:00,16:00-20:00; Tu off"
+opening_hours: Mo,We-Sa 08:00-13:00,16:00-20:00; Su 08:30-13:00,16:00-20:00; Tu off
 website: ""

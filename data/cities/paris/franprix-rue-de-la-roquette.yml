@@ -4,8 +4,8 @@ latitude: 48.85793
 longitude: 2.3819
 postcode: "75011"
 city: Paris
-street: "Rue de la Roquette"
-housenumber: 
+street: Rue de la Roquette
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-12:15"
-website: "https://www.franprix.fr/magasins/4410"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-12:15
+website: https://www.franprix.fr/magasins/4410

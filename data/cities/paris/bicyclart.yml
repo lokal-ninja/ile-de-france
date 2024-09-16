@@ -4,8 +4,8 @@ latitude: 48.8821
 longitude: 2.36811
 postcode: "75010"
 city: Paris
-street: "Rue La Fayette"
-housenumber: 226
-phone: "+33 1 40 34 92 94"
-opening_hours: "Tu-Fr 09:00-13:00,14:00-19:30; Sa,Su 10:00-13:00,14:00-19:30"
-website: "https://bicyclart.com/"
+street: Rue La Fayette
+housenumber: "226"
+phone: +33 1 40 34 92 94
+opening_hours: Tu-Fr 09:00-13:00,14:00-19:30; Sa,Su 10:00-13:00,14:00-19:30
+website: https://bicyclart.com/

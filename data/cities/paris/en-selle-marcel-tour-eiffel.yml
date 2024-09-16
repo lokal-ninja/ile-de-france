@@ -4,8 +4,8 @@ latitude: 48.85211
 longitude: 2.2997
 postcode: "75007"
 city: PARIS
-street: "Avenue de Suffren"
-housenumber: 65
-phone: "+331 43 36 03 26"
-opening_hours: "Mo-Sa 10:00-21:00"
+street: Avenue de Suffren
+housenumber: "65"
+phone: +331 43 36 03 26
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

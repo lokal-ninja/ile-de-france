@@ -4,8 +4,8 @@ latitude: 48.86256
 longitude: 2.34834
 postcode: "75001"
 city: Paris
-street: "Rue Pierre Lescot"
-housenumber: 9
+street: Rue Pierre Lescot
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

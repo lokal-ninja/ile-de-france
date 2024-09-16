@@ -4,8 +4,8 @@ latitude: 49.15579
 longitude: 1.80025
 postcode: "95420"
 city: MAGNY EN VEXIN
-street: "Rue du Docteur Fourniols"
-housenumber: 19
-phone: "+33 6 49 79 75 57"
-opening_hours: "Mo-Su 09:00-19:00"
+street: Rue du Docteur Fourniols
+housenumber: "19"
+phone: +33 6 49 79 75 57
+opening_hours: Mo-Su 09:00-19:00
 website: ""

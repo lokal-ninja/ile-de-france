@@ -1,11 +1,11 @@
 id: 630630489
-type: way
+type: node
 latitude: 48.86167
 longitude: 2.34519
 postcode: "75001"
 city: Paris
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

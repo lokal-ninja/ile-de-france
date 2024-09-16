@@ -1,11 +1,11 @@
 id: 78019560
-type: way
+type: node
 latitude: 48.84645
 longitude: 2.38745
 postcode: ""
 city: Paris
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

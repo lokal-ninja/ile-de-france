@@ -4,8 +4,8 @@ latitude: 48.84215
 longitude: 2.29884
 postcode: "75015"
 city: Paris
-street: "Rue Pétel"
-housenumber: 2
-phone: "+33 1 40 24 02 36"
-opening_hours: "Tu-Sa 10:00-20:00; Su 10:00-14:30"
-website: "https://www.thibautgarnier.com/"
+street: Rue Pétel
+housenumber: "2"
+phone: +33 1 40 24 02 36
+opening_hours: Tu-Sa 10:00-20:00; Su 10:00-14:30
+website: https://www.thibautgarnier.com/

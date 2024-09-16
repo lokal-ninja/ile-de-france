@@ -4,8 +4,8 @@ latitude: 48.83087
 longitude: 2.33096
 postcode: "75014"
 city: Paris
-street: "Rue Sophie Germain"
-housenumber: 8
-phone: "+33 7 49 36 25 56"
+street: Rue Sophie Germain
+housenumber: "8"
+phone: +33 7 49 36 25 56
 opening_hours: ""
-website: "https://www.re-cyclevelo.fr/"
+website: https://www.re-cyclevelo.fr/

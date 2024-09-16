@@ -4,8 +4,8 @@ latitude: 48.83052
 longitude: 2.37633
 postcode: "75013"
 city: Paris
-street: "Avenue de France"
-housenumber: 115
-phone: "+33 805 08 88 88"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www2.hm.com/fr_fr/index.html"
+street: Avenue de France
+housenumber: "115"
+phone: +33 805 08 88 88
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www2.hm.com/fr_fr/index.html

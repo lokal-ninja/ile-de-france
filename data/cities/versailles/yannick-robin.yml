@@ -4,8 +4,8 @@ latitude: 48.80785
 longitude: 2.12782
 postcode: "78000"
 city: Versailles
-street: "Rue de la Paroisse"
-housenumber: 25
-phone: "+33 139500844"
-opening_hours: "Tu,We,Sa 09:00-18:00; Th,Fr 09:00-19:00"
-website: "https://www.yannickrobin.fr"
+street: Rue de la Paroisse
+housenumber: "25"
+phone: +33 139500844
+opening_hours: Tu,We,Sa 09:00-18:00; Th,Fr 09:00-19:00
+website: https://www.yannickrobin.fr

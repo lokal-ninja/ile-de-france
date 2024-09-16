@@ -1,11 +1,11 @@
 id: 147091141
-type: way
+type: node
 latitude: 49.00543
 longitude: 2.17524
 postcode: "95220"
 city: Pierrelaye
-street: "Boulevard du Havre"
-housenumber: 262
-phone: "+33 1 39 60 60 60"
-opening_hours: "Mo-Su 09:30-19:30"
-website: "https://www.fetesensation.fr/magasin/paris-nord-ouest-95-herblay/"
+street: Boulevard du Havre
+housenumber: "262"
+phone: +33 1 39 60 60 60
+opening_hours: Mo-Su 09:30-19:30
+website: https://www.fetesensation.fr/magasin/paris-nord-ouest-95-herblay/

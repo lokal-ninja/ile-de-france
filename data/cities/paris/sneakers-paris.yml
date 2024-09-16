@@ -4,8 +4,8 @@ latitude: 48.86031
 longitude: 2.34802
 postcode: "75001"
 city: Paris
-street: "Rue de la Ferronnerie"
-housenumber: 2
+street: Rue de la Ferronnerie
+housenumber: "2"
 phone: ""
-opening_hours: "12:00-20:00"
+opening_hours: 12:00-20:00
 website: ""

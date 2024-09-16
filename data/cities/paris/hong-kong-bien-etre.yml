@@ -4,8 +4,8 @@ latitude: 48.88299
 longitude: 2.33759
 postcode: "75018"
 city: Paris
-street: "Rue André Antoine"
-housenumber: 6
+street: Rue André Antoine
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

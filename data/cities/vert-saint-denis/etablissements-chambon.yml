@@ -1,11 +1,11 @@
 id: 115141527
-type: way
+type: node
 latitude: 48.56838
 longitude: 2.62957
 postcode: "77240"
 city: Vert-Saint-Denis
-street: "Allée de la Croix Rigaud"
-housenumber: 
+street: Allée de la Croix Rigaud
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.ets-chambon.fr/vert-st-denis/"
+website: https://www.ets-chambon.fr/vert-st-denis/

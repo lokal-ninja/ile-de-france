@@ -1,11 +1,11 @@
 id: 85320014
-type: way
+type: node
 latitude: 49.00044
 longitude: 2.18849
 postcode: "95220"
 city: Herblay-sur-Seine
-street: "Mail des Copistes"
-housenumber: 9
+street: Mail des Copistes
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

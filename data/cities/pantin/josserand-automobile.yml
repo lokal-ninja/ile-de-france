@@ -1,11 +1,11 @@
 id: 405812906
-type: way
+type: node
 latitude: 48.90399
 longitude: 2.39454
 postcode: "93500"
 city: Pantin
-street: "Rue Gabrielle Josserand"
-housenumber: 19
+street: Rue Gabrielle Josserand
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

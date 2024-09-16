@@ -4,8 +4,9 @@ latitude: 48.79537
 longitude: 2.12539
 postcode: "78000"
 city: Versailles
-street: "Rue Royale"
-housenumber: 81
+street: Rue Royale
+housenumber: "81"
 phone: ""
-opening_hours: "Tu 10:00-18:00, We 10:00-19:00, Th 10:00-20:00, Fr 09:30-19:00, Sa 08:30-18:00"
+opening_hours: Tu 10:00-18:00, We 10:00-19:00, Th 10:00-20:00, Fr 09:30-19:00, Sa
+    08:30-18:00
 website: ""

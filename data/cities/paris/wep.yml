@@ -4,8 +4,8 @@ latitude: 48.85194
 longitude: 2.37631
 postcode: "75011"
 city: Paris
-street: "Avenue Ledru-Rollin"
-housenumber: 95
+street: Avenue Ledru-Rollin
+housenumber: "95"
 phone: ""
 opening_hours: ""
-website: "https://www.wep.fr/"
+website: https://www.wep.fr/

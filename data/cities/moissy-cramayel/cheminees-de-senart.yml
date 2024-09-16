@@ -1,11 +1,11 @@
 id: 114151574
-type: way
+type: node
 latitude: 48.62073
 longitude: 2.56611
 postcode: "77550"
 city: Moissy-Cramayel
-street: "Avenue André Ampère"
-housenumber: 340
-phone: "+33 1 60 18 01 13"
+street: Avenue André Ampère
+housenumber: "340"
+phone: +33 1 60 18 01 13
 opening_hours: ""
-website: "http://www.cheminees-senart-moissy-cramayel.fr/"
+website: http://www.cheminees-senart-moissy-cramayel.fr/

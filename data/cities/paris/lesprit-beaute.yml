@@ -4,8 +4,8 @@ latitude: 48.86764
 longitude: 2.35751
 postcode: "75003"
 city: Paris
-street: "Rue Notre-Dame-de-Nazareth"
-housenumber: 56
+street: Rue Notre-Dame-de-Nazareth
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

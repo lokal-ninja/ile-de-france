@@ -1,11 +1,11 @@
 id: 85309034
-type: way
+type: node
 latitude: 48.99909
 longitude: 2.1809
 postcode: "95220"
 city: Herblay-sur-Seine
-street: "Boulevard du 8 Mai 1945"
-housenumber: 257
+street: Boulevard du 8 Mai 1945
+housenumber: "257"
 phone: ""
 opening_hours: ""
 website: ""

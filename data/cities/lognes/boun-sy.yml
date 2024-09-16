@@ -1,11 +1,11 @@
 id: 116117706
-type: way
+type: node
 latitude: 48.84128
 longitude: 2.63215
 postcode: "77185"
 city: Lognes
-street: "Square Bergerie"
-housenumber: 8
+street: Square Bergerie
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

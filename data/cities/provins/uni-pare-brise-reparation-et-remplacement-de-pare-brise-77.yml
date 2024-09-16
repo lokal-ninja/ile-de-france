@@ -4,8 +4,8 @@ latitude: 48.54558
 longitude: 3.28836
 postcode: "77160"
 city: Provins
-street: "Avenue de Poigny"
-housenumber: 4
+street: Avenue de Poigny
+housenumber: "4"
 phone: "0164001516"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.uniparebrise.fr/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.uniparebrise.fr/

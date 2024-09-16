@@ -4,8 +4,8 @@ latitude: 48.92402
 longitude: 2.25579
 postcode: "92700"
 city: Colombes
-street: "Rue de la Concorde"
-housenumber: 3
-phone: "+33 1 57 68 97 66"
-opening_hours: "Tu-Fr 10:00-12:30,14:00-19:00; Sa 10:00-19:00"
-website: "http://www.lessauterelles.fr"
+street: Rue de la Concorde
+housenumber: "3"
+phone: +33 1 57 68 97 66
+opening_hours: Tu-Fr 10:00-12:30,14:00-19:00; Sa 10:00-19:00
+website: http://www.lessauterelles.fr

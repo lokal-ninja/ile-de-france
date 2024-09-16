@@ -4,8 +4,8 @@ latitude: 48.85149
 longitude: 2.40142
 postcode: "75020"
 city: Paris
-street: "Rue de Buzenval"
-housenumber: 45
-phone: "+33 1 87 44 79 14"
-opening_hours: "Mo-Sa 10:00-20:45; Su 09:00-12:45"
-website: "https://magasins.naturalia.fr/naturalia/fr/store/france/ile-de-france/paris/paris/buzenval/4051"
+street: Rue de Buzenval
+housenumber: "45"
+phone: +33 1 87 44 79 14
+opening_hours: Mo-Sa 10:00-20:45; Su 09:00-12:45
+website: https://magasins.naturalia.fr/naturalia/fr/store/france/ile-de-france/paris/paris/buzenval/4051

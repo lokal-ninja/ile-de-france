@@ -4,8 +4,8 @@ latitude: 48.85438
 longitude: 2.36492
 postcode: "75004"
 city: Paris
-street: "Rue de Birague"
-housenumber: 3
-phone: "+33 9 87 08 54 86"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:30-12:30"
+street: Rue de Birague
+housenumber: "3"
+phone: +33 9 87 08 54 86
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:30-12:30
 website: ""

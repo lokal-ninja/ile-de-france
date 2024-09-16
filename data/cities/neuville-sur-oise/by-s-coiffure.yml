@@ -1,11 +1,12 @@
 id: 99306090
-type: way
+type: node
 latitude: 49.01466
 longitude: 2.05852
 postcode: "95000"
 city: Neuville-sur-Oise
-street: "Rue du Pont"
-housenumber: 8
-phone: "+33 1 34 41 32 54"
-opening_hours: "Tu,We 09:00-12:00,13:30-19:00; Th 13:30-19:00; Fr 09:00-19-00; Sa 09:00-18:30; "
+street: Rue du Pont
+housenumber: "8"
+phone: +33 1 34 41 32 54
+opening_hours: 'Tu,We 09:00-12:00,13:30-19:00; Th 13:30-19:00; Fr 09:00-19-00; Sa
+    09:00-18:30; '
 website: ""

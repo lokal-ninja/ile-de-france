@@ -4,8 +4,8 @@ latitude: 48.4069
 longitude: 2.70117
 postcode: "77300"
 city: Fontainebleau
-street: "Rue des Pins"
-housenumber: 11
-phone: "+33 1 60 74 58 85"
-opening_hours: "Mo 14:30-19:30; Tu-Sa 09:00-13:00, 14:00-19:30"
-website: "https://www.pleinciel.fr/"
+street: Rue des Pins
+housenumber: "11"
+phone: +33 1 60 74 58 85
+opening_hours: Mo 14:30-19:30; Tu-Sa 09:00-13:00, 14:00-19:30
+website: https://www.pleinciel.fr/

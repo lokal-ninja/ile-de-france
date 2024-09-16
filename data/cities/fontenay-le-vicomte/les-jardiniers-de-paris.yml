@@ -1,11 +1,11 @@
 id: 108263321
-type: way
+type: node
 latitude: 48.55147
 longitude: 2.41176
 postcode: "91540"
 city: Fontenay-le-Vicomte
-street: "Avenue Saint-Rémy"
-housenumber: 
-phone: "+33 1 64 57 04 19"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-17:30"
+street: Avenue Saint-Rémy
+housenumber: ""
+phone: +33 1 64 57 04 19
+opening_hours: Mo-Sa 09:00-12:00,14:00-17:30
 website: ""

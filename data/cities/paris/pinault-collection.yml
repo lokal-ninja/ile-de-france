@@ -5,7 +5,7 @@ longitude: 2.34211
 postcode: "75001"
 city: Paris
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "We,Th,Sa-Mo 11:00-19:00; Fr 11:00-21:00"
+opening_hours: We,Th,Sa-Mo 11:00-19:00; Fr 11:00-21:00
 website: ""

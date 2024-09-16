@@ -4,8 +4,8 @@ latitude: 48.8311
 longitude: 2.3808
 postcode: "75013"
 city: Paris
-street: "Quai Panhard et Levassor"
-housenumber: 77
-phone: "+33 1 56 61 11 06"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.maison-kayser.com/"
+street: Quai Panhard et Levassor
+housenumber: "77"
+phone: +33 1 56 61 11 06
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.maison-kayser.com/

@@ -1,11 +1,11 @@
 id: 70773200
-type: way
+type: node
 latitude: 48.92071
 longitude: 2.28312
 postcode: "92600"
 city: Asnières-sur-Seine
-street: "Rue du Ménil"
-housenumber: 97
+street: Rue du Ménil
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

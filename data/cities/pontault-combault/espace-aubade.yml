@@ -1,11 +1,11 @@
 id: 112027836
-type: way
+type: node
 latitude: 48.77779
 longitude: 2.59431
 postcode: "77340"
 city: Pontault-Combault
-street: "Route de Paris"
-housenumber: 26
-phone: "+33 1 60 02 62 55"
+street: Route de Paris
+housenumber: "26"
+phone: +33 1 60 02 62 55
 opening_hours: ""
-website: "https://www.espace-aubade.fr/magasins/pontault-combault-185.html"
+website: https://www.espace-aubade.fr/magasins/pontault-combault-185.html

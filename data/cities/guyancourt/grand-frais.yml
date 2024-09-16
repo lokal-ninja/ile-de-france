@@ -1,11 +1,11 @@
 id: 116176654
-type: way
+type: node
 latitude: 48.76785
 longitude: 2.0665
 postcode: "78280"
 city: Guyancourt
 street: ""
-housenumber: 7
-phone: "+33 1 30 55 05 84"
-opening_hours: "Mo-Sa 09:00-20:00"
+housenumber: "7"
+phone: +33 1 30 55 05 84
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

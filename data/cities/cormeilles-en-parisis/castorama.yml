@@ -1,11 +1,11 @@
 id: 391295929
-type: way
+type: node
 latitude: 48.9541
 longitude: 2.20467
 postcode: "78500"
 city: Cormeilles-en-Parisis
-street: "Boulevard Joffre"
-housenumber: 
-phone: "+33 1 30 10 40 10"
+street: Boulevard Joffre
+housenumber: ""
+phone: +33 1 30 10 40 10
 opening_hours: ""
 website: ""

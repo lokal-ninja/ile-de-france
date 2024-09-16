@@ -4,8 +4,8 @@ latitude: 48.93628
 longitude: 2.5128
 postcode: "93270"
 city: Sevran
-street: "Avenue du Docteur Schaeffner"
-housenumber: 1
+street: Avenue du Docteur Schaeffner
+housenumber: "1"
 phone: "+33171852831"
-opening_hours: "Th-Tu 09:00-19:00"
+opening_hours: Th-Tu 09:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.82992
 longitude: 2.37914
 postcode: "75013"
 city: Paris
-street: "Rue Olivier Messiaen"
-housenumber: 2
-phone: "+33 7 81 02 80 16"
-opening_hours: "Mo-We 14:00-22:00; Th-Fr 14:00-23:00; Sa 12:00-00:00; Su 12:00-21:00"
-website: "https://paris13.lasergame-evolution.fr/"
+street: Rue Olivier Messiaen
+housenumber: "2"
+phone: +33 7 81 02 80 16
+opening_hours: Mo-We 14:00-22:00; Th-Fr 14:00-23:00; Sa 12:00-00:00; Su 12:00-21:00
+website: https://paris13.lasergame-evolution.fr/

@@ -4,8 +4,8 @@ latitude: 48.87649
 longitude: 2.35524
 postcode: "75010"
 city: Paris
-street: "Rue de Chabrol"
-housenumber: 9
+street: Rue de Chabrol
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://tchip.fr/salon/view/2333"
+website: https://tchip.fr/salon/view/2333

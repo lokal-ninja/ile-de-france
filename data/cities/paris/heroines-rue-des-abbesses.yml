@@ -4,8 +4,8 @@ latitude: 48.8839
 longitude: 2.33896
 postcode: "75018"
 city: Paris
-street: "Rue des Abbesses"
-housenumber: 7
+street: Rue des Abbesses
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

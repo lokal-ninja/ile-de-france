@@ -4,8 +4,8 @@ latitude: 48.87137
 longitude: 2.40429
 postcode: "75020"
 city: Paris
-street: "Avenue Gambetta"
-housenumber: 108
-phone: "+33 1 43 61 52 55"
-opening_hours: "Tu-We 09:30-18:30; Th 10:30-20:00; Fr 09:30-18:30; Su 09:00-17:00"
+street: Avenue Gambetta
+housenumber: "108"
+phone: +33 1 43 61 52 55
+opening_hours: Tu-We 09:30-18:30; Th 10:30-20:00; Fr 09:30-18:30; Su 09:00-17:00
 website: ""

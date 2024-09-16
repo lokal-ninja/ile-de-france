@@ -4,8 +4,8 @@ latitude: 48.85174
 longitude: 2.35661
 postcode: "75004"
 city: Paris
-street: "Rue Saint-Louis en l'Île"
-housenumber: 33
-phone: "+33 1 42 03 67 18"
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-paris-2-ponts-12"
+street: Rue Saint-Louis en l'Île
+housenumber: "33"
+phone: +33 1 42 03 67 18
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-paris-2-ponts-12

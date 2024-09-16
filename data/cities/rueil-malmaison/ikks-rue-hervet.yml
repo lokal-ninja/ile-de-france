@@ -4,8 +4,8 @@ latitude: 48.87695
 longitude: 2.17962
 postcode: "92500"
 city: Rueil-Malmaison
-street: "Rue Hervet"
-housenumber: 10
+street: Rue Hervet
+housenumber: "10"
 phone: ""
-opening_hours: "Mo 12:30-19:00; Tu-Sa 10:30-19:00"
-website: "https://www.ikks.com/"
+opening_hours: Mo 12:30-19:00; Tu-Sa 10:30-19:00
+website: https://www.ikks.com/

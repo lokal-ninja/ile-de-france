@@ -1,11 +1,11 @@
 id: 654450773
-type: way
+type: node
 latitude: 48.85541
 longitude: 2.78257
 postcode: "77700"
 city: Serris
 street: ""
-housenumber: 
-phone: "+33 1 64 17 35 00"
-opening_hours: "Mo-Sa 10:00-20:30; Su 10:00-20:00"
-website: "https://www.apple.com/fr"
+housenumber: ""
+phone: +33 1 64 17 35 00
+opening_hours: Mo-Sa 10:00-20:30; Su 10:00-20:00
+website: https://www.apple.com/fr

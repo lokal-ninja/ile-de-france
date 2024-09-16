@@ -4,8 +4,8 @@ latitude: 48.861
 longitude: 2.36653
 postcode: "75003"
 city: Paris
-street: "Rue du Pont aux Choux"
-housenumber: 3
+street: Rue du Pont aux Choux
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

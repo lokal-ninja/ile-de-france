@@ -4,8 +4,9 @@ latitude: 48.87789
 longitude: 2.1969
 postcode: "92500"
 city: Rueil-Malmaison
-street: "Rue Danton"
-housenumber: 103
-phone: "+33 1 47 51 28 80"
-opening_hours: "Mo,Tu,Th,Fr 06:30-13:30, Mo,Tu,Th-Sa 15:00-20:00, Su 15:00-19:00, Sa,Su 07:00-13:30"
+street: Rue Danton
+housenumber: "103"
+phone: +33 1 47 51 28 80
+opening_hours: Mo,Tu,Th,Fr 06:30-13:30, Mo,Tu,Th-Sa 15:00-20:00, Su 15:00-19:00, Sa,Su
+    07:00-13:30
 website: ""

@@ -1,11 +1,11 @@
 id: 105031825
-type: way
+type: node
 latitude: 48.97994
 longitude: 2.45207
 postcode: "95500"
 city: Gonesse
-street: "Rue Berthelot"
-housenumber: 16
+street: Rue Berthelot
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

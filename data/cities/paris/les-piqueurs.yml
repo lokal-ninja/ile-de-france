@@ -4,8 +4,9 @@ latitude: 48.88421
 longitude: 2.34188
 postcode: "75018"
 city: Paris
-street: "Rue Tardieu"
-housenumber: 6
+street: Rue Tardieu
+housenumber: "6"
 phone: ""
-opening_hours: "Mo 11:00-20:00; Tu 17:00-21:00; We-Th 17:00-22:00; Fr 15:00-22:00; Sa 11:00-14:00, 15:00-22:00; Su 11:00-20:00"
+opening_hours: Mo 11:00-20:00; Tu 17:00-21:00; We-Th 17:00-22:00; Fr 15:00-22:00;
+    Sa 11:00-14:00, 15:00-22:00; Su 11:00-20:00
 website: ""

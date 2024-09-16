@@ -4,8 +4,8 @@ latitude: 48.99988
 longitude: 2.39083
 postcode: "95400"
 city: Villiers-le-Bel
-street: "Avenue des Entrepreneurs"
-housenumber: 3
+street: Avenue des Entrepreneurs
+housenumber: "3"
 phone: "+33749826133"
-opening_hours: "Mo-Su 08:30-20:30"
-website: "https://paristanbul.com/"
+opening_hours: Mo-Su 08:30-20:30
+website: https://paristanbul.com/

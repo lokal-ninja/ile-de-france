@@ -1,11 +1,11 @@
 id: 62395953
-type: way
+type: node
 latitude: 48.93798
 longitude: 2.32708
 postcode: "92390"
 city: Villeneuve-la-Garenne
-street: "Rue Gérard Philipe"
-housenumber: 1
+street: Rue Gérard Philipe
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.intermarche.com/magasins/09796/villeneuve-la-garenne-92390/infos-pratiques"
+website: https://www.intermarche.com/magasins/09796/villeneuve-la-garenne-92390/infos-pratiques

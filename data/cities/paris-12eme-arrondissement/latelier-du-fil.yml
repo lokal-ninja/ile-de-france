@@ -4,8 +4,8 @@ latitude: 48.84564
 longitude: 2.40294
 postcode: "75012"
 city: Paris 12eme Arrondissement
-street: "Rue Marsoulan"
-housenumber: 9
+street: Rue Marsoulan
+housenumber: "9"
 phone: "+33143431823"
-opening_hours: "Tu-Sa 10:00-14:00; 15:00-19:00"
-website: "https://www.latelierdufil.fr/"
+opening_hours: Tu-Sa 10:00-14:00; 15:00-19:00
+website: https://www.latelierdufil.fr/

@@ -1,11 +1,11 @@
 id: 118105766
-type: way
+type: node
 latitude: 48.56981
 longitude: 2.45078
 postcode: "91540"
 city: Ormoy
-street: "Rue de Tournenfils"
-housenumber: 
+street: Rue de Tournenfils
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://raboni.fr/"
+website: https://raboni.fr/

@@ -4,8 +4,8 @@ latitude: 48.88616
 longitude: 2.24564
 postcode: "92800"
 city: Puteaux
-street: "Rue Paul Lafargue"
-housenumber: 21
-phone: "+33 1 49 06 03 57"
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 09:00-19:00"
+street: Rue Paul Lafargue
+housenumber: "21"
+phone: +33 1 49 06 03 57
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 09:00-19:00
 website: ""

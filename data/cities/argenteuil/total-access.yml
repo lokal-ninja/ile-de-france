@@ -1,11 +1,11 @@
 id: 1054681682
-type: way
+type: node
 latitude: 48.9449
 longitude: 2.20734
 postcode: "95100"
 city: Argenteuil
-street: "Rue des Grives"
-housenumber: 
-phone: "+33 1 39 80 90 35"
-opening_hours: "24/7"
+street: Rue des Grives
+housenumber: ""
+phone: +33 1 39 80 90 35
+opening_hours: 24/7
 website: ""

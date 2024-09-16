@@ -1,11 +1,11 @@
 id: 105029678
-type: way
+type: node
 latitude: 48.97935
 longitude: 2.45958
 postcode: "95500"
 city: Gonesse
-street: "Rue Ampère"
-housenumber: 10
+street: Rue Ampère
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.robotshop.com/"
+website: https://www.robotshop.com/

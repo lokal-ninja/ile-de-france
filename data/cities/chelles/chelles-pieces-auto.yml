@@ -1,11 +1,11 @@
 id: 111025363
-type: way
+type: node
 latitude: 48.87076
 longitude: 2.58906
 postcode: "77500"
 city: Chelles
-street: "Rue Auguste Meunier"
-housenumber: 41
-phone: "+33 1 60 17 12 50"
-opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-13:00,15:00-19:00; Sa 09:00-18:30"
+street: Rue Auguste Meunier
+housenumber: "41"
+phone: +33 1 60 17 12 50
+opening_hours: Mo-Th 09:00-19:00; Fr 09:00-13:00,15:00-19:00; Sa 09:00-18:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.85151
 longitude: 2.35761
 postcode: "75004"
 city: Paris
-street: "Rue Saint-Louis en l'Île"
-housenumber: 26
+street: Rue Saint-Louis en l'Île
+housenumber: "26"
 phone: ""
-opening_hours: "Tu-Fr 14:00-20:00"
-website: "http://www.ulysse.fr"
+opening_hours: Tu-Fr 14:00-20:00
+website: http://www.ulysse.fr

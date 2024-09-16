@@ -4,8 +4,8 @@ latitude: 48.85245
 longitude: 2.32899
 postcode: "75007"
 city: Paris
-street: "Rue des Saints-Pères"
-housenumber: 74
-phone: "+33 1 42 84 06 44"
-opening_hours: "10:30-17:00"
-website: "https://www.creedboutique.com/"
+street: Rue des Saints-Pères
+housenumber: "74"
+phone: +33 1 42 84 06 44
+opening_hours: 10:30-17:00
+website: https://www.creedboutique.com/

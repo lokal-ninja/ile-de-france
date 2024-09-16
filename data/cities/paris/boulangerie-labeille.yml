@@ -4,8 +4,8 @@ latitude: 48.84686
 longitude: 2.3692
 postcode: "75012"
 city: Paris
-street: "Rue de Bercy"
-housenumber: 235
+street: Rue de Bercy
+housenumber: "235"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:45"
+opening_hours: Mo-Fr 06:30-19:45
 website: ""

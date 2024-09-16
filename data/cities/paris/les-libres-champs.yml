@@ -4,8 +4,8 @@ latitude: 48.84171
 longitude: 2.33358
 postcode: "75006"
 city: Paris
-street: "Rue Le Verrier"
-housenumber: 18
+street: Rue Le Verrier
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00,15:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00,15:00-18:00
 website: ""

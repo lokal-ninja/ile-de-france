@@ -4,8 +4,8 @@ latitude: 48.94849
 longitude: 2.03738
 postcode: "78955"
 city: Carrières-sous-Poissy
-street: "Rue Claude Monet"
-housenumber: 40
-phone: "+33 1 39 27 26 68"
-opening_hours: "Mo 09:30-12:30,14:00-18:00; Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:30-12:30,14:00-17:00"
-website: "https://www.estellebeaute-78.fr/"
+street: Rue Claude Monet
+housenumber: "40"
+phone: +33 1 39 27 26 68
+opening_hours: Mo 09:30-12:30,14:00-18:00; Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:30-12:30,14:00-17:00
+website: https://www.estellebeaute-78.fr/

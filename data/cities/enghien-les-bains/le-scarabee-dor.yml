@@ -1,11 +1,11 @@
 id: 146883818
-type: way
+type: node
 latitude: 48.97124
 longitude: 2.30875
 postcode: "95880"
 city: Enghien-les-Bains
-street: "Boulevard d'Ormesson"
-housenumber: 6
+street: Boulevard d'Ormesson
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.86375
 longitude: 2.34805
 postcode: "75001"
 city: Paris
-street: "Rue de Turbigo"
-housenumber: 7
+street: Rue de Turbigo
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

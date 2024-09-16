@@ -4,8 +4,8 @@ latitude: 48.90583
 longitude: 2.28659
 postcode: "92600"
 city: Asnières-sur-Seine
-street: "Grande Rue Charles de Gaulle"
-housenumber: 15
+street: Grande Rue Charles de Gaulle
+housenumber: "15"
 phone: "+33185784038"
-opening_hours: "Tu-Sa 10:00-13:00, 14:00-19:00"
-website: "https://www.asnieres-concept.fr/"
+opening_hours: Tu-Sa 10:00-13:00, 14:00-19:00
+website: https://www.asnieres-concept.fr/

@@ -1,11 +1,11 @@
 id: 79767968
-type: way
+type: node
 latitude: 48.91252
 longitude: 2.26174
 postcode: "92270"
 city: Bois-Colombes
-street: "Jean Jaurès"
-housenumber: 116
+street: Jean Jaurès
+housenumber: "116"
 phone: ""
-opening_hours: "Tu-Su 06:30-20:00"
+opening_hours: Tu-Su 06:30-20:00
 website: ""

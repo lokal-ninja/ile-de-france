@@ -4,8 +4,8 @@ latitude: 48.86958
 longitude: 2.30691
 postcode: ""
 city: Paris
-street: "Avenue des Champs-Élysées"
-housenumber: 33
+street: Avenue des Champs-Élysées
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00 ; Su 10:00-18:00"
-website: "https://www.renault-retail-group.fr/concessions-renault/115-champs-elysees"
+opening_hours: Mo-Sa 10:00-20:00 ; Su 10:00-18:00
+website: https://www.renault-retail-group.fr/concessions-renault/115-champs-elysees

@@ -4,8 +4,8 @@ latitude: 48.7542
 longitude: 2.30164
 postcode: "92160"
 city: Antony
-street: "Rue Auguste Mounié"
-housenumber: 44
+street: Rue Auguste Mounié
+housenumber: "44"
 phone: "+33146660389"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.darjeeling.fr/storelocator"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.darjeeling.fr/storelocator

@@ -1,11 +1,11 @@
 id: 78405149
-type: way
+type: node
 latitude: 48.97733
 longitude: 2.29122
 postcode: "95600"
 city: Eaubonne
-street: "Avenue Kellermann"
-housenumber: 48
+street: Avenue Kellermann
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

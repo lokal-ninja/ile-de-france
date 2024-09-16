@@ -1,11 +1,11 @@
 id: 150380027
-type: way
+type: node
 latitude: 48.78427
 longitude: 2.2189
 postcode: "78140"
 city: Vélizy-Villacoublay
-street: "Avenue de l'Europe"
-housenumber: 4
+street: Avenue de l'Europe
+housenumber: "4"
 phone: "+33134659406"
-opening_hours: "Tu-Su 10:30-19:00; Mo 14:30-19:00"
-website: "https://www.gautier.fr/fr_FR/s/meubles-gautier-velizy-2"
+opening_hours: Tu-Su 10:30-19:00; Mo 14:30-19:00
+website: https://www.gautier.fr/fr_FR/s/meubles-gautier-velizy-2

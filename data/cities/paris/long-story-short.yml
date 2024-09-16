@@ -4,8 +4,8 @@ latitude: 48.86212
 longitude: 2.36158
 postcode: "75003"
 city: Paris
-street: "Rue Charlot"
-housenumber: 23
+street: Rue Charlot
+housenumber: "23"
 phone: ""
-opening_hours: "We-Sa 12:00-19:00"
-website: "https://www.longstoryshort.gallery"
+opening_hours: We-Sa 12:00-19:00
+website: https://www.longstoryshort.gallery

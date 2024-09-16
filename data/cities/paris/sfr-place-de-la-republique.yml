@@ -4,8 +4,8 @@ latitude: 48.86656
 longitude: 2.36414
 postcode: "75003"
 city: Paris
-street: "Place de la République"
-housenumber: 7
-phone: "+33 1 86 21 17 48"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Place de la République
+housenumber: "7"
+phone: +33 1 86 21 17 48
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

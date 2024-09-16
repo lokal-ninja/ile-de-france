@@ -4,8 +4,8 @@ latitude: 48.88123
 longitude: 2.2382
 postcode: "92800"
 city: Puteaux
-street: "Rue Jean Jaurès"
-housenumber: 138
-phone: "+33 1 40 81 05 44"
-opening_hours: "Fr,Sa 10:00-19:30; Su 09:30-13:00; Mo-Th 10:00-19:00"
-website: "https://www.jeff-de-bruges.com/jeff-de-bruges-puteaux"
+street: Rue Jean Jaurès
+housenumber: "138"
+phone: +33 1 40 81 05 44
+opening_hours: Fr,Sa 10:00-19:30; Su 09:30-13:00; Mo-Th 10:00-19:00
+website: https://www.jeff-de-bruges.com/jeff-de-bruges-puteaux

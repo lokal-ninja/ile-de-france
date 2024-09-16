@@ -4,8 +4,8 @@ latitude: 48.98199
 longitude: 2.27103
 postcode: "95120"
 city: Ermont
-street: "Rue du Général Leclerc"
-housenumber: 216
+street: Rue du Général Leclerc
+housenumber: "216"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-17:00"
-website: "https://www.monceaufleurs.com/"
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-17:00
+website: https://www.monceaufleurs.com/

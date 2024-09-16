@@ -4,8 +4,8 @@ latitude: 48.88024
 longitude: 2.3439
 postcode: "75009"
 city: Paris
-street: "Rue Condorcet"
-housenumber: 44
+street: Rue Condorcet
+housenumber: "44"
 phone: "+33177359294"
-opening_hours: "Tu-Th 11:00-19:00; Fr-Sa 11:00-19:30; Su 14:00-18:00"
-website: "https://marie-sixtine.com/"
+opening_hours: Tu-Th 11:00-19:00; Fr-Sa 11:00-19:30; Su 14:00-18:00
+website: https://marie-sixtine.com/

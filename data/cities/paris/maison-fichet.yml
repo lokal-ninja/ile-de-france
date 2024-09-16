@@ -4,8 +4,8 @@ latitude: 48.87063
 longitude: 2.36337
 postcode: "75010"
 city: Paris
-street: "Rue Yves Toudic"
-housenumber: 24
-phone: "+33 1 42 08 02 79"
-opening_hours: "Tu-Fr 08:30-19:30, Sa 10:30-19:30, Mo 08:30-12:30, Mo 14:30-18:00"
-website: "https://www.fichet.fr/"
+street: Rue Yves Toudic
+housenumber: "24"
+phone: +33 1 42 08 02 79
+opening_hours: Tu-Fr 08:30-19:30, Sa 10:30-19:30, Mo 08:30-12:30, Mo 14:30-18:00
+website: https://www.fichet.fr/

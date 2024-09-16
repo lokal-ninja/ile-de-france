@@ -4,8 +4,8 @@ latitude: 48.86189
 longitude: 2.19562
 postcode: "92500"
 city: Rueil-Malmaison
-street: "Avenue de Fouilleuse"
-housenumber: 58
+street: Avenue de Fouilleuse
+housenumber: "58"
 phone: "+33141293535"
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH 09:00-19:00; Jan 1, May 1, Dec 25 off"
-website: "https://www.leroymerlin.fr/magasins/rueil-malmaison.html"
+opening_hours: Mo-Sa 09:00-20:00; Su,PH 09:00-19:00; Jan 1, May 1, Dec 25 off
+website: https://www.leroymerlin.fr/magasins/rueil-malmaison.html

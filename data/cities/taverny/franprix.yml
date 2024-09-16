@@ -4,8 +4,8 @@ latitude: 49.02398
 longitude: 2.21159
 postcode: "95150"
 city: Taverny
-street: "Rue de Beauchamp"
-housenumber: 
+street: Rue de Beauchamp
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 08:30-21:00"
-website: "https://www.franprix.fr/magasins/5285"
+opening_hours: Mo-Su 08:30-21:00
+website: https://www.franprix.fr/magasins/5285

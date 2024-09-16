@@ -4,8 +4,8 @@ latitude: 48.93733
 longitude: 2.35991
 postcode: "93200"
 city: Saint-Denis
-street: "Place du Caquet"
-housenumber: 
-phone: "+33 1 48 13 98 79"
-opening_hours: "Mo-Sa 08:30-21:00; Su 08:30-12:30"
-website: "https://www.carrefour.fr/magasin/saint-denis"
+street: Place du Caquet
+housenumber: ""
+phone: +33 1 48 13 98 79
+opening_hours: Mo-Sa 08:30-21:00; Su 08:30-12:30
+website: https://www.carrefour.fr/magasin/saint-denis

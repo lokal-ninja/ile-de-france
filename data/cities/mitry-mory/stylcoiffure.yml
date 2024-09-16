@@ -1,11 +1,11 @@
 id: 112212087
-type: way
+type: node
 latitude: 48.95443
 longitude: 2.60196
 postcode: "77290"
 city: Mitry-Mory
-street: "Avenue Jean-Baptiste Clément"
-housenumber: 11
+street: Avenue Jean-Baptiste Clément
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

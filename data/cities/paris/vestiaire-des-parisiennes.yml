@@ -4,8 +4,8 @@ latitude: 48.88281
 longitude: 2.3381
 postcode: "75018"
 city: Paris
-street: "Rue Houdon"
-housenumber: 5
+street: Rue Houdon
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.55337
 longitude: 2.12365
 postcode: "91530"
 city: Saint-Chéron
-street: "Rue Charles de Gaulle"
-housenumber: 25
-phone: "+33 1 64 56 68 12"
-opening_hours: "Tu-Fr 8:00-13:00,15:00-20:00; Sa 08:00-20:00; Su 08:00-13:30"
+street: Rue Charles de Gaulle
+housenumber: "25"
+phone: +33 1 64 56 68 12
+opening_hours: Tu-Fr 8:00-13:00,15:00-20:00; Sa 08:00-20:00; Su 08:00-13:30
 website: ""

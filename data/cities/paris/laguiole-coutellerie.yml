@@ -4,8 +4,8 @@ latitude: 48.85227
 longitude: 2.35679
 postcode: "75004"
 city: Paris
-street: "Rue des Deux Ponts"
-housenumber: 35
+street: Rue des Deux Ponts
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

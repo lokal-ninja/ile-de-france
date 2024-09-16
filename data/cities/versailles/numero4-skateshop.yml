@@ -4,8 +4,8 @@ latitude: 48.8075
 longitude: 2.13306
 postcode: "78000"
 city: Versailles
-street: "Rue Richaud"
-housenumber: 4
+street: Rue Richaud
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 10:00-12:30,14:00-19:00; Sa 10:00-19:00"
+opening_hours: Tu-Fr 10:00-12:30,14:00-19:00; Sa 10:00-19:00
 website: ""

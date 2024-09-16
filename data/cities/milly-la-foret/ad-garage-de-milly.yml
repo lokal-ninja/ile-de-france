@@ -1,11 +1,11 @@
 id: 115251595
-type: way
+type: node
 latitude: 48.40169
 longitude: 2.48414
 postcode: "91490"
 city: Milly-la-Forêt
-street: "Route de Fontainebleau"
-housenumber: 17
-phone: "+33 164989241"
+street: Route de Fontainebleau
+housenumber: "17"
+phone: +33 164989241
 opening_hours: ""
-website: "https://www.ad.fr/"
+website: https://www.ad.fr/

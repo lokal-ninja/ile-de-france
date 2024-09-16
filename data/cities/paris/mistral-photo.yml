@@ -4,8 +4,8 @@ latitude: 48.8508
 longitude: 2.34136
 postcode: "75006"
 city: Paris
-street: "Rue de l'École de Médecine"
-housenumber: 13
+street: Rue de l'École de Médecine
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00"
+opening_hours: Mo-Fr 09:00-19:00
 website: ""

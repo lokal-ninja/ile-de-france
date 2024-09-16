@@ -1,11 +1,11 @@
 id: 355310359
-type: way
+type: node
 latitude: 48.98397
 longitude: 2.37336
 postcode: "95200"
 city: Sarcelles
-street: "Rue henri dunant"
-housenumber: 8
+street: Rue henri dunant
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

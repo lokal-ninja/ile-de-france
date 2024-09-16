@@ -1,11 +1,11 @@
 id: 112039844
-type: way
+type: node
 latitude: 48.7903
 longitude: 2.61355
 postcode: "77340"
 city: Pontault-Combault
-street: "Rue des Prés Saint-Martin"
-housenumber: 86
-phone: "+33 1 60 29 95 19"
+street: Rue des Prés Saint-Martin
+housenumber: "86"
+phone: +33 1 60 29 95 19
 opening_hours: ""
-website: "https://concessions.peugeot.fr/bellevue-pontault-combault/"
+website: https://concessions.peugeot.fr/bellevue-pontault-combault/

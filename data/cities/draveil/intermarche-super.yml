@@ -1,11 +1,11 @@
 id: 230845956
-type: way
+type: node
 latitude: 48.67834
 longitude: 2.41105
 postcode: "91210"
 city: Draveil
-street: "Boulevard Henri Barbusse"
-housenumber: 94
+street: Boulevard Henri Barbusse
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00;Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-20:00;Su 08:30-12:30
 website: ""

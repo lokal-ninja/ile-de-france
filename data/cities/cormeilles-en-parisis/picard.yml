@@ -1,11 +1,11 @@
 id: 1098011145
-type: way
+type: node
 latitude: 48.97224
 longitude: 2.19066
 postcode: "95240"
 city: Cormeilles-en-Parisis
-street: "Boulevard Clemenceau"
-housenumber: 43
-phone: "+33 1 34 50 72 80"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:45"
-website: "https://magasins.picard.fr/256-picard-cormeilles"
+street: Boulevard Clemenceau
+housenumber: "43"
+phone: +33 1 34 50 72 80
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:45
+website: https://magasins.picard.fr/256-picard-cormeilles

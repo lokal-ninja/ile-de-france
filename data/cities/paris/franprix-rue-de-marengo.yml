@@ -4,8 +4,8 @@ latitude: 48.86177
 longitude: 2.33945
 postcode: "75001"
 city: Paris
-street: "Rue de Marengo"
+street: Rue de Marengo
 housenumber: 2/6
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00; Su 10:00-20:00"
-website: "https://www.franprix.fr/magasins/4160"
+opening_hours: Mo-Sa 07:30-22:00; Su 10:00-20:00
+website: https://www.franprix.fr/magasins/4160

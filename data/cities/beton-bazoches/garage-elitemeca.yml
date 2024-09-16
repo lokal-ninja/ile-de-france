@@ -1,11 +1,11 @@
 id: 115310268
-type: way
+type: node
 latitude: 48.69999
 longitude: 3.24544
 postcode: "77320"
 city: Beton-Bazoches
-street: "Route Nationale"
-housenumber: 25
+street: Route Nationale
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

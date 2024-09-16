@@ -1,11 +1,11 @@
 id: 63644719
-type: way
+type: node
 latitude: 48.85699
 longitude: 2.37985
 postcode: "75011"
 city: Paris
-street: "Avenue Ledru-Rollin"
-housenumber: 168
-phone: "+33 1 43 79 66 96"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-13:00"
-website: "https://www.monoprix.fr/19.html"
+street: Avenue Ledru-Rollin
+housenumber: "168"
+phone: +33 1 43 79 66 96
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-13:00
+website: https://www.monoprix.fr/19.html

@@ -4,8 +4,8 @@ latitude: 48.90312
 longitude: 2.38986
 postcode: "93300"
 city: Aubervilliers
-street: "Rue Auvry"
-housenumber: 18
-phone: "+33 1 48 39 10 11"
-opening_hours: "Tu-We, Fr 11:00-19:00; Sa 10:00-19:00"
-website: "https://www.magasingeneralvelo.fr/"
+street: Rue Auvry
+housenumber: "18"
+phone: +33 1 48 39 10 11
+opening_hours: Tu-We, Fr 11:00-19:00; Sa 10:00-19:00
+website: https://www.magasingeneralvelo.fr/

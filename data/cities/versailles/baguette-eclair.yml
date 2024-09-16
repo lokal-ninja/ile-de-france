@@ -4,8 +4,8 @@ latitude: 48.79614
 longitude: 2.13765
 postcode: "78000"
 city: Versailles
-street: "Rue des Chantiers"
-housenumber: 20
+street: Rue des Chantiers
+housenumber: "20"
 phone: ""
-opening_hours: "PH,Mo-Su 06:30-20:30"
+opening_hours: PH,Mo-Su 06:30-20:30
 website: ""

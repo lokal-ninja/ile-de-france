@@ -4,8 +4,8 @@ latitude: 48.89734
 longitude: 2.39933
 postcode: "93500"
 city: Pantin
-street: "Mail de la Blanchisserie"
-housenumber: 1
+street: Mail de la Blanchisserie
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 08:00-12:00"
-website: "https://www.franprix.fr/magasins/4114"
+opening_hours: Mo-Sa 08:00-22:00; Su 08:00-12:00
+website: https://www.franprix.fr/magasins/4114

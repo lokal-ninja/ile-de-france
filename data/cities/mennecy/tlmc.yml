@@ -1,11 +1,11 @@
 id: 118112927
-type: way
+type: node
 latitude: 48.56739
 longitude: 2.45093
 postcode: "91540"
 city: Mennecy
-street: "Rue Victor Grignard"
-housenumber: 3
+street: Rue Victor Grignard
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.62742
 longitude: 1.82774
 postcode: "78120"
 city: Rambouillet
-street: "Rue Gustave Eiffel"
-housenumber: 
+street: Rue Gustave Eiffel
+housenumber: ""
 phone: "+33130466212"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://revendre.occasion.carrefour.fr/?utm_campaign=gmb_site_web&utm_medium=gmb_etablissement&utm_source=flux_opm"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://revendre.occasion.carrefour.fr/?utm_campaign=gmb_site_web&utm_medium=gmb_etablissement&utm_source=flux_opm

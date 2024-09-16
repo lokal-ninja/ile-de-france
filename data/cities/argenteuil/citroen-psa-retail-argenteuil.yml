@@ -4,8 +4,8 @@ latitude: 48.95488
 longitude: 2.25473
 postcode: "95100"
 city: Argenteuil
-street: "Boulevard Jean Allemane"
-housenumber: 79
-phone: "+33 1 39808000"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 09:00-12:00, 14:00-19:00"
-website: "https://reseau.citroen.fr/argenteuil"
+street: Boulevard Jean Allemane
+housenumber: "79"
+phone: +33 1 39808000
+opening_hours: Mo-Fr 07:30-19:00; Sa 09:00-12:00, 14:00-19:00
+website: https://reseau.citroen.fr/argenteuil

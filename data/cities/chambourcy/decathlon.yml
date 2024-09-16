@@ -1,11 +1,11 @@
 id: 948396556
-type: way
+type: node
 latitude: 48.91234
 longitude: 2.03198
 postcode: "78240"
 city: Chambourcy
-street: "Route de Mantes"
-housenumber: 82
-phone: "+33 1 39 79 29 23"
-opening_hours: "Mo-Sa 09:30-20:00; Su 10:00-19:30"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_38"
+street: Route de Mantes
+housenumber: "82"
+phone: +33 1 39 79 29 23
+opening_hours: Mo-Sa 09:30-20:00; Su 10:00-19:30
+website: https://www.decathlon.fr/fr/store?store_id=PS_38

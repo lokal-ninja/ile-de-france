@@ -4,8 +4,8 @@ latitude: 48.80649
 longitude: 2.1283
 postcode: "78000"
 city: Versailles
-street: "Rue Hoche"
-housenumber: 12
-phone: "+33 1 30 24 58 01"
+street: Rue Hoche
+housenumber: "12"
+phone: +33 1 30 24 58 01
 opening_hours: ""
-website: "https://www.comtessedeprovence.com/"
+website: https://www.comtessedeprovence.com/

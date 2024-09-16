@@ -1,11 +1,11 @@
 id: 113022248
-type: way
+type: node
 latitude: 48.8009
 longitude: 2.62777
 postcode: "77680"
 city: Roissy-en-Brie
-street: "Rue Denis Papin"
-housenumber: 17
-phone: "+33 1 64 43 68 68"
+street: Rue Denis Papin
+housenumber: "17"
+phone: +33 1 64 43 68 68
 opening_hours: ""
-website: "https://reseau.citroen.fr/roissy-en-brie"
+website: https://reseau.citroen.fr/roissy-en-brie

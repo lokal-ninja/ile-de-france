@@ -4,8 +4,8 @@ latitude: 48.8585
 longitude: 2.35786
 postcode: "75004"
 city: Paris
-street: "Rue des Blancs-Manteaux"
-housenumber: 9
+street: Rue des Blancs-Manteaux
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

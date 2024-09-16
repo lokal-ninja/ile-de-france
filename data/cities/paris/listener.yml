@@ -4,8 +4,8 @@ latitude: 48.86745
 longitude: 2.33939
 postcode: "75002"
 city: Paris
-street: "Rue Vivienne"
-housenumber: 10
+street: Rue Vivienne
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.85651
 longitude: 2.27155
 postcode: "75016"
 city: Paris
-street: "Avenue Mozart"
-housenumber: 28
-phone: "+33 1 84 80 60 11"
-opening_hours: "Mo-Sa 10:00-19:00; Su 14:00-19:00"
-website: "https://www.lelit.fr/magasins/le-lit-mozart-paris-75016"
+street: Avenue Mozart
+housenumber: "28"
+phone: +33 1 84 80 60 11
+opening_hours: Mo-Sa 10:00-19:00; Su 14:00-19:00
+website: https://www.lelit.fr/magasins/le-lit-mozart-paris-75016

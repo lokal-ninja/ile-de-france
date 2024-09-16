@@ -4,8 +4,8 @@ latitude: 48.88285
 longitude: 2.33835
 postcode: "75018"
 city: Paris
-street: "Rue Houdon"
-housenumber: 6
+street: Rue Houdon
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.lesrituelles.fr/"
+website: https://www.lesrituelles.fr/

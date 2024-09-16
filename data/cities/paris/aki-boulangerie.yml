@@ -4,8 +4,8 @@ latitude: 48.86612
 longitude: 2.33556
 postcode: "75001"
 city: Paris
-street: "Rue Sainte-Anne"
-housenumber: 16
+street: Rue Sainte-Anne
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

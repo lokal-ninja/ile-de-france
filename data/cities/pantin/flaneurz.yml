@@ -4,8 +4,9 @@ latitude: 48.88925
 longitude: 2.41139
 postcode: "93500"
 city: Pantin
-street: "Rue Méhul"
-housenumber: 17
-phone: "+33 1 48 36 42 68"
-opening_hours: "We-Fr 14:00-19:30; Sa 11:00-19:30; Mo-Tu 09:30-17:30 Sur rendez-vous || We-Fr 10:00-14:00 Sur rendez-vous"
-website: "https://www.flaneurz.com/"
+street: Rue Méhul
+housenumber: "17"
+phone: +33 1 48 36 42 68
+opening_hours: We-Fr 14:00-19:30; Sa 11:00-19:30; Mo-Tu 09:30-17:30 "Sur rendez-vous"
+    || We-Fr 10:00-14:00 "Sur rendez-vous"
+website: https://www.flaneurz.com/

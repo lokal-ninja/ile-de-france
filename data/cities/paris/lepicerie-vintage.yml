@@ -4,8 +4,8 @@ latitude: 48.8684
 longitude: 2.38956
 postcode: "75020"
 city: Paris
-street: "Rue Sorbier"
-housenumber: 4
+street: Rue Sorbier
+housenumber: "4"
 phone: ""
-opening_hours: "Mo 11:00-18:00; We-Th 10:30-19:30; Sa 10:30-19:30; Su 11:00-18:30"
+opening_hours: Mo 11:00-18:00; We-Th 10:30-19:30; Sa 10:30-19:30; Su 11:00-18:30
 website: ""

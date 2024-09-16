@@ -1,11 +1,11 @@
 id: 112337987
-type: way
+type: node
 latitude: 48.66033
 longitude: 2.57595
 postcode: "77380"
 city: Combs-la-Ville
-street: "Rue de l'Abreuvoir"
-housenumber: 
+street: Rue de l'Abreuvoir
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

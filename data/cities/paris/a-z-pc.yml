@@ -4,8 +4,8 @@ latitude: 48.81846
 longitude: 2.3608
 postcode: "75013"
 city: Paris
-street: "Rue Fernand Widal"
-housenumber: 7
+street: Rue Fernand Widal
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "http://azpc75.free.fr/"
+website: http://azpc75.free.fr/

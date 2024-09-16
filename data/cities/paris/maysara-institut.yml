@@ -4,8 +4,8 @@ latitude: 48.88139
 longitude: 2.37194
 postcode: "75019"
 city: Paris
-street: "Rue de Chaumont"
-housenumber: 6
-phone: "+33 9 81 69 43 06"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://maysara-institut.fr"
+street: Rue de Chaumont
+housenumber: "6"
+phone: +33 9 81 69 43 06
+opening_hours: Mo-Su 09:00-21:00
+website: https://maysara-institut.fr

@@ -4,8 +4,8 @@ latitude: 48.83924
 longitude: 2.35037
 postcode: "75005"
 city: Paris
-street: "Rue de Bazeilles"
-housenumber: 1
+street: Rue de Bazeilles
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:00, Sa 10:00-19:00; PH,Su 10:00-18:00; Mo closed"
-website: "https://www.loutsa.fr/"
+opening_hours: Tu-Fr 09:00-19:00, Sa 10:00-19:00; PH,Su 10:00-18:00; Mo closed
+website: https://www.loutsa.fr/

@@ -4,8 +4,8 @@ latitude: 48.86325
 longitude: 2.36859
 postcode: "75011"
 city: Paris
-street: "Rue Oberkampf"
-housenumber: 13
+street: Rue Oberkampf
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.kenka-boutique.fr/"
+website: https://www.kenka-boutique.fr/

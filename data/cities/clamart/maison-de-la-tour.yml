@@ -4,8 +4,8 @@ latitude: 48.80237
 longitude: 2.26468
 postcode: "92140"
 city: Clamart
-street: "Avenue Jean Jaurès"
-housenumber: 29
-phone: "+33 1 46 38 78 51"
-opening_hours: "Mo,Tu,Th-Sa 07:00-20:00; Su 07:30-13:30"
-website: "https://maison-delatour.com"
+street: Avenue Jean Jaurès
+housenumber: "29"
+phone: +33 1 46 38 78 51
+opening_hours: Mo,Tu,Th-Sa 07:00-20:00; Su 07:30-13:30
+website: https://maison-delatour.com

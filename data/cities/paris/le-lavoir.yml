@@ -4,8 +4,8 @@ latitude: 48.88954
 longitude: 2.34351
 postcode: "75018"
 city: Paris
-street: "Rue Custine"
-housenumber: 55
-phone: "+33 1 45 75 75 20"
-opening_hours: "Mo-Su 07:00-22:00"
+street: Rue Custine
+housenumber: "55"
+phone: +33 1 45 75 75 20
+opening_hours: Mo-Su 07:00-22:00
 website: ""

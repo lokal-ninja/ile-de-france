@@ -4,8 +4,8 @@ latitude: 48.85301
 longitude: 2.27614
 postcode: "75016"
 city: Paris
-street: "Rue Raynouard"
-housenumber: 96
+street: Rue Raynouard
+housenumber: "96"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:30; Sa 09:00-19:30; Su 10:00-18:00"
+opening_hours: Mo-Fr 08:00-19:30; Sa 09:00-19:30; Su 10:00-18:00
 website: ""

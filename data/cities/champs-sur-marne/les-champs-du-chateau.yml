@@ -4,8 +4,8 @@ latitude: 48.85294
 longitude: 2.6023
 postcode: "77420"
 city: Champs-sur-Marne
-street: "Rue de la Mairie"
-housenumber: 9
+street: Rue de la Mairie
+housenumber: "9"
 phone: "+33656690433"
-opening_hours: "Tu-Sa 10:00-13:30,15:30-19:00"
-website: "https://www.les-champs-du-chateau.fr/e-boutique/"
+opening_hours: Tu-Sa 10:00-13:30,15:30-19:00
+website: https://www.les-champs-du-chateau.fr/e-boutique/

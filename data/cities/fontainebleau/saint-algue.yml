@@ -4,8 +4,8 @@ latitude: 48.40625
 longitude: 2.70194
 postcode: "77300"
 city: Fontainebleau
-street: "Place de la République"
-housenumber: 4
-phone: "+33 1 60 72 78 97"
-opening_hours: "Mo, Tu, We, Fr 9:30-19:00; Th 9:00-20:00; Sa 9:00-18:00"
-website: "https://www.saint-algue.com/salon-2439/coiffeur/4-place-de-la-republique-77300-fontainebleau"
+street: Place de la République
+housenumber: "4"
+phone: +33 1 60 72 78 97
+opening_hours: Mo, Tu, We, Fr 9:30-19:00; Th 9:00-20:00; Sa 9:00-18:00
+website: https://www.saint-algue.com/salon-2439/coiffeur/4-place-de-la-republique-77300-fontainebleau

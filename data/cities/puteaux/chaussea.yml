@@ -4,8 +4,8 @@ latitude: 48.88136
 longitude: 2.23728
 postcode: "92800"
 city: Puteaux
-street: "Rue Eugène Eichenberger"
-housenumber: 35
-phone: "+33 1 41 38 95 07"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.lahalle.com/"
+street: Rue Eugène Eichenberger
+housenumber: "35"
+phone: +33 1 41 38 95 07
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.lahalle.com/

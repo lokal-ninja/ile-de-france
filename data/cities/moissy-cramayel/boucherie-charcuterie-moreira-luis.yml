@@ -1,11 +1,11 @@
 id: 114150302
-type: way
+type: node
 latitude: 48.6273
 longitude: 2.5912
 postcode: "77550"
 city: Moissy-Cramayel
-street: "Avenue Philippe Bur"
-housenumber: 131
-phone: "+33 1 60 60 65 88"
+street: Avenue Philippe Bur
+housenumber: "131"
+phone: +33 1 60 60 65 88
 opening_hours: ""
 website: ""

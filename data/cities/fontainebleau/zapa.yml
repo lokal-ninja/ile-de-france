@@ -4,8 +4,8 @@ latitude: 48.40573
 longitude: 2.70206
 postcode: "77300"
 city: Fontainebleau
-street: "Rue Grande"
-housenumber: 74
-phone: "+33 1 60 57 00 22"
-opening_hours: "Mo-Sa 11:00-19:00; Su 10:00-13:00"
-website: "https://www.zapa.fr/nos-boutiques.php"
+street: Rue Grande
+housenumber: "74"
+phone: +33 1 60 57 00 22
+opening_hours: Mo-Sa 11:00-19:00; Su 10:00-13:00
+website: https://www.zapa.fr/nos-boutiques.php

@@ -4,8 +4,8 @@ latitude: 48.89467
 longitude: 2.37304
 postcode: "75019"
 city: Paris
-street: "Rue de Crimée"
-housenumber: 244
+street: Rue de Crimée
+housenumber: "244"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

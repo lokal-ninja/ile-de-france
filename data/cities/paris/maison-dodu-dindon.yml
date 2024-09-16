@@ -4,8 +4,8 @@ latitude: 48.87936
 longitude: 2.3663
 postcode: "75010"
 city: Paris
-street: "Rue Alexandre Parodi"
-housenumber: 3
+street: Rue Alexandre Parodi
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00; Su 10:30-17:00"
+opening_hours: Mo-Sa 11:00-19:00; Su 10:30-17:00
 website: ""

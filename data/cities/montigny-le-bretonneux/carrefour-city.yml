@@ -4,8 +4,8 @@ latitude: 48.76775
 longitude: 2.01777
 postcode: "78180"
 city: Montigny-le-Bretonneux
-street: "Rue Jean Goujon"
-housenumber: 3
-phone: "+33 1 30 64 06 67"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/city-montigny-manet"
+street: Rue Jean Goujon
+housenumber: "3"
+phone: +33 1 30 64 06 67
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/city-montigny-manet

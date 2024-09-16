@@ -4,8 +4,8 @@ latitude: 48.75408
 longitude: 2.32469
 postcode: "94260"
 city: Fresnes
-street: "Rue Julien Chaillioux"
-housenumber: 1
+street: Rue Julien Chaillioux
+housenumber: "1"
 phone: "+33781063254"
-opening_hours: "Sa 09:00-12:00,14:00-17:00"
-website: "https://www.fresnes94.fr/association/fresnescyclette/"
+opening_hours: Sa 09:00-12:00,14:00-17:00
+website: https://www.fresnes94.fr/association/fresnescyclette/

@@ -4,8 +4,8 @@ latitude: 48.94693
 longitude: 2.24669
 postcode: "95100"
 city: Argenteuil
-street: "Rue Antonin Georges Belin"
-housenumber: 55
-phone: "+33 9 88 02 26 79"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "http://smile.company/"
+street: Rue Antonin Georges Belin
+housenumber: "55"
+phone: +33 9 88 02 26 79
+opening_hours: Mo-Sa 09:30-19:30
+website: http://smile.company/

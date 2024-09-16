@@ -1,11 +1,11 @@
 id: 555991671
-type: way
+type: node
 latitude: 48.99627
 longitude: 2.52015
 postcode: "95700"
 city: Roissy-en-France
-street: "Rue des Marguilliers"
-housenumber: 1
-phone: "+33 1 85 74 30 00"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 10:00-18:00"
-website: "https://www.bauerparis.fr/"
+street: Rue des Marguilliers
+housenumber: "1"
+phone: +33 1 85 74 30 00
+opening_hours: Mo-Fr 08:00-19:00, Sa 10:00-18:00
+website: https://www.bauerparis.fr/

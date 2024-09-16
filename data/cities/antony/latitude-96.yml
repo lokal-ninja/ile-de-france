@@ -1,11 +1,11 @@
 id: 1012893309
-type: way
+type: node
 latitude: 48.75806
 longitude: 2.30625
 postcode: "92160"
 city: Antony
-street: "Avenue Aristide Briand"
-housenumber: 65
-phone: "+33 1 46 66 20 40"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.latitude96.fr/"
+street: Avenue Aristide Briand
+housenumber: "65"
+phone: +33 1 46 66 20 40
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://www.latitude96.fr/

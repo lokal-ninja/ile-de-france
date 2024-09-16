@@ -4,8 +4,8 @@ latitude: 48.85291
 longitude: 2.27564
 postcode: "75016"
 city: Paris
-street: "Rue Jean de La Fontaine"
-housenumber: 2
-phone: "+33 1 42 88 26 72"
-opening_hours: "Mo-Fr 07:00-20:30; Sa 07:30-18:30"
+street: Rue Jean de La Fontaine
+housenumber: "2"
+phone: +33 1 42 88 26 72
+opening_hours: Mo-Fr 07:00-20:30; Sa 07:30-18:30
 website: ""

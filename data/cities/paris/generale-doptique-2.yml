@@ -5,7 +5,7 @@ longitude: 2.37643
 postcode: "75011"
 city: Paris
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:30; Sa 10:00-19:30"
-website: "https://generale-optique.com"
+opening_hours: Mo-Fr 09:30-19:30; Sa 10:00-19:30
+website: https://generale-optique.com

@@ -4,8 +4,8 @@ latitude: 48.80101
 longitude: 2.12201
 postcode: "78000"
 city: Versailles
-street: "Rue du Vieux Versailles"
-housenumber: 10
+street: Rue du Vieux Versailles
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:30-17:00"
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:30-17:00
 website: ""

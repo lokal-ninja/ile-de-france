@@ -1,11 +1,12 @@
 id: 1199766228
-type: way
+type: node
 latitude: 49.03652
 longitude: 1.57666
 postcode: "78270"
 city: Bonnières-sur-Seine
-street: "Rue Marcel Sembat"
-housenumber: 29
+street: Rue Marcel Sembat
+housenumber: "29"
 phone: "+33130930902"
-opening_hours: "Du Lundi au Samedi de 9h à 19h, Le vendredi de9h à 12h et de 14h30 à 20h"
+opening_hours: Du Lundi au Samedi de 9h à 19h, Le vendredi de9h à 12h et de 14h30
+    à 20h
 website: ""

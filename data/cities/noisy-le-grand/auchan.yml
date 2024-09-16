@@ -4,8 +4,8 @@ latitude: 48.84768
 longitude: 2.54874
 postcode: "93160"
 city: Noisy-le-Grand
-street: "Place des Opérettes"
-housenumber: 1
-phone: "+33 1 55 85 15 00"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-12:45"
-website: "https://www.auchan.fr/magasins/supermarche-noisy-le-grand/sl-1288"
+street: Place des Opérettes
+housenumber: "1"
+phone: +33 1 55 85 15 00
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-12:45
+website: https://www.auchan.fr/magasins/supermarche-noisy-le-grand/sl-1288

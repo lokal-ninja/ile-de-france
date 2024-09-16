@@ -4,8 +4,8 @@ latitude: 48.85245
 longitude: 2.37221
 postcode: "75011"
 city: Paris
-street: "Rue du Faubourg Saint-Antoine"
-housenumber: 41
+street: Rue du Faubourg Saint-Antoine
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

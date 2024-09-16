@@ -4,8 +4,8 @@ latitude: 48.84837
 longitude: 2.39271
 postcode: "75012"
 city: Paris
-street: "Rue de Picpus"
-housenumber: 3
+street: Rue de Picpus
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30"
+opening_hours: Mo-Fr 09:00-18:30
 website: ""

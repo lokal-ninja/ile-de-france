@@ -4,8 +4,8 @@ latitude: 48.87323
 longitude: 2.36212
 postcode: "75010"
 city: Paris
-street: "Rue des Vinaigriers"
-housenumber: 34
+street: Rue des Vinaigriers
+housenumber: "34"
 phone: ""
-opening_hours: "We-Th 11:00-20:00; Fr-Su 11:00-19:00"
+opening_hours: We-Th 11:00-20:00; Fr-Su 11:00-19:00
 website: ""

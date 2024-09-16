@@ -4,8 +4,8 @@ latitude: 48.86402
 longitude: 2.49988
 postcode: "93360"
 city: Neuilly-Plaisance
-street: "Avenue du Maréchal Foch"
-housenumber: 1
+street: Avenue du Maréchal Foch
+housenumber: "1"
 phone: ""
-opening_hours: "Th-Mo 07:00-14:00,15:00-20:00"
+opening_hours: Th-Mo 07:00-14:00,15:00-20:00
 website: ""

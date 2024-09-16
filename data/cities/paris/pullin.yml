@@ -4,8 +4,8 @@ latitude: 48.86443
 longitude: 2.34778
 postcode: "75001"
 city: Paris
-street: "Rue Française"
-housenumber: 8
+street: Rue Française
+housenumber: "8"
 phone: ""
-opening_hours: "Mo, Tu, Th, Fr 11:00-14:00, 15:00-19:00; We, Sa 11:00-19:00"
+opening_hours: Mo, Tu, Th, Fr 11:00-14:00, 15:00-19:00; We, Sa 11:00-19:00
 website: ""

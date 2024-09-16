@@ -4,8 +4,8 @@ latitude: 48.87872
 longitude: 2.39779
 postcode: "75019"
 city: Paris
-street: "Rue du Pré Saint-Gervais"
-housenumber: 64
-phone: "+33 1 40 16 94 54"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-13:00"
-website: "https://www.nousantigaspi.com/"
+street: Rue du Pré Saint-Gervais
+housenumber: "64"
+phone: +33 1 40 16 94 54
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-13:00
+website: https://www.nousantigaspi.com/

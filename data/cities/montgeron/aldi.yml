@@ -1,11 +1,11 @@
 id: 149689876
-type: way
+type: node
 latitude: 48.69342
 longitude: 2.44498
 postcode: "91230"
 city: Montgeron
-street: "Avenue Charles de Gaulle"
-housenumber: 132
+street: Avenue Charles de Gaulle
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

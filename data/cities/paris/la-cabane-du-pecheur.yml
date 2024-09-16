@@ -4,8 +4,8 @@ latitude: 48.8607
 longitude: 2.35472
 postcode: "75004"
 city: Paris
-street: "Rue Rambuteau"
-housenumber: 21
+street: Rue Rambuteau
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00,Mo-Sa 16:00-20:30"
-website: "https://www.poissonnerie-cabane-pecheur-marais.fr/"
+opening_hours: Mo-Sa 09:00-13:00,Mo-Sa 16:00-20:30
+website: https://www.poissonnerie-cabane-pecheur-marais.fr/

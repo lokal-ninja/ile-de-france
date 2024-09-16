@@ -4,8 +4,8 @@ latitude: 48.71749
 longitude: 2.24737
 postcode: "91120"
 city: Palaiseau
-street: "Rue de la Gare"
-housenumber: 3
-phone: "+33 1 60 12 97 08"
-opening_hours: "Tu-Fr 10:00-12:30,15:00-19:30; Sa 09:00-12:30,15:00-19:30"
-website: "https://www.chocolat-deneuville.com/magasins/de-neuville-palaiseau-chocolat-francais.html"
+street: Rue de la Gare
+housenumber: "3"
+phone: +33 1 60 12 97 08
+opening_hours: Tu-Fr 10:00-12:30,15:00-19:30; Sa 09:00-12:30,15:00-19:30
+website: https://www.chocolat-deneuville.com/magasins/de-neuville-palaiseau-chocolat-francais.html

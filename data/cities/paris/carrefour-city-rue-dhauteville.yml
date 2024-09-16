@@ -4,8 +4,8 @@ latitude: 48.87543
 longitude: 2.35083
 postcode: "75010"
 city: Paris
-street: "Rue d'Hauteville"
-housenumber: 63
+street: Rue d'Hauteville
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00, Su 09:00-"
+opening_hours: Mo-Sa 09:00-22:00, Su 09:00-
 website: ""

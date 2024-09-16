@@ -1,11 +1,11 @@
 id: 957891923
-type: way
+type: node
 latitude: 48.58552
 longitude: 2.30165
 postcode: "91220"
 city: Brétigny-sur-Orge
 street: ""
-housenumber: 
-phone: "+33 1 69 99 66 83"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.leonidas.com/en/shops/bretigny-sur-orge/leonidas-bretigny"
+housenumber: ""
+phone: +33 1 69 99 66 83
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.leonidas.com/en/shops/bretigny-sur-orge/leonidas-bretigny

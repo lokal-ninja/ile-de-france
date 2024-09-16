@@ -4,8 +4,8 @@ latitude: 48.87081
 longitude: 2.37878
 postcode: "75020"
 city: Paris
-street: "Boulevard de Belleville"
-housenumber: 108
-phone: "+33 1 43 15 99 29"
-opening_hours: "Mo-Su 00:00-02:00, 11:00-23:59"
-website: "https://lacantinebelleville.fr/"
+street: Boulevard de Belleville
+housenumber: "108"
+phone: +33 1 43 15 99 29
+opening_hours: Mo-Su 00:00-02:00, 11:00-23:59
+website: https://lacantinebelleville.fr/

@@ -4,8 +4,8 @@ latitude: 48.87238
 longitude: 2.36343
 postcode: "75010"
 city: Paris
-street: "Rue Jean Poulmarch"
-housenumber: 13
+street: Rue Jean Poulmarch
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://plantespourtous.co/"
+opening_hours: Mo-Su 10:00-20:00
+website: https://plantespourtous.co/

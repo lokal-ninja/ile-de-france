@@ -1,11 +1,11 @@
 id: 114152877
-type: way
+type: node
 latitude: 48.61709
 longitude: 2.57027
 postcode: "77550"
 city: Moissy-Cramayel
-street: "Avenue Henri Poincaré"
-housenumber: 117
-phone: "+33 1 64 05 28 28"
+street: Avenue Henri Poincaré
+housenumber: "117"
+phone: +33 1 64 05 28 28
 opening_hours: ""
-website: "https://www.jdiffusion-moissy-cramayel.fr/"
+website: https://www.jdiffusion-moissy-cramayel.fr/

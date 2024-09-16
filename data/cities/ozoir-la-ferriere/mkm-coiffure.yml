@@ -4,8 +4,9 @@ latitude: 48.76357
 longitude: 2.67228
 postcode: "77330"
 city: Ozoir-la-Ferrière
-street: "Avenue du Général Leclerc"
-housenumber: 9
-phone: "+33 1 60 02 87 27"
-opening_hours: "Mo 09:00-18:00; Tu-Th 09:00-19:00; Fr 09:00-20:00; Sa 08:30-18:00; Su off"
-website: "http://www.frederic-moreno.com/"
+street: Avenue du Général Leclerc
+housenumber: "9"
+phone: +33 1 60 02 87 27
+opening_hours: Mo 09:00-18:00; Tu-Th 09:00-19:00; Fr 09:00-20:00; Sa 08:30-18:00;
+    Su off
+website: http://www.frederic-moreno.com/

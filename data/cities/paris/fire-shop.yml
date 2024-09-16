@@ -4,8 +4,8 @@ latitude: 48.84566
 longitude: 2.38334
 postcode: "75012"
 city: Paris
-street: "Rue Chaligny"
-housenumber: 7
+street: Rue Chaligny
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 14:00-18:00; Fr 14:00-17:00"
-website: "https://www.fireshopextincteur.fr/"
+opening_hours: Mo-Th 14:00-18:00; Fr 14:00-17:00
+website: https://www.fireshopextincteur.fr/

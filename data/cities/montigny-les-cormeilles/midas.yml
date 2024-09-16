@@ -4,8 +4,8 @@ latitude: 48.99497
 longitude: 2.19196
 postcode: "95370"
 city: Montigny-lès-Cormeilles
-street: "Boulevard Victor Bordier"
-housenumber: 131
-phone: "+33 1 39 31 22 11"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-17:00"
-website: "https://www.midas.fr/"
+street: Boulevard Victor Bordier
+housenumber: "131"
+phone: +33 1 39 31 22 11
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-17:00
+website: https://www.midas.fr/

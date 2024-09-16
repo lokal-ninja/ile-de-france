@@ -4,8 +4,8 @@ latitude: 48.79557
 longitude: 2.3677
 postcode: "91800"
 city: Villejuif
-street: "Avenue Paul Vaillant-Couturier"
-housenumber: 7
+street: Avenue Paul Vaillant-Couturier
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:30"
-website: "https://www.franprix.fr/magasins/5578"
+opening_hours: Mo-Sa 07:30-21:30
+website: https://www.franprix.fr/magasins/5578

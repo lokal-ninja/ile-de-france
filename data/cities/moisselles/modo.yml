@@ -1,11 +1,11 @@
 id: 404141652
-type: way
+type: node
 latitude: 49.03993
 longitude: 2.341
 postcode: "95570"
 city: Moisselles
-street: "Route Nationale"
-housenumber: 1
+street: Route Nationale
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

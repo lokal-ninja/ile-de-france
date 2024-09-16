@@ -4,8 +4,8 @@ latitude: 48.84117
 longitude: 2.29202
 postcode: "75015"
 city: Paris
-street: "Rue de la Croix Nivert"
-housenumber: 141
+street: Rue de la Croix Nivert
+housenumber: "141"
 phone: "+33984123795"
-opening_hours: "Tu-Su 07:00-20:00"
+opening_hours: Tu-Su 07:00-20:00
 website: ""

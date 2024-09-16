@@ -4,8 +4,8 @@ latitude: 48.62643
 longitude: 1.8285
 postcode: "78120"
 city: Rambouillet
-street: "Rue Gustave Eiffel"
-housenumber: 
+street: Rue Gustave Eiffel
+housenumber: ""
 phone: "+33185770032"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.we-audition.fr/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.we-audition.fr/

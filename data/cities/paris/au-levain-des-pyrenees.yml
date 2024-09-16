@@ -4,8 +4,8 @@ latitude: 48.85138
 longitude: 2.40644
 postcode: "75020"
 city: Paris
-street: "Rue des Pyrénées"
-housenumber: 44
-phone: "+33 9 51 39 90 04"
-opening_hours: "Mo-Fr 07:00-20:30; Sa 08:00-14:00; Su off"
+street: Rue des Pyrénées
+housenumber: "44"
+phone: +33 9 51 39 90 04
+opening_hours: Mo-Fr 07:00-20:30; Sa 08:00-14:00; Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.8837
 longitude: 2.34287
 postcode: "75018"
 city: Paris
-street: "Rue d'Orsel"
-housenumber: 40
+street: Rue d'Orsel
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

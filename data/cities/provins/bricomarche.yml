@@ -1,11 +1,11 @@
 id: 113127147
-type: way
+type: node
 latitude: 48.5596
 longitude: 3.3111
 postcode: "77160"
 city: Provins
-street: "Avenue du Maréchal de Lattre de Tassigny"
-housenumber: 25
+street: Avenue du Maréchal de Lattre de Tassigny
+housenumber: "25"
 phone: "0160585010"
-opening_hours: "opening_hours=Mo-Th 09:00-12:30,14:00-19:00; Fr-Sa 09:00-19:00"
-website: "https://www.bricomarche.com/?utm_source=gmb"
+opening_hours: opening_hours=Mo-Th 09:00-12:30,14:00-19:00; Fr-Sa 09:00-19:00
+website: https://www.bricomarche.com/?utm_source=gmb

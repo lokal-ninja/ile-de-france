@@ -4,8 +4,8 @@ latitude: 48.92403
 longitude: 2.25323
 postcode: "92700"
 city: Colombes
-street: "Rue Saint-Denis"
-housenumber: 68
+street: Rue Saint-Denis
+housenumber: "68"
 phone: ""
-opening_hours: "Tu-Sa 10:00-20:00; Su 10:00-13:00"
+opening_hours: Tu-Sa 10:00-20:00; Su 10:00-13:00
 website: ""

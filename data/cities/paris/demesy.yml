@@ -4,8 +4,8 @@ latitude: 48.8297
 longitude: 2.32312
 postcode: "75014"
 city: Paris
-street: "Rue des Plantes"
-housenumber: 25
+street: Rue des Plantes
+housenumber: "25"
 phone: ""
-opening_hours: "Tu,We,Fr 09:30-19:00; Th 09:30-20:00; Sa 09:00-19:00"
+opening_hours: Tu,We,Fr 09:30-19:00; Th 09:30-20:00; Sa 09:00-19:00
 website: ""

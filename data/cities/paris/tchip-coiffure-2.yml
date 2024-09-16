@@ -5,7 +5,7 @@ longitude: 2.38219
 postcode: ""
 city: Paris
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://tchip.fr/salon/view/4048"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://tchip.fr/salon/view/4048

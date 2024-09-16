@@ -4,8 +4,8 @@ latitude: 48.87682
 longitude: 2.70434
 postcode: "77400"
 city: Lagny-sur-Marne
-street: "Place du Marché au Blé"
-housenumber: 12
+street: Place du Marché au Blé
+housenumber: "12"
 phone: "+33160312703"
-opening_hours: "Tu-Su 08:30-19:30; Sa 08:30-20:00; Su 08:30-13:30"
-website: "https://www.richardfleurs.fr/"
+opening_hours: Tu-Su 08:30-19:30; Sa 08:30-20:00; Su 08:30-13:30
+website: https://www.richardfleurs.fr/

@@ -1,11 +1,11 @@
 id: 978566645
-type: way
+type: node
 latitude: 49.03365
 longitude: 2.33997
 postcode: "95330"
 city: Domont
-street: "Rue Aristide Briand"
-housenumber: 
+street: Rue Aristide Briand
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

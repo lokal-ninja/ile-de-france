@@ -4,8 +4,8 @@ latitude: 48.86888
 longitude: 2.32759
 postcode: "75001"
 city: Paris
-street: "Rue Cambon"
-housenumber: 38
+street: Rue Cambon
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

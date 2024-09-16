@@ -4,8 +4,8 @@ latitude: 48.86665
 longitude: 2.36817
 postcode: "75011"
 city: Paris
-street: "Avenue de la République"
-housenumber: 11
-phone: "+33 615957517"
+street: Avenue de la République
+housenumber: "11"
+phone: +33 615957517
 opening_hours: ""
-website: "https://ozo-electric.com/fr/content/101-ozo-paris"
+website: https://ozo-electric.com/fr/content/101-ozo-paris

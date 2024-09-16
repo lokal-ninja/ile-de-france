@@ -1,11 +1,11 @@
 id: 112354772
-type: way
+type: node
 latitude: 48.53981
 longitude: 2.65929
 postcode: "77000"
 city: Melun
-street: "Rue Carnot"
-housenumber: 10
+street: Rue Carnot
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

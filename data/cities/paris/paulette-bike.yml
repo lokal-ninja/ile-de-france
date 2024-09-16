@@ -4,8 +4,8 @@ latitude: 48.82972
 longitude: 2.30188
 postcode: "75015"
 city: Paris
-street: "Rue Brancion"
-housenumber: 115
-phone: "+33.1 42 50 38 63"
+street: Rue Brancion
+housenumber: "115"
+phone: +33.1 42 50 38 63
 opening_hours: ""
-website: "https://paulette.bike/fr/index.php?controller=agence&agence_id=27"
+website: https://paulette.bike/fr/index.php?controller=agence&agence_id=27

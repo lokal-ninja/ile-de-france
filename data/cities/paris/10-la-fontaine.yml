@@ -4,8 +4,8 @@ latitude: 48.85246
 longitude: 2.27485
 postcode: "75016"
 city: Paris
-street: "Rue Jean de La Fontaine"
-housenumber: 10
-phone: "+33 1 45 27 13 33"
+street: Rue Jean de La Fontaine
+housenumber: "10"
+phone: +33 1 45 27 13 33
 opening_hours: ""
-website: "http://10lafontaine.free.fr/"
+website: http://10lafontaine.free.fr/

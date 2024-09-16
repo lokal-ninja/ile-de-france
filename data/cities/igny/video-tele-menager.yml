@@ -1,11 +1,11 @@
 id: 63180945
-type: way
+type: node
 latitude: 48.73326
 longitude: 2.22028
 postcode: "91430"
 city: Igny
-street: "Rue Pierre Lescot"
-housenumber: 28
+street: Rue Pierre Lescot
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

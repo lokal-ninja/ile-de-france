@@ -1,11 +1,11 @@
 id: 218593602
-type: way
+type: node
 latitude: 49.02944
 longitude: 1.85221
 postcode: "78250"
 city: Oinville-sur_montcient
-street: "Route du Vexin"
-housenumber: 6
+street: Route du Vexin
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.immo-meulan-vexin.com/"
+website: http://www.immo-meulan-vexin.com/

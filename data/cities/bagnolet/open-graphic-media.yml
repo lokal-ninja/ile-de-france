@@ -4,8 +4,8 @@ latitude: 48.86284
 longitude: 2.41551
 postcode: "93170"
 city: Bagnolet
-street: "Avenue de la République"
-housenumber: 21
-phone: "+33 1 42 87 22 63"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "http://www.opengraphicmedia.fr/"
+street: Avenue de la République
+housenumber: "21"
+phone: +33 1 42 87 22 63
+opening_hours: Mo-Su 09:00-18:00
+website: http://www.opengraphicmedia.fr/

@@ -4,8 +4,8 @@ latitude: 49.04792
 longitude: 2.01154
 postcode: "95800"
 city: Cergy
-street: "Rue de la Destinée"
-housenumber: 15
+street: Rue de la Destinée
+housenumber: "15"
 phone: "+33644380720"
-opening_hours: "Mo-Fr 09:00-20:00; Sa-Su 08:30-20:00"
-website: "https://www.lartisanchocolatecergy.fr/"
+opening_hours: Mo-Fr 09:00-20:00; Sa-Su 08:30-20:00
+website: https://www.lartisanchocolatecergy.fr/

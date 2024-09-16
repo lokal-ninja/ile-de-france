@@ -4,8 +4,8 @@ latitude: 48.849
 longitude: 2.39887
 postcode: "75011"
 city: Paris
-street: "Boulevard de Charonne"
-housenumber: 7
+street: Boulevard de Charonne
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Th,Sa 10:00-19:00; Fr 10:00-20:00"
+opening_hours: Tu-Th,Sa 10:00-19:00; Fr 10:00-20:00
 website: ""

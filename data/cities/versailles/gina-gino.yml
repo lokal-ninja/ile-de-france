@@ -4,8 +4,8 @@ latitude: 48.80441
 longitude: 2.15784
 postcode: "78000"
 city: Versailles
-street: "Esplanade Grand Siècle"
-housenumber: 32
+street: Esplanade Grand Siècle
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-We,Fr 09:30-19:30; Th 09:30-20:30; Sa 09:00-19:00"
-website: "https://ginagino.fr"
+opening_hours: Mo-We,Fr 09:30-19:30; Th 09:30-20:30; Sa 09:00-19:00
+website: https://ginagino.fr

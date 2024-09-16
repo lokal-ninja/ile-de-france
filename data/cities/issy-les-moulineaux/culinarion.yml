@@ -4,8 +4,8 @@ latitude: 48.82509
 longitude: 2.27537
 postcode: "92130"
 city: Issy-les-Moulineaux
-street: "Promenade Cœur de Ville"
-housenumber: 5
+street: Promenade Cœur de Ville
+housenumber: "5"
 phone: "+33670026492"
-opening_hours: "Mo 14:00-19:30; Tu-Sa 10:00-19:30"
-website: "https://www.culinarion.com/"
+opening_hours: Mo 14:00-19:30; Tu-Sa 10:00-19:30
+website: https://www.culinarion.com/

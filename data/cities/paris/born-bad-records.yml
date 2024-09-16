@@ -4,8 +4,8 @@ latitude: 48.85521
 longitude: 2.37188
 postcode: "75011"
 city: Paris
-street: "Rue Saint-Sabin"
-housenumber: 11
-phone: "+33 9 53 07 84 58"
-opening_hours: "Mo-Sa 12:00-19:30"
-website: "https://www.bornbad.fr/"
+street: Rue Saint-Sabin
+housenumber: "11"
+phone: +33 9 53 07 84 58
+opening_hours: Mo-Sa 12:00-19:30
+website: https://www.bornbad.fr/

@@ -4,8 +4,8 @@ latitude: 48.86454
 longitude: 2.39358
 postcode: "75020"
 city: Paris
-street: "Avenue Gambetta"
-housenumber: 43
-phone: "+33 1 42 52 24 91"
-opening_hours: "Tu-Sa 11:00-19:00"
-website: "https://www.almora.fr"
+street: Avenue Gambetta
+housenumber: "43"
+phone: +33 1 42 52 24 91
+opening_hours: Tu-Sa 11:00-19:00
+website: https://www.almora.fr

@@ -4,8 +4,8 @@ latitude: 48.91089
 longitude: 2.29138
 postcode: "92600"
 city: Asnières-sur-Seine
-street: "Rue pierre brossolette"
-housenumber: 11
+street: Rue pierre brossolette
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 08:00-13:00, 15:00-19:30; Sa 08:00-19:30; Su 08:00-13:00"
-website: "https://www.boucheriegibonbruno.fr/"
+opening_hours: Tu-Fr 08:00-13:00, 15:00-19:30; Sa 08:00-19:30; Su 08:00-13:00
+website: https://www.boucheriegibonbruno.fr/

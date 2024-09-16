@@ -4,8 +4,8 @@ latitude: 48.86849
 longitude: 2.36523
 postcode: "75010"
 city: Paris
-street: "Rue Yves Toudic"
-housenumber: 4
+street: Rue Yves Toudic
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.79662
 longitude: 2.135
 postcode: "78000"
 city: Versailles
-street: "Rue des Étangs Gobert"
-housenumber: 3
+street: Rue des Étangs Gobert
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:30-19:30"
-website: "https://www.biocoopversailleschantiers.fr"
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:30-19:30
+website: https://www.biocoopversailleschantiers.fr

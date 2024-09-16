@@ -4,8 +4,8 @@ latitude: 48.80543
 longitude: 2.61531
 postcode: "77340"
 city: Pontault-Combault
-street: "Avenue de la République"
-housenumber: 15
-phone: "+33 1 60 28 51 64"
+street: Avenue de la République
+housenumber: "15"
+phone: +33 1 60 28 51 64
 opening_hours: ""
-website: "https://www.afdb.fr/"
+website: https://www.afdb.fr/

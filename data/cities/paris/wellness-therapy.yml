@@ -4,8 +4,8 @@ latitude: 48.85642
 longitude: 2.38321
 postcode: "75011"
 city: Paris
-street: "Rue de Belfort"
-housenumber: 3
-phone: "+33 7 85 13 79 78"
-opening_hours: "Mo-Fr 11:00-19:30; Sa 11:30-18:30"
-website: "https://www.wellness-therapy-paris.fr/"
+street: Rue de Belfort
+housenumber: "3"
+phone: +33 7 85 13 79 78
+opening_hours: Mo-Fr 11:00-19:30; Sa 11:30-18:30
+website: https://www.wellness-therapy-paris.fr/

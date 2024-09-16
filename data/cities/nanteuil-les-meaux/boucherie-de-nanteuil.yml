@@ -1,11 +1,11 @@
 id: 41574734
-type: way
+type: node
 latitude: 48.93618
 longitude: 2.88465
 postcode: "77100"
 city: Nanteuil-lès-Meaux
-street: "Avenue Fridingen"
-housenumber: 9
+street: Avenue Fridingen
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 9:00-19:00 Su 9:00-12:30"
+opening_hours: Mo-Sa 9:00-19:00 Su 9:00-12:30
 website: ""

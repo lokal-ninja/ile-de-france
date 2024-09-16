@@ -1,11 +1,11 @@
 id: 155519254
-type: way
+type: node
 latitude: 48.67567
 longitude: 2.32266
 postcode: "91360"
 city: Épinay-sur-Orge
-street: "Grande Rue"
-housenumber: 43
+street: Grande Rue
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

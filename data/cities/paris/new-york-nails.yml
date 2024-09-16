@@ -4,8 +4,8 @@ latitude: 48.88929
 longitude: 2.34936
 postcode: "75018"
 city: Paris
-street: "Boulevard Barbès"
-housenumber: 55
-phone: "+33 9 50 51 02 53"
-opening_hours: "Mo-Su 09:30-19:30"
+street: Boulevard Barbès
+housenumber: "55"
+phone: +33 9 50 51 02 53
+opening_hours: Mo-Su 09:30-19:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.92941
 longitude: 2.04051
 postcode: "78300"
 city: Poissy
-street: "Avenue du Cep"
-housenumber: 16
-phone: "+33 1 30 74 51 22"
-opening_hours: "Tu-Fr 10:00-13:00,14:30-19:00; Sa 10:00-13:00,14:00-19:00"
-website: "https://jeans-mode.fr"
+street: Avenue du Cep
+housenumber: "16"
+phone: +33 1 30 74 51 22
+opening_hours: Tu-Fr 10:00-13:00,14:30-19:00; Sa 10:00-13:00,14:00-19:00
+website: https://jeans-mode.fr

@@ -1,11 +1,11 @@
 id: 372457352
-type: way
+type: node
 latitude: 48.74794
 longitude: 1.92561
 postcode: "78310"
 city: Coignières
-street: "Rue du Pont d'Aulneau"
-housenumber: 
+street: Rue du Pont d'Aulneau
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.lafoirfouille.fr/magasin/la-foir-fouille-coignieres.html"
+website: https://www.lafoirfouille.fr/magasin/la-foir-fouille-coignieres.html

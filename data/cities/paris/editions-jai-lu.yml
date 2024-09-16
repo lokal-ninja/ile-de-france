@@ -4,8 +4,8 @@ latitude: 48.8315
 longitude: 2.3803
 postcode: "75013"
 city: Paris
-street: "Quai Panhard et Levassor"
-housenumber: 87
+street: Quai Panhard et Levassor
+housenumber: "87"
 phone: "+33144393470"
-opening_hours: "Mo-Su 13:00-17:30"
-website: "https://www.jailu.com/"
+opening_hours: Mo-Su 13:00-17:30
+website: https://www.jailu.com/

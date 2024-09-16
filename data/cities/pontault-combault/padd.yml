@@ -4,8 +4,8 @@ latitude: 48.77709
 longitude: 2.59634
 postcode: "77340"
 city: Pontault-Combault
-street: "Route de Paris"
-housenumber: 16
-phone: "+33 1 60 34 21 61"
+street: Route de Paris
+housenumber: "16"
+phone: +33 1 60 34 21 61
 opening_hours: ""
-website: "https://www.padd.fr/nos-magasins/18-pontault-combault"
+website: https://www.padd.fr/nos-magasins/18-pontault-combault

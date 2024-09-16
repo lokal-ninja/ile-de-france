@@ -4,8 +4,8 @@ latitude: 48.69809
 longitude: 2.50317
 postcode: "91800"
 city: Brunoy
-street: "Grande Rue"
-housenumber: 9
-phone: "+33 1 60 47 45 45"
-opening_hours: "Tu-Fr 09:30-12:30,14:30-18:45; Sa 09:30-12:00"
+street: Grande Rue
+housenumber: "9"
+phone: +33 1 60 47 45 45
+opening_hours: Tu-Fr 09:30-12:30,14:30-18:45; Sa 09:30-12:00
 website: ""

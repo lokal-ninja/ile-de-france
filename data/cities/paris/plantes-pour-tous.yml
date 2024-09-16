@@ -4,8 +4,8 @@ latitude: 48.855
 longitude: 2.37286
 postcode: "75011"
 city: Paris
-street: "Rue de la Roquette"
-housenumber: 25
+street: Rue de la Roquette
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://plantespourtous.co"
+opening_hours: Mo-Su 10:00-20:00
+website: https://plantespourtous.co

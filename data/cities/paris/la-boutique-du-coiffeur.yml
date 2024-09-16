@@ -4,8 +4,8 @@ latitude: 48.87146
 longitude: 2.34451
 postcode: "75009"
 city: Paris
-street: "Boulevard Poissonnière"
-housenumber: 26
+street: Boulevard Poissonnière
+housenumber: "26"
 phone: "+33148018099"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:30"
-website: "https://www.laboutiqueducoiffeur.com/paris/"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:30
+website: https://www.laboutiqueducoiffeur.com/paris/

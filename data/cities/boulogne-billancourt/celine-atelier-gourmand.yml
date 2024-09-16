@@ -4,8 +4,8 @@ latitude: 48.84457
 longitude: 2.24066
 postcode: "92100"
 city: Boulogne-Billancourt
-street: "Rue Gambetta"
-housenumber: 41
+street: Rue Gambetta
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Su 08:00-14:00"
-website: "https://www.celineateliergourmand.fr/"
+opening_hours: Mo-Su 08:00-14:00
+website: https://www.celineateliergourmand.fr/

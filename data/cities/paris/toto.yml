@@ -4,8 +4,8 @@ latitude: 48.82509
 longitude: 2.35793
 postcode: "75013"
 city: Paris
-street: "Avenue d'Italie"
-housenumber: 75
+street: Avenue d'Italie
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

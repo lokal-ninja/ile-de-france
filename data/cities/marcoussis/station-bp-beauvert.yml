@@ -5,7 +5,7 @@ longitude: 2.18854
 postcode: "91460"
 city: Marcoussis
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "http://stationsbp.fr/bp_station/site_bp_station/index.php?page"
+opening_hours: 24/7
+website: http://stationsbp.fr/bp_station/site_bp_station/index.php?page

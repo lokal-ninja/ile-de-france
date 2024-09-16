@@ -1,11 +1,11 @@
 id: 147419031
-type: way
+type: node
 latitude: 49.13667
 longitude: 2.37334
 postcode: "95270"
 city: Viarmes
-street: "Avenue de Royaumont"
-housenumber: 
+street: Avenue de Royaumont
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

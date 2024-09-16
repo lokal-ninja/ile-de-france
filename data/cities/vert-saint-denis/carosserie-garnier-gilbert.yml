@@ -4,8 +4,8 @@ latitude: 48.5677
 longitude: 2.61364
 postcode: "77240"
 city: Vert-Saint-Denis
-street: "Rue Dionet"
-housenumber: 48
-phone: "+33 1 60 63 42 83"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30; Sa 10:00-12:00"
+street: Rue Dionet
+housenumber: "48"
+phone: +33 1 60 63 42 83
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30; Sa 10:00-12:00
 website: ""

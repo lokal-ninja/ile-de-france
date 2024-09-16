@@ -4,8 +4,8 @@ latitude: 48.88418
 longitude: 2.28676
 postcode: "75017"
 city: Paris
-street: "Boulevard de l'Yser"
-housenumber: 25
+street: Boulevard de l'Yser
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "http://audio-note.com"
+website: http://audio-note.com

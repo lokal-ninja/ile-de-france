@@ -1,11 +1,11 @@
 id: 331214069
-type: way
+type: node
 latitude: 48.79227
 longitude: 2.15047
 postcode: "78000"
 city: Versailles
-street: "Rue Lamartine"
-housenumber: 49
+street: Rue Lamartine
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

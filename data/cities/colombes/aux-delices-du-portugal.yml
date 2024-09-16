@@ -4,8 +4,8 @@ latitude: 48.92326
 longitude: 2.25091
 postcode: "92700"
 city: Colombes
-street: "Rue Gabriel Péri"
-housenumber: 18
-phone: "+33 1 41 30 76 21"
-opening_hours: "Tu-Su 09:00-19:00, Su 09:00-13:30"
+street: Rue Gabriel Péri
+housenumber: "18"
+phone: +33 1 41 30 76 21
+opening_hours: Tu-Su 09:00-19:00, Su 09:00-13:30
 website: ""

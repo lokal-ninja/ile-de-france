@@ -1,11 +1,11 @@
 id: 112345746
-type: way
+type: node
 latitude: 48.66587
 longitude: 2.55402
 postcode: "77380"
 city: Combs-la-Ville
-street: "Avenue de la République"
-housenumber: 
+street: Avenue de la République
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

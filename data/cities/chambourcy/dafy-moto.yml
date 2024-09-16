@@ -4,8 +4,8 @@ latitude: 48.90843
 longitude: 2.0435
 postcode: "78240"
 city: Chambourcy
-street: "Route de Mantes"
-housenumber: 50
-phone: "+33 1 30 65 85 46"
-opening_hours: "Mo-Sa 09:30-12:30,14:00-19:00"
+street: Route de Mantes
+housenumber: "50"
+phone: +33 1 30 65 85 46
+opening_hours: Mo-Sa 09:30-12:30,14:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.89311
 longitude: 2.3434
 postcode: "75018"
 city: Paris
-street: "Rue du Poteau"
-housenumber: 10
-phone: "+33 1 46 06 81 57"
-opening_hours: "Tu-Sa 08:00-20:00; Su 08:00-13:00"
-website: "https://www.aubonboeuf.com"
+street: Rue du Poteau
+housenumber: "10"
+phone: +33 1 46 06 81 57
+opening_hours: Tu-Sa 08:00-20:00; Su 08:00-13:00
+website: https://www.aubonboeuf.com

@@ -4,8 +4,8 @@ latitude: 48.8959
 longitude: 2.0915
 postcode: "78100"
 city: Saint-Germain-en-Laye
-street: "Rue André Bonnenfant"
-housenumber: 11
-phone: "+33 1 39 21 95 05"
-opening_hours: "10:00-19:00"
-website: "https://www.lechoppedor.net/"
+street: Rue André Bonnenfant
+housenumber: "11"
+phone: +33 1 39 21 95 05
+opening_hours: 10:00-19:00
+website: https://www.lechoppedor.net/

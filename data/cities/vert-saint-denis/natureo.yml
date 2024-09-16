@@ -1,11 +1,11 @@
 id: 1280108420
-type: way
+type: node
 latitude: 48.57682
 longitude: 2.61367
 postcode: "77240"
 city: Vert-Saint-Denis
-street: "Rue de l'Attaque du Courrier de Lyon"
-housenumber: 20
-phone: "+33 1 64 79 40 84"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.natureo-bio.fr"
+street: Rue de l'Attaque du Courrier de Lyon
+housenumber: "20"
+phone: +33 1 64 79 40 84
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.natureo-bio.fr

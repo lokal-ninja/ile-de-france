@@ -4,8 +4,8 @@ latitude: 48.84281
 longitude: 2.38976
 postcode: "75012"
 city: Paris
-street: "Rue Riesener"
-housenumber: 8
+street: Rue Riesener
+housenumber: "8"
 phone: ""
-opening_hours: "We-Fr 15:00-19:00, Sa 13:00-19:00"
-website: "https://www.lapetiterockette.org"
+opening_hours: We-Fr 15:00-19:00, Sa 13:00-19:00
+website: https://www.lapetiterockette.org

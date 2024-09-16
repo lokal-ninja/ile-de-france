@@ -4,8 +4,8 @@ latitude: 48.83048
 longitude: 2.34453
 postcode: "75013"
 city: Paris
-street: "Boulevard Auguste Blanqui"
-housenumber: 117
-phone: "+33 1 42 29 98 32"
-opening_hours: "Tu-Sa 09:30-14:00,15:00-19:00"
+street: Boulevard Auguste Blanqui
+housenumber: "117"
+phone: +33 1 42 29 98 32
+opening_hours: Tu-Sa 09:30-14:00,15:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.4041
 longitude: 2.70048
 postcode: "77300"
 city: Fontainebleau
-street: "Rue Grande"
-housenumber: 8
-phone: "+33 1 64 24 83 52"
-opening_hours: "Tu-Fr 10:00-13:00, 14:30-19:00; Sa 10:00-13:00, 14:00-19:00; Su 10:30-13:00"
-website: "https://www.suite341.com"
+street: Rue Grande
+housenumber: "8"
+phone: +33 1 64 24 83 52
+opening_hours: Tu-Fr 10:00-13:00, 14:30-19:00; Sa 10:00-13:00, 14:00-19:00; Su 10:30-13:00
+website: https://www.suite341.com

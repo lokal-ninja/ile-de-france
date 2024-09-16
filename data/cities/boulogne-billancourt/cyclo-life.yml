@@ -4,8 +4,8 @@ latitude: 48.8325
 longitude: 2.25134
 postcode: "92100"
 city: Boulogne-Billancourt
-street: "Boulevard de la République"
-housenumber: 38
-phone: "+33 751 527 257"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-18:00"
-website: "https://www.cyclolife.fr/"
+street: Boulevard de la République
+housenumber: "38"
+phone: +33 751 527 257
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-18:00
+website: https://www.cyclolife.fr/

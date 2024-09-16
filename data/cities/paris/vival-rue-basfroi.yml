@@ -4,8 +4,8 @@ latitude: 48.8553
 longitude: 2.37922
 postcode: "75011"
 city: Paris
-street: "Rue Basfroi"
-housenumber: 32
-phone: "+33 6 52 61 23 46"
-opening_hours: "Mo-Sa 8:30-20:30; Su 8:30-19:00"
-website: "https://magasins.vival.fr/fr/vival-rgs-so-gernord-sasu"
+street: Rue Basfroi
+housenumber: "32"
+phone: +33 6 52 61 23 46
+opening_hours: Mo-Sa 8:30-20:30; Su 8:30-19:00
+website: https://magasins.vival.fr/fr/vival-rgs-so-gernord-sasu

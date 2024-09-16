@@ -4,8 +4,8 @@ latitude: 48.86796
 longitude: 2.3332
 postcode: "75002"
 city: Paris
-street: "Avenue de l'Opéra"
-housenumber: 35
-phone: "+33 1 83 95 21 02"
-opening_hours: "We-Su 08:30-18:00"
+street: Avenue de l'Opéra
+housenumber: "35"
+phone: +33 1 83 95 21 02
+opening_hours: We-Su 08:30-18:00
 website: ""

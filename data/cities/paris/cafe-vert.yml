@@ -4,8 +4,8 @@ latitude: 48.85016
 longitude: 2.37354
 postcode: "75012"
 city: Paris
-street: "Rue de Charenton"
-housenumber: 46
+street: Rue de Charenton
+housenumber: "46"
 phone: ""
-opening_hours: "Mo 12:00-19:30; Tu-Fr 10:00-19:30; Sa 11:00-19:30"
+opening_hours: Mo 12:00-19:30; Tu-Fr 10:00-19:30; Sa 11:00-19:30
 website: ""

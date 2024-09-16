@@ -4,8 +4,8 @@ latitude: 48.88227
 longitude: 2.33128
 postcode: "75009"
 city: Paris
-street: "Rue de Calais"
-housenumber: 7
+street: Rue de Calais
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Th 11:00-17:00; Fr-Sa 17:00-22:00"
-website: "https://www.lindeprimeuse.com/"
+opening_hours: Tu-Th 11:00-17:00; Fr-Sa 17:00-22:00
+website: https://www.lindeprimeuse.com/

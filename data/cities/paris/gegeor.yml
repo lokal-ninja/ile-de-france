@@ -4,8 +4,8 @@ latitude: 48.88005
 longitude: 2.33115
 postcode: "75009"
 city: Paris
-street: "Rue Moncey"
-housenumber: 1
+street: Rue Moncey
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

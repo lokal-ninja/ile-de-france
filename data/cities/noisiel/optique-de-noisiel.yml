@@ -4,8 +4,8 @@ latitude: 48.85446
 longitude: 2.62755
 postcode: "77186"
 city: Noisiel
-street: "Rue Claire Menier"
-housenumber: 131
-phone: "+33 1 60 37 09 79"
-opening_hours: "Tu-Fr 10:30-13:00,15:30-19:00; Sa 10:30-13:00,15:30-17:30"
+street: Rue Claire Menier
+housenumber: "131"
+phone: +33 1 60 37 09 79
+opening_hours: Tu-Fr 10:30-13:00,15:30-19:00; Sa 10:30-13:00,15:30-17:30
 website: ""

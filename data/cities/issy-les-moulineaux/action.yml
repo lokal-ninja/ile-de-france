@@ -4,8 +4,8 @@ latitude: 48.82091
 longitude: 2.25225
 postcode: "92130"
 city: Issy-les-Moulineaux
-street: "Allée Sainte-Lucie"
-housenumber: 3
+street: Allée Sainte-Lucie
+housenumber: "3"
 phone: "+33155564152"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.com/fr-fr/points-de-vente/issy-les-moulineaux/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.com/fr-fr/points-de-vente/issy-les-moulineaux/

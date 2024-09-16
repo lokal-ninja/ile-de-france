@@ -4,8 +4,8 @@ latitude: 48.8571
 longitude: 2.39854
 postcode: "75020"
 city: Paris
-street: "Rue de Bagnolet"
-housenumber: 46
+street: Rue de Bagnolet
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

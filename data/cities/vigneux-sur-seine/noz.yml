@@ -1,11 +1,11 @@
 id: 145749696
-type: way
+type: node
 latitude: 48.71492
 longitude: 2.43328
 postcode: "91270"
 city: Vigneux-sur-Seine
-street: "Rue de la Fosse Montalbot"
-housenumber: 4
+street: Rue de la Fosse Montalbot
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/vigneux-sur-seine/"
+website: https://www.nozarrivages.com/magasin/vigneux-sur-seine/

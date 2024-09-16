@@ -5,7 +5,7 @@ longitude: 2.36147
 postcode: ""
 city: Paris
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33148874660"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-12:45"
-website: "https://www.monoprix.fr/898.html"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-12:45
+website: https://www.monoprix.fr/898.html

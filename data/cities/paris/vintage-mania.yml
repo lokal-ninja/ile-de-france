@@ -4,8 +4,8 @@ latitude: 48.8632
 longitude: 2.34966
 postcode: "75001"
 city: Paris
-street: "Rue Saint-Denis"
-housenumber: 127
+street: Rue Saint-Denis
+housenumber: "127"
 phone: ""
 opening_hours: ""
 website: ""

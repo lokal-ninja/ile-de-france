@@ -4,8 +4,8 @@ latitude: 48.86821
 longitude: 2.35535
 postcode: "75003"
 city: Paris
-street: "Rue Saint-Martin"
-housenumber: 324
+street: Rue Saint-Martin
+housenumber: "324"
 phone: ""
-opening_hours: "Mo 12:00-20:30; Tu-We 11:00-20:30; Th-Fr 11:00-20:00; Sa 09:30-20:00"
-website: "https://mallstore.fr"
+opening_hours: Mo 12:00-20:30; Tu-We 11:00-20:30; Th-Fr 11:00-20:00; Sa 09:30-20:00
+website: https://mallstore.fr

@@ -4,8 +4,8 @@ latitude: 48.9305
 longitude: 2.04457
 postcode: "78300"
 city: Poissy
-street: "Boulevard Devaux"
-housenumber: 13
+street: Boulevard Devaux
+housenumber: "13"
 phone: "+33139653789"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:45"
-website: "https://magasins.picard.fr/750-picard-poissy"
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:45
+website: https://magasins.picard.fr/750-picard-poissy

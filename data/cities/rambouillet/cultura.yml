@@ -5,7 +5,7 @@ longitude: 1.82802
 postcode: "78120"
 city: Rambouillet
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.cultura.com/les-magasins/cultura-rambouillet.html"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.cultura.com/les-magasins/cultura-rambouillet.html

@@ -4,8 +4,8 @@ latitude: 48.74249
 longitude: 2.19139
 postcode: "91570"
 city: Bièvres
-street: "Route de Favreuse"
-housenumber: 4
-phone: "+33.1 69 33 14 14"
-opening_hours: "Tu-Su 09:00-18:00"
-website: "https://www.allavoine.com/"
+street: Route de Favreuse
+housenumber: "4"
+phone: +33.1 69 33 14 14
+opening_hours: Tu-Su 09:00-18:00
+website: https://www.allavoine.com/

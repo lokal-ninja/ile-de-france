@@ -4,8 +4,8 @@ latitude: 48.86877
 longitude: 2.35526
 postcode: "75003"
 city: Paris
-street: "Rue Saint-Martin"
-housenumber: 359
+street: Rue Saint-Martin
+housenumber: "359"
 phone: ""
-opening_hours: "Mo-Su 07:30-20:00"
+opening_hours: Mo-Su 07:30-20:00
 website: ""

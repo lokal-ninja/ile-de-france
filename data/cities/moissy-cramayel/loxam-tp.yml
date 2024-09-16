@@ -1,11 +1,11 @@
 id: 114151527
-type: way
+type: node
 latitude: 48.61994
 longitude: 2.56722
 postcode: "77550"
 city: Moissy-Cramayel
-street: "Avenue André Ampère"
-housenumber: 210
-phone: "+33 1 64 13 65 70"
+street: Avenue André Ampère
+housenumber: "210"
+phone: +33 1 64 13 65 70
 opening_hours: ""
-website: "https://www.loxam.fr/"
+website: https://www.loxam.fr/

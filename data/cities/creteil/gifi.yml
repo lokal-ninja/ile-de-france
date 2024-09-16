@@ -1,11 +1,11 @@
 id: 78527926
-type: way
+type: node
 latitude: 48.79364
 longitude: 2.44751
 postcode: "94000"
 city: Créteil
-street: "Avenue du Général de Gaulle"
-housenumber: 66
+street: Avenue du Général de Gaulle
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

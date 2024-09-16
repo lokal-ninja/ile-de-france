@@ -4,8 +4,8 @@ latitude: 48.88342
 longitude: 2.3313
 postcode: "75009"
 city: Paris
-street: "Rue de Bruxelles"
-housenumber: 9
+street: Rue de Bruxelles
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 10:30-19:30; Sa 14:00-19:30; Su 10:30-19:30"
+opening_hours: Mo-Fr 10:30-19:30; Sa 14:00-19:30; Su 10:30-19:30
 website: ""

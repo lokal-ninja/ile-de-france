@@ -4,8 +4,8 @@ latitude: 48.85246
 longitude: 2.33813
 postcode: "75006"
 city: Paris
-street: "Boulevard Saint-Germain"
-housenumber: 115
+street: Boulevard Saint-Germain
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "https://www.thenorthface.fr"
+website: https://www.thenorthface.fr

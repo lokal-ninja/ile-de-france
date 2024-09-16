@@ -4,8 +4,8 @@ latitude: 48.88646
 longitude: 2.35936
 postcode: "75018"
 city: Paris
-street: "Rue Marx Dormoy"
-housenumber: 27
-phone: "+33 1 46 07 06 98"
-opening_hours: "Tu-Sa 10:00-13:00,14:00-19:00"
-website: "https://www.pcdiagnostic.fr"
+street: Rue Marx Dormoy
+housenumber: "27"
+phone: +33 1 46 07 06 98
+opening_hours: Tu-Sa 10:00-13:00,14:00-19:00
+website: https://www.pcdiagnostic.fr

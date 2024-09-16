@@ -1,11 +1,11 @@
 id: 114151096
-type: way
+type: node
 latitude: 48.6169
 longitude: 2.57055
 postcode: "77550"
 city: Moissy-Cramayel
-street: "Avenue Henri Poincaré"
-housenumber: 195
-phone: "+33 1 60 18 02 02"
+street: Avenue Henri Poincaré
+housenumber: "195"
+phone: +33 1 60 18 02 02
 opening_hours: ""
 website: ""

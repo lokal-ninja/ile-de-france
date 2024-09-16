@@ -4,8 +4,8 @@ latitude: 48.34568
 longitude: 2.6409
 postcode: ""
 city: Recloses
-street: "Place du Pilori"
-housenumber: 38
-phone: "+33 1 72 79 02 58"
-opening_hours: "Tu-Sa 08:30-13:00,16:00-19:30; Su 08:00-13:00; Mo,Th off"
-website: "https://aucoeurdelamie.fr/"
+street: Place du Pilori
+housenumber: "38"
+phone: +33 1 72 79 02 58
+opening_hours: Tu-Sa 08:30-13:00,16:00-19:30; Su 08:00-13:00; Mo,Th off
+website: https://aucoeurdelamie.fr/

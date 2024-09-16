@@ -1,11 +1,11 @@
 id: 70456149
-type: way
+type: node
 latitude: 48.75773
 longitude: 2.21899
 postcode: "91570"
 city: Bièvres
-street: "Rue de Paris"
-housenumber: 55
+street: Rue de Paris
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 77977115
-type: way
+type: node
 latitude: 49.01
 longitude: 2.08553
 postcode: "78700"
 city: Conflans-Sainte-Honorine
-street: "Rue des Belles Hâtes"
-housenumber: 12
+street: Rue des Belles Hâtes
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

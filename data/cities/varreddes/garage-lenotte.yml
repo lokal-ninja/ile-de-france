@@ -1,11 +1,11 @@
 id: 116241902
-type: way
+type: node
 latitude: 49.004
 longitude: 2.92742
 postcode: "77910"
 city: Varreddes
-street: "Rue Victor Clairet"
-housenumber: 53
-phone: "+33 1 64 33 18 56"
-opening_hours: "Tu-Sa 08:00-12:00, Tu-Sa 14:00-18:00"
-website: "https://agents.peugeot.fr/varreddes"
+street: Rue Victor Clairet
+housenumber: "53"
+phone: +33 1 64 33 18 56
+opening_hours: Tu-Sa 08:00-12:00, Tu-Sa 14:00-18:00
+website: https://agents.peugeot.fr/varreddes

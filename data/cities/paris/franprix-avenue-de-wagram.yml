@@ -4,8 +4,8 @@ latitude: 48.88481
 longitude: 2.3033
 postcode: "75017"
 city: Paris
-street: "Avenue de Wagram"
-housenumber: 126
+street: Avenue de Wagram
+housenumber: "126"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:30; Su 08:30-14:00"
-website: "https://www.franprix.fr/magasins/6970"
+opening_hours: Mo-Sa 07:30-20:30; Su 08:30-14:00
+website: https://www.franprix.fr/magasins/6970

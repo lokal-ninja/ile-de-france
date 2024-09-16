@@ -4,8 +4,8 @@ latitude: 48.82301
 longitude: 2.35955
 postcode: "75013"
 city: Paris
-street: "Rue de la Vistule"
-housenumber: 21
+street: Rue de la Vistule
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.domone.net"
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.domone.net

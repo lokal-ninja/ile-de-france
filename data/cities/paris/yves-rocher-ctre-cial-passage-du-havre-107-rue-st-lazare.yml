@@ -1,11 +1,11 @@
 id: 346655293
-type: way
+type: node
 latitude: 48.87542
 longitude: 2.32723
 postcode: "75009"
 city: Paris
-street: "Ctre Cial Passage Du Havre - 107 Rue St Lazare"
-housenumber: 
+street: Ctre Cial Passage Du Havre - 107 Rue St Lazare
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We 09:30-20:00; Th-Fr 09:30-20:30; Sa 09:30-20:00"
-website: "http://yves-rocher.fr/paris-c-cial-passage-du-havre"
+opening_hours: Mo-We 09:30-20:00; Th-Fr 09:30-20:30; Sa 09:30-20:00
+website: http://yves-rocher.fr/paris-c-cial-passage-du-havre

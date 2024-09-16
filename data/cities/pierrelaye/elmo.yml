@@ -1,11 +1,11 @@
 id: 147091040
-type: way
+type: node
 latitude: 49.00648
 longitude: 2.17474
 postcode: "95220"
 city: Pierrelaye
-street: "Rue Fernand Léger"
-housenumber: 14
-phone: "+33 1 39 97 01 63"
+street: Rue Fernand Léger
+housenumber: "14"
+phone: +33 1 39 97 01 63
 opening_hours: ""
 website: ""

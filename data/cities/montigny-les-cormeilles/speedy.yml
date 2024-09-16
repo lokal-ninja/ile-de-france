@@ -1,11 +1,11 @@
 id: 226659031
-type: way
+type: node
 latitude: 48.99631
 longitude: 2.19109
 postcode: "95370"
 city: Montigny-lès-Cormeilles
-street: "Boulevard Victor Bordier"
-housenumber: 142
+street: Boulevard Victor Bordier
+housenumber: "142"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 631597859
-type: way
+type: node
 latitude: 48.99526
 longitude: 2.25321
 postcode: "95120"
 city: Ermont
-street: "rue du Stand"
-housenumber: 33
+street: rue du Stand
+housenumber: "33"
 phone: ""
-opening_hours: "Mo 15:00-18:00; Th 09:00-12:00; Fr 14:00-17:00"
-website: "https://www.ermont.fr/185/epicerie-sociale-d-ermont.htm"
+opening_hours: Mo 15:00-18:00; Th 09:00-12:00; Fr 14:00-17:00
+website: https://www.ermont.fr/185/epicerie-sociale-d-ermont.htm

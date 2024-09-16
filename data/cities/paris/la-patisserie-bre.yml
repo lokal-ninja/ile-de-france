@@ -4,8 +4,8 @@ latitude: 48.84545
 longitude: 2.32386
 postcode: "75006"
 city: Paris
-street: "Rue Littré"
-housenumber: 8
+street: Rue Littré
+housenumber: "8"
 phone: "+33186040053"
-opening_hours: "Tu-Sa 9:00-19:00, Su 10:00-15:00"
-website: "https://brepatisserie.com/"
+opening_hours: Tu-Sa 9:00-19:00, Su 10:00-15:00
+website: https://brepatisserie.com/

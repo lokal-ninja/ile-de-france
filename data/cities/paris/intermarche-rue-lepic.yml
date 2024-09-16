@@ -1,11 +1,11 @@
 id: 929780121
-type: way
+type: node
 latitude: 48.88623
 longitude: 2.33447
 postcode: "75018"
 city: Paris
-street: "Rue Lepic"
-housenumber: 44
+street: Rue Lepic
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

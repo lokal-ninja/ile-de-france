@@ -4,8 +4,8 @@ latitude: 48.85934
 longitude: 2.3424
 postcode: "75001"
 city: Paris
-street: "Rue de la Monnaie"
-housenumber: 9
-phone: "+33 1 8888 6000"
-opening_hours: "Mo-Su 10:00-20:00"
-website: "https://www.dfs.com/fr/samaritaine"
+street: Rue de la Monnaie
+housenumber: "9"
+phone: +33 1 8888 6000
+opening_hours: Mo-Su 10:00-20:00
+website: https://www.dfs.com/fr/samaritaine

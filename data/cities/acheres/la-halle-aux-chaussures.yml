@@ -1,11 +1,11 @@
 id: 802187082
-type: way
+type: node
 latitude: 48.96372
 longitude: 2.05815
 postcode: "78260"
 city: Achères
-street: "Avenue Wolfgang Amadeus Mozart"
-housenumber: 4
+street: Avenue Wolfgang Amadeus Mozart
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

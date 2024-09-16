@@ -4,8 +4,9 @@ latitude: 48.85485
 longitude: 2.37951
 postcode: "75011"
 city: Paris
-street: "Rue Basfroi"
+street: Rue Basfroi
 housenumber: 24 bis
 phone: ""
-opening_hours: "Tu,We 11:00-15:30; Th 16:30-20:00; Fr 11:00-15:30,16:00-21:00; Sa 16:00-21:00; PH,Su,Mo off"
+opening_hours: Tu,We 11:00-15:30; Th 16:30-20:00; Fr 11:00-15:30,16:00-21:00; Sa 16:00-21:00;
+    PH,Su,Mo off
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.81474
 longitude: 2.12829
 postcode: "78000"
 city: Versailles
-street: "Boulevard du Roi"
-housenumber: 45
+street: Boulevard du Roi
+housenumber: "45"
 phone: ""
-opening_hours: "PH,Mo-Su 09:00-14:00,16:00-23:00"
+opening_hours: PH,Mo-Su 09:00-14:00,16:00-23:00
 website: ""

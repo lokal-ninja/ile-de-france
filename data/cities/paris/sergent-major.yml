@@ -4,8 +4,8 @@ latitude: 48.85092
 longitude: 2.37614
 postcode: "75012"
 city: Paris
-street: "Rue Traversière"
-housenumber: 80
+street: Rue Traversière
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

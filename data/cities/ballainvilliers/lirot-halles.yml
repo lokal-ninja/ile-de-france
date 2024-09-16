@@ -1,11 +1,11 @@
 id: 146219518
-type: way
+type: node
 latitude: 48.66832
 longitude: 2.28623
 postcode: "91160"
 city: Ballainvilliers
-street: "Grande route de Chasse"
-housenumber: 
+street: Grande route de Chasse
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:30,15:00-19:00; Sa 09:00-13:00,14:30-19:00; Su 09:00-13:00"
-website: "http://www.lirot-halles.fr"
+opening_hours: Tu-Fr 09:00-12:30,15:00-19:00; Sa 09:00-13:00,14:30-19:00; Su 09:00-13:00
+website: http://www.lirot-halles.fr

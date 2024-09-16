@@ -4,8 +4,8 @@ latitude: 48.63935
 longitude: 2.27124
 postcode: "91310"
 city: Montlhéry
-street: "Place du Marché"
-housenumber: 20
+street: Place du Marché
+housenumber: "20"
 phone: ""
-opening_hours: "Mo,Tu,Fr,Sa 06:00-18:30; Su 06:00-18:00"
+opening_hours: Mo,Tu,Fr,Sa 06:00-18:30; Su 06:00-18:00
 website: ""

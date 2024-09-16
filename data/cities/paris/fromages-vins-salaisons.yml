@@ -4,8 +4,8 @@ latitude: 48.85913
 longitude: 2.37619
 postcode: "75011"
 city: Paris
-street: "Rue Popincourt"
-housenumber: 40
-phone: "+33 1 43 38 29 84"
+street: Rue Popincourt
+housenumber: "40"
+phone: +33 1 43 38 29 84
 opening_hours: ""
-website: "https://moots.fr/"
+website: https://moots.fr/

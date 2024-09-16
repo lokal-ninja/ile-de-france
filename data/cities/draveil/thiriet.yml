@@ -1,11 +1,11 @@
 id: 424743524
-type: way
+type: node
 latitude: 48.68282
 longitude: 2.42941
 postcode: "91210"
 city: Draveil
-street: "Avenue de l'Europe"
-housenumber: 
+street: Avenue de l'Europe
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

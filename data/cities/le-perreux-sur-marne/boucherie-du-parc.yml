@@ -4,8 +4,8 @@ latitude: 48.84287
 longitude: 2.50342
 postcode: "94170"
 city: Le Perreux-sur-Marne
-street: "Rue de la Station"
-housenumber: 1
-phone: "+33 1 43 24 34 48"
-opening_hours: "Tu-Sa 08:00-13:00,15:30-19:30; Su 08:00-12:30;"
+street: Rue de la Station
+housenumber: "1"
+phone: +33 1 43 24 34 48
+opening_hours: Tu-Sa 08:00-13:00,15:30-19:30; Su 08:00-12:30;
 website: ""

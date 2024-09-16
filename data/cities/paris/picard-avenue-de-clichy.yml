@@ -4,8 +4,8 @@ latitude: 48.89086
 longitude: 2.31945
 postcode: "75017"
 city: Paris
-street: "Avenue de Clichy"
-housenumber: 137
-phone: "+33 1 42 63 49 79"
-opening_hours: "Mo-Sa 09:00-20:30; Su 09:00-12:45"
-website: "https://magasins.picard.fr/153-picard-brochant"
+street: Avenue de Clichy
+housenumber: "137"
+phone: +33 1 42 63 49 79
+opening_hours: Mo-Sa 09:00-20:30; Su 09:00-12:45
+website: https://magasins.picard.fr/153-picard-brochant

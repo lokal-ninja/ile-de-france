@@ -1,11 +1,11 @@
 id: 975066201
-type: way
+type: node
 latitude: 48.65239
 longitude: 2.56235
 postcode: "77380"
 city: Combs-la-Ville
-street: "Rue Pierre et Marie Curie"
-housenumber: 15
+street: Rue Pierre et Marie Curie
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Fr 10:00-12:30, 15:30-19:30; Sa 09:30-13:00, 15:00-19:30; Su 10:00-12:30"
-website: "https://combs.intercaves.fr/"
+opening_hours: Tu-Fr 10:00-12:30, 15:30-19:30; Sa 09:30-13:00, 15:00-19:30; Su 10:00-12:30
+website: https://combs.intercaves.fr/

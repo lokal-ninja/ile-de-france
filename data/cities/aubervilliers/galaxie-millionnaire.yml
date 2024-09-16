@@ -4,8 +4,8 @@ latitude: 48.9118
 longitude: 2.37939
 postcode: "93300"
 city: Aubervilliers
-street: "Avenue Victor Hugo"
-housenumber: 167
-phone: "+33 1 48 34 11 96"
-opening_hours: "Tu-Sa 06:00-20:00"
+street: Avenue Victor Hugo
+housenumber: "167"
+phone: +33 1 48 34 11 96
+opening_hours: Tu-Sa 06:00-20:00
 website: ""

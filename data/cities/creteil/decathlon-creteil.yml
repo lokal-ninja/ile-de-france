@@ -1,11 +1,11 @@
 id: 78528911
-type: way
+type: node
 latitude: 48.77559
 longitude: 2.43806
 postcode: "94000"
 city: Créteil
-street: "Carrefour Pompadour"
-housenumber: 
+street: Carrefour Pompadour
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id

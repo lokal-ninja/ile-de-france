@@ -1,11 +1,11 @@
 id: 115144889
-type: way
+type: node
 latitude: 48.56887
 longitude: 2.63493
 postcode: "77240"
 city: Vert-Saint-Denis
-street: "Avenue de l'Europe"
-housenumber: 470
+street: Avenue de l'Europe
+housenumber: "470"
 phone: ""
 opening_hours: ""
 website: ""

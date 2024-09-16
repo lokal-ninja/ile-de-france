@@ -1,11 +1,11 @@
 id: 135605361
-type: way
+type: node
 latitude: 48.64667
 longitude: 2.33525
 postcode: "91700"
 city: Sainte-Geneviève-des-Bois
-street: "Route de Corbeil"
-housenumber: 70
+street: Route de Corbeil
+housenumber: "70"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

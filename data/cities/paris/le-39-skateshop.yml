@@ -4,8 +4,8 @@ latitude: 48.86453
 longitude: 2.34578
 postcode: "75001"
 city: Paris
-street: "Rue Étienne Marcel"
-housenumber: 39
+street: Rue Étienne Marcel
+housenumber: "39"
 phone: ""
 opening_hours: ""
-website: "https://www.le39.paris"
+website: https://www.le39.paris

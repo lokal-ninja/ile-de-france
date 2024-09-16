@@ -4,8 +4,8 @@ latitude: 48.86349
 longitude: 2.35599
 postcode: "75003"
 city: Paris
-street: "Rue Chapon"
-housenumber: 20
-phone: "+33 6 63 79 93 34"
-opening_hours: "Tu-Sa 13:00-19:00"
-website: "https://www.valeriedelaunay.com"
+street: Rue Chapon
+housenumber: "20"
+phone: +33 6 63 79 93 34
+opening_hours: Tu-Sa 13:00-19:00
+website: https://www.valeriedelaunay.com

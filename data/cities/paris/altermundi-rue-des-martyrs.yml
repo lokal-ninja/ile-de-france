@@ -4,8 +4,8 @@ latitude: 48.87797
 longitude: 2.33944
 postcode: "75009"
 city: Paris
-street: "Rue des Martyrs"
-housenumber: 17
-phone: "+33 1 40 18 48 07"
-opening_hours: "Mo-Sa 11:00-19:30"
-website: "https://www.altermundi.com"
+street: Rue des Martyrs
+housenumber: "17"
+phone: +33 1 40 18 48 07
+opening_hours: Mo-Sa 11:00-19:30
+website: https://www.altermundi.com

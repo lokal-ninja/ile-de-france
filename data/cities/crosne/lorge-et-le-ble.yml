@@ -1,11 +1,11 @@
 id: 149858114
-type: way
+type: node
 latitude: 48.71381
 longitude: 2.46253
 postcode: "91560"
 city: Crosne
-street: "Avenue Jean Jaurès"
-housenumber: 13
+street: Avenue Jean Jaurès
+housenumber: "13"
 phone: ""
-opening_hours: "Fr-We 7:00-20:30"
+opening_hours: Fr-We 7:00-20:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.82663
 longitude: 2.27985
 postcode: "92130"
 city: Issy-les-Moulineaux
-street: "Boulevard Voltaire"
-housenumber: 9
-phone: "+33 1 46 42 62 70"
-opening_hours: "Tu-Fr 08:00-13:00, 15:30-19:45; Sa 08:00-19:45"
+street: Boulevard Voltaire
+housenumber: "9"
+phone: +33 1 46 42 62 70
+opening_hours: Tu-Fr 08:00-13:00, 15:30-19:45; Sa 08:00-19:45
 website: ""

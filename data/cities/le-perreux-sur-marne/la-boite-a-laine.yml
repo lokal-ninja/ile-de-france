@@ -4,8 +4,9 @@ latitude: 48.84297
 longitude: 2.5032
 postcode: "94170"
 city: Le Perreux-sur-Marne
-street: "Avenue Ledru-Rollin"
+street: Avenue Ledru-Rollin
 housenumber: 72bis
-phone: "+33 1 48 71 42 53"
-opening_hours: "Mo 15:00-18:00; Tu 10:00-12:30,15:00-19:00; We 09:30-12:30; Th 10:00-12:30,15:30-19:00; Fr 10:00-12:30,15:00-19:00; Sa 09:30-12:30,15:00-18:00; "
-website: "https://www.laine-mercerie-perreux.fr/"
+phone: +33 1 48 71 42 53
+opening_hours: 'Mo 15:00-18:00; Tu 10:00-12:30,15:00-19:00; We 09:30-12:30; Th 10:00-12:30,15:30-19:00;
+    Fr 10:00-12:30,15:00-19:00; Sa 09:30-12:30,15:00-18:00; '
+website: https://www.laine-mercerie-perreux.fr/

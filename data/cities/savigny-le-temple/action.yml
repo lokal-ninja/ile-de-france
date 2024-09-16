@@ -1,11 +1,11 @@
 id: 112253434
-type: way
+type: node
 latitude: 48.58504
 longitude: 2.59182
 postcode: "77176"
 city: Savigny-le-Temple
-street: "Allée du Cobalt"
-housenumber: 5
+street: Allée du Cobalt
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 132162255
-type: way
+type: node
 latitude: 48.80958
 longitude: 2.18971
 postcode: "92370"
 city: Chaville
-street: "Avenue Roger Salengro"
-housenumber: 1383
-phone: "+33 1 47 09 84 50"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.monoprix.fr/754.html"
+street: Avenue Roger Salengro
+housenumber: "1383"
+phone: +33 1 47 09 84 50
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.monoprix.fr/754.html

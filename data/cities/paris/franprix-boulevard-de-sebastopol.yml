@@ -4,8 +4,8 @@ latitude: 48.86391
 longitude: 2.35095
 postcode: ""
 city: Paris
-street: "Boulevard de Sébastopol"
-housenumber: 
+street: Boulevard de Sébastopol
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-23:00, Su 09:00-12:00"
-website: "https://www.franprix.fr/magasins/4085"
+opening_hours: Mo-Sa 08:30-23:00, Su 09:00-12:00
+website: https://www.franprix.fr/magasins/4085

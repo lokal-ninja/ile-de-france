@@ -4,8 +4,8 @@ latitude: 48.85847
 longitude: 2.35942
 postcode: "75003"
 city: Paris
-street: "Rue des Francs Bourgeois"
-housenumber: 38
+street: Rue des Francs Bourgeois
+housenumber: "38"
 phone: ""
-opening_hours: "Fr-Su 11:00-19:00"
+opening_hours: Fr-Su 11:00-19:00
 website: ""

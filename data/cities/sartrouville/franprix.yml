@@ -4,8 +4,8 @@ latitude: 48.93868
 longitude: 2.15764
 postcode: "78500"
 city: Sartrouville
-street: "Avenue Jean Jaurès"
-housenumber: 76
-phone: "+33 1 39 14 31 26"
-opening_hours: "Mo-Sa 09:00-20:50; Su 09:00-12:50"
-website: "https://www.franprix.fr/magasins/5522"
+street: Avenue Jean Jaurès
+housenumber: "76"
+phone: +33 1 39 14 31 26
+opening_hours: Mo-Sa 09:00-20:50; Su 09:00-12:50
+website: https://www.franprix.fr/magasins/5522

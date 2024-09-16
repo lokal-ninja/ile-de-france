@@ -4,8 +4,8 @@ latitude: 48.8496
 longitude: 2.49695
 postcode: "94170"
 city: Le Perreux-sur-Marne
-street: "Boulevard d'Alsace-Lorraine"
-housenumber: 47
-phone: "+33 1 48 72 04 73"
-opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-12:30,14:30-19:00; Sa 09:00-17:00; "
-website: "https://www.grandparispiecesauto.com/"
+street: Boulevard d'Alsace-Lorraine
+housenumber: "47"
+phone: +33 1 48 72 04 73
+opening_hours: 'Mo-Th 09:00-19:00; Fr 09:00-12:30,14:30-19:00; Sa 09:00-17:00; '
+website: https://www.grandparispiecesauto.com/

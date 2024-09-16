@@ -1,11 +1,11 @@
 id: 654773762
-type: way
+type: node
 latitude: 48.99121
 longitude: 2.19699
 postcode: "95370"
 city: Montigny-lès-Cormeilles
-street: "Rue Jacques Verniol"
-housenumber: 58
+street: Rue Jacques Verniol
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

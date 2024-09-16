@@ -4,8 +4,8 @@ latitude: 48.88555
 longitude: 2.37556
 postcode: "75019"
 city: Paris
-street: "Quai de la Loire"
+street: Quai de la Loire
 housenumber: 46bis
-phone: "+33 1 42 06 44 44"
-opening_hours: "Mo 11:00-20:00; Tu-Sa 10:00-20:00"
-website: "https://www.biocoop-canalbio.fr/"
+phone: +33 1 42 06 44 44
+opening_hours: Mo 11:00-20:00; Tu-Sa 10:00-20:00
+website: https://www.biocoop-canalbio.fr/

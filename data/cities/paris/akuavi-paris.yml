@@ -4,8 +4,8 @@ latitude: 48.86444
 longitude: 2.3476
 postcode: "75001"
 city: Paris
-street: "Rue Française"
-housenumber: 9
-phone: "+33 6 88 54 03 73"
+street: Rue Française
+housenumber: "9"
+phone: +33 6 88 54 03 73
 opening_hours: ""
-website: "https://www.akuaviparis.com"
+website: https://www.akuaviparis.com

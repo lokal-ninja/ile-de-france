@@ -1,11 +1,11 @@
 id: 112037734
-type: way
+type: node
 latitude: 48.77689
 longitude: 2.5977
 postcode: "77340"
 city: Pontault-Combault
-street: "Route de Paris"
-housenumber: 
+street: Route de Paris
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

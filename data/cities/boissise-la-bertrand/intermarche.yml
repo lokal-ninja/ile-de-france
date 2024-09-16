@@ -1,11 +1,11 @@
 id: 293272291
-type: way
+type: node
 latitude: 48.53377
 longitude: 2.61571
 postcode: "77350"
 city: Boissise-la-Bertrand
-street: "Avenue Jean Monnet"
-housenumber: 2
+street: Avenue Jean Monnet
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

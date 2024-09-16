@@ -4,8 +4,8 @@ latitude: 48.86726
 longitude: 2.36016
 postcode: "75003"
 city: Paris
-street: "Rue Notre-Dame-de-Nazareth"
-housenumber: 22
-phone: "+33 1 84 17 30 35"
+street: Rue Notre-Dame-de-Nazareth
+housenumber: "22"
+phone: +33 1 84 17 30 35
 opening_hours: ""
-website: "https://lechemiseur.fr"
+website: https://lechemiseur.fr

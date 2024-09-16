@@ -4,8 +4,8 @@ latitude: 48.79424
 longitude: 2.33635
 postcode: "94230"
 city: Cachan
-street: "Rue Guichard"
-housenumber: 14
-phone: "+33 1 46 64 24 43"
-opening_hours: "Mo,We-Sa 06:30-20:00; Su 06:30-19:00; Tu off"
-website: "http://www.accc-cachan.com/boulangerie-caquelin-view-21-16.html"
+street: Rue Guichard
+housenumber: "14"
+phone: +33 1 46 64 24 43
+opening_hours: Mo,We-Sa 06:30-20:00; Su 06:30-19:00; Tu off
+website: http://www.accc-cachan.com/boulangerie-caquelin-view-21-16.html

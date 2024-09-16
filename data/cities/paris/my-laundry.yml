@@ -4,8 +4,8 @@ latitude: 48.87359
 longitude: 2.34391
 postcode: "75009"
 city: Paris
-street: "Rue Geoffroy Marie"
-housenumber: 9
+street: Rue Geoffroy Marie
+housenumber: "9"
 phone: ""
-opening_hours: "PH,Mo-Su 07:00-22:00"
+opening_hours: PH,Mo-Su 07:00-22:00
 website: ""

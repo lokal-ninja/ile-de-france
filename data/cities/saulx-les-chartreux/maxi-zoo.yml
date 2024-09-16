@@ -1,11 +1,11 @@
 id: 146300971
-type: way
+type: node
 latitude: 48.67131
 longitude: 2.27751
 postcode: "91160"
 city: Saulx-les-Chartreux
-street: "Rue du Plessis Saint-Perre"
-housenumber: 
+street: Rue du Plessis Saint-Perre
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-13:00,14:00-17:00"
-website: "http://www.maxizoo.fr/magasin/saulx-les-chartreux.html"
+opening_hours: Mo-Sa 10:00-13:00,14:00-17:00
+website: http://www.maxizoo.fr/magasin/saulx-les-chartreux.html

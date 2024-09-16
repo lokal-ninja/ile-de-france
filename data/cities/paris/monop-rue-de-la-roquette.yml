@@ -4,8 +4,8 @@ latitude: 48.85408
 longitude: 2.37089
 postcode: "75011"
 city: Paris
-street: "Rue de la Roquette"
-housenumber: 9
+street: Rue de la Roquette
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:30-24:00"
+opening_hours: Mo-Sa 08:30-24:00
 website: ""

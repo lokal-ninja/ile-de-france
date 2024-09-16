@@ -4,8 +4,8 @@ latitude: 48.8412
 longitude: 2.22649
 postcode: "92100"
 city: Boulogne-Billancourt
-street: "Avenue du Maréchal de Lattre de Tassigny"
-housenumber: 20
-phone: "+33 6 68 77 22 79"
-opening_hours: "Tu-Sa 10:00-18:00; Mo 12:00-18:00"
+street: Avenue du Maréchal de Lattre de Tassigny
+housenumber: "20"
+phone: +33 6 68 77 22 79
+opening_hours: Tu-Sa 10:00-18:00; Mo 12:00-18:00
 website: ""

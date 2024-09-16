@@ -1,11 +1,11 @@
 id: 30615943
-type: way
+type: node
 latitude: 48.37256
 longitude: 2.81848
 postcode: "77250"
 city: Moret-Loing-et-Orvanne
-street: "Rue de l'Église"
-housenumber: 5
-phone: "+33 1 60 96 25 05"
+street: Rue de l'Église
+housenumber: "5"
+phone: +33 1 60 96 25 05
 opening_hours: ""
-website: "https://www.facebook.com/FROMAGERIEDEMORET/"
+website: https://www.facebook.com/FROMAGERIEDEMORET/

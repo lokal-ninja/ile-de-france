@@ -4,8 +4,8 @@ latitude: 48.93053
 longitude: 2.04076
 postcode: "78300"
 city: Poissy
-street: "Rue du Général de Gaulle"
-housenumber: 48
-phone: "+33 1 39 70 11 95"
-opening_hours: "Tu-Fr 10:00-14:00,15:30-19:30; Sa 10:00-19:30; Su 10:00-13:00"
+street: Rue du Général de Gaulle
+housenumber: "48"
+phone: +33 1 39 70 11 95
+opening_hours: Tu-Fr 10:00-14:00,15:30-19:30; Sa 10:00-19:30; Su 10:00-13:00
 website: ""

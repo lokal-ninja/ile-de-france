@@ -1,11 +1,11 @@
 id: 373778414
-type: way
+type: node
 latitude: 48.85807
 longitude: 2.90228
 postcode: "77580"
 city: Crécy-la-Chapelle
-street: "Avenue de Villiers"
-housenumber: 
-phone: "+33 1 64 63 96 22"
-opening_hours: "Mo-Th 09:00-19:30; Fr 09:00-20:00; Sa 09:00-19:30; Su 09:00-12:30"
+street: Avenue de Villiers
+housenumber: ""
+phone: +33 1 64 63 96 22
+opening_hours: Mo-Th 09:00-19:30; Fr 09:00-20:00; Sa 09:00-19:30; Su 09:00-12:30
 website: ""

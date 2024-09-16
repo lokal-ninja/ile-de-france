@@ -4,8 +4,8 @@ latitude: 48.84023
 longitude: 2.39733
 postcode: "75012"
 city: Paris
-street: "Rue Lamblardie"
-housenumber: 10
-phone: "+33 1 43 41 08 28"
-opening_hours: "Mo-Sa 11:00-15:00,16:00-21:30"
+street: Rue Lamblardie
+housenumber: "10"
+phone: +33 1 43 41 08 28
+opening_hours: Mo-Sa 11:00-15:00,16:00-21:30
 website: ""

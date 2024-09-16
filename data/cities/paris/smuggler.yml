@@ -4,8 +4,8 @@ latitude: 48.86939
 longitude: 2.3224
 postcode: "75008"
 city: Paris
-street: "Cité Berryer"
-housenumber: 1
-phone: "+33 1 42 25 01 70"
+street: Cité Berryer
+housenumber: "1"
+phone: +33 1 42 25 01 70
 opening_hours: ""
-website: "https://smuggler.fr"
+website: https://smuggler.fr

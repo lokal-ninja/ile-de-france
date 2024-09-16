@@ -4,8 +4,8 @@ latitude: 48.78665
 longitude: 2.22588
 postcode: "92360"
 city: Meudon
-street: "Place d'Orion"
-housenumber: 7
+street: Place d'Orion
+housenumber: "7"
 phone: "+33628816009"
-opening_hours: "Tu-Th 09:00-19:00; Fr-Sa 09:00-19:30"
+opening_hours: Tu-Th 09:00-19:00; Fr-Sa 09:00-19:30
 website: ""

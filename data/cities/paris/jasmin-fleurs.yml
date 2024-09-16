@@ -4,8 +4,8 @@ latitude: 48.88295
 longitude: 2.35954
 postcode: "75010"
 city: Paris
-street: "Rue Perdonnet"
-housenumber: 2
-phone: "+33 1 53 26 07 81"
-opening_hours: "Tu-Su 10:00-20:00"
-website: "https://www.jasminfleurs.fr"
+street: Rue Perdonnet
+housenumber: "2"
+phone: +33 1 53 26 07 81
+opening_hours: Tu-Su 10:00-20:00
+website: https://www.jasminfleurs.fr

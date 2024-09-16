@@ -5,7 +5,7 @@ longitude: 2.33436
 postcode: ""
 city: Paris
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "on appointment"
-website: "https://www.metalflaque.fr"
+opening_hours: '"on appointment"'
+website: https://www.metalflaque.fr

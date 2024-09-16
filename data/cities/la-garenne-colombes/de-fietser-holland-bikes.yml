@@ -4,8 +4,8 @@ latitude: 48.90287
 longitude: 2.24285
 postcode: "92250"
 city: La Garenne-Colombes
-street: "Place Rhin-et-Danube"
-housenumber: 5
-phone: "+33 1 56 83 92 57"
+street: Place Rhin-et-Danube
+housenumber: "5"
+phone: +33 1 56 83 92 57
 opening_hours: ""
-website: "https://www.hollandbikes.com/"
+website: https://www.hollandbikes.com/

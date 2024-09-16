@@ -4,8 +4,8 @@ latitude: 48.86017
 longitude: 2.3666
 postcode: "75003"
 city: Paris
-street: "Rue Saint-Claude"
-housenumber: 8
+street: Rue Saint-Claude
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

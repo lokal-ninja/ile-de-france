@@ -1,11 +1,11 @@
 id: 150379330
-type: way
+type: node
 latitude: 48.77887
 longitude: 2.20987
 postcode: "78140"
 city: Vélizy-Villacoublay
-street: "Avenue de l'Europe"
-housenumber: 59
-phone: "+33 1 39 46 17 10"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:45"
-website: "https://magasins.picard.fr/976-picard-velizy"
+street: Avenue de l'Europe
+housenumber: "59"
+phone: +33 1 39 46 17 10
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:45
+website: https://magasins.picard.fr/976-picard-velizy

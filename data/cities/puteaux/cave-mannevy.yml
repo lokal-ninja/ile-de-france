@@ -4,8 +4,8 @@ latitude: 48.88038
 longitude: 2.23898
 postcode: "92800"
 city: Puteaux
-street: "Boulevard Richard Wallace"
-housenumber: 50
-phone: "+33 1 45 06 07 75"
-opening_hours: "Tu-Sa 10:00-19:30"
-website: "https://www.cavemannevy.com/"
+street: Boulevard Richard Wallace
+housenumber: "50"
+phone: +33 1 45 06 07 75
+opening_hours: Tu-Sa 10:00-19:30
+website: https://www.cavemannevy.com/

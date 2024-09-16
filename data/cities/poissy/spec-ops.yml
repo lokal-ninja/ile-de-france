@@ -4,8 +4,8 @@ latitude: 48.92841
 longitude: 2.04518
 postcode: "78300"
 city: Poissy
-street: "Rue Michel Jeunet"
-housenumber: 4
-phone: "+33 1 30 74 10 55"
-opening_hours: "Mo 14:00-18:30; Tu-Fr 10:00-12:30,14:00-18:30; Sa 09:00-12:30,14:00-19:00"
-website: "http://specops-shop.com/fr/"
+street: Rue Michel Jeunet
+housenumber: "4"
+phone: +33 1 30 74 10 55
+opening_hours: Mo 14:00-18:30; Tu-Fr 10:00-12:30,14:00-18:30; Sa 09:00-12:30,14:00-19:00
+website: http://specops-shop.com/fr/

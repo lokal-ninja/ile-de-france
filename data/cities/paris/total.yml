@@ -1,11 +1,11 @@
 id: 78536213
-type: way
+type: node
 latitude: 48.83491
 longitude: 2.35742
 postcode: "75013"
 city: Paris
-street: "Boulevard de l'Hôpital"
-housenumber: 114
+street: Boulevard de l'Hôpital
+housenumber: "114"
 phone: "+33147071818"
-opening_hours: "24/7"
-website: "https://services.totalenergies.fr/"
+opening_hours: 24/7
+website: https://services.totalenergies.fr/

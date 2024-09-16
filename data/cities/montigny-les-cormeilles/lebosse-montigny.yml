@@ -4,8 +4,9 @@ latitude: 48.99448
 longitude: 2.19354
 postcode: "95370"
 city: Montigny-lès-Cormeilles
-street: "Boulevard Victor Bordier"
-housenumber: 107
-phone: "+33 1 39311111"
-opening_hours: "Mo 10:00-12:30,14:00-18:30; Tu-Fr 08:30-12:00,14:00-19:00; Sa 09:00-13:00,14:00-18:00; Su,PH off"
-website: "http://www.lebosse.fr"
+street: Boulevard Victor Bordier
+housenumber: "107"
+phone: +33 1 39311111
+opening_hours: Mo 10:00-12:30,14:00-18:30; Tu-Fr 08:30-12:00,14:00-19:00; Sa 09:00-13:00,14:00-18:00;
+    Su,PH off
+website: http://www.lebosse.fr

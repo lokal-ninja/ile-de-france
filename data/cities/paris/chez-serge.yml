@@ -4,8 +4,8 @@ latitude: 48.86192
 longitude: 2.34884
 postcode: "75001"
 city: Paris
-street: "Rue des Prêcheurs"
-housenumber: 3
+street: Rue des Prêcheurs
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

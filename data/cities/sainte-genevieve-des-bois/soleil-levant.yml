@@ -1,11 +1,11 @@
 id: 115365806
-type: way
+type: node
 latitude: 48.62372
 longitude: 2.3468
 postcode: "91700"
 city: Sainte-Geneviève-des-Bois
-street: "Rue de la Remise Neuve"
-housenumber: 5
+street: Rue de la Remise Neuve
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

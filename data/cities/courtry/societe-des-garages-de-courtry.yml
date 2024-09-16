@@ -1,11 +1,11 @@
 id: 104065537
-type: way
+type: node
 latitude: 48.90949
 longitude: 2.60592
 postcode: "77181"
 city: Courtry
-street: "Rue de la Régale"
-housenumber: 14
+street: Rue de la Régale
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

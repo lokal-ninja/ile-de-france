@@ -4,8 +4,8 @@ latitude: 48.80516
 longitude: 3.09498
 postcode: "77120"
 city: Coulommiers
-street: "Rue du Grand Morin"
-housenumber: 5
-phone: "+33 1 64 20 80 00"
+street: Rue du Grand Morin
+housenumber: "5"
+phone: +33 1 64 20 80 00
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

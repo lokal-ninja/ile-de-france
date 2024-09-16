@@ -4,8 +4,8 @@ latitude: 48.86391
 longitude: 2.39096
 postcode: "75020"
 city: Paris
-street: "Avenue Gambetta"
-housenumber: 21
-phone: "+33 1 43 49 11 11"
-opening_hours: "Tu-Fr 09:30-12:30,14:00-19:00; Sa 10:00-12:30,14:00-18:00"
-website: "https://www.yamgambetta.com/"
+street: Avenue Gambetta
+housenumber: "21"
+phone: +33 1 43 49 11 11
+opening_hours: Tu-Fr 09:30-12:30,14:00-19:00; Sa 10:00-12:30,14:00-18:00
+website: https://www.yamgambetta.com/

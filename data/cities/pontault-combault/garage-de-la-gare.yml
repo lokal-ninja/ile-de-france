@@ -1,11 +1,11 @@
 id: 112035963
-type: way
+type: node
 latitude: 48.8054
 longitude: 2.61431
 postcode: "77340"
 city: Pontault-Combault
-street: "Avenue de la République"
-housenumber: 24
-phone: "+33 1 64 43 87 86"
+street: Avenue de la République
+housenumber: "24"
+phone: +33 1 64 43 87 86
 opening_hours: ""
 website: ""

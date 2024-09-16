@@ -1,11 +1,11 @@
 id: 146144530
-type: way
+type: node
 latitude: 48.64732
 longitude: 1.85786
 postcode: "78120"
 city: Rambouillet
-street: "Rue du Clos Battant"
-housenumber: 
+street: Rue du Clos Battant
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-13:00"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-13:00
 website: ""

@@ -5,7 +5,8 @@ longitude: 2.23768
 postcode: "92800"
 city: Puteaux
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 10:00-18:00; Dec 25 off; Jan 1 off"
-website: "https://www.fnac.com/La-Defense-Gare-RER/Fnac-La-Defense-Gare-RER/cl722/w-4"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 10:00-18:00; Dec 25 off; Jan
+    1 off
+website: https://www.fnac.com/La-Defense-Gare-RER/Fnac-La-Defense-Gare-RER/cl722/w-4

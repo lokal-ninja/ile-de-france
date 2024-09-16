@@ -1,11 +1,11 @@
 id: 849444893
-type: way
+type: node
 latitude: 48.91861
 longitude: 2.2818
 postcode: "92600"
 city: Asnières-sur-Seine
-street: "Boulevard Voltaire"
-housenumber: 191
+street: Boulevard Voltaire
+housenumber: "191"
 phone: ""
 opening_hours: ""
 website: ""

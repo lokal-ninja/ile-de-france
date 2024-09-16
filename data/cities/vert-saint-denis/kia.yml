@@ -1,11 +1,11 @@
 id: 115143543
-type: way
+type: node
 latitude: 48.56829
 longitude: 2.63646
 postcode: "77240"
 city: Vert-Saint-Denis
-street: "Rue Paul-Henri Spaak"
-housenumber: 4
-phone: "+33 1 86 76 71 02"
+street: Rue Paul-Henri Spaak
+housenumber: "4"
+phone: +33 1 86 76 71 02
 opening_hours: ""
-website: "https://kia-melun.amplitude-auto.com/"
+website: https://kia-melun.amplitude-auto.com/

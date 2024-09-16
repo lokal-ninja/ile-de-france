@@ -1,11 +1,11 @@
 id: 63004659
-type: way
+type: node
 latitude: 48.52969
 longitude: 2.37528
 postcode: "91610"
 city: Ballancourt-sur-Essonne
-street: "Avenue du Général Leclerc"
-housenumber: 9
+street: Avenue du Général Leclerc
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

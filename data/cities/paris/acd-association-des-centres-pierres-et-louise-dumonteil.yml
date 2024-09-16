@@ -4,8 +4,8 @@ latitude: 48.86046
 longitude: 2.38826
 postcode: "75011"
 city: Paris
-street: "Boulevard de Ménilmontant"
-housenumber: 33
-phone: "+33 1 40 27 05 90"
-opening_hours: "Mo, Tu, Th 9:00-12:25,13:15-16:40; We 9:00-12:25,13:15-15:50; Fr 9:00-12:25,13:15-15:00"
-website: "https://www.association-dumonteil.fr/nos-%C3%A9tablissements/esat-p%C3%A8re-lachaise/"
+street: Boulevard de Ménilmontant
+housenumber: "33"
+phone: +33 1 40 27 05 90
+opening_hours: Mo, Tu, Th 9:00-12:25,13:15-16:40; We 9:00-12:25,13:15-15:50; Fr 9:00-12:25,13:15-15:00
+website: https://www.association-dumonteil.fr/nos-%C3%A9tablissements/esat-p%C3%A8re-lachaise/

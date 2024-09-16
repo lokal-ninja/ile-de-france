@@ -4,8 +4,8 @@ latitude: 48.84159
 longitude: 2.35018
 postcode: "75005"
 city: Paris
-street: "Rue de l'Epée de Bois"
-housenumber: 12
+street: Rue de l'Epée de Bois
+housenumber: "12"
 phone: ""
-opening_hours: "Mo 13:30-19:30; Tu-Sa 10:30-19:30; Su 11:00-13:30"
+opening_hours: Mo 13:30-19:30; Tu-Sa 10:30-19:30; Su 11:00-13:30
 website: ""

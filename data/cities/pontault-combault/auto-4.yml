@@ -4,8 +4,8 @@ latitude: 48.77689
 longitude: 2.59678
 postcode: "77340"
 city: Pontault-Combault
-street: "Route de Paris"
-housenumber: 14
-phone: "+33 1 60 29 45 27"
+street: Route de Paris
+housenumber: "14"
+phone: +33 1 60 29 45 27
 opening_hours: ""
-website: "https://www.auto4.fr/"
+website: https://www.auto4.fr/

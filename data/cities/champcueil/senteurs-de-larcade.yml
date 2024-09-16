@@ -1,11 +1,11 @@
 id: 153036746
-type: way
+type: node
 latitude: 48.51628
 longitude: 2.44596
 postcode: "91750"
 city: Champcueil
-street: "Rue de la Marivoise"
-housenumber: 25
-phone: "+33 1 64 99 92 36"
+street: Rue de la Marivoise
+housenumber: "25"
+phone: +33 1 64 99 92 36
 opening_hours: ""
 website: ""

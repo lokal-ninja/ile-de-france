@@ -1,11 +1,11 @@
 id: 131535980
-type: way
+type: node
 latitude: 48.9252
 longitude: 2.18905
 postcode: "78800"
 city: Houilles
-street: "Rue Gabriel Péri"
-housenumber: 20
+street: Rue Gabriel Péri
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

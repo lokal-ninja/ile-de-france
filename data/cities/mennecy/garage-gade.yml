@@ -1,11 +1,11 @@
 id: 588794796
-type: way
+type: node
 latitude: 48.56323
 longitude: 2.45493
 postcode: "91540"
 city: Mennecy
-street: "Rue Louise de Vilmorin"
-housenumber: 28
+street: Rue Louise de Vilmorin
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

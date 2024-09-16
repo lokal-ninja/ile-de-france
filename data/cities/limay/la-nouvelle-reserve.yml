@@ -4,8 +4,8 @@ latitude: 48.99368
 longitude: 1.72857
 postcode: "78520"
 city: Limay
-street: "Rue du Maréchal Foch"
-housenumber: 5
-phone: "+33.9 72 48 11 55"
-opening_hours: "Tu-Th 10:30-13:30,15:00-19:00; Fr,Sa 11:00-19:00"
-website: "https://lanouvellereserve.fr/"
+street: Rue du Maréchal Foch
+housenumber: "5"
+phone: +33.9 72 48 11 55
+opening_hours: Tu-Th 10:30-13:30,15:00-19:00; Fr,Sa 11:00-19:00
+website: https://lanouvellereserve.fr/

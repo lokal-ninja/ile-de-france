@@ -1,11 +1,11 @@
 id: 289356804
-type: way
+type: node
 latitude: 48.41055
 longitude: 2.70752
 postcode: "77300"
 city: Fontainebleau
-street: "Rue Aristide Briand"
-housenumber: 66
+street: Rue Aristide Briand
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

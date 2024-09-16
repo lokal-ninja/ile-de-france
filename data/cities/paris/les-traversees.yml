@@ -4,8 +4,8 @@ latitude: 48.83935
 longitude: 2.34962
 postcode: "75005"
 city: Paris
-street: "Rue Édouard Quénu"
-housenumber: 2
-phone: "+33 1 43 31 74 08"
-opening_hours: "Mo-Sa 10:00-13:30,15:00-19:30; Su 10:00-13:30"
-website: "https://www.lestraversees.com/"
+street: Rue Édouard Quénu
+housenumber: "2"
+phone: +33 1 43 31 74 08
+opening_hours: Mo-Sa 10:00-13:30,15:00-19:30; Su 10:00-13:30
+website: https://www.lestraversees.com/

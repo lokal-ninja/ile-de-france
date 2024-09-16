@@ -4,8 +4,8 @@ latitude: 48.91432
 longitude: 2.23836
 postcode: "92700"
 city: Colombes
-street: "Rue de Chatou"
-housenumber: 63
+street: Rue de Chatou
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Fr 14:00-18:00"
-website: "http://www.lesolex.com/"
+opening_hours: Mo-Fr 14:00-18:00
+website: http://www.lesolex.com/

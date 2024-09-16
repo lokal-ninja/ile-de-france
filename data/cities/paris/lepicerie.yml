@@ -4,8 +4,8 @@ latitude: 48.87098
 longitude: 2.37857
 postcode: "75020"
 city: Paris
-street: "Boulevard de Belleville"
-housenumber: 110
+street: Boulevard de Belleville
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
+opening_hours: Mo-Su 10:00-20:00
 website: ""

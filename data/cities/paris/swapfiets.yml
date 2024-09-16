@@ -4,8 +4,8 @@ latitude: 48.86734
 longitude: 2.35288
 postcode: "75002"
 city: Paris
-street: "Boulevard de Sébastopol"
-housenumber: 115
-phone: "+33 17 34 40 919"
-opening_hours: "Mo 12:00-18:00; Tu-Sa 10:00-19:00"
-website: "https://swapfiets.com/fr-FR"
+street: Boulevard de Sébastopol
+housenumber: "115"
+phone: +33 17 34 40 919
+opening_hours: Mo 12:00-18:00; Tu-Sa 10:00-19:00
+website: https://swapfiets.com/fr-FR

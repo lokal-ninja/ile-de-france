@@ -1,11 +1,11 @@
 id: 48526417
-type: way
+type: node
 latitude: 48.9915
 longitude: 2.25762
 postcode: "95120"
 city: Ermont
-street: "Rue Louis Savoie"
-housenumber: 135
-phone: "+33 1 30720294"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/city-ermont-savoie"
+street: Rue Louis Savoie
+housenumber: "135"
+phone: +33 1 30720294
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/city-ermont-savoie

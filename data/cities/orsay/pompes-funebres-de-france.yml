@@ -4,8 +4,8 @@ latitude: 48.70085
 longitude: 2.18812
 postcode: ""
 city: Orsay
-street: "Rue Charles de Gaulle"
-housenumber: 3
+street: Rue Charles de Gaulle
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:45-12:00,14:00-18:30; Sa 09:00-12:00,14:00-17:00"
+opening_hours: Mo-Fr 08:45-12:00,14:00-18:30; Sa 09:00-12:00,14:00-17:00
 website: ""

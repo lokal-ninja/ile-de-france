@@ -4,8 +4,8 @@ latitude: 48.84171
 longitude: 2.38246
 postcode: "75012"
 city: Paris
-street: "Rue du Charolais"
-housenumber: 87
+street: Rue du Charolais
+housenumber: "87"
 phone: "+33181699551"
-opening_hours: "Mo-Sa 09:00-19:00; Su 14:00-18:00"
+opening_hours: Mo-Sa 09:00-19:00; Su 14:00-18:00
 website: ""

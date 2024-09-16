@@ -1,11 +1,11 @@
 id: 155085360
-type: way
+type: node
 latitude: 48.5968
 longitude: 2.25564
 postcode: "91180"
 city: Saint-Germain-lès-Arpajon
-street: "Rue de Chanteloup"
-housenumber: 
+street: Rue de Chanteloup
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

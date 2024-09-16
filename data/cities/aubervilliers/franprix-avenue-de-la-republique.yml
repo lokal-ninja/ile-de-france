@@ -4,8 +4,8 @@ latitude: 48.91336
 longitude: 2.38236
 postcode: "93300"
 city: Aubervilliers
-street: "Avenue de la République"
-housenumber: 2
+street: Avenue de la République
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:30, Su 09:00-21:00"
-website: "https://www.franprix.fr/magasins/1067"
+opening_hours: Mo-Sa 07:30-21:30, Su 09:00-21:00
+website: https://www.franprix.fr/magasins/1067

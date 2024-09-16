@@ -4,8 +4,8 @@ latitude: 48.92147
 longitude: 2.19812
 postcode: "78800"
 city: Houilles
-street: "Boulevard Jean Jaurès"
-housenumber: 89
-phone: "+33 1 61 30 70 00"
-opening_hours: "Mo-Fr 09:00-20:30; Sa 08:30-20:30"
-website: "http://www.e-leclerc.com/houilles"
+street: Boulevard Jean Jaurès
+housenumber: "89"
+phone: +33 1 61 30 70 00
+opening_hours: Mo-Fr 09:00-20:30; Sa 08:30-20:30
+website: http://www.e-leclerc.com/houilles

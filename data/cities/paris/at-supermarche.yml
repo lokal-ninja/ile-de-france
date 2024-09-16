@@ -4,8 +4,8 @@ latitude: 48.85384
 longitude: 2.35087
 postcode: "75004"
 city: Paris
-street: "Rue Chanoinesse"
-housenumber: 16
+street: Rue Chanoinesse
+housenumber: "16"
 phone: ""
-opening_hours: "08:00-24:00"
+opening_hours: 08:00-24:00
 website: ""

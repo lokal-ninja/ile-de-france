@@ -1,11 +1,11 @@
 id: 208988913
-type: way
+type: node
 latitude: 49.05501
 longitude: 2.04963
 postcode: "95800"
 city: Cergy
-street: "Avenue de la Plaine des Sports"
-housenumber: 2
+street: Avenue de la Plaine des Sports
+housenumber: "2"
 phone: "+33134351580"
-opening_hours: "Mo-Sa 09:30-20:00"
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

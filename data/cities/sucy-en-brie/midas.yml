@@ -1,11 +1,11 @@
 id: 63504099
-type: way
+type: node
 latitude: 48.76804
 longitude: 2.52409
 postcode: "94370"
 city: Sucy-en-Brie
-street: "Avenue Winston Churchill"
+street: Avenue Winston Churchill
 housenumber: 46-48
-phone: "+33 1 45 90 28 58"
+phone: +33 1 45 90 28 58
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

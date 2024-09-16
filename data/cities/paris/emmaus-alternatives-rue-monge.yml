@@ -4,8 +4,8 @@ latitude: 48.84929
 longitude: 2.34936
 postcode: "75005"
 city: Paris
-street: "Rue Monge"
-housenumber: 6
-phone: "+33 1 88 40 43 95"
+street: Rue Monge
+housenumber: "6"
+phone: +33 1 88 40 43 95
 opening_hours: ""
-website: "https://www.emmaus-alternatives.org/"
+website: https://www.emmaus-alternatives.org/

@@ -4,8 +4,8 @@ latitude: 48.71521
 longitude: 2.24657
 postcode: "91120"
 city: Palaiseau
-street: "Passage Pasteur"
-housenumber: 4
+street: Passage Pasteur
+housenumber: "4"
 phone: ""
-opening_hours: "PH,Mo-Su 08:00-20:00"
-website: "https://www.franprix.fr/magasins/5227"
+opening_hours: PH,Mo-Su 08:00-20:00
+website: https://www.franprix.fr/magasins/5227

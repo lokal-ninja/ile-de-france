@@ -4,8 +4,8 @@ latitude: 48.75376
 longitude: 2.30384
 postcode: "92160"
 city: Antony
-street: "Rue Auguste Mounié"
-housenumber: 12
-phone: "+33 1 46 74 02 02"
-opening_hours: "Tu-Sa 08:30-13:30,15:45-19:15; Su 08:30-13:00"
-website: "https://www.augourmetdantony.fr"
+street: Rue Auguste Mounié
+housenumber: "12"
+phone: +33 1 46 74 02 02
+opening_hours: Tu-Sa 08:30-13:30,15:45-19:15; Su 08:30-13:00
+website: https://www.augourmetdantony.fr

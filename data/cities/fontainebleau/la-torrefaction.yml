@@ -4,8 +4,8 @@ latitude: 48.40551
 longitude: 2.70036
 postcode: "77300"
 city: Fontainebleau
-street: "Rue du Conventionnel Geoffroy"
-housenumber: 10
-phone: "+33 1 64 22 73 94"
-opening_hours: "Tu-We, Fr-Sa 09:00-13:00, 16:00-19:00; Su 09:00-13:00"
-website: "https://la-torrefaction-fontainebleau.fr"
+street: Rue du Conventionnel Geoffroy
+housenumber: "10"
+phone: +33 1 64 22 73 94
+opening_hours: Tu-We, Fr-Sa 09:00-13:00, 16:00-19:00; Su 09:00-13:00
+website: https://la-torrefaction-fontainebleau.fr

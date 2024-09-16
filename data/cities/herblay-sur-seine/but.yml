@@ -1,11 +1,11 @@
 id: 85319446
-type: way
+type: node
 latitude: 49.00229
 longitude: 2.17805
 postcode: "95220"
 city: Herblay-sur-Seine
-street: "Rue Édouard Branly"
-housenumber: 5
-phone: "08 26 25 25 25"
-opening_hours: "Mo-Sa 10:00-19:30; Su 10:00-19:00"
-website: "https://www.but.fr/magasins/366/But-Herblay.html"
+street: Rue Édouard Branly
+housenumber: "5"
+phone: 08 26 25 25 25
+opening_hours: Mo-Sa 10:00-19:30; Su 10:00-19:00
+website: https://www.but.fr/magasins/366/But-Herblay.html

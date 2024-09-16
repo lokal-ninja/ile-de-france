@@ -1,11 +1,11 @@
 id: 639012827
-type: way
+type: node
 latitude: 48.88832
 longitude: 2.23942
 postcode: "92800"
 city: Puteaux
-street: "Jardins Boieldieu"
-housenumber: 57
+street: Jardins Boieldieu
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

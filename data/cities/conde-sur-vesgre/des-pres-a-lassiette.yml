@@ -1,11 +1,11 @@
 id: 161265291
-type: way
+type: node
 latitude: 48.74142
 longitude: 1.65789
 postcode: "78113"
 city: Condé-sur-Vesgre
-street: "Rue du Vivier"
-housenumber: 12
+street: Rue du Vivier
+housenumber: "12"
 phone: "+33130461110"
 opening_hours: ""
 website: ""

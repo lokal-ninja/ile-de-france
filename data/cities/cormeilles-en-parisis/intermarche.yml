@@ -1,11 +1,11 @@
 id: 1313031847
-type: way
+type: node
 latitude: 48.95782
 longitude: 2.1974
 postcode: "95240"
 city: Cormeilles-en-Parisis
-street: "Place des Arts"
-housenumber: 14
-phone: "+33 1 30 10 00 00"
-opening_hours: "Mo-Sa 08:30-20:30; Su 08:30-12:30"
+street: Place des Arts
+housenumber: "14"
+phone: +33 1 30 10 00 00
+opening_hours: Mo-Sa 08:30-20:30; Su 08:30-12:30
 website: ""

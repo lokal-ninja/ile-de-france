@@ -4,8 +4,8 @@ latitude: 48.83714
 longitude: 2.48435
 postcode: "94130"
 city: Nogent-sur-Marne
-street: "Grande Rue Charles de Gaulle"
-housenumber: 95
+street: Grande Rue Charles de Gaulle
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Tu 09:30-19:30; Th-Sa 09:30-19:30;"
-website: "https://www.treatwell.fr/salon/now-esthetique-nogent-sur-marne/"
+opening_hours: Mo-Tu 09:30-19:30; Th-Sa 09:30-19:30;
+website: https://www.treatwell.fr/salon/now-esthetique-nogent-sur-marne/

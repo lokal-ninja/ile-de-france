@@ -4,8 +4,8 @@ latitude: 48.82909
 longitude: 2.35516
 postcode: "75013"
 city: Paris
-street: "Avenue d'Italie"
-housenumber: 30
-phone: "+33 1 45 89 82 83"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.paul.fr/stores/paris_italie_2_b"
+street: Avenue d'Italie
+housenumber: "30"
+phone: +33 1 45 89 82 83
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.paul.fr/stores/paris_italie_2_b

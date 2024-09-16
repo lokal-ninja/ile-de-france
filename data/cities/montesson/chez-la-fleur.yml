@@ -1,11 +1,11 @@
 id: 333151072
-type: way
+type: node
 latitude: 48.93054
 longitude: 2.14558
 postcode: "78360"
 city: Montesson
-street: "Avenue Gabriel Péri"
-housenumber: 280
+street: Avenue Gabriel Péri
+housenumber: "280"
 phone: ""
 opening_hours: ""
 website: ""

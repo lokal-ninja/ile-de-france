@@ -4,8 +4,8 @@ latitude: 48.82592
 longitude: 2.33459
 postcode: "75014"
 city: Paris
-street: "Rue des Artistes"
-housenumber: 41
+street: Rue des Artistes
+housenumber: "41"
 phone: ""
-opening_hours: "Tu-Sa 10:00-19:00"
+opening_hours: Tu-Sa 10:00-19:00
 website: ""

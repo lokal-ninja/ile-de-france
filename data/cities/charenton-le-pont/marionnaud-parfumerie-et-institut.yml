@@ -4,8 +4,8 @@ latitude: 48.821
 longitude: 2.41403
 postcode: "94220"
 city: Charenton-le-Pont
-street: "Rue de Paris"
-housenumber: 73
-phone: "+33 143963333"
-opening_hours: "10:00-19:00"
-website: "https://www.marionnaud.fr/"
+street: Rue de Paris
+housenumber: "73"
+phone: +33 143963333
+opening_hours: 10:00-19:00
+website: https://www.marionnaud.fr/

@@ -1,11 +1,11 @@
 id: 81183542
-type: way
+type: node
 latitude: 48.95634
 longitude: 2.35593
 postcode: "93380"
 city: Pierrefitte-sur-Seine
-street: "Avenue Lénine"
-housenumber: 112
+street: Avenue Lénine
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

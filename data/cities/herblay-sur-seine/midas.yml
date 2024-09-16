@@ -4,8 +4,8 @@ latitude: 49.00433
 longitude: 2.12786
 postcode: "95220"
 city: Herblay-sur-Seine
-street: "Route de Conflans"
-housenumber: 419
-phone: "+33 1 34 50 30 00"
+street: Route de Conflans
+housenumber: "419"
+phone: +33 1 34 50 30 00
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

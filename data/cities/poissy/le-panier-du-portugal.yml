@@ -1,11 +1,11 @@
 id: 87636999
-type: way
+type: node
 latitude: 48.9336
 longitude: 2.05213
 postcode: "78300"
 city: Poissy
-street: "Boulevard Devaux"
-housenumber: 90
+street: Boulevard Devaux
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

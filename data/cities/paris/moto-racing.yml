@@ -4,8 +4,8 @@ latitude: 48.86197
 longitude: 2.40578
 postcode: "75020"
 city: Paris
-street: "Rue de Bagnolet"
-housenumber: 139
-phone: "+33 9 51 01 77 00"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "http://motoracingparis.free.fr/"
+street: Rue de Bagnolet
+housenumber: "139"
+phone: +33 9 51 01 77 00
+opening_hours: Tu-Sa 10:00-19:00
+website: http://motoracingparis.free.fr/

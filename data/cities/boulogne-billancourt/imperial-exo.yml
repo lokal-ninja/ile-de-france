@@ -4,8 +4,8 @@ latitude: 48.82598
 longitude: 2.24799
 postcode: "92100"
 city: Boulogne-Billancourt
-street: "Boulevard Jean Jaurès"
-housenumber: 263
+street: Boulevard Jean Jaurès
+housenumber: "263"
 phone: ""
-opening_hours: "Mo-Su 09:00-20:30"
-website: "https://imperial-exo.fr"
+opening_hours: Mo-Su 09:00-20:30
+website: https://imperial-exo.fr

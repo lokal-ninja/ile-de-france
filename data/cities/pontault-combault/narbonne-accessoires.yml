@@ -1,11 +1,11 @@
 id: 112042146
-type: way
+type: node
 latitude: 48.7786
 longitude: 2.61083
 postcode: "77340"
 city: Pontault-Combault
-street: "Rue Saint-Claude"
-housenumber: 7
-phone: "+33 1 60 02 06 25"
+street: Rue Saint-Claude
+housenumber: "7"
+phone: +33 1 60 02 06 25
 opening_hours: ""
-website: "https://www.narbonneaccessoires.fr/"
+website: https://www.narbonneaccessoires.fr/

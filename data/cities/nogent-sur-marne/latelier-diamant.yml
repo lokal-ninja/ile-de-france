@@ -4,8 +4,9 @@ latitude: 48.83779
 longitude: 2.48783
 postcode: "94130"
 city: Nogent sur marne
-street: "Grande Rue Charles de Gaulle"
-housenumber: 143
-phone: "+33 1 48 72 33 68"
-opening_hours: "Mo 14:00-19:00; Tu 09:30-19:00; We 10:30-19:00; Th 09:30-19:00; Fr 10:30-19:00; Sa 09:30-19:00"
+street: Grande Rue Charles de Gaulle
+housenumber: "143"
+phone: +33 1 48 72 33 68
+opening_hours: Mo 14:00-19:00; Tu 09:30-19:00; We 10:30-19:00; Th 09:30-19:00; Fr
+    10:30-19:00; Sa 09:30-19:00
 website: ""

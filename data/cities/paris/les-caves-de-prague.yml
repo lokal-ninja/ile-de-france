@@ -4,8 +4,8 @@ latitude: 48.84991
 longitude: 2.37605
 postcode: "75012"
 city: Paris
-street: "Rue de Prague"
-housenumber: 8
-phone: "+33 1 72 68 07 36"
-opening_hours: "Tu-Sa 15:30-19:30"
-website: "https://www.cavesdeprague.fr"
+street: Rue de Prague
+housenumber: "8"
+phone: +33 1 72 68 07 36
+opening_hours: Tu-Sa 15:30-19:30
+website: https://www.cavesdeprague.fr

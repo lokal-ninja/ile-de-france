@@ -4,8 +4,8 @@ latitude: 48.86865
 longitude: 2.34781
 postcode: "75002"
 city: Paris
-street: "Rue Poissonnière"
-housenumber: 4
+street: Rue Poissonnière
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00"
+opening_hours: Mo-Sa 11:00-19:00
 website: ""

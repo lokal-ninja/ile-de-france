@@ -4,8 +4,8 @@ latitude: 48.88142
 longitude: 2.33734
 postcode: "75009"
 city: Paris
-street: "Rue Frochot"
-housenumber: 5
+street: Rue Frochot
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

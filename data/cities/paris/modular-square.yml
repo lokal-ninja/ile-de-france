@@ -4,8 +4,8 @@ latitude: 48.85722
 longitude: 2.37508
 postcode: "75011"
 city: Paris
-street: "Rue Sedaine"
-housenumber: 47
-phone: "+33 1 43 55 15 49"
-opening_hours: "Tu-Sa 13:45-18:45"
-website: "https://www.modularsquare.com/"
+street: Rue Sedaine
+housenumber: "47"
+phone: +33 1 43 55 15 49
+opening_hours: Tu-Sa 13:45-18:45
+website: https://www.modularsquare.com/

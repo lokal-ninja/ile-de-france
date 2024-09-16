@@ -4,8 +4,9 @@ latitude: 48.87978
 longitude: 2.18075
 postcode: "92500"
 city: Rueil-Malmaison
-street: "Avenue Paul Doumer"
-housenumber: 101
+street: Avenue Paul Doumer
+housenumber: "101"
 phone: ""
-opening_hours: "Mo 14:30-19:15; Tu-Th 09:00-19:15; Sa 09:00-19:30; Su 09:30-13:30; Fr 09:00-19:30"
-website: "https://www.opheliefleurs.com/"
+opening_hours: Mo 14:30-19:15; Tu-Th 09:00-19:15; Sa 09:00-19:30; Su 09:30-13:30;
+    Fr 09:00-19:30
+website: https://www.opheliefleurs.com/

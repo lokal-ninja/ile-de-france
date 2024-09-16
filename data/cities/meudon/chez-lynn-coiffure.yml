@@ -4,8 +4,8 @@ latitude: 48.78656
 longitude: 2.22623
 postcode: "92360"
 city: Meudon
-street: "Square des Colonnes"
-housenumber: 6
+street: Square des Colonnes
+housenumber: "6"
 phone: "+33140949878"
-opening_hours: "Tu-Sa 09:00-19:00; Mo 09:30-18:00; Su 10:00-15:00"
+opening_hours: Tu-Sa 09:00-19:00; Mo 09:30-18:00; Su 10:00-15:00
 website: ""

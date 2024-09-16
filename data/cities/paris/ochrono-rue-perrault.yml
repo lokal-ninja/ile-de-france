@@ -4,8 +4,8 @@ latitude: 48.86034
 longitude: 2.3414
 postcode: "75001"
 city: Paris
-street: "Rue Perrault"
-housenumber: 3
+street: Rue Perrault
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.87469
 longitude: 2.33148
 postcode: "75009"
 city: Paris
-street: "Rue de Mogador"
-housenumber: 20
-phone: "+33 7 61 23 42 30"
-opening_hours: "Mo-Su 11:00-19:00"
+street: Rue de Mogador
+housenumber: "20"
+phone: +33 7 61 23 42 30
+opening_hours: Mo-Su 11:00-19:00
 website: ""

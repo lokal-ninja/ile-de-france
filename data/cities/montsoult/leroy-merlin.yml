@@ -1,11 +1,11 @@
 id: 408106719
-type: way
+type: node
 latitude: 49.06691
 longitude: 2.32738
 postcode: ""
 city: Montsoult
 street: ""
-housenumber: 
-phone: "+33 1 34 08 33 66"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-19:00"
-website: "https://www.leroymerlin.fr/magasins/montsoult.html"
+housenumber: ""
+phone: +33 1 34 08 33 66
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-19:00
+website: https://www.leroymerlin.fr/magasins/montsoult.html

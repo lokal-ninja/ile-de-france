@@ -4,8 +4,8 @@ latitude: 48.8452
 longitude: 2.31211
 postcode: "75015"
 city: Paris
-street: "Rue de Sèvres"
-housenumber: 163
+street: Rue de Sèvres
+housenumber: "163"
 phone: "+33144909779"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://cyclobike.fr/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://cyclobike.fr/

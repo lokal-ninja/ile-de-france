@@ -4,8 +4,8 @@ latitude: 48.82589
 longitude: 2.35824
 postcode: "75013"
 city: Paris
-street: "Rue de la Maison Blanche"
-housenumber: 8
+street: Rue de la Maison Blanche
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

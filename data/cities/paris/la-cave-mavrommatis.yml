@@ -4,8 +4,8 @@ latitude: 48.83943
 longitude: 2.35055
 postcode: "75005"
 city: Paris
-street: "Rue Censier"
-housenumber: 49
+street: Rue Censier
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Su 11:30-15:00, 18:00-21:20"
+opening_hours: Mo-Su 11:30-15:00, 18:00-21:20
 website: ""

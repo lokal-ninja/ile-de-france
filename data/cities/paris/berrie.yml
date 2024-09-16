@@ -4,8 +4,8 @@ latitude: 48.87672
 longitude: 2.33556
 postcode: "75009"
 city: Paris
-street: "Rue Saint-Lazare"
-housenumber: 39
+street: Rue Saint-Lazare
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 11:30-15:00"
+opening_hours: Mo-Fr 11:30-15:00
 website: ""

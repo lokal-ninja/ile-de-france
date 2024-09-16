@@ -4,8 +4,8 @@ latitude: 48.80697
 longitude: 2.13322
 postcode: "78000"
 city: Versailles
-street: "Rue André Chénier"
-housenumber: 18
-phone: "+33 1 39 50 33 01"
-opening_hours: "Fr,Sa 10:30-18:00"
+street: Rue André Chénier
+housenumber: "18"
+phone: +33 1 39 50 33 01
+opening_hours: Fr,Sa 10:30-18:00
 website: ""

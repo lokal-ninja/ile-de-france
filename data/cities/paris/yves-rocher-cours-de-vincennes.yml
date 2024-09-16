@@ -4,8 +4,8 @@ latitude: 48.8484
 longitude: 2.40028
 postcode: "75020"
 city: Paris
-street: "Cours de Vincennes"
-housenumber: 13
+street: Cours de Vincennes
+housenumber: "13"
 phone: ""
-opening_hours: "Mo 13:00-19:00; Tu 09:30-19:00; We-Fr 10:00-19:00; Sa 09:30-19:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/ile-de-france/paris/paris-nation/S-FRYROC71"
+opening_hours: Mo 13:00-19:00; Tu 09:30-19:00; We-Fr 10:00-19:00; Sa 09:30-19:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/ile-de-france/paris/paris-nation/S-FRYROC71

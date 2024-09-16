@@ -1,11 +1,11 @@
 id: 654320443
-type: way
+type: node
 latitude: 48.85527
 longitude: 2.78324
 postcode: "77700"
 city: Serris
 street: ""
-housenumber: 
-phone: "+33 1 60 04 49 80"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://www.mauboussin.fr/"
+housenumber: ""
+phone: +33 1 60 04 49 80
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://www.mauboussin.fr/

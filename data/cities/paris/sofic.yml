@@ -4,8 +4,8 @@ latitude: 48.85021
 longitude: 2.37519
 postcode: "75012"
 city: Paris
-street: "Avenue Ledru-Rollin"
-housenumber: 86
-phone: "+33 1 43 43 79 73"
-opening_hours: "Mo-Fr 08:15-12:00, 13:30-17:30"
-website: "https://sofic-cuir.com"
+street: Avenue Ledru-Rollin
+housenumber: "86"
+phone: +33 1 43 43 79 73
+opening_hours: Mo-Fr 08:15-12:00, 13:30-17:30
+website: https://sofic-cuir.com

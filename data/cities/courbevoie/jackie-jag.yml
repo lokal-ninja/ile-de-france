@@ -4,8 +4,8 @@ latitude: 48.9005
 longitude: 2.2687
 postcode: "92400"
 city: Courbevoie
-street: "Rue Franklin"
-housenumber: 5
-phone: "+33 1 47 37 27 12"
-opening_hours: "Mo-Th 08:30-12:00,13:30-18:00; Fr 08:30-12:00,13:30-17:00"
-website: "http://www.jackie-jag.fr"
+street: Rue Franklin
+housenumber: "5"
+phone: +33 1 47 37 27 12
+opening_hours: Mo-Th 08:30-12:00,13:30-18:00; Fr 08:30-12:00,13:30-17:00
+website: http://www.jackie-jag.fr

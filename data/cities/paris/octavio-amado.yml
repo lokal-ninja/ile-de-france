@@ -4,8 +4,8 @@ latitude: 48.85787
 longitude: 2.3667
 postcode: "75003"
 city: Paris
-street: "Rue Saint-Gilles"
-housenumber: 10
-phone: "+33 1 42 74 04 70"
+street: Rue Saint-Gilles
+housenumber: "10"
+phone: +33 1 42 74 04 70
 opening_hours: ""
-website: "https://octavioamado.com"
+website: https://octavioamado.com

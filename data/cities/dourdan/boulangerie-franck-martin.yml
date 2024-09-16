@@ -1,11 +1,11 @@
 id: 80484756
-type: way
+type: node
 latitude: 48.52938
 longitude: 2.01245
 postcode: "91410"
 city: Dourdan
-street: "Rue de Chartres"
-housenumber: 6
+street: Rue de Chartres
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

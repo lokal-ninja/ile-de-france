@@ -4,8 +4,8 @@ latitude: 48.80159
 longitude: 1.90313
 postcode: "78760"
 city: Jouars-Pontchartrain
-street: "Route de Paris"
-housenumber: 25
+street: Route de Paris
+housenumber: "25"
 phone: "+33170425853"
-opening_hours: "Mo-Fr 10:00-12:30,14:00-19:00; Sa 10:00-18:00"
-website: "https://www.ewigo.com/ewigo-plaisir"
+opening_hours: Mo-Fr 10:00-12:30,14:00-19:00; Sa 10:00-18:00
+website: https://www.ewigo.com/ewigo-plaisir

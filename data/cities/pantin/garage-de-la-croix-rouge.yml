@@ -4,8 +4,8 @@ latitude: 48.88951
 longitude: 2.40532
 postcode: "93500"
 city: Pantin
-street: "Rue Vaucanson"
-housenumber: 7
-phone: "+33 1 48 45 98 23"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-17:30"
-website: "https://www.peugeot-pantin.fr/"
+street: Rue Vaucanson
+housenumber: "7"
+phone: +33 1 48 45 98 23
+opening_hours: Mo-Fr 08:30-12:00,14:00-17:30
+website: https://www.peugeot-pantin.fr/

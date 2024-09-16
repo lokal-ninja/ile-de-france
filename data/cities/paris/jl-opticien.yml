@@ -4,8 +4,8 @@ latitude: 48.87091
 longitude: 2.36159
 postcode: "75010"
 city: Paris
-street: "Rue de Lancry"
-housenumber: 32
-phone: "+33 1 42 40 27 06"
-opening_hours: "Su-Th 10:00-20:00, Fr 10:00-19:00"
+street: Rue de Lancry
+housenumber: "32"
+phone: +33 1 42 40 27 06
+opening_hours: Su-Th 10:00-20:00, Fr 10:00-19:00
 website: ""

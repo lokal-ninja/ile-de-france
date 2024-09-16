@@ -1,11 +1,11 @@
 id: 658113444
-type: way
+type: node
 latitude: 49.06041
 longitude: 2.54073
 postcode: "95380"
 city: Villeron
-street: "Place Jean Golinelli"
-housenumber: 
+street: Place Jean Golinelli
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-13:00; Su 07:00-18:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-13:00; Su 07:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.86587
 longitude: 2.38372
 postcode: "75011"
 city: Paris
-street: "Boulevard de Ménilmontant"
-housenumber: 123
-phone: "+33 7 66 82 97 05"
-opening_hours: "Mo-Sa 10:30-19:30; Su 13:30-19:30"
+street: Boulevard de Ménilmontant
+housenumber: "123"
+phone: +33 7 66 82 97 05
+opening_hours: Mo-Sa 10:30-19:30; Su 13:30-19:30
 website: ""

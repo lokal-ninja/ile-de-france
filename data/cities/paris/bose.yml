@@ -4,8 +4,8 @@ latitude: 48.87314
 longitude: 2.31131
 postcode: "75008"
 city: Paris
-street: "Rue de Courcelles"
-housenumber: 68
+street: Rue de Courcelles
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
+opening_hours: Mo-Sa 10:00-19:30
 website: ""

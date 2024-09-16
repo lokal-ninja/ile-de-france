@@ -4,8 +4,8 @@ latitude: 48.85569
 longitude: 2.43927
 postcode: "93100"
 city: Montreuil
-street: "Rue Marcelin Berthelot"
-housenumber: 12
+street: Rue Marcelin Berthelot
+housenumber: "12"
 phone: "+33175476232"
-opening_hours: "Mo-Fr 10:00-19:30; Sa 10:30-20:00"
-website: "https://editionslibertalia.com/"
+opening_hours: Mo-Fr 10:00-19:30; Sa 10:30-20:00
+website: https://editionslibertalia.com/

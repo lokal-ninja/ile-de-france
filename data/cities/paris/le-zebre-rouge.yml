@@ -4,8 +4,8 @@ latitude: 48.88973
 longitude: 2.31882
 postcode: "75017"
 city: Paris
-street: "Rue Brochant"
-housenumber: 33
+street: Rue Brochant
+housenumber: "33"
 phone: ""
-opening_hours: "Tu-Sa 10:00-19:30"
+opening_hours: Tu-Sa 10:00-19:30
 website: ""

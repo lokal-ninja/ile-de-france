@@ -1,11 +1,11 @@
 id: 437133547
-type: way
+type: node
 latitude: 49.06413
 longitude: 1.70472
 postcode: "95510"
 city: Vétheuil
-street: "Avenue des Millonnets"
-housenumber: 3
+street: Avenue des Millonnets
+housenumber: "3"
 phone: "+33745106043"
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

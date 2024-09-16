@@ -4,8 +4,8 @@ latitude: 48.75237
 longitude: 2.30256
 postcode: "92160"
 city: Antony
-street: "Rue du Marché"
-housenumber: 13
-phone: "+33 7 88 64 78 25"
-opening_hours: "Tu-Th,Sa 09:00-13:00,14:00-19:00; Fr 09:00-15:00"
-website: "https://www.paris-ventoux.com/"
+street: Rue du Marché
+housenumber: "13"
+phone: +33 7 88 64 78 25
+opening_hours: Tu-Th,Sa 09:00-13:00,14:00-19:00; Fr 09:00-15:00
+website: https://www.paris-ventoux.com/

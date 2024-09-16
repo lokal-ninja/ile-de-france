@@ -4,8 +4,8 @@ latitude: 48.84722
 longitude: 2.23991
 postcode: "92100"
 city: Boulogne-Billancourt
-street: "Avenue Jean Baptiste Clément"
-housenumber: 20
-phone: "+33 6 15 75 30 21"
+street: Avenue Jean Baptiste Clément
+housenumber: "20"
+phone: +33 6 15 75 30 21
 opening_hours: ""
-website: "https://www.cycler.fr/"
+website: https://www.cycler.fr/

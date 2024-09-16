@@ -4,8 +4,8 @@ latitude: 48.8561
 longitude: 2.33914
 postcode: "75006"
 city: Paris
-street: "Rue Guénégaud"
+street: Rue Guénégaud
 housenumber: 2 bis
-phone: "+33 1 40 46 59 30"
-opening_hours: "Tu 11:00-19:00; We 11:00-21:00; Th-Su 11:00-19:00"
-website: "https://www.monnaiedeparis.fr/fr/boutique/boutique-de-la-monnaie-de-paris"
+phone: +33 1 40 46 59 30
+opening_hours: Tu 11:00-19:00; We 11:00-21:00; Th-Su 11:00-19:00
+website: https://www.monnaiedeparis.fr/fr/boutique/boutique-de-la-monnaie-de-paris

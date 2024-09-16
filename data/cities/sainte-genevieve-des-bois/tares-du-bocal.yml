@@ -4,8 +4,9 @@ latitude: 48.65158
 longitude: 2.31685
 postcode: "91700"
 city: Sainte-Geneviève-des-Bois
-street: "Avenue Gabriel Péri"
-housenumber: 27
+street: Avenue Gabriel Péri
+housenumber: "27"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 09:30-13:00,15:30-19:00; Sa 09:30-13:00,15:00-19:00; Su off"
-website: "https://tares-du-bocal.fr/"
+opening_hours: Mo off; Tu-Fr 09:30-13:00,15:30-19:00; Sa 09:30-13:00,15:00-19:00;
+    Su off
+website: https://tares-du-bocal.fr/

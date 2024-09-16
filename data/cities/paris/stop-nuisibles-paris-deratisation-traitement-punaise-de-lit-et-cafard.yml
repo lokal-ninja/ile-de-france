@@ -4,8 +4,8 @@ latitude: 48.85646
 longitude: 2.38273
 postcode: "75008"
 city: Paris
-street: "Avenue des Champs Elysées"
-housenumber: 66
-phone: "+33 1 89 62 36 44"
-opening_hours: "24/7"
+street: Avenue des Champs Elysées
+housenumber: "66"
+phone: +33 1 89 62 36 44
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.81039
 longitude: 2.12633
 postcode: "78000"
 city: Versailles
-street: "Boulevard du Roi"
-housenumber: 8
-phone: "+33 1 39531884"
+street: Boulevard du Roi
+housenumber: "8"
+phone: +33 1 39531884
 opening_hours: ""
-website: "https://www.deguisezmoi.com/"
+website: https://www.deguisezmoi.com/

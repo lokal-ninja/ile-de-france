@@ -4,8 +4,8 @@ latitude: 48.82203
 longitude: 2.34648
 postcode: "75013"
 city: Paris
-street: "Place de Rungis"
-housenumber: 5
+street: Place de Rungis
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:30; Su 08:30-13:00"
+opening_hours: Mo-Sa 08:30-20:30; Su 08:30-13:00
 website: ""

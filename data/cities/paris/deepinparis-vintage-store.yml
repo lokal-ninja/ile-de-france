@@ -4,8 +4,8 @@ latitude: 48.86361
 longitude: 2.34969
 postcode: "75001"
 city: Paris
-street: "Rue Étienne Marcel"
-housenumber: 13
+street: Rue Étienne Marcel
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 12:00-19:00"
-website: "https://www.instagram.com/deepinparis.vintage/"
+opening_hours: Mo-Sa 12:00-19:00
+website: https://www.instagram.com/deepinparis.vintage/

@@ -4,8 +4,8 @@ latitude: 48.83725
 longitude: 2.48355
 postcode: "94130"
 city: Nogent-sur-Marne
-street: "Rue du Jeu de l'Arc"
-housenumber: 6
-phone: "+33 1 48 73 54 94"
-opening_hours: "Tu-Th 10:00-19:00; Fr 09:30-20:00; Sa 09:30-19:00;"
-website: "https://y-coiffure.com/pages/salon-y-nogent-sur-marne"
+street: Rue du Jeu de l'Arc
+housenumber: "6"
+phone: +33 1 48 73 54 94
+opening_hours: Tu-Th 10:00-19:00; Fr 09:30-20:00; Sa 09:30-19:00;
+website: https://y-coiffure.com/pages/salon-y-nogent-sur-marne

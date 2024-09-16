@@ -1,11 +1,11 @@
 id: 131367647
-type: way
+type: node
 latitude: 48.94955
 longitude: 2.18151
 postcode: "78500"
 city: Sartrouville
-street: "Route de Cormeilles"
-housenumber: 74
+street: Route de Cormeilles
+housenumber: "74"
 phone: ""
 opening_hours: ""
-website: "https://www.pointp.fr/"
+website: https://www.pointp.fr/

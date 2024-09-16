@@ -4,8 +4,8 @@ latitude: 48.75899
 longitude: 2.30665
 postcode: "92160"
 city: Antony
-street: "Rue Paul Bourget"
-housenumber: 4
+street: Rue Paul Bourget
+housenumber: "4"
 phone: ""
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

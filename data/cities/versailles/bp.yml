@@ -4,8 +4,8 @@ latitude: 48.80467
 longitude: 2.1528
 postcode: "78000"
 city: Versailles
-street: "Boulevard de la République"
-housenumber: 60
-phone: "+33 1 39 50 45 02"
-opening_hours: "24/7"
+street: Boulevard de la République
+housenumber: "60"
+phone: +33 1 39 50 45 02
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.96643
 longitude: 2.2835
 postcode: "95210"
 city: Saint-Gratien
-street: "Rue des Halles"
-housenumber: 2
-phone: "+33 2 51 06 90 00"
-opening_hours: "Tu-Fr 10:00-13:00, 14:30-18:30; Sa 09:00-13:30, 14:30-18:00"
-website: "https://voyages.univairmer.com/rechercheAgence.cfm"
+street: Rue des Halles
+housenumber: "2"
+phone: +33 2 51 06 90 00
+opening_hours: Tu-Fr 10:00-13:00, 14:30-18:30; Sa 09:00-13:30, 14:30-18:00
+website: https://voyages.univairmer.com/rechercheAgence.cfm

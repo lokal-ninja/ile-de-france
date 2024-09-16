@@ -1,11 +1,11 @@
 id: 113456311
-type: way
+type: node
 latitude: 48.61835
 longitude: 2.54451
 postcode: "77127"
 city: Lieusaint
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.cultura.com/"
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.cultura.com/

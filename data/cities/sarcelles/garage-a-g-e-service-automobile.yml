@@ -4,8 +4,8 @@ latitude: 48.98641
 longitude: 2.38947
 postcode: "95200"
 city: Sarcelles
-street: "Rue du Bas Perreux"
-housenumber: 1
+street: Rue du Bas Perreux
+housenumber: "1"
 phone: "+33134194253"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:30-14:00"
-website: "https://www.garageageservice.fr/contact"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:30-14:00
+website: https://www.garageageservice.fr/contact

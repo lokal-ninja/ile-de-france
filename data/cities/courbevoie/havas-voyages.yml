@@ -1,11 +1,11 @@
 id: 723784148
-type: way
+type: node
 latitude: 48.88996
 longitude: 2.24498
 postcode: "92400"
 city: Courbevoie
-street: "Square des Corolles"
-housenumber: 45
+street: Square des Corolles
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 10:30-17:30"
+opening_hours: Mo-Fr 10:30-17:30
 website: ""

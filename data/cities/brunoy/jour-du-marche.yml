@@ -1,11 +1,11 @@
 id: 373175158
-type: way
+type: node
 latitude: 48.69475
 longitude: 2.50514
 postcode: "91800"
 city: Brunoy
-street: "Boulevard Charles de Gaulle"
-housenumber: 
+street: Boulevard Charles de Gaulle
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Fr 09:00-19:30, Sa 08:30-19:30, Su 09:00-13:00"
+opening_hours: Tu-Fr 09:00-19:30, Sa 08:30-19:30, Su 09:00-13:00
 website: ""

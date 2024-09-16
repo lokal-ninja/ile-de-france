@@ -4,8 +4,8 @@ latitude: 48.8175
 longitude: 2.46682
 postcode: "94340"
 city: Joinville-le-Pont
-street: "Rue de Paris"
-housenumber: 38
-phone: "+33 1 48 85 39 20"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:45"
-website: "https://magasins.picard.fr/1131-picard-joinville-mairie"
+street: Rue de Paris
+housenumber: "38"
+phone: +33 1 48 85 39 20
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:45
+website: https://magasins.picard.fr/1131-picard-joinville-mairie

@@ -4,8 +4,8 @@ latitude: 48.87131
 longitude: 2.36171
 postcode: "75010"
 city: Paris
-street: "Rue de Lancry"
-housenumber: 45
-phone: "+33 1 83 79 08 96"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Ile-de-France/Paris/BIOCOOP-LANCRY"
+street: Rue de Lancry
+housenumber: "45"
+phone: +33 1 83 79 08 96
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Ile-de-France/Paris/BIOCOOP-LANCRY

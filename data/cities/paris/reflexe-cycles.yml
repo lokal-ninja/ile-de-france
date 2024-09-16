@@ -4,8 +4,8 @@ latitude: 48.88766
 longitude: 2.2976
 postcode: "75017"
 city: Paris
-street: "Rue de Senlis"
-housenumber: 5
-phone: "+33 7 66 27 45 93"
+street: Rue de Senlis
+housenumber: "5"
+phone: +33 7 66 27 45 93
 opening_hours: ""
-website: "https://reflexecycles.com"
+website: https://reflexecycles.com

@@ -4,8 +4,8 @@ latitude: 48.84995
 longitude: 2.34048
 postcode: "75006"
 city: Paris
-street: "Rue Racine"
-housenumber: 15
+street: Rue Racine
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.bourgine.net/"
+website: https://www.bourgine.net/

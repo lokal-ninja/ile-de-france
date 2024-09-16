@@ -4,8 +4,8 @@ latitude: 48.88645
 longitude: 2.37351
 postcode: "75019"
 city: Paris
-street: "Quai de la Seine"
-housenumber: 43
+street: Quai de la Seine
+housenumber: "43"
 phone: ""
-opening_hours: "Tu-Fr 17:30-23:00; Sa 11:00-23:00"
+opening_hours: Tu-Fr 17:30-23:00; Sa 11:00-23:00
 website: ""

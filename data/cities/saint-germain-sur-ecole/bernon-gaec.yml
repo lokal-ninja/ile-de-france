@@ -4,8 +4,8 @@ latitude: 48.47395
 longitude: 2.50709
 postcode: "77930"
 city: Saint-Germain-sur-École
-street: "Rue de Dannemois"
-housenumber: 10
-phone: "+33 1 64 38 01 01"
-opening_hours: "Mo-Fr 09:00-12:00,15:00-19:00"
+street: Rue de Dannemois
+housenumber: "10"
+phone: +33 1 64 38 01 01
+opening_hours: Mo-Fr 09:00-12:00,15:00-19:00
 website: ""

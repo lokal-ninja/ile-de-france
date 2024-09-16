@@ -1,11 +1,11 @@
 id: 394981562
-type: way
+type: node
 latitude: 48.98605
 longitude: 2.42103
 postcode: "95400"
 city: Arnouville
-street: "Rue Eugène Lemaire"
-housenumber: 2
+street: Rue Eugène Lemaire
+housenumber: "2"
 phone: "+33980628930"
-opening_hours: "Mo-Fr 08:30–12:30, 14:00–18:00; Sa 08:30–12:30"
+opening_hours: Mo-Fr 08:30–12:30, 14:00–18:00; Sa 08:30–12:30
 website: ""

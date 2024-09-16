@@ -4,8 +4,8 @@ latitude: 48.82102
 longitude: 2.30333
 postcode: "92240"
 city: Malakoff
-street: "Rue Béranger"
-housenumber: 9
-phone: "+33 1 78 16 50 00"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-13:00"
+street: Rue Béranger
+housenumber: "9"
+phone: +33 1 78 16 50 00
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-13:00
 website: ""

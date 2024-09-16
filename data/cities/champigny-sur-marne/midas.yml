@@ -5,7 +5,7 @@ longitude: 2.49407
 postcode: "94500"
 city: Champigny-sur-Marne
 street: ""
-housenumber: 240
-phone: "+33 1 47 06 05 15"
+housenumber: "240"
+phone: +33 1 47 06 05 15
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

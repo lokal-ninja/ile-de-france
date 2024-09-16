@@ -4,8 +4,8 @@ latitude: 48.86499
 longitude: 2.37297
 postcode: "75011"
 city: Paris
-street: "Rue de Nemours"
-housenumber: 4
+street: Rue de Nemours
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Sa 12:00-19:00"
+opening_hours: Tu-Sa 12:00-19:00
 website: ""

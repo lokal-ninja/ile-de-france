@@ -4,8 +4,8 @@ latitude: 48.8817
 longitude: 2.36204
 postcode: "75010"
 city: Paris
-street: "Rue Philippe de Girard"
-housenumber: 12
-phone: "+33 1 76 39 05 11"
-opening_hours: "Tu-Sa 13:00-19:00"
-website: "https://www.lexception.com"
+street: Rue Philippe de Girard
+housenumber: "12"
+phone: +33 1 76 39 05 11
+opening_hours: Tu-Sa 13:00-19:00
+website: https://www.lexception.com

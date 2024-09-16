@@ -1,11 +1,11 @@
 id: 147090866
-type: way
+type: node
 latitude: 49.00242
 longitude: 2.18081
 postcode: "95480"
 city: Pierrelaye
-street: "Boulevard du Havre"
-housenumber: 232
-phone: "+33 1 39 78 12 32"
+street: Boulevard du Havre
+housenumber: "232"
+phone: +33 1 39 78 12 32
 opening_hours: ""
-website: "https://www.tissusdesursules.fr/content/48-pierrelaye-la-maison-d-ursule"
+website: https://www.tissusdesursules.fr/content/48-pierrelaye-la-maison-d-ursule

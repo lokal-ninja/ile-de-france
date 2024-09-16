@@ -1,11 +1,11 @@
 id: 323598329
-type: way
+type: node
 latitude: 48.69006
 longitude: 2.43994
 postcode: "91270"
 city: Vigneux-sur-Seine
-street: "Place des 4 saisons"
+street: Place des 4 saisons
 housenumber: 12/14
-phone: "+33 1 69 03 07 22"
-opening_hours: "Fr-We"
+phone: +33 1 69 03 07 22
+opening_hours: Fr-We
 website: ""

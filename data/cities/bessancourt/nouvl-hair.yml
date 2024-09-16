@@ -4,8 +4,9 @@ latitude: 49.03795
 longitude: 2.21177
 postcode: "95550"
 city: Bessancourt
-street: "Rue du Château"
+street: Rue du Château
 housenumber: 2 bis
 phone: ""
-opening_hours: "Tu-We 09:00-12:00, 14:00-19:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 08:30-18:30"
-website: "https://www.salon-nouvlhair.com/"
+opening_hours: Tu-We 09:00-12:00, 14:00-19:00; Th 09:00-20:00; Fr 09:00-19:00; Sa
+    08:30-18:30
+website: https://www.salon-nouvlhair.com/

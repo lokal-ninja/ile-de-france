@@ -4,8 +4,8 @@ latitude: 48.83426
 longitude: 2.47292
 postcode: "94130"
 city: Nogent-sur-Marne
-street: "Avenue de Joinville"
-housenumber: 5
+street: Avenue de Joinville
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 08:30-22:00"
-website: "https://www.franprix.fr/magasins/5298"
+opening_hours: Mo-Su 08:30-22:00
+website: https://www.franprix.fr/magasins/5298

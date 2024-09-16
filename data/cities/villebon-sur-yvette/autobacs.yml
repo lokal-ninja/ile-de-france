@@ -1,11 +1,11 @@
 id: 221366504
-type: way
+type: node
 latitude: 48.70236
 longitude: 2.2544
 postcode: "91140"
 city: Villebon-sur-Yvette
-street: "Parc d'activité Villebon 2"
-housenumber: 
-phone: "+33 1 69 33 78 00"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:30-19:00"
-website: "https://www.autobacs.fr/"
+street: Parc d'activité Villebon 2
+housenumber: ""
+phone: +33 1 69 33 78 00
+opening_hours: Mo-Sa 09:00-20:00; Su 09:30-19:00
+website: https://www.autobacs.fr/

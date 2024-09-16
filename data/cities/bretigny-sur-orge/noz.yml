@@ -1,11 +1,11 @@
 id: 108280539
-type: way
+type: node
 latitude: 48.58942
 longitude: 2.30675
 postcode: "91220"
 city: Brétigny-sur-Orge
-street: "Rue du Morvan"
-housenumber: 8
+street: Rue du Morvan
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/bretigny-sur-orge/"
+website: https://nozarrivages.com/magasin/bretigny-sur-orge/

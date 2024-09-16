@@ -1,11 +1,11 @@
 id: 890751354
-type: way
+type: node
 latitude: 48.69745
 longitude: 2.40641
 postcode: "91270"
 city: Vigneux-sur-Seine
-street: "Chem:in des Mousseaux"
-housenumber: 
+street: Chem:in des Mousseaux
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

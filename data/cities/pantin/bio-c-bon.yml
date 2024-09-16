@@ -4,8 +4,8 @@ latitude: 48.89358
 longitude: 2.40191
 postcode: "93500"
 city: Pantin
-street: "Rue Hoche"
-housenumber: 30
-phone: "+33 1 48 10 18 92"
-opening_hours: "Mo-Sa 09:30-20:00; Su 09:30-13:00"
-website: "https://bio-c-bon.eu/fr/nos_magasins/bio-c-bon-pantin"
+street: Rue Hoche
+housenumber: "30"
+phone: +33 1 48 10 18 92
+opening_hours: Mo-Sa 09:30-20:00; Su 09:30-13:00
+website: https://bio-c-bon.eu/fr/nos_magasins/bio-c-bon-pantin

@@ -4,8 +4,8 @@ latitude: 48.40792
 longitude: 2.70396
 postcode: "77300"
 city: Fontainebleau
-street: "Rue d'Avon"
-housenumber: 60
-phone: "+33 1 60 96 85 08"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Ile-de-France/Seine-et-Marne/BIOCOOP-FONTAINEBLEAU"
+street: Rue d'Avon
+housenumber: "60"
+phone: +33 1 60 96 85 08
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Ile-de-France/Seine-et-Marne/BIOCOOP-FONTAINEBLEAU

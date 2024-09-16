@@ -4,8 +4,8 @@ latitude: 48.85896
 longitude: 2.4364
 postcode: "93100"
 city: Montreuil
-street: "Avenue de la Résistance"
-housenumber: 9
+street: Avenue de la Résistance
+housenumber: "9"
 phone: ""
-opening_hours: "Mo 12:00-19:00; Tu-Sa 10:00-19:00"
-website: "http://www.foliesdencre.com/"
+opening_hours: Mo 12:00-19:00; Tu-Sa 10:00-19:00
+website: http://www.foliesdencre.com/

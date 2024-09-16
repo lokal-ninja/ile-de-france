@@ -4,8 +4,8 @@ latitude: 48.84884
 longitude: 2.38575
 postcode: "75012"
 city: Paris
-street: "Rue de Reuilly"
-housenumber: 15
-phone: "+33 1 44 64 07 97"
-opening_hours: "Mo-Su 11:30-20:00"
-website: "https://lechanvrierfrancais.com"
+street: Rue de Reuilly
+housenumber: "15"
+phone: +33 1 44 64 07 97
+opening_hours: Mo-Su 11:30-20:00
+website: https://lechanvrierfrancais.com

@@ -4,8 +4,8 @@ latitude: 48.95584
 longitude: 2.38277
 postcode: "93240"
 city: Stains
-street: "Rue Carnot"
-housenumber: 1
+street: Rue Carnot
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 06:30-19:30; Su 06:00-12:00;"
+opening_hours: Mo-Sa 06:30-19:30; Su 06:00-12:00;
 website: ""

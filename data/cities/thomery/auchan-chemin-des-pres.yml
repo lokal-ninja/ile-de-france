@@ -1,11 +1,11 @@
 id: 80556158
-type: way
+type: node
 latitude: 48.4083
 longitude: 2.7912
 postcode: "77810"
 city: Thomery
-street: "Chemin des Prés"
-housenumber: 
+street: Chemin des Prés
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

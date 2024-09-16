@@ -1,11 +1,11 @@
 id: 147088091
-type: way
+type: node
 latitude: 49.00466
 longitude: 2.17726
 postcode: "95220"
 city: Pierrelaye
-street: "Boulevard du Havre"
-housenumber: 248
-phone: "+33 1 30 26 24 88"
+street: Boulevard du Havre
+housenumber: "248"
+phone: +33 1 30 26 24 88
 opening_hours: ""
-website: "https://www.joueclub.fr/magasin/joueclub-herblay.html"
+website: https://www.joueclub.fr/magasin/joueclub-herblay.html

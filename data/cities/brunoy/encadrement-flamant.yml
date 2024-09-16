@@ -4,8 +4,8 @@ latitude: 48.69421
 longitude: 2.5042
 postcode: "91800"
 city: Brunoy
-street: "Boulevard Charles de Gaulle"
-housenumber: 6
-phone: "+33 1 69 83 30 14"
-opening_hours: "Tu-Fr 09:30-12:30,14:00-18:00"
-website: "https://www.encadrement-flamant.com"
+street: Boulevard Charles de Gaulle
+housenumber: "6"
+phone: +33 1 69 83 30 14
+opening_hours: Tu-Fr 09:30-12:30,14:00-18:00
+website: https://www.encadrement-flamant.com

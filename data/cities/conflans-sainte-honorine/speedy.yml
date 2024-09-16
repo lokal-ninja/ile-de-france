@@ -1,11 +1,11 @@
 id: 77986784
-type: way
+type: node
 latitude: 49.00938
 longitude: 2.08425
 postcode: "78700"
 city: Conflans-Sainte-Honorine
-street: "Rue des Cayennes"
-housenumber: 
+street: Rue des Cayennes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

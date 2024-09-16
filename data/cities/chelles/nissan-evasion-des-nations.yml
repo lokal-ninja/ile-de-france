@@ -1,11 +1,11 @@
 id: 111037965
-type: way
+type: node
 latitude: 48.87156
 longitude: 2.58876
 postcode: "77500"
 city: Chelles
-street: "Rue Auguste Meunier"
-housenumber: 40
+street: Rue Auguste Meunier
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

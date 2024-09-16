@@ -1,11 +1,11 @@
 id: 977490396
-type: way
+type: node
 latitude: 48.89316
 longitude: 2.29758
 postcode: "92300"
 city: Levallois-Perret
-street: "Rue d'Alsace"
-housenumber: 31
+street: Rue d'Alsace
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:30"
-website: "https://www.intersport.fr/Hauts-de-Seine-92/LEVALLOIS-PERRET-92300/INTERSPORT-SOOUEST/04943_000/#https://www.intersport.fr/departement/paris-75/"
+opening_hours: Mo-Sa 10:00-20:30
+website: https://www.intersport.fr/Hauts-de-Seine-92/LEVALLOIS-PERRET-92300/INTERSPORT-SOOUEST/04943_000/#https://www.intersport.fr/departement/paris-75/

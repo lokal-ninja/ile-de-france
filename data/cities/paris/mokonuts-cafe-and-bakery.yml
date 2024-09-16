@@ -4,8 +4,8 @@ latitude: 48.85083
 longitude: 2.38142
 postcode: "75011"
 city: Paris
-street: "Rue Saint-Bernard"
-housenumber: 5
-phone: "+33 9 80 81 82 85"
-opening_hours: "Mo-Fr 09:00-10:30,12:00-14:30"
-website: "https://www.facebook.com/mokonuts/"
+street: Rue Saint-Bernard
+housenumber: "5"
+phone: +33 9 80 81 82 85
+opening_hours: Mo-Fr 09:00-10:30,12:00-14:30
+website: https://www.facebook.com/mokonuts/

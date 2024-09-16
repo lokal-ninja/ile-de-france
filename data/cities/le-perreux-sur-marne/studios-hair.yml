@@ -4,8 +4,8 @@ latitude: 48.83773
 longitude: 2.4948
 postcode: "94170"
 city: Le Perreux-sur-Marne
-street: "Boulevard de la Liberté"
-housenumber: 4
+street: Boulevard de la Liberté
+housenumber: "4"
 phone: "+33148727548"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-19:00; "
-website: "https://www.planity.com/studio-hairs-liberte-94170-le-perreux-sur-marne"
+opening_hours: 'Tu-Fr 10:00-19:00; Sa 09:00-19:00; '
+website: https://www.planity.com/studio-hairs-liberte-94170-le-perreux-sur-marne

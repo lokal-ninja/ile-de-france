@@ -4,8 +4,8 @@ latitude: 48.89565
 longitude: 2.34717
 postcode: "75018"
 city: Paris
-street: "Rue Championnet"
-housenumber: 55
+street: Rue Championnet
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Tu 10:00-15:00; We-Fr 10:00-00:00; Sa 10:00-17:00"
-website: "https://linktr.ee/champion.bistro"
+opening_hours: Mo-Tu 10:00-15:00; We-Fr 10:00-00:00; Sa 10:00-17:00
+website: https://linktr.ee/champion.bistro

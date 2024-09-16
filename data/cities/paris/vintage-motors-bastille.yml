@@ -1,11 +1,11 @@
 id: 63643820
-type: way
+type: node
 latitude: 48.85461
 longitude: 2.37043
 postcode: "75011"
 city: Paris
-street: "Bis Bd Richard-Lenoir"
-housenumber: 10
+street: Bis Bd Richard-Lenoir
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://vintage-motors.net/"
+website: https://vintage-motors.net/

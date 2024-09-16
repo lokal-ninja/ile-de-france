@@ -1,11 +1,11 @@
 id: 663928879
-type: way
+type: node
 latitude: 48.86186
 longitude: 2.34766
 postcode: "75001"
 city: Paris 1er Arrondissement
-street: "Passage de la Canopée"
-housenumber: 
+street: Passage de la Canopée
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:30; Su 11:00-19:00"
-website: "https://www.sephora.fr/"
+opening_hours: Mo-Sa 10:00-20:30; Su 11:00-19:00
+website: https://www.sephora.fr/

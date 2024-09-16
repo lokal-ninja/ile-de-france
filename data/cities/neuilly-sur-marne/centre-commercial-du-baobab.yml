@@ -1,11 +1,11 @@
 id: 145438934
-type: way
+type: node
 latitude: 48.85547
 longitude: 2.51635
 postcode: "93330"
 city: Neuilly-sur-Marne
-street: "Boulevard du Maréchal Foch"
-housenumber: 9
+street: Boulevard du Maréchal Foch
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

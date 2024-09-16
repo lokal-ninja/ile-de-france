@@ -4,8 +4,8 @@ latitude: 48.93091
 longitude: 2.05252
 postcode: "78300"
 city: Poissy
-street: "Avenue du Maréchal Foch"
-housenumber: 99
+street: Avenue du Maréchal Foch
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Su,PH 06:00-21:00"
-website: "https://laverie-poissy.business.site/"
+opening_hours: Mo-Su,PH 06:00-21:00
+website: https://laverie-poissy.business.site/

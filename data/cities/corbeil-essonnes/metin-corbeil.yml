@@ -1,11 +1,11 @@
 id: 63589927
-type: way
+type: node
 latitude: 48.61449
 longitude: 2.45524
 postcode: "91100"
 city: Corbeil-Essonnes
-street: "Rue Jacques Anquetil"
-housenumber: 15
-phone: "+33 1 69 22 82 40"
+street: Rue Jacques Anquetil
+housenumber: "15"
+phone: +33 1 69 22 82 40
 opening_hours: ""
-website: "https://www.gueudet.fr/concession/peugeot/peugeot-corbeil"
+website: https://www.gueudet.fr/concession/peugeot/peugeot-corbeil

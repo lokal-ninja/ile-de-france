@@ -1,11 +1,11 @@
 id: 218611118
-type: way
+type: node
 latitude: 48.69919
 longitude: 2.20882
 postcode: "91140"
 city: Villebon-sur-Yvette
-street: "Avenue du Général de Gaulle"
-housenumber: 75
-phone: "+33 1 60 10 31 68"
+street: Avenue du Général de Gaulle
+housenumber: "75"
+phone: +33 1 60 10 31 68
 opening_hours: ""
 website: ""

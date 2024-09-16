@@ -1,11 +1,11 @@
 id: 115165272
-type: way
+type: node
 latitude: 48.80406
 longitude: 3.08803
 postcode: "77120"
 city: Coulommiers
-street: "Boulevard de la Marne"
-housenumber: 1
+street: Boulevard de la Marne
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30,14:00-17:00"
+opening_hours: Mo-Sa 09:00-12:30,14:00-17:00
 website: ""

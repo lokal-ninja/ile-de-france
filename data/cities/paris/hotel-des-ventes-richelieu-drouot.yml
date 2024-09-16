@@ -4,8 +4,8 @@ latitude: 48.87323
 longitude: 2.34005
 postcode: ""
 city: Paris
-street: "Rue Drouot"
-housenumber: 9
+street: Rue Drouot
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-We,Fr 11:00-18:00; Th 11:00-21:00"
+opening_hours: Mo-We,Fr 11:00-18:00; Th 11:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.86331
 longitude: 2.37966
 postcode: "75011"
 city: Paris
-street: "Rue Guillaume Bertrand"
-housenumber: 3
+street: Rue Guillaume Bertrand
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Sa 11:00-19:30; Su 14:00-19:00"
-website: "https://ladroguerieparisienne.fr"
+opening_hours: Tu-Sa 11:00-19:30; Su 14:00-19:00
+website: https://ladroguerieparisienne.fr

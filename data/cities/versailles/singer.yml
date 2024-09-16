@@ -4,8 +4,8 @@ latitude: 48.80611
 longitude: 2.13432
 postcode: "78000"
 city: Versailles
-street: "Rue de la Paroisse"
-housenumber: 71
+street: Rue de la Paroisse
+housenumber: "71"
 phone: ""
 opening_hours: ""
-website: "https://www.singerfrance.com/"
+website: https://www.singerfrance.com/

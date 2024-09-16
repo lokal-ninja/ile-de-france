@@ -4,8 +4,8 @@ latitude: 48.97533
 longitude: 2.31702
 postcode: "95160"
 city: Montmorency
-street: "Boulevard de Montmorency"
-housenumber: 125
+street: Boulevard de Montmorency
+housenumber: "125"
 phone: "+33139648818"
-opening_hours: "Tu,Th 09:00-12:00,13:30-18:30; We 09:00-12:00,13:30-18:00; Fr,Sa 09:00-18:30"
+opening_hours: Tu,Th 09:00-12:00,13:30-18:30; We 09:00-12:00,13:30-18:00; Fr,Sa 09:00-18:30
 website: ""

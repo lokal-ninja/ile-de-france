@@ -4,8 +4,8 @@ latitude: 48.82907
 longitude: 1.95273
 postcode: "78370"
 city: Plaisir
-street: "Rue des Frères Lumière"
-housenumber: 15
+street: Rue des Frères Lumière
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:00, 14:00-19:00"
-website: "https://www.ekolux.com/magasin-ekolux/paris-ouest"
+opening_hours: Tu-Sa 09:00-12:00, 14:00-19:00
+website: https://www.ekolux.com/magasin-ekolux/paris-ouest

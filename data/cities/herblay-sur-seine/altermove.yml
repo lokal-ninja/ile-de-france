@@ -1,11 +1,11 @@
 id: 85308805
-type: way
+type: node
 latitude: 49.00156
 longitude: 2.18478
 postcode: "95220"
 city: Herblay-sur-Seine
-street: "Avenue de la Libération"
-housenumber: 20
+street: Avenue de la Libération
+housenumber: "20"
 phone: "+33130260604"
-opening_hours: "Tu-Sa 09:30-19:00"
+opening_hours: Tu-Sa 09:30-19:00
 website: ""

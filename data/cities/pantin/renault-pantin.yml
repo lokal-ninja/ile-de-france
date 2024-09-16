@@ -1,11 +1,11 @@
 id: 245294589
-type: way
+type: node
 latitude: 48.89584
 longitude: 2.39895
 postcode: "93500"
 city: Pantin
-street: "Avenue du Général Leclerc"
-housenumber: 13
-phone: "+33 1 48 10 42 41"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.renault-retail-group.fr/concessions-renault/details/76-pantin.html"
+street: Avenue du Général Leclerc
+housenumber: "13"
+phone: +33 1 48 10 42 41
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.renault-retail-group.fr/concessions-renault/details/76-pantin.html

@@ -4,8 +4,8 @@ latitude: 48.90806
 longitude: 2.35789
 postcode: "93210"
 city: Saint-Denis
-street: "Avenue du Président Wilson"
-housenumber: 123
-phone: "+33 1 42 43 08 74"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Avenue du Président Wilson
+housenumber: "123"
+phone: +33 1 42 43 08 74
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

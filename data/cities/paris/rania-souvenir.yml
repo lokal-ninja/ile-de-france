@@ -4,8 +4,8 @@ latitude: 48.88403
 longitude: 2.33277
 postcode: "75018"
 city: Paris
-street: "Rue Lepic"
-housenumber: 1
+street: Rue Lepic
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

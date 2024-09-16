@@ -5,7 +5,7 @@ longitude: 2.04648
 postcode: "78180"
 city: Montigny-le-Bretonneux
 street: ""
-housenumber: 12
-phone: "+33 1 39 42 95 89"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:30"
-website: "https://www.grandfrais.com/montigny-le-bretonneux/magasin-200.html"
+housenumber: "12"
+phone: +33 1 39 42 95 89
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:30
+website: https://www.grandfrais.com/montigny-le-bretonneux/magasin-200.html

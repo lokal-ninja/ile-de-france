@@ -1,11 +1,11 @@
 id: 1126980747
-type: way
+type: node
 latitude: 48.80252
 longitude: 3.10104
 postcode: "77120"
 city: Coulommiers
-street: "Rue de l'Orgeval"
-housenumber: 50
-phone: "+33 1 87 92 00 10"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Rue de l'Orgeval
+housenumber: "50"
+phone: +33 1 87 92 00 10
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

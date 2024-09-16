@@ -4,8 +4,8 @@ latitude: 48.62407
 longitude: 2.1235
 postcode: "91640"
 city: Briis-sous-Forges
-street: "Rue de l'Armée Patton"
-housenumber: 14
+street: Rue de l'Armée Patton
+housenumber: "14"
 phone: "+33169260471"
-opening_hours: "Tu,Th 10:00-12:45,15:30-19:30; Fr,Sa 09:00-12:45,15:30-19:30; Su 09:00-12:45"
-website: "https://lafromagerie-bsf.com"
+opening_hours: Tu,Th 10:00-12:45,15:30-19:30; Fr,Sa 09:00-12:45,15:30-19:30; Su 09:00-12:45
+website: https://lafromagerie-bsf.com

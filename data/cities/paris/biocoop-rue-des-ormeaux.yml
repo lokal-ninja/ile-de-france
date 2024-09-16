@@ -4,8 +4,8 @@ latitude: 48.85054
 longitude: 2.39934
 postcode: "75020"
 city: Paris
-street: "Rue des Ormeaux"
-housenumber: 2
+street: Rue des Ormeaux
+housenumber: "2"
 phone: ""
-opening_hours: "Mo 12:00-20:00; Tu-Sa 10:00-20:00"
-website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Ile-de-France/Paris/BIOCOOP-ADN-Anti-Dechets-Nation"
+opening_hours: Mo 12:00-20:00; Tu-Sa 10:00-20:00
+website: https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Ile-de-France/Paris/BIOCOOP-ADN-Anti-Dechets-Nation

@@ -4,8 +4,8 @@ latitude: 48.8527
 longitude: 2.38333
 postcode: "75011"
 city: Paris
-street: "Rue Faidherbe"
-housenumber: 32
-phone: "+33 1 43 56 72 47"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "http://amapola-fleuriste.com/"
+street: Rue Faidherbe
+housenumber: "32"
+phone: +33 1 43 56 72 47
+opening_hours: Mo-Sa 09:30-20:00
+website: http://amapola-fleuriste.com/

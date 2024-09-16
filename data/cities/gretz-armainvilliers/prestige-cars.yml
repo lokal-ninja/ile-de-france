@@ -1,11 +1,11 @@
 id: 796387152
-type: way
+type: node
 latitude: 48.73412
 longitude: 2.74319
 postcode: "77220"
 city: Gretz-Armainvilliers
-street: "Avenue Lazare Ponticelli"
-housenumber: 253
-phone: "+33 1 64 07 66 89"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Avenue Lazare Ponticelli
+housenumber: "253"
+phone: +33 1 64 07 66 89
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

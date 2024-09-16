@@ -4,8 +4,8 @@ latitude: 48.83507
 longitude: 2.49757
 postcode: "94170"
 city: Le Perreux-sur-Marne
-street: "Avenue de Bry"
+street: Avenue de Bry
 housenumber: 44-46
-phone: "+33 1 43 24 08 35"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-12:00,14:00-18:00; "
-website: "https://www.renault.fr/trouver-un-etablissement.html"
+phone: +33 1 43 24 08 35
+opening_hours: 'Mo-Fr 08:30-19:00; Sa 09:00-12:00,14:00-18:00; '
+website: https://www.renault.fr/trouver-un-etablissement.html

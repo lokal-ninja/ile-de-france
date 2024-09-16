@@ -1,11 +1,11 @@
 id: 70664624
-type: way
+type: node
 latitude: 48.72075
 longitude: 2.27552
 postcode: "91300"
 city: Massy
-street: "Rue de l'Aulnaye Dracourt"
-housenumber: 2
+street: Rue de l'Aulnaye Dracourt
+housenumber: "2"
 phone: "+33169535959"
-opening_hours: "09:00-20:00; PH 09:00-20:00; 2023 May 01 off"
-website: "https://www.leroymerlin.fr/magasins/massy.html"
+opening_hours: 09:00-20:00; PH 09:00-20:00; 2023 May 01 off
+website: https://www.leroymerlin.fr/magasins/massy.html

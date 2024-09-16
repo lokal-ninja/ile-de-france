@@ -1,11 +1,11 @@
 id: 341053519
-type: way
+type: node
 latitude: 48.9528
 longitude: 2.31407
 postcode: ""
 city: Épinay-sur-Seine
-street: "Avenue de Lattre de Tassigny;Avenue de la République"
-housenumber: 5
+street: Avenue de Lattre de Tassigny;Avenue de la République
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

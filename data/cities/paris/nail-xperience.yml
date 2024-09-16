@@ -4,8 +4,8 @@ latitude: 48.86843
 longitude: 2.28439
 postcode: "75016"
 city: Paris
-street: "Rue Mesnil"
-housenumber: 10
-phone: "+33 7 69 39 64 33"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.nailxperience.com/"
+street: Rue Mesnil
+housenumber: "10"
+phone: +33 7 69 39 64 33
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.nailxperience.com/

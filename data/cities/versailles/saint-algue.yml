@@ -4,8 +4,8 @@ latitude: 48.80503
 longitude: 2.14442
 postcode: "78000"
 city: Versailles
-street: "Rue de Montreuil"
-housenumber: 33
+street: Rue de Montreuil
+housenumber: "33"
 phone: ""
-opening_hours: "Tu,We,Fr,Sa 09:30-18:30; Th 09:30-20:00"
+opening_hours: Tu,We,Fr,Sa 09:30-18:30; Th 09:30-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 116986666
-type: way
+type: node
 latitude: 48.58286
 longitude: 2.45456
 postcode: ""
 city: Villabé
-street: "Avenue des Courtes Épluches"
-housenumber: 7
+street: Avenue des Courtes Épluches
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

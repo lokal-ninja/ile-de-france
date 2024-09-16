@@ -4,8 +4,8 @@ latitude: 48.86037
 longitude: 2.36711
 postcode: "75003"
 city: Paris
-street: "Boulevard Beaumarchais"
-housenumber: 103
+street: Boulevard Beaumarchais
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,14:00-17:30"
-website: "https://www.prophot.com/"
+opening_hours: Mo-Fr 09:30-13:00,14:00-17:30
+website: https://www.prophot.com/

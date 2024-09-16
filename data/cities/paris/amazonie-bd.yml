@@ -4,8 +4,8 @@ latitude: 48.8507
 longitude: 2.37682
 postcode: "75012"
 city: Paris
-street: "Rue Antoine Vollon"
-housenumber: 7
+street: Rue Antoine Vollon
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 14:00-19:00; Sa 12:00-18:00"
+opening_hours: Tu-Fr 14:00-19:00; Sa 12:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 628032636
-type: way
+type: node
 latitude: 48.91745
 longitude: 2.31688
 postcode: "92600"
 city: Asnières-sur-Seine
-street: "Mail Camille du Gast"
+street: Mail Camille du Gast
 housenumber: 5-7
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-19:00"
-website: "https://www.franprix.fr/magasins/6308"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-19:00
+website: https://www.franprix.fr/magasins/6308

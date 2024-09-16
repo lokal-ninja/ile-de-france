@@ -4,8 +4,8 @@ latitude: 48.80436
 longitude: 2.15774
 postcode: "78000"
 city: Versailles
-street: "Esplanade Grand Siècle"
-housenumber: 31
+street: Esplanade Grand Siècle
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 08:45-13:15,15:00-19:00; Sa 09:00-13:15,15:15-18:45"
-website: "https://loisirs-presse.apluspapeterie.fr"
+opening_hours: Mo-Fr 08:45-13:15,15:00-19:00; Sa 09:00-13:15,15:15-18:45
+website: https://loisirs-presse.apluspapeterie.fr

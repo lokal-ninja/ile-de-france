@@ -1,11 +1,11 @@
 id: 101171338
-type: way
+type: node
 latitude: 49.05067
 longitude: 2.07292
 postcode: "95520"
 city: Osny
-street: "Chaussée Jules César"
-housenumber: 8
-phone: "+33 1 34 41 72 72"
+street: Chaussée Jules César
+housenumber: "8"
+phone: +33 1 34 41 72 72
 opening_hours: ""
-website: "https://concessions.peugeot.fr/osny/"
+website: https://concessions.peugeot.fr/osny/

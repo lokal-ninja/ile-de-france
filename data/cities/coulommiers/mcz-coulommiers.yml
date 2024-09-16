@@ -1,11 +1,11 @@
 id: 1126980749
-type: way
+type: node
 latitude: 48.80242
 longitude: 3.09992
 postcode: "77120"
 city: Coulommiers
-street: "Rue de l'Orgeval"
-housenumber: 50
-phone: "+33 1 64 82 72 64"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://mczcoulommiers.com/"
+street: Rue de l'Orgeval
+housenumber: "50"
+phone: +33 1 64 82 72 64
+opening_hours: Tu-Sa 10:00-19:00
+website: https://mczcoulommiers.com/

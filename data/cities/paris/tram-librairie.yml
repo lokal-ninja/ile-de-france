@@ -4,8 +4,8 @@ latitude: 48.84702
 longitude: 2.34812
 postcode: "75005"
 city: Paris
-street: "Rue de la Montagne Sainte-Geneviève"
-housenumber: 47
+street: Rue de la Montagne Sainte-Geneviève
+housenumber: "47"
 phone: ""
-opening_hours: "Tu-Sa 10:00-18:00"
+opening_hours: Tu-Sa 10:00-18:00
 website: ""

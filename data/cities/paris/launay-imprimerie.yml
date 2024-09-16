@@ -4,8 +4,8 @@ latitude: 48.84641
 longitude: 2.35428
 postcode: "75005"
 city: Paris
-street: "Rue Linné"
-housenumber: 45
-phone: "+33 1 43 54 16 60"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.imprimerie-launay.fr/"
+street: Rue Linné
+housenumber: "45"
+phone: +33 1 43 54 16 60
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.imprimerie-launay.fr/

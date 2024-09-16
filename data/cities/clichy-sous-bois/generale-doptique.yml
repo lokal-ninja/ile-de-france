@@ -1,11 +1,11 @@
 id: 77732098
-type: way
+type: node
 latitude: 48.9076
 longitude: 2.53159
 postcode: "93390"
 city: Clichy-sous-Bois
-street: "Allée de la Fosse Maussoin"
-housenumber: 2
+street: Allée de la Fosse Maussoin
+housenumber: "2"
 phone: "+33141546561"
 opening_hours: ""
-website: "https://www.generale-optique.com/opticien/clichy-sous-bois/379"
+website: https://www.generale-optique.com/opticien/clichy-sous-bois/379

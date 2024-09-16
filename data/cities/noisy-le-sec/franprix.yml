@@ -4,8 +4,8 @@ latitude: 48.87853
 longitude: 2.45301
 postcode: "93130"
 city: Noisy-le-Sec
-street: "Boulevard de la Boissière"
-housenumber: 63
+street: Boulevard de la Boissière
+housenumber: "63"
 phone: "+33970171000"
-opening_hours: "Mo-Sa 07:30-22:00, Su09:00-22:00"
-website: "https://www.franprix.fr/magasins/1160"
+opening_hours: Mo-Sa 07:30-22:00, Su09:00-22:00
+website: https://www.franprix.fr/magasins/1160

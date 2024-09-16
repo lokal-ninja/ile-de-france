@@ -4,8 +4,8 @@ latitude: 48.79585
 longitude: 2.30203
 postcode: "92220"
 city: Bagneux
-street: "Rue de la République"
-housenumber: 3
-phone: "+33 1 49 65 01 20"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-19:00"
-website: "http://librairielebazarutopique.fr/"
+street: Rue de la République
+housenumber: "3"
+phone: +33 1 49 65 01 20
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-19:00
+website: http://librairielebazarutopique.fr/

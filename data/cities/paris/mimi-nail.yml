@@ -4,8 +4,8 @@ latitude: 48.88245
 longitude: 2.31619
 postcode: "75017"
 city: Paris
-street: "Rue des Dames"
-housenumber: 112
+street: Rue des Dames
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

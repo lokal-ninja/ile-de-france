@@ -4,8 +4,8 @@ latitude: 48.80449
 longitude: 2.13254
 postcode: "78000"
 city: Versailles
-street: "Rue Georges Clemenceau"
-housenumber: 14
+street: Rue Georges Clemenceau
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://happypaput.com/"
+website: https://happypaput.com/

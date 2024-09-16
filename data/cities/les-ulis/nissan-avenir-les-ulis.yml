@@ -1,11 +1,11 @@
 id: 82351488
-type: way
+type: node
 latitude: 48.68448
 longitude: 2.19447
 postcode: "91955"
 city: Les Ulis
-street: "Avenue des Tropiques"
-housenumber: 4
+street: Avenue des Tropiques
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.84659
 longitude: 2.39274
 postcode: "75012"
 city: Paris
-street: "Rue Dorian"
-housenumber: 11
+street: Rue Dorian
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

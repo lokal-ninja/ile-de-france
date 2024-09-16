@@ -4,8 +4,8 @@ latitude: 48.88727
 longitude: 2.32335
 postcode: "75017"
 city: Paris
-street: "Rue la Condamine"
+street: Rue la Condamine
 housenumber: 24-26
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00; Su 09:00-22:00"
-website: "https://www.franprix.fr/magasins/4200"
+opening_hours: Mo-Sa 07:30-22:00; Su 09:00-22:00
+website: https://www.franprix.fr/magasins/4200

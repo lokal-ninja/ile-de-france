@@ -4,8 +4,8 @@ latitude: 48.86087
 longitude: 2.34529
 postcode: "75001"
 city: Paris
-street: "Rue Saint-Honoré"
-housenumber: 
+street: Rue Saint-Honoré
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; PH,Su off"
+opening_hours: Mo-Sa 10:00-19:00; PH,Su off
 website: ""

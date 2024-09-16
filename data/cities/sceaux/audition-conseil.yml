@@ -4,8 +4,8 @@ latitude: 48.7792
 longitude: 2.2908
 postcode: "92330"
 city: Sceaux
-street: "Avenue Charles Péguy"
-housenumber: 2
-phone: "+33 1 46 61 51 32"
-opening_hours: "Tu-Th 09:00-12:30,14:00-18:30; Fr 09:00-12:30,14:00-17:30; Sa 09:00-13:00"
+street: Avenue Charles Péguy
+housenumber: "2"
+phone: +33 1 46 61 51 32
+opening_hours: Tu-Th 09:00-12:30,14:00-18:30; Fr 09:00-12:30,14:00-17:30; Sa 09:00-13:00
 website: ""

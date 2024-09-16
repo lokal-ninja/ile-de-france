@@ -1,11 +1,11 @@
 id: 229205278
-type: way
+type: node
 latitude: 48.83026
 longitude: 2.37668
 postcode: "75013"
 city: Paris
-street: "Avenue de France"
-housenumber: 113
-phone: "+33 1 44 06 82 00"
-opening_hours: "Mo-Sa 09:30-20:30"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-paris--0070042900429"
+street: Avenue de France
+housenumber: "113"
+phone: +33 1 44 06 82 00
+opening_hours: Mo-Sa 09:30-20:30
+website: https://www.decathlon.fr/store-view/magasin-de-sports-paris--0070042900429

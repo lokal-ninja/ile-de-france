@@ -4,8 +4,8 @@ latitude: 48.87379
 longitude: 2.36291
 postcode: "75010"
 city: Paris
-street: "Quai de Valmy"
-housenumber: 93
+street: Quai de Valmy
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Su 11:00-13:00,14:00-19:00"
-website: "https://gaya.bike/"
+opening_hours: Mo-Su 11:00-13:00,14:00-19:00
+website: https://gaya.bike/

@@ -4,8 +4,8 @@ latitude: 48.87518
 longitude: 2.28459
 postcode: "75016"
 city: Paris
-street: "Rue Pergolèse"
-housenumber: 21
+street: Rue Pergolèse
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

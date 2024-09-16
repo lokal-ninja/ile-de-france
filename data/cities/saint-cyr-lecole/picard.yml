@@ -1,11 +1,11 @@
 id: 126149996
-type: way
+type: node
 latitude: 48.80196
 longitude: 2.06088
 postcode: "78210"
 city: Saint-Cyr-l'École
-street: "Rue Mansart"
-housenumber: 2
+street: Rue Mansart
+housenumber: "2"
 phone: "+33134605895"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:45"
-website: "https://picard.fr"
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:45
+website: https://picard.fr

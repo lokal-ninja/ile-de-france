@@ -1,11 +1,11 @@
 id: 1175447123
-type: way
+type: node
 latitude: 48.56232
 longitude: 2.44728
 postcode: "91540"
 city: Mennecy
-street: "Rue Charles Péguy"
-housenumber: 1
+street: Rue Charles Péguy
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

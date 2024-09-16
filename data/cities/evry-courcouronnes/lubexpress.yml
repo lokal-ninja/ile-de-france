@@ -1,11 +1,11 @@
 id: 63749191
-type: way
+type: node
 latitude: 48.63928
 longitude: 2.42766
 postcode: "91000"
 city: Évry-Courcouronnes
-street: "Boulevard des Champs-Élysées"
-housenumber: 
+street: Boulevard des Champs-Élysées
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

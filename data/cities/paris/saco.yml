@@ -4,8 +4,8 @@ latitude: 48.85823
 longitude: 2.34658
 postcode: "75001"
 city: Paris
-street: "Avenue Victoria"
-housenumber: 18
+street: Avenue Victoria
+housenumber: "18"
 phone: "+33140267842"
-opening_hours: "Tu-Sa 10:00-20:00"
-website: "https://www.sacohair.com/salon-paris/"
+opening_hours: Tu-Sa 10:00-20:00
+website: https://www.sacohair.com/salon-paris/

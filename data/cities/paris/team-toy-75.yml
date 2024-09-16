@@ -4,8 +4,9 @@ latitude: 48.83324
 longitude: 2.39586
 postcode: "75012"
 city: Paris
-street: "Rue de Charenton"
-housenumber: 321
-phone: "+33 1 40 02 07 42"
-opening_hours: "Mo-Th 08:00-12:30,14:00-18:00; Fr 08:00-12:30,14:00-17:00; Sa,Su,PH off"
-website: "https://www.teamcolin-toyota.fr/adresses/team-toy-75-paris-12/"
+street: Rue de Charenton
+housenumber: "321"
+phone: +33 1 40 02 07 42
+opening_hours: Mo-Th 08:00-12:30,14:00-18:00; Fr 08:00-12:30,14:00-17:00; Sa,Su,PH
+    off
+website: https://www.teamcolin-toyota.fr/adresses/team-toy-75-paris-12/

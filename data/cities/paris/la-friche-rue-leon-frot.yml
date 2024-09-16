@@ -4,8 +4,8 @@ latitude: 48.85639
 longitude: 2.38597
 postcode: "75011"
 city: Paris
-street: "Rue Léon Frot"
-housenumber: 56
+street: Rue Léon Frot
+housenumber: "56"
 phone: ""
-opening_hours: "Mo 12:00-10:00; Tu-Sa 10:00-20:00; Su 11:00-19:00"
-website: "http://librairielafriche.fr/article/une-librairie-de-quartier"
+opening_hours: Mo 12:00-10:00; Tu-Sa 10:00-20:00; Su 11:00-19:00
+website: http://librairielafriche.fr/article/une-librairie-de-quartier

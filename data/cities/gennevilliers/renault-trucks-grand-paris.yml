@@ -1,11 +1,11 @@
 id: 63963391
-type: way
+type: node
 latitude: 48.94594
 longitude: 2.2947
 postcode: "92230"
 city: Gennevilliers
-street: "Route du Bassin n°6"
+street: Route du Bassin n°6
 housenumber: 11-13
 phone: ""
 opening_hours: ""
-website: "https://www.renault-trucks.fr/gennevilliers"
+website: https://www.renault-trucks.fr/gennevilliers

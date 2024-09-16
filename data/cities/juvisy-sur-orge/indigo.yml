@@ -1,11 +1,11 @@
 id: 148075758
-type: way
+type: node
 latitude: 48.6875
 longitude: 2.37139
 postcode: "91260"
 city: Juvisy-sur-Orge
-street: "Avenue de la Cour de France"
-housenumber: 1
-phone: "+33 1 69 24 47 47"
-opening_hours: "Mo-Fr 08:30-19:00, Sa 09:00-12:30,14:30-18:30"
+street: Avenue de la Cour de France
+housenumber: "1"
+phone: +33 1 69 24 47 47
+opening_hours: Mo-Fr 08:30-19:00, Sa 09:00-12:30,14:30-18:30
 website: ""

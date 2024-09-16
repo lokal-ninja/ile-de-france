@@ -4,8 +4,8 @@ latitude: 48.86214
 longitude: 2.34468
 postcode: "75001"
 city: Paris
-street: "Niveau -4 Zone Lescot"
-housenumber: 
-phone: "+33 9 70 72 12 53"
-opening_hours: "Mo-Fr 11:00-19:00"
-website: "https://lick.fr/"
+street: Niveau -4 Zone Lescot
+housenumber: ""
+phone: +33 9 70 72 12 53
+opening_hours: Mo-Fr 11:00-19:00
+website: https://lick.fr/

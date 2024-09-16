@@ -4,8 +4,8 @@ latitude: 48.82784
 longitude: 2.11807
 postcode: "78150"
 city: Le Chesnay
-street: "Avenue Charles de Gaulle"
-housenumber: 2
-phone: "+339 70 72 12 54"
-opening_hours: "Mo-Fr 10:00-21:00"
-website: "https://lick.fr/"
+street: Avenue Charles de Gaulle
+housenumber: "2"
+phone: +339 70 72 12 54
+opening_hours: Mo-Fr 10:00-21:00
+website: https://lick.fr/

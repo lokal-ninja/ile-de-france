@@ -1,11 +1,11 @@
 id: 73980584
-type: way
+type: node
 latitude: 48.80331
 longitude: 2.16669
 postcode: "78220"
 city: Viroflay
-street: "Avenue du Général Leclerc"
-housenumber: 119
+street: Avenue du Général Leclerc
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

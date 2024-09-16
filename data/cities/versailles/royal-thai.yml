@@ -4,8 +4,8 @@ latitude: 48.79663
 longitude: 2.12782
 postcode: "78000"
 city: Versailles
-street: "Rue d'Anjou"
-housenumber: 51
-phone: "+33 1 39 25 06 11"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://royalthai.fr/"
+street: Rue d'Anjou
+housenumber: "51"
+phone: +33 1 39 25 06 11
+opening_hours: Mo-Sa 10:00-19:00
+website: https://royalthai.fr/

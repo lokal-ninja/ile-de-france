@@ -4,8 +4,8 @@ latitude: 48.74586
 longitude: 2.28321
 postcode: "91370"
 city: Verrières-le-Buisson
-street: "Rue des Petits Ruisseaux"
-housenumber: 1
-phone: "+33 1 69 53 08 54"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-13:15"
-website: "https://www.carrefour.fr/magasin/contact-verrieres-le-buisson"
+street: Rue des Petits Ruisseaux
+housenumber: "1"
+phone: +33 1 69 53 08 54
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-13:15
+website: https://www.carrefour.fr/magasin/contact-verrieres-le-buisson

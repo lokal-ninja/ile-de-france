@@ -1,11 +1,11 @@
 id: 793052794
-type: way
+type: node
 latitude: 48.61363
 longitude: 2.54657
 postcode: "77127"
 city: Lieusaint
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:30; Su 11:00-19:00"
-website: "https://www2.hm.com/fr_fr/index.html"
+opening_hours: Mo-Sa 10:00-20:30; Su 11:00-19:00
+website: https://www2.hm.com/fr_fr/index.html

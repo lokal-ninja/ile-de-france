@@ -4,8 +4,8 @@ latitude: 48.8542
 longitude: 2.3633
 postcode: "75004"
 city: Paris
-street: "Rue Saint-Antoine"
-housenumber: 71
-phone: "+33 1 42 74 13 73"
-opening_hours: "Mo-Sa 09:00-20:50; Su 09:00-12:50"
-website: "https://www.monoprix.fr/monoprix-saint-paul-paris-75004-s"
+street: Rue Saint-Antoine
+housenumber: "71"
+phone: +33 1 42 74 13 73
+opening_hours: Mo-Sa 09:00-20:50; Su 09:00-12:50
+website: https://www.monoprix.fr/monoprix-saint-paul-paris-75004-s

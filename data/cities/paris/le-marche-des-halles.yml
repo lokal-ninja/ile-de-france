@@ -4,8 +4,8 @@ latitude: 48.86064
 longitude: 2.34702
 postcode: "75001"
 city: Paris
-street: "Rue des Innocents"
-housenumber: 7
+street: Rue des Innocents
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:30-23:30, Su 10:00-23:00"
+opening_hours: Mo-Sa 08:30-23:30, Su 10:00-23:00
 website: ""

@@ -1,11 +1,11 @@
 id: 201823342
-type: way
+type: node
 latitude: 48.46293
 longitude: 2.86829
 postcode: "77830"
 city: Pamfou
-street: "Avenue André Guédon"
-housenumber: 2
+street: Avenue André Guédon
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 09:00-13:00, 15:00-21:00"
+opening_hours: Mo-Su 09:00-13:00, 15:00-21:00
 website: ""

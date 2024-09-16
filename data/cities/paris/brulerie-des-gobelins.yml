@@ -4,8 +4,8 @@ latitude: 48.83838
 longitude: 2.35037
 postcode: "75005"
 city: Paris
-street: "Avenue des Gobelins"
-housenumber: 2
-phone: "+33 1 43 31 90 13"
-opening_hours: "Tu-Sa 09:30-19:00"
-website: "https://www.bruleriedesgobelins.fr/"
+street: Avenue des Gobelins
+housenumber: "2"
+phone: +33 1 43 31 90 13
+opening_hours: Tu-Sa 09:30-19:00
+website: https://www.bruleriedesgobelins.fr/

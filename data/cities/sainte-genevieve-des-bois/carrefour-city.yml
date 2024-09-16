@@ -1,11 +1,11 @@
 id: 549024940
-type: way
+type: node
 latitude: 48.6486
 longitude: 2.3028
 postcode: "91700"
 city: Sainte-Geneviève-des-Bois
-street: "Route de Longpont"
-housenumber: 140
-phone: "+33 1 65 15 91 32"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/city-sainte-genevieve-des-bois-longpont"
+street: Route de Longpont
+housenumber: "140"
+phone: +33 1 65 15 91 32
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/city-sainte-genevieve-des-bois-longpont

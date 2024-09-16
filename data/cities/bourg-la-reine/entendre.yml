@@ -4,8 +4,8 @@ latitude: 48.78197
 longitude: 2.31427
 postcode: "92340"
 city: Bourg-la-Reine
-street: "Boulevard du Maréchal Joffre"
-housenumber: 64
+street: Boulevard du Maréchal Joffre
+housenumber: "64"
 phone: ""
-opening_hours: "Tu-Sa 09:30-12:30, 14:00-18:30"
-website: "https://www.entendre-bourg-la-reine.fr"
+opening_hours: Tu-Sa 09:30-12:30, 14:00-18:30
+website: https://www.entendre-bourg-la-reine.fr

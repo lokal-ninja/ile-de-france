@@ -4,8 +4,8 @@ latitude: 48.86051
 longitude: 2.35008
 postcode: "75004"
 city: Paris
-street: "Rue Quincampoix"
-housenumber: 33
+street: Rue Quincampoix
+housenumber: "33"
 phone: "+33170069989"
-opening_hours: "Mo-Sa 11:00-20:00; Su 11:30-19:30"
+opening_hours: Mo-Sa 11:00-20:00; Su 11:30-19:30
 website: ""

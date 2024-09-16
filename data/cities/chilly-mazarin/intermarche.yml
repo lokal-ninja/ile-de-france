@@ -1,11 +1,11 @@
 id: 161212910
-type: way
+type: node
 latitude: 48.70554
 longitude: 2.29634
 postcode: "91380"
 city: Chilly-Mazarin
-street: "Route de Longjumeau"
-housenumber: 
-phone: "+33 1 69 74 88 88"
-opening_hours: "24/7"
+street: Route de Longjumeau
+housenumber: ""
+phone: +33 1 69 74 88 88
+opening_hours: 24/7
 website: ""

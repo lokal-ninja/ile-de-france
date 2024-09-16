@@ -4,8 +4,8 @@ latitude: 48.86334
 longitude: 2.36628
 postcode: "75003"
 city: Paris
-street: "Boulevard du Temple"
-housenumber: 5
+street: Boulevard du Temple
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:30"
-website: "https://www.altermundi.com/"
+opening_hours: Mo-Su 10:00-19:30
+website: https://www.altermundi.com/

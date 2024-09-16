@@ -1,11 +1,11 @@
 id: 405389452
-type: way
+type: node
 latitude: 48.70616
 longitude: 2.06032
 postcode: "78460"
 city: Chevreuse
-street: "Rue de la Porte de Paris"
-housenumber: 90
-phone: "+33 9 86 66 76 63"
-opening_hours: "Mo 15:00-19:30; Tu-Fr 09:30-13:00,15:00-19:30; Sa 09:30-19:30"
-website: "http://www.lamenthepoivree.fr/"
+street: Rue de la Porte de Paris
+housenumber: "90"
+phone: +33 9 86 66 76 63
+opening_hours: Mo 15:00-19:30; Tu-Fr 09:30-13:00,15:00-19:30; Sa 09:30-19:30
+website: http://www.lamenthepoivree.fr/

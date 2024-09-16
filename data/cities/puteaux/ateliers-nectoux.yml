@@ -4,8 +4,8 @@ latitude: 48.88463
 longitude: 2.23866
 postcode: "92800"
 city: Puteaux
-street: "Rue de la République"
-housenumber: 104
-phone: "+33 1 46 98 03 11"
-opening_hours: "Mo-Fr 09:30-12:30,14:00-17:30"
-website: "https://www.atelier-nectoux.fr/"
+street: Rue de la République
+housenumber: "104"
+phone: +33 1 46 98 03 11
+opening_hours: Mo-Fr 09:30-12:30,14:00-17:30
+website: https://www.atelier-nectoux.fr/

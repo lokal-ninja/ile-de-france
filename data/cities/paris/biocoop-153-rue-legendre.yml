@@ -4,8 +4,8 @@ latitude: 48.89062
 longitude: 2.32453
 postcode: "75017"
 city: Paris
-street: "153 Rue Legendre"
-housenumber: 153
-phone: "+33 1 42 26 10 30"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Ile-de-France/Paris/BIOCOOP-PARIS-17EME"
+street: 153 Rue Legendre
+housenumber: "153"
+phone: +33 1 42 26 10 30
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Ile-de-France/Paris/BIOCOOP-PARIS-17EME

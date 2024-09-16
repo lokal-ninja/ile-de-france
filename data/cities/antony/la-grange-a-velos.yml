@@ -4,8 +4,8 @@ latitude: 48.75944
 longitude: 2.30223
 postcode: "92160"
 city: Antony
-street: "Rue d'Alsace-Lorraine"
-housenumber: 15
+street: Rue d'Alsace-Lorraine
+housenumber: "15"
 phone: ""
-opening_hours: "unknown"
-website: "https://lagrangeavelos.fr"
+opening_hours: unknown
+website: https://lagrangeavelos.fr

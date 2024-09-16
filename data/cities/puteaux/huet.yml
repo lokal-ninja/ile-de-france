@@ -4,8 +4,8 @@ latitude: 48.88312
 longitude: 2.23774
 postcode: "92800"
 city: Puteaux
-street: "Rue Chantecoq"
-housenumber: 15
-phone: "+33 1 47 75 81 55"
-opening_hours: "Tu-Fr 07:00-13:00,16:00-20:00; Sa 07:00-20:00; Su 07:00-13:00"
-website: "https://www.lesboucherieshuet.com/"
+street: Rue Chantecoq
+housenumber: "15"
+phone: +33 1 47 75 81 55
+opening_hours: Tu-Fr 07:00-13:00,16:00-20:00; Sa 07:00-20:00; Su 07:00-13:00
+website: https://www.lesboucherieshuet.com/

@@ -4,8 +4,8 @@ latitude: 48.8246
 longitude: 2.3884
 postcode: "94200"
 city: Ivry-sur-Seine
-street: "Rue François Mitterrand"
-housenumber: 5
-phone: "+33 1 56 20 29 30"
-opening_hours: "Mo-Su 10:00-19:30"
-website: "https://www.truffaut.com/stores/ivry-sur-seine"
+street: Rue François Mitterrand
+housenumber: "5"
+phone: +33 1 56 20 29 30
+opening_hours: Mo-Su 10:00-19:30
+website: https://www.truffaut.com/stores/ivry-sur-seine

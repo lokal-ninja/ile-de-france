@@ -4,8 +4,8 @@ latitude: 48.82383
 longitude: 2.35114
 postcode: "75013"
 city: Paris
-street: "Rue de la Colonie"
-housenumber: 72
+street: Rue de la Colonie
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Su 07:30-21:30"
+opening_hours: Mo-Su 07:30-21:30
 website: ""

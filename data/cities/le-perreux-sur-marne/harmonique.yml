@@ -4,8 +4,8 @@ latitude: 48.83417
 longitude: 2.51464
 postcode: "94170"
 city: Le Perreux-sur-Marne
-street: "Avenue Pierre Brossolette"
-housenumber: 232
-phone: "+33 1 48 72 95 95"
-opening_hours: "Mo-Sa 10:00-12:30,14:00-18:30; "
-website: "https://harmonique.fr/"
+street: Avenue Pierre Brossolette
+housenumber: "232"
+phone: +33 1 48 72 95 95
+opening_hours: 'Mo-Sa 10:00-12:30,14:00-18:30; '
+website: https://harmonique.fr/

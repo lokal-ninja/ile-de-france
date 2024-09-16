@@ -4,8 +4,8 @@ latitude: 48.84992
 longitude: 2.35466
 postcode: "75005"
 city: Paris
-street: "Rue du Cardinal Lemoine"
-housenumber: 2
-phone: "+33 1 43 54 62 53"
-opening_hours: "Mo-Fr 07:00-20:00; PH,Sa,Su 08:00-20:00"
-website: "https://tourdargent.com/en/le-boulanger/"
+street: Rue du Cardinal Lemoine
+housenumber: "2"
+phone: +33 1 43 54 62 53
+opening_hours: Mo-Fr 07:00-20:00; PH,Sa,Su 08:00-20:00
+website: https://tourdargent.com/en/le-boulanger/

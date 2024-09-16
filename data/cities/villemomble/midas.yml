@@ -4,8 +4,8 @@ latitude: 48.88338
 longitude: 2.49859
 postcode: "93250"
 city: Villemomble
-street: "Avenue de Rosny"
-housenumber: 106
-phone: "+33 1 48 54 43 29"
+street: Avenue de Rosny
+housenumber: "106"
+phone: +33 1 48 54 43 29
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

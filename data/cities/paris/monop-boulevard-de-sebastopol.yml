@@ -4,8 +4,8 @@ latitude: 48.85902
 longitude: 2.34875
 postcode: "75004"
 city: Paris
-street: "Boulevard de Sébastopol"
-housenumber: 6
+street: Boulevard de Sébastopol
+housenumber: "6"
 phone: "+33144780362"
-opening_hours: "Mo-Sa 08:30-23:59"
-website: "https://www.monoprix.fr/"
+opening_hours: Mo-Sa 08:30-23:59
+website: https://www.monoprix.fr/

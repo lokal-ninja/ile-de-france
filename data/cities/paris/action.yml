@@ -4,8 +4,8 @@ latitude: 48.89836
 longitude: 2.37642
 postcode: "75019"
 city: Paris
-street: "Boulevard Macdonald"
-housenumber: 181
+street: Boulevard Macdonald
+housenumber: "181"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.action.com/fr-fr/points-de-vente/paris/"
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.action.com/fr-fr/points-de-vente/paris/

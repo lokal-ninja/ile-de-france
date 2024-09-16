@@ -4,8 +4,8 @@ latitude: 48.8676
 longitude: 2.33625
 postcode: "75002"
 city: Paris
-street: "Rue Sainte-Anne"
-housenumber: 48
-phone: "+33 1 42 86 17 38"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.voyageursdumonde.fr/"
+street: Rue Sainte-Anne
+housenumber: "48"
+phone: +33 1 42 86 17 38
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.voyageursdumonde.fr/

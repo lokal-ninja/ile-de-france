@@ -1,11 +1,11 @@
 id: 85316932
-type: way
+type: node
 latitude: 48.99972
 longitude: 2.18559
 postcode: "95220"
 city: Herblay-sur-Seine
-street: "Boulevard du Havre"
-housenumber: 26
+street: Boulevard du Havre
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

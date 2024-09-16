@@ -1,11 +1,11 @@
 id: 146886705
-type: way
+type: node
 latitude: 48.96821
 longitude: 2.31001
 postcode: "95880"
 city: Enghien-les-Bains
-street: "Place de Verdun"
-housenumber: 4
+street: Place de Verdun
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

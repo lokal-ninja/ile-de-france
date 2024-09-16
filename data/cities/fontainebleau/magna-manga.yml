@@ -4,8 +4,8 @@ latitude: 48.40512
 longitude: 2.69663
 postcode: "77300"
 city: Fontainebleau
-street: "Rue de France"
-housenumber: 56
-phone: "+33 9 73 22 60 78"
-opening_hours: "Tu-Sa 10:00-13:00,14:00-19:00"
-website: "https://www.magnamanga.fr"
+street: Rue de France
+housenumber: "56"
+phone: +33 9 73 22 60 78
+opening_hours: Tu-Sa 10:00-13:00,14:00-19:00
+website: https://www.magnamanga.fr

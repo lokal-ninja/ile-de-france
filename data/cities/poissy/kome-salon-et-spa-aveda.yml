@@ -4,8 +4,8 @@ latitude: 48.92824
 longitude: 2.04358
 postcode: "78300"
 city: Poissy
-street: "Rue du 11 Novembre 1918"
-housenumber: 17
-phone: "+33 1 30 65 88 98"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.kome.fr/"
+street: Rue du 11 Novembre 1918
+housenumber: "17"
+phone: +33 1 30 65 88 98
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.kome.fr/

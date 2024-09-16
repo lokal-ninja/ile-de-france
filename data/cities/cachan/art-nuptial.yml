@@ -4,8 +4,8 @@ latitude: 48.79494
 longitude: 2.34003
 postcode: "94230"
 city: Cachan
-street: "Rue Étienne Dolet"
-housenumber: 79
-phone: "+33 9 54 23 16 44"
-opening_hours: "sur rendez-vous"
-website: "https://www.artnuptial.com/"
+street: Rue Étienne Dolet
+housenumber: "79"
+phone: +33 9 54 23 16 44
+opening_hours: '"sur rendez-vous"'
+website: https://www.artnuptial.com/

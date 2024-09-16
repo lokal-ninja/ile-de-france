@@ -1,11 +1,11 @@
 id: 114148449
-type: way
+type: node
 latitude: 48.62758
 longitude: 2.59527
 postcode: "77550"
 city: Moissy-Cramayel
-street: "Avenue Pasteur"
-housenumber: 94
-phone: "+33 1 60 60 33 47"
+street: Avenue Pasteur
+housenumber: "94"
+phone: +33 1 60 60 33 47
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.89079
 longitude: 2.34938
 postcode: "75018"
 city: Paris
-street: "Boulevard Barbès"
-housenumber: 71
+street: Boulevard Barbès
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://hautdistrict.com"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://hautdistrict.com

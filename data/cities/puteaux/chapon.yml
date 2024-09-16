@@ -4,8 +4,9 @@ latitude: 48.88139
 longitude: 2.23839
 postcode: "92800"
 city: Puteaux
-street: "Rue Jean Jaurès"
-housenumber: 134
+street: Rue Jean Jaurès
+housenumber: "134"
 phone: ""
-opening_hours: "Mo 13:00-19:00; Tu-Fr 10:00-14:00,15:00-19:30; Sa 10:00-14:00,15:00-20:00; Su 10:00-14:00,15:00-19:00"
+opening_hours: Mo 13:00-19:00; Tu-Fr 10:00-14:00,15:00-19:30; Sa 10:00-14:00,15:00-20:00;
+    Su 10:00-14:00,15:00-19:00
 website: ""

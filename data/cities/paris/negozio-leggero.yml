@@ -4,8 +4,8 @@ latitude: 48.86742
 longitude: 2.358
 postcode: "75003"
 city: Paris
-street: "Rue Notre-Dame-de-Nazareth"
-housenumber: 37
+street: Rue Notre-Dame-de-Nazareth
+housenumber: "37"
 phone: ""
-opening_hours: "Tu-Sa 10:00-20:00"
-website: "https://www.negozioleggero.it/fr/"
+opening_hours: Tu-Sa 10:00-20:00
+website: https://www.negozioleggero.it/fr/

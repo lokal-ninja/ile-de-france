@@ -4,8 +4,8 @@ latitude: 48.87145
 longitude: 2.35432
 postcode: "75010"
 city: Paris
-street: "Passage Brady"
-housenumber: 87
+street: Passage Brady
+housenumber: "87"
 phone: ""
 opening_hours: ""
-website: "https://velan.paris/"
+website: https://velan.paris/

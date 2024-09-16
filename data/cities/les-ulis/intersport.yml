@@ -1,11 +1,11 @@
 id: 545875417
-type: way
+type: node
 latitude: 48.6757
 longitude: 2.17408
 postcode: "91940"
 city: Les Ulis
-street: "avenue de l'aubrac"
-housenumber: 1
+street: avenue de l'aubrac
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

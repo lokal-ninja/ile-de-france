@@ -4,8 +4,8 @@ latitude: 48.86787
 longitude: 2.37854
 postcode: "75011"
 city: Paris
-street: "Rue Jean-Pierre Timbaud"
-housenumber: 102
+street: Rue Jean-Pierre Timbaud
+housenumber: "102"
 phone: ""
-opening_hours: "We-fr 06:00-21:00; Sa 06:00-20:00; Su-Mo 06:00-21:00"
+opening_hours: We-fr 06:00-21:00; Sa 06:00-20:00; Su-Mo 06:00-21:00
 website: ""

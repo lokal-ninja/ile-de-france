@@ -1,11 +1,11 @@
 id: 150380716
-type: way
+type: node
 latitude: 48.78003
 longitude: 2.21926
 postcode: "78140"
 city: Vélizy-Villacoublay
-street: "Avenue de l'Europe"
-housenumber: 2
+street: Avenue de l'Europe
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 8:30-22:00; Sa 7:30-22:00"
+opening_hours: Mo-Fr 8:30-22:00; Sa 7:30-22:00
 website: ""

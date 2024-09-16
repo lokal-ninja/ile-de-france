@@ -4,8 +4,8 @@ latitude: 48.8625
 longitude: 2.28864
 postcode: "75016"
 city: Paris
-street: "Place du Trocadéro et du 11 Novembre 1918"
-housenumber: 1
-phone: "+33 1 78 09 03 00"
+street: Place du Trocadéro et du 11 Novembre 1918
+housenumber: "1"
+phone: +33 1 78 09 03 00
 opening_hours: ""
-website: "https://www.librairiedumoniteur.com/"
+website: https://www.librairiedumoniteur.com/

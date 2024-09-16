@@ -1,11 +1,11 @@
 id: 1094236923
-type: way
+type: node
 latitude: 49.04368
 longitude: 2.48829
 postcode: "95380"
 city: Louvres
-street: "Avenue du Noyer à la Malice"
-housenumber: 3
-phone: "+33 1 70 89 03 00"
+street: Avenue du Noyer à la Malice
+housenumber: "3"
+phone: +33 1 70 89 03 00
 opening_hours: ""
-website: "http://www.dafparis.fr/"
+website: http://www.dafparis.fr/

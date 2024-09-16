@@ -1,11 +1,11 @@
 id: 530600149
-type: way
+type: node
 latitude: 49.04661
 longitude: 2.33435
 postcode: "95570"
 city: Moisselles
-street: "Lieu-dit La cavée"
-housenumber: 
-phone: "+33 1 39 85 82 17"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:30"
-website: "https://www.grandfrais.com/magasins/moisselles"
+street: Lieu-dit La cavée
+housenumber: ""
+phone: +33 1 39 85 82 17
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:30
+website: https://www.grandfrais.com/magasins/moisselles

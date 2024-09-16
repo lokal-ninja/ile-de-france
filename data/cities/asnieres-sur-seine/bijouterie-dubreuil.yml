@@ -4,8 +4,8 @@ latitude: 48.91072
 longitude: 2.28978
 postcode: "92600"
 city: Asnières-sur-Seine
-street: "Place de l'Hôtel de Ville"
-housenumber: 14
+street: Place de l'Hôtel de Ville
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00, 14:30-19:15; Sa 10:00-19:15"
-website: "https://www.bijouteriedubreuil.fr/"
+opening_hours: Tu-Fr 10:00-13:00, 14:30-19:15; Sa 10:00-19:15
+website: https://www.bijouteriedubreuil.fr/

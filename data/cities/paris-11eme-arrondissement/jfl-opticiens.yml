@@ -4,8 +4,8 @@ latitude: 48.86105
 longitude: 2.3782
 postcode: "75011"
 city: Paris 11eme Arrondissement
-street: "Avenue Parmentier"
-housenumber: 36
-phone: "+33 1-43-55-77-50"
-opening_hours: "Mo 14:00-19:30 ; Tu-Sa 10:00-19:30"
-website: "https://www.jfl-opticiens.fr/"
+street: Avenue Parmentier
+housenumber: "36"
+phone: +33 1-43-55-77-50
+opening_hours: Mo 14:00-19:30 ; Tu-Sa 10:00-19:30
+website: https://www.jfl-opticiens.fr/

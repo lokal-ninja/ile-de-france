@@ -4,8 +4,8 @@ latitude: 48.84744
 longitude: 2.29612
 postcode: "75015"
 city: Paris
-street: "Rue du Commerce"
-housenumber: 32
+street: Rue du Commerce
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 10:30-19:30"
+opening_hours: Mo-Sa 10:30-19:30
 website: ""

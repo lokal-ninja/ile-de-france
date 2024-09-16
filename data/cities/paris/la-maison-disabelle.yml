@@ -4,8 +4,8 @@ latitude: 48.84983
 longitude: 2.34827
 postcode: "75005"
 city: Paris
-street: "Boulevard Saint-Germain"
-housenumber: 47
+street: Boulevard Saint-Germain
+housenumber: "47"
 phone: ""
-opening_hours: "Tu-Su 06:00-20:30"
+opening_hours: Tu-Su 06:00-20:30
 website: ""

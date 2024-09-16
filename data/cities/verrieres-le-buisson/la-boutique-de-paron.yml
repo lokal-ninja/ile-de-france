@@ -4,8 +4,8 @@ latitude: 48.74701
 longitude: 2.26617
 postcode: "91370"
 city: Verrières-le-Buisson
-street: "Rue de Paron"
-housenumber: 8
+street: Rue de Paron
+housenumber: "8"
 phone: "+33169209710"
-opening_hours: "Tu-Fr 09:30-12:30, 15:00-19:00; Sa 10:00-13:00, 15:00-19:00"
-website: "https://www.laboutiquedeparon.fr/"
+opening_hours: Tu-Fr 09:30-12:30, 15:00-19:00; Sa 10:00-13:00, 15:00-19:00
+website: https://www.laboutiquedeparon.fr/

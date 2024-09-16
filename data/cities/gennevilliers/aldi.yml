@@ -1,11 +1,11 @@
 id: 63958160
-type: way
+type: node
 latitude: 48.92351
 longitude: 2.29514
 postcode: "92230"
 city: Gennevilliers
-street: "Avenue Gabriel Péri"
-housenumber: 118
+street: Avenue Gabriel Péri
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

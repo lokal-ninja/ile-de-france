@@ -1,11 +1,11 @@
 id: 221071441
-type: way
+type: node
 latitude: 48.83172
 longitude: 2.35951
 postcode: "75013"
 city: Paris
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.84262
 longitude: 2.50438
 postcode: "94170"
 city: Le Perreux-sur-Marne
-street: "Avenue du Général de Gaulle"
-housenumber: 124
-phone: "+33 9 74 56 38 84"
-opening_hours: "Mo 15:30-20:00, Tu-Sa 09:30-13:00,15:15-20:00; Su 09:30-13:00; "
-website: "https://mille1vins.com/"
+street: Avenue du Général de Gaulle
+housenumber: "124"
+phone: +33 9 74 56 38 84
+opening_hours: 'Mo 15:30-20:00, Tu-Sa 09:30-13:00,15:15-20:00; Su 09:30-13:00; '
+website: https://mille1vins.com/

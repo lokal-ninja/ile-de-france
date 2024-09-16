@@ -4,8 +4,8 @@ latitude: 48.84677
 longitude: 2.34188
 postcode: "75005"
 city: Paris
-street: "Rue Le Goff"
-housenumber: 1
-phone: "+33 1 56 81 10 37"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.leretouralaterre.fr/magasins/rive-gauche"
+street: Rue Le Goff
+housenumber: "1"
+phone: +33 1 56 81 10 37
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.leretouralaterre.fr/magasins/rive-gauche

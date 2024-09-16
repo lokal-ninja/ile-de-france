@@ -1,11 +1,11 @@
 id: 390674599
-type: way
+type: node
 latitude: 48.97113
 longitude: 2.19208
 postcode: "95240"
 city: Cormeilles-en-Parisis
-street: "Boulevard Clemenceau"
-housenumber: 29
+street: Boulevard Clemenceau
+housenumber: "29"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

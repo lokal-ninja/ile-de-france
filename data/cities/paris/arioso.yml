@@ -4,8 +4,8 @@ latitude: 48.87826
 longitude: 2.3223
 postcode: "75008"
 city: Paris
-street: "Rue de Rome"
-housenumber: 45
+street: Rue de Rome
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://arioso.fr/"
+opening_hours: Mo-Sa 10:00-19:00
+website: http://arioso.fr/

@@ -4,8 +4,8 @@ latitude: 48.8273
 longitude: 2.24136
 postcode: "92100"
 city: Boulogne-Billancourt
-street: "Traverse Jules Guesde"
-housenumber: 2
+street: Traverse Jules Guesde
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.lamedailledessaveurs.fr/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.lamedailledessaveurs.fr/

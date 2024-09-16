@@ -4,8 +4,8 @@ latitude: 48.83762
 longitude: 2.31999
 postcode: "75014"
 city: Paris
-street: "Rue Vercingétorix"
-housenumber: 26
+street: Rue Vercingétorix
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://getir.com/fr/"
+website: https://getir.com/fr/

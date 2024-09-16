@@ -4,8 +4,8 @@ latitude: 48.82545
 longitude: 2.34693
 postcode: "75013"
 city: Paris
-street: "Rue de l'Espérance"
-housenumber: 32
-phone: "+33 1 53 80 16 10"
-opening_hours: "Tu 11:00-20:00; We 16:00-20:00; Th-Sa 11:00-20:00"
-website: "https://www.bierocratie.com/"
+street: Rue de l'Espérance
+housenumber: "32"
+phone: +33 1 53 80 16 10
+opening_hours: Tu 11:00-20:00; We 16:00-20:00; Th-Sa 11:00-20:00
+website: https://www.bierocratie.com/

@@ -4,8 +4,8 @@ latitude: 48.86642
 longitude: 2.34628
 postcode: "75002"
 city: Paris
-street: "Rue Léopold-Bellan"
-housenumber: 9
+street: Rue Léopold-Bellan
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

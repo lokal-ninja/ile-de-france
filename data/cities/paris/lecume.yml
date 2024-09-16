@@ -4,8 +4,8 @@ latitude: 48.88972
 longitude: 2.38315
 postcode: "75019"
 city: Paris
-street: "Rue de l'Ourcq"
-housenumber: 43
+street: Rue de l'Ourcq
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

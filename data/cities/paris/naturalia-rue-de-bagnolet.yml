@@ -4,8 +4,8 @@ latitude: 48.85687
 longitude: 2.39777
 postcode: "75020"
 city: Paris
-street: "Rue de Bagnolet"
-housenumber: 34
-phone: "+33 1 43 79 56 46"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:45"
-website: "https://magasins.naturalia.fr/naturalia/fr/store/france/ile-de-france/paris/paris/bagnolet/4968"
+street: Rue de Bagnolet
+housenumber: "34"
+phone: +33 1 43 79 56 46
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:45
+website: https://magasins.naturalia.fr/naturalia/fr/store/france/ile-de-france/paris/paris/bagnolet/4968

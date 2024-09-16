@@ -4,8 +4,8 @@ latitude: 48.81366
 longitude: 2.32561
 postcode: "92120"
 city: Montrouge
-street: "Avenue Aristide Briand"
-housenumber: 110
-phone: "+33 1 46 56 08 30"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-12:30, 13:00-20:30"
-website: "https://www.auchan.fr/magasins/supermarche-montrouge/sl-1180"
+street: Avenue Aristide Briand
+housenumber: "110"
+phone: +33 1 46 56 08 30
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-12:30, 13:00-20:30
+website: https://www.auchan.fr/magasins/supermarche-montrouge/sl-1180

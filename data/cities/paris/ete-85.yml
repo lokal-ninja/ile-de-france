@@ -4,8 +4,8 @@ latitude: 48.86748
 longitude: 2.35871
 postcode: "75003"
 city: Paris
-street: "Rue Notre-Dame-de-Nazareth"
-housenumber: 38
+street: Rue Notre-Dame-de-Nazareth
+housenumber: "38"
 phone: ""
-opening_hours: "Mo 12:00-19:30; Tu-Sa 11:00-19:30; Su 12:00-18:00"
-website: "https://ete85.fr"
+opening_hours: Mo 12:00-19:30; Tu-Sa 11:00-19:30; Su 12:00-18:00
+website: https://ete85.fr

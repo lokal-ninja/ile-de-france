@@ -4,8 +4,8 @@ latitude: 48.89405
 longitude: 2.32987
 postcode: "75018"
 city: Paris
-street: "Rue Jacques Cartier"
-housenumber: 6
-phone: "+33 1 46 27 98 66"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://reseau.citroen.fr/reparateur-paris-08"
+street: Rue Jacques Cartier
+housenumber: "6"
+phone: +33 1 46 27 98 66
+opening_hours: Mo-Sa 09:00-18:00
+website: https://reseau.citroen.fr/reparateur-paris-08

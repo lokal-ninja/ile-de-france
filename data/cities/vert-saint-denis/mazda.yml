@@ -1,11 +1,11 @@
 id: 115144402
-type: way
+type: node
 latitude: 48.56562
 longitude: 2.63064
 postcode: "77240"
 city: Vert-Saint-Denis
-street: "Impasse de l'Épinet"
-housenumber: 520
+street: Impasse de l'Épinet
+housenumber: "520"
 phone: ""
 opening_hours: ""
 website: ""

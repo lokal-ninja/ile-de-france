@@ -1,11 +1,11 @@
 id: 111040050
-type: way
+type: node
 latitude: 48.87407
 longitude: 2.58056
 postcode: "77500"
 city: Chelles
-street: "Avenue du Maréchal Foch"
-housenumber: 
+street: Avenue du Maréchal Foch
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Su 06:30-20:30"
+opening_hours: Tu-Su 06:30-20:30
 website: ""

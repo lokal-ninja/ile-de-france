@@ -4,8 +4,8 @@ latitude: 48.84721
 longitude: 2.34231
 postcode: "75005"
 city: Paris
-street: "Rue Soufflot"
-housenumber: 20
+street: Rue Soufflot
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.83672
 longitude: 2.40267
 postcode: "75012"
 city: Paris
-street: "Avenue Daumesnil"
-housenumber: 254
-phone: "+33 1 40 21 69 22"
-opening_hours: "Tu-Su 07:00-20:00"
-website: "https://www.boulangerie-lessentiel.com/"
+street: Avenue Daumesnil
+housenumber: "254"
+phone: +33 1 40 21 69 22
+opening_hours: Tu-Su 07:00-20:00
+website: https://www.boulangerie-lessentiel.com/

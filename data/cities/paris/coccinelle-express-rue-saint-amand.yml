@@ -4,8 +4,8 @@ latitude: 48.83449
 longitude: 2.30813
 postcode: "75015"
 city: Paris
-street: "Rue Saint-Amand"
-housenumber: 22
+street: Rue Saint-Amand
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Su 08:00-24:00"
-website: "https://www.coccinelle.fr/Trouver_Un_Magasin/Details/coccinelle-express/paris/22-rue-st-amand"
+opening_hours: Mo-Su 08:00-24:00
+website: https://www.coccinelle.fr/Trouver_Un_Magasin/Details/coccinelle-express/paris/22-rue-st-amand

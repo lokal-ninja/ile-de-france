@@ -4,8 +4,8 @@ latitude: 48.86155
 longitude: 2.3424
 postcode: "75001"
 city: Paris
-street: "Rue Sauval"
-housenumber: 2
+street: Rue Sauval
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

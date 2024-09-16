@@ -4,8 +4,8 @@ latitude: 48.85272
 longitude: 2.37934
 postcode: "75011"
 city: Paris
-street: "Rue Trousseau"
-housenumber: 52
-phone: "+33 1 55 28 74 66"
-opening_hours: "Tu-Sa 09:00-20:00"
+street: Rue Trousseau
+housenumber: "52"
+phone: +33 1 55 28 74 66
+opening_hours: Tu-Sa 09:00-20:00
 website: ""

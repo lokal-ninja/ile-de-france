@@ -4,8 +4,8 @@ latitude: 48.79003
 longitude: 2.31231
 postcode: "92220"
 city: Bagneux
-street: "Place des Bas Longchamps"
-housenumber: 6
-phone: "+33.800 90 03 43"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:30"
-website: "https://www.lidl.fr"
+street: Place des Bas Longchamps
+housenumber: "6"
+phone: +33.800 90 03 43
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:30
+website: https://www.lidl.fr

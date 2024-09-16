@@ -4,8 +4,8 @@ latitude: 48.90232
 longitude: 2.13593
 postcode: "78110"
 city: Le Vésinet
-street: "Avenue des Pages"
-housenumber: 66
+street: Avenue des Pages
+housenumber: "66"
 phone: ""
-opening_hours: "Tu-Sa 08:00-12:45, 14:00-18:45; Su 09:00-12:30"
-website: "https://quincaillerie-des-charmettes.fr/"
+opening_hours: Tu-Sa 08:00-12:45, 14:00-18:45; Su 09:00-12:30
+website: https://quincaillerie-des-charmettes.fr/

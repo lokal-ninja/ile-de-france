@@ -4,8 +4,8 @@ latitude: 48.7274
 longitude: 2.25753
 postcode: "91300"
 city: Massy
-street: "Place de l'Union Européenne"
-housenumber: 9
-phone: "+33 1 85 41 05 43"
-opening_hours: "Tu-Sa 09:30-19:30"
-website: "https://www.lesamoureuxduchocolat.com/"
+street: Place de l'Union Européenne
+housenumber: "9"
+phone: +33 1 85 41 05 43
+opening_hours: Tu-Sa 09:30-19:30
+website: https://www.lesamoureuxduchocolat.com/

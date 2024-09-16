@@ -4,8 +4,8 @@ latitude: 48.76292
 longitude: 2.6661
 postcode: "77330"
 city: Ozoir-la-Ferrière
-street: "Avenue du Général de Gaulle"
-housenumber: 99
+street: Avenue du Général de Gaulle
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00, 14:00-17:30; Sa 10:00-12:00; Su Off"
-website: "http://www.pfserris.com/"
+opening_hours: Mo-Fr 10:00-12:00, 14:00-17:30; Sa 10:00-12:00; Su Off
+website: http://www.pfserris.com/

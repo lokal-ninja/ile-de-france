@@ -4,8 +4,8 @@ latitude: 48.86106
 longitude: 2.3192
 postcode: "75007"
 city: Paris
-street: "Rue Aristide Briand"
-housenumber: 7
-phone: "+33 1 40 63 00 33"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://boutique.assemblee-nationale.fr/"
+street: Rue Aristide Briand
+housenumber: "7"
+phone: +33 1 40 63 00 33
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://boutique.assemblee-nationale.fr/

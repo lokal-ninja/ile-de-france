@@ -4,8 +4,8 @@ latitude: 48.84146
 longitude: 2.50439
 postcode: "94170"
 city: Le Perreux-sur-Marne
-street: "Avenue Georges Clemenceau"
-housenumber: 83
-phone: "+33 1 41 93 10 52"
-opening_hours: "Tu-Sa 09:30-18:30; "
-website: "http://www.phibrowsparis.com/"
+street: Avenue Georges Clemenceau
+housenumber: "83"
+phone: +33 1 41 93 10 52
+opening_hours: 'Tu-Sa 09:30-18:30; '
+website: http://www.phibrowsparis.com/

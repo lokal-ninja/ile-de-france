@@ -4,8 +4,8 @@ latitude: 48.82431
 longitude: 2.34908
 postcode: "75013"
 city: Paris
-street: "Rue Bobillot"
-housenumber: 101
+street: Rue Bobillot
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:30,13:30-18:00"
+opening_hours: Mo-Fr 08:30-12:30,13:30-18:00
 website: ""

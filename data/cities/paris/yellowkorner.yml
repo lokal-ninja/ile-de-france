@@ -4,8 +4,8 @@ latitude: 48.85452
 longitude: 2.33376
 postcode: "75005"
 city: Paris
-street: "Rue de l'Abbaye"
-housenumber: 16
+street: Rue de l'Abbaye
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

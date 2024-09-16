@@ -1,11 +1,11 @@
 id: 315866052
-type: way
+type: node
 latitude: 49.01225
 longitude: 2.35069
 postcode: "95350"
 city: Saint-Brice-sous-Forêt
-street: "Rue Jean Monnet"
-housenumber: 8
-phone: "+33 1 76 47 06 10"
-opening_hours: "Mo-Sa 09:00-12:00; Mo-Fr 14:00-19:00; Sa 14:00-18:00"
-website: "https://www.renault-saint-brice.fr/"
+street: Rue Jean Monnet
+housenumber: "8"
+phone: +33 1 76 47 06 10
+opening_hours: Mo-Sa 09:00-12:00; Mo-Fr 14:00-19:00; Sa 14:00-18:00
+website: https://www.renault-saint-brice.fr/

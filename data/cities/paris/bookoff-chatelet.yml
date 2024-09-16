@@ -4,8 +4,8 @@ latitude: 48.85878
 longitude: 2.34988
 postcode: "75004"
 city: Paris
-street: "Rue Saint-Martin"
-housenumber: 9
+street: Rue Saint-Martin
+housenumber: "9"
 phone: "+33140299068"
-opening_hours: "Mo-Fr 11:00-19:30; Sa 10:00-19:30; Su 12:00-19:30"
-website: "https://lingonbook.fr/"
+opening_hours: Mo-Fr 11:00-19:30; Sa 10:00-19:30; Su 12:00-19:30
+website: https://lingonbook.fr/

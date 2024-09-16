@@ -1,11 +1,11 @@
 id: 115167165
-type: way
+type: node
 latitude: 48.80204
 longitude: 3.09587
 postcode: "77120"
 city: Coulommiers
-street: "Rue de l'Orgeval"
-housenumber: 35
-phone: "+33 1 64 75 39 00"
+street: Rue de l'Orgeval
+housenumber: "35"
+phone: +33 1 64 75 39 00
 opening_hours: ""
-website: "https://www.piscines-bains.fr/"
+website: https://www.piscines-bains.fr/

@@ -4,8 +4,8 @@ latitude: 48.85731
 longitude: 2.38506
 postcode: "75011"
 city: Paris
-street: "Rue Léon Frot"
-housenumber: 74
-phone: "+33 6 13 98 72 03"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-19:00"
+street: Rue Léon Frot
+housenumber: "74"
+phone: +33 6 13 98 72 03
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.00788
 longitude: 2.16808
 postcode: "95220"
 city: Herblay-sur-Seine
-street: "Avenue Paul Langevin"
-housenumber: 18
-phone: "+33 1 39 97 11 89"
-opening_hours: "Mo-Sa 09:00-12:30,14:00-18:00"
-website: "https://www.equipa.fr/"
+street: Avenue Paul Langevin
+housenumber: "18"
+phone: +33 1 39 97 11 89
+opening_hours: Mo-Sa 09:00-12:30,14:00-18:00
+website: https://www.equipa.fr/

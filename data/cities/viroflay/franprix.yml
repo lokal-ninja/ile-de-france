@@ -4,8 +4,8 @@ latitude: 48.80419
 longitude: 2.17322
 postcode: "78220"
 city: Viroflay
-street: "Avenue du Général Leclerc"
-housenumber: 94
+street: Avenue du Général Leclerc
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-21:00"
-website: "https://www.franprix.fr/magasins/1121"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-21:00
+website: https://www.franprix.fr/magasins/1121

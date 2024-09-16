@@ -4,8 +4,8 @@ latitude: 48.84954
 longitude: 2.49666
 postcode: "94170"
 city: Le Perreux-sur-Marne
-street: "Boulevard d'Alsace-Lorraine"
-housenumber: 39
-phone: "+33 1 43 24 56 40"
-opening_hours: "Tu,We,Fr 09:00-18:00,Th 12:00-20:00,Sa 09:00-17:00"
+street: Boulevard d'Alsace-Lorraine
+housenumber: "39"
+phone: +33 1 43 24 56 40
+opening_hours: Tu,We,Fr 09:00-18:00,Th 12:00-20:00,Sa 09:00-17:00
 website: ""

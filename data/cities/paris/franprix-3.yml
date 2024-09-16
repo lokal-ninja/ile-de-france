@@ -5,7 +5,7 @@ longitude: 2.38711
 postcode: ""
 city: Paris
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-13:00"
-website: "https://www.franprix.fr/magasins/5565"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-13:00
+website: https://www.franprix.fr/magasins/5565

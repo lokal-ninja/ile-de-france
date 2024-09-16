@@ -1,11 +1,11 @@
 id: 654475269
-type: way
+type: node
 latitude: 48.85539
 longitude: 2.78226
 postcode: "77700"
 city: Serris
 street: ""
-housenumber: 
-phone: "+33 1 64 63 47 07"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://www.zara.com"
+housenumber: ""
+phone: +33 1 64 63 47 07
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://www.zara.com

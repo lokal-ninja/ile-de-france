@@ -1,11 +1,11 @@
 id: 155545412
-type: way
+type: node
 latitude: 48.77374
 longitude: 2.35204
 postcode: "94550"
 city: Chevilly-Larue
-street: "Rue Henri Cretté"
+street: Rue Henri Cretté
 housenumber: 25-35
-phone: "+33 1 45 12 98 60"
-opening_hours: "Mo-Su 07:30-20:00"
-website: "https://www.supermarchesg20.com/"
+phone: +33 1 45 12 98 60
+opening_hours: Mo-Su 07:30-20:00
+website: https://www.supermarchesg20.com/

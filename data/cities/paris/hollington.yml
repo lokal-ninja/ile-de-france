@@ -4,8 +4,8 @@ latitude: 48.85006
 longitude: 2.34133
 postcode: "75006"
 city: Paris
-street: "Rue Racine"
-housenumber: 7
-phone: "+33 1 43 25 54 79"
+street: Rue Racine
+housenumber: "7"
+phone: +33 1 43 25 54 79
 opening_hours: ""
-website: "https://hollington.eu"
+website: https://hollington.eu

@@ -4,8 +4,8 @@ latitude: 48.84796
 longitude: 2.42307
 postcode: "94300"
 city: Vincennes
-street: "Rue Massue"
-housenumber: 31
+street: Rue Massue
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-22:00
 website: ""

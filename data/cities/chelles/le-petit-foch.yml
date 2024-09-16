@@ -4,8 +4,8 @@ latitude: 48.87164
 longitude: 2.57743
 postcode: "77500"
 city: Chelles
-street: "Avenue du Maréchal Foch"
-housenumber: 38
-phone: "+33 1 72 99 91 29"
-opening_hours: "Mo,Tu,Th-Sa 06:30-20:30; Su 07:00-20:30"
+street: Avenue du Maréchal Foch
+housenumber: "38"
+phone: +33 1 72 99 91 29
+opening_hours: Mo,Tu,Th-Sa 06:30-20:30; Su 07:00-20:30
 website: ""

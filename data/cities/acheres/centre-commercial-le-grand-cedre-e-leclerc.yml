@@ -1,11 +1,11 @@
 id: 110339081
-type: way
+type: node
 latitude: 48.96162
 longitude: 2.05721
 postcode: "78260"
 city: Achères
-street: "Avenue Wolfgang Amadeus Mozart"
-housenumber: 3
-phone: "+33 1 39 22 62 62"
-opening_hours: "Mo-Sa 08:00-18:45; Su 08:00-12:30"
-website: "https://www.e.leclerc/mag/e-leclerc-acheres"
+street: Avenue Wolfgang Amadeus Mozart
+housenumber: "3"
+phone: +33 1 39 22 62 62
+opening_hours: Mo-Sa 08:00-18:45; Su 08:00-12:30
+website: https://www.e.leclerc/mag/e-leclerc-acheres

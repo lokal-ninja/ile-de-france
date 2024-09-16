@@ -4,8 +4,8 @@ latitude: 48.83074
 longitude: 2.37454
 postcode: "75013"
 city: Paris
-street: "Rue du Chevaleret"
-housenumber: 
+street: Rue du Chevaleret
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Fr 10:00-14:00,15:00-19:30, Sa 10:30-19:30"
+opening_hours: Tu-Fr 10:00-14:00,15:00-19:30, Sa 10:30-19:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.88909
 longitude: 2.41216
 postcode: "93500"
 city: Pantin
-street: "Rue Méhul"
-housenumber: 16
-phone: "+33 1 48 10 10 78"
-opening_hours: "Tu-Fr 13:00-19:30; Sa 10:00-20:00; Su 10:00-15:00"
-website: "https://cinqsensparis.com/"
+street: Rue Méhul
+housenumber: "16"
+phone: +33 1 48 10 10 78
+opening_hours: Tu-Fr 13:00-19:30; Sa 10:00-20:00; Su 10:00-15:00
+website: https://cinqsensparis.com/

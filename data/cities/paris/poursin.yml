@@ -4,8 +4,8 @@ latitude: 48.87309
 longitude: 2.36204
 postcode: "75010"
 city: Paris
-street: "Rue des Vinaigriers"
-housenumber: 35
-phone: "+33 1 46 07 17 07"
+street: Rue des Vinaigriers
+housenumber: "35"
+phone: +33 1 46 07 17 07
 opening_hours: ""
-website: "https://www.poursin-paris.fr"
+website: https://www.poursin-paris.fr

@@ -1,11 +1,11 @@
 id: 25491700
-type: way
+type: node
 latitude: 48.77454
 longitude: 2.44106
 postcode: "94000"
 city: Créteil
-street: "Z.A. de la Basse Quinte"
-housenumber: 
+street: Z.A. de la Basse Quinte
+housenumber: ""
 phone: ""
-opening_hours: "10:00-19:00"
-website: "https://www.besson-chaussures.com/fr/BESSON_CHAUSSURES_Magasin_CRETEIL-p2387"
+opening_hours: 10:00-19:00
+website: https://www.besson-chaussures.com/fr/BESSON_CHAUSSURES_Magasin_CRETEIL-p2387

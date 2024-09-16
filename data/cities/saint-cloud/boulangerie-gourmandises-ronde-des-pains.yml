@@ -4,8 +4,8 @@ latitude: 48.84792
 longitude: 2.20663
 postcode: "92210"
 city: Saint-Cloud
-street: "Avenue du Maréchal Foch"
-housenumber: 90
-phone: "+33 1 46 02 19 47"
-opening_hours: "Tu-Sa 07:00-13:00, 16:00-19:45"
+street: Avenue du Maréchal Foch
+housenumber: "90"
+phone: +33 1 46 02 19 47
+opening_hours: Tu-Sa 07:00-13:00, 16:00-19:45
 website: ""

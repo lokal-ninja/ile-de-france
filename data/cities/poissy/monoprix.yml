@@ -4,8 +4,8 @@ latitude: 48.93401
 longitude: 2.05199
 postcode: "78300"
 city: Poissy
-street: "Boulevard Robespierre"
-housenumber: 53
-phone: "+33 1 30 65 24 00"
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-12:45"
-website: "https://www.monoprix.fr/1830.html"
+street: Boulevard Robespierre
+housenumber: "53"
+phone: +33 1 30 65 24 00
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-12:45
+website: https://www.monoprix.fr/1830.html

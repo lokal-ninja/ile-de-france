@@ -4,8 +4,8 @@ latitude: 48.8389
 longitude: 2.3492
 postcode: "75005"
 city: Paris
-street: "Rue Claude Bernard"
-housenumber: 13
+street: Rue Claude Bernard
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 7:00-20:00"
+opening_hours: Mo-Fr 7:00-20:00
 website: ""

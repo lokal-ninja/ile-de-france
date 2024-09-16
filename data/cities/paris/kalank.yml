@@ -4,8 +4,8 @@ latitude: 48.85193
 longitude: 2.39834
 postcode: "75020"
 city: Paris
-street: "Boulevard de Charonne"
-housenumber: 52
-phone: "+33 1 43 73 60 96"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.kalank-sud.fr/boutique/"
+street: Boulevard de Charonne
+housenumber: "52"
+phone: +33 1 43 73 60 96
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.kalank-sud.fr/boutique/

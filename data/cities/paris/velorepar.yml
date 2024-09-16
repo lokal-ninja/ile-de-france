@@ -4,8 +4,8 @@ latitude: 48.83977
 longitude: 2.29329
 postcode: "75015"
 city: Paris
-street: "Rue Lecourbe"
-housenumber: 228
+street: Rue Lecourbe
+housenumber: "228"
 phone: "+33145314704"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://velorepar.fr/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://velorepar.fr/

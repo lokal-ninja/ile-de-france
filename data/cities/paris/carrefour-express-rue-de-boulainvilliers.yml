@@ -4,8 +4,8 @@ latitude: 48.85322
 longitude: 2.27585
 postcode: "75016"
 city: Paris
-street: "Rue de Boulainvilliers"
-housenumber: 16
-phone: "+33 1 40 50 39 27"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-paris-boulainvilliers"
+street: Rue de Boulainvilliers
+housenumber: "16"
+phone: +33 1 40 50 39 27
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-paris-boulainvilliers

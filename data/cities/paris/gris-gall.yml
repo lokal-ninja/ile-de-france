@@ -4,8 +4,8 @@ latitude: 48.83742
 longitude: 2.30744
 postcode: "75015"
 city: Paris
-street: "Rue Dutot"
-housenumber: 76
+street: Rue Dutot
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

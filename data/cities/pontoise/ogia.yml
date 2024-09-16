@@ -4,8 +4,8 @@ latitude: 49.04791
 longitude: 2.0954
 postcode: "95300"
 city: Pontoise
-street: "Place du Général de Gaulle"
-housenumber: 2
+street: Place du Général de Gaulle
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:30-19:00; Sa 07:00-19:00"
+opening_hours: Mo-Fr 06:30-19:00; Sa 07:00-19:00
 website: ""

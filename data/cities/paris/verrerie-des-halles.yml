@@ -4,8 +4,8 @@ latitude: 48.86348
 longitude: 2.34153
 postcode: "75001"
 city: Paris
-street: "Rue du Louvre"
-housenumber: 15
+street: Rue du Louvre
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.verrerie-des-halles-paris.fr/"
+website: https://www.verrerie-des-halles-paris.fr/

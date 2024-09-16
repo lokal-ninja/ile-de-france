@@ -1,11 +1,11 @@
 id: 272478407
-type: way
+type: node
 latitude: 48.75539
 longitude: 2.37279
 postcode: "94320"
 city: Thiais
-street: "Avenue du Luxembourg"
-housenumber: 1
+street: Avenue du Luxembourg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 10:00-20:00; Tu-Fr 10:00-21:00; Sa 10:00-20:00"
+opening_hours: Mo 10:00-20:00; Tu-Fr 10:00-21:00; Sa 10:00-20:00
 website: ""

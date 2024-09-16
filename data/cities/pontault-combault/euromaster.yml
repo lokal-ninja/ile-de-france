@@ -1,11 +1,11 @@
 id: 112025990
-type: way
+type: node
 latitude: 48.77548
 longitude: 2.59416
 postcode: "77340"
 city: Pontault-Combault
-street: "Route de Paris"
-housenumber: 21
-phone: "+33 1 82 70 00 20"
+street: Route de Paris
+housenumber: "21"
+phone: +33 1 82 70 00 20
 opening_hours: ""
-website: "https://centres.euromaster.fr/31-euromaster-pontault-combault-centre-auto-vl"
+website: https://centres.euromaster.fr/31-euromaster-pontault-combault-centre-auto-vl

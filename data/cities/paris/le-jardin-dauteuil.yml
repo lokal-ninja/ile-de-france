@@ -4,8 +4,8 @@ latitude: 48.85013
 longitude: 2.29905
 postcode: "75015"
 city: Paris
-street: "Avenue de la Motte-Picquet"
-housenumber: 56
-phone: "+331 47 34 62 88"
-opening_hours: "Mo-Th 09:00-20:30; Fr-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://lejardindauteuil.fr"
+street: Avenue de la Motte-Picquet
+housenumber: "56"
+phone: +331 47 34 62 88
+opening_hours: Mo-Th 09:00-20:30; Fr-Sa 09:00-21:00; Su 09:00-20:00
+website: https://lejardindauteuil.fr

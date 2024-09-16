@@ -1,11 +1,11 @@
 id: 111028535
-type: way
+type: node
 latitude: 48.87139
 longitude: 2.61143
 postcode: "77500"
 city: Chelles
-street: "Chemin du Corps de Garde"
-housenumber: 
-phone: "+33 1 60 08 70 85"
+street: Chemin du Corps de Garde
+housenumber: ""
+phone: +33 1 60 08 70 85
 opening_hours: ""
-website: "https://www.eqiom.com/a-propos/localisation/depot-pour-ciments-de-chelles"
+website: https://www.eqiom.com/a-propos/localisation/depot-pour-ciments-de-chelles

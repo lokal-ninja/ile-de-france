@@ -1,11 +1,11 @@
 id: 70786195
-type: way
+type: node
 latitude: 48.90643
 longitude: 2.29099
 postcode: "92600"
 city: Asnières sur Seine
-street: "Quai du Docteur Dervaux"
-housenumber: 73
-phone: "+33 1 46 88 00 75"
-opening_hours: "Tu-Fr 08:30-12:00, 14:00-18:30; Sa 08:30-12:00, 14:00-17:30"
-website: "https://www.sanspermis92.fr/"
+street: Quai du Docteur Dervaux
+housenumber: "73"
+phone: +33 1 46 88 00 75
+opening_hours: Tu-Fr 08:30-12:00, 14:00-18:30; Sa 08:30-12:00, 14:00-17:30
+website: https://www.sanspermis92.fr/

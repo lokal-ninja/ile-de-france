@@ -4,8 +4,8 @@ latitude: 48.80716
 longitude: 2.12954
 postcode: "78000"
 city: Versailles
-street: "Rue de la Paroisse"
-housenumber: 48
+street: Rue de la Paroisse
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su 10:00-13:30"
+opening_hours: Mo-Sa 10:00-19:00; Su 10:00-13:30
 website: ""

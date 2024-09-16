@@ -4,8 +4,8 @@ latitude: 48.86055
 longitude: 2.3791
 postcode: "75011"
 city: Paris 11eme Arrondissement
-street: "Rue du Chemin Vert"
-housenumber: 75
-phone: "+33 9 81 81 45 20"
-opening_hours: "Tu-Fr 11:00-14:00, 16:30-21:00; Sa 10:00-21:00; Su 10:00-14:00, 16:30-21:00"
-website: "https://lezingam.com/"
+street: Rue du Chemin Vert
+housenumber: "75"
+phone: +33 9 81 81 45 20
+opening_hours: Tu-Fr 11:00-14:00, 16:30-21:00; Sa 10:00-21:00; Su 10:00-14:00, 16:30-21:00
+website: https://lezingam.com/

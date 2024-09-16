@@ -4,8 +4,8 @@ latitude: 48.75323
 longitude: 2.30366
 postcode: "92160"
 city: Antony
-street: "Rue Henri Lasson"
-housenumber: 5
-phone: "+33 1 56452010"
-opening_hours: "Tu-Sa 10:00-19:00; Su,PH 10:00-13:00"
-website: "https://www.lapasserelle.net/"
+street: Rue Henri Lasson
+housenumber: "5"
+phone: +33 1 56452010
+opening_hours: Tu-Sa 10:00-19:00; Su,PH 10:00-13:00
+website: https://www.lapasserelle.net/

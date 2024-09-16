@@ -1,11 +1,11 @@
 id: 77353440
-type: way
+type: node
 latitude: 48.99528
 longitude: 2.27111
 postcode: "95600"
 city: Eaubonne
-street: "Avenue de la 1re Armée Française"
-housenumber: 1
+street: Avenue de la 1re Armée Française
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:30, Mo-Th 13:30-17:30, Fr 13:30-16:30"
+opening_hours: Mo-Sa 08:00-12:30, Mo-Th 13:30-17:30, Fr 13:30-16:30
 website: ""

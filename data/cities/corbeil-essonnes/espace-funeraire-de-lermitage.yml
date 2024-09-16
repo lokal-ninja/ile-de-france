@@ -4,8 +4,8 @@ latitude: 48.59399
 longitude: 2.47574
 postcode: "91100"
 city: Corbeil-Essonnes
-street: "Boulevard de Fontainebleau"
-housenumber: 106
-phone: "+33 1 64 96 19 19"
-opening_hours: "24/7"
+street: Boulevard de Fontainebleau
+housenumber: "106"
+phone: +33 1 64 96 19 19
+opening_hours: 24/7
 website: ""

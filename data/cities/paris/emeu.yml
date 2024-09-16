@@ -4,8 +4,8 @@ latitude: 48.8559
 longitude: 2.37901
 postcode: "75011"
 city: Paris
-street: "Avenue Ledru-Rollin"
-housenumber: 156
+street: Avenue Ledru-Rollin
+housenumber: "156"
 phone: ""
-opening_hours: "Tu-Th 10:00-14:00, 15:00-19:00; Fr-Sa 10:00-19:00"
-website: "https://emeu-kidstore.com/"
+opening_hours: Tu-Th 10:00-14:00, 15:00-19:00; Fr-Sa 10:00-19:00
+website: https://emeu-kidstore.com/

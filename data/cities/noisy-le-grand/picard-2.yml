@@ -1,11 +1,11 @@
 id: 115363638
-type: way
+type: node
 latitude: 48.84916
 longitude: 2.57047
 postcode: "93160"
 city: Noisy-le-Grand
 street: ""
-housenumber: 
+housenumber: ""
 phone: "+33143054153"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:45"
-website: "https://magasins.picard.fr/686-picard-noisy-le-grand-cossonneau?utm_source=gmb"
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:45
+website: https://magasins.picard.fr/686-picard-noisy-le-grand-cossonneau?utm_source=gmb

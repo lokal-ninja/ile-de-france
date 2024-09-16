@@ -4,8 +4,8 @@ latitude: 48.86403
 longitude: 2.34262
 postcode: "75001"
 city: Paris
-street: "Rue du Louvre"
-housenumber: 44
+street: Rue du Louvre
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 10:30-19:00"
+opening_hours: Mo-Fr 10:30-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.86277
 longitude: 2.34785
 postcode: "75001"
 city: Paris
-street: "Rue Mondétour"
-housenumber: 9
+street: Rue Mondétour
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

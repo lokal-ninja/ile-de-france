@@ -4,8 +4,8 @@ latitude: 48.80705
 longitude: 2.47569
 postcode: "94100"
 city: Saint-Maur-des-Fossés
-street: "Boulevard Rabelais"
-housenumber: 2
-phone: "+33 1 48 85 10 10"
-opening_hours: "Mo-Fr 08:30-18:30"
-website: "https://www.points.fr/centre/tvtb-saint-maur-des-fosses/"
+street: Boulevard Rabelais
+housenumber: "2"
+phone: +33 1 48 85 10 10
+opening_hours: Mo-Fr 08:30-18:30
+website: https://www.points.fr/centre/tvtb-saint-maur-des-fosses/

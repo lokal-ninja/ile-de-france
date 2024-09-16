@@ -4,8 +4,8 @@ latitude: 48.87336
 longitude: 2.35016
 postcode: "75010"
 city: Paris
-street: "Rue Gabriel Laumain"
-housenumber: 2
-phone: "+33 1 48 0018 41"
-opening_hours: "Tu-Su 11:30-19:30"
-website: "https://www.omy-maison.com/"
+street: Rue Gabriel Laumain
+housenumber: "2"
+phone: +33 1 48 0018 41
+opening_hours: Tu-Su 11:30-19:30
+website: https://www.omy-maison.com/

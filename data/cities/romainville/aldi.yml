@@ -1,11 +1,11 @@
 id: 73630654
-type: way
+type: node
 latitude: 48.87522
 longitude: 2.44766
 postcode: "93230"
 city: Romainville
-street: "Route de Montreuil / Rue de Romainville"
-housenumber: 90
+street: Route de Montreuil / Rue de Romainville
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
 website: ""

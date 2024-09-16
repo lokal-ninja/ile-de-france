@@ -4,8 +4,8 @@ latitude: 48.85381
 longitude: 2.37645
 postcode: "75011"
 city: Paris
-street: "Rue Keller"
-housenumber: 5
-phone: "+33 1 75 44 05 83"
-opening_hours: "Mo 14:00-19:30; Tu-Sa 10:30-19:30"
-website: "https://despetitshauts.com"
+street: Rue Keller
+housenumber: "5"
+phone: +33 1 75 44 05 83
+opening_hours: Mo 14:00-19:30; Tu-Sa 10:30-19:30
+website: https://despetitshauts.com

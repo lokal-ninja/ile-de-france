@@ -4,8 +4,8 @@ latitude: 48.86325
 longitude: 2.37629
 postcode: "75011"
 city: Paris
-street: "Avenue Parmentier"
-housenumber: 66
+street: Avenue Parmentier
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.cobra.fr/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.cobra.fr/

@@ -4,8 +4,8 @@ latitude: 48.83654
 longitude: 2.23828
 postcode: "92100"
 city: Boulogne-Billancourt
-street: "Rue Gallieni"
-housenumber: 126
+street: Rue Gallieni
+housenumber: "126"
 phone: ""
 opening_hours: ""
-website: "https://www.hilti.fr/content/hilti/E2/FR/fr/company/corporate-information/company-profile.html"
+website: https://www.hilti.fr/content/hilti/E2/FR/fr/company/corporate-information/company-profile.html

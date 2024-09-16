@@ -4,8 +4,8 @@ latitude: 48.92343
 longitude: 2.25892
 postcode: "92700"
 city: Colombes
-street: "Rue du Bournard"
-housenumber: 89
+street: Rue du Bournard
+housenumber: "89"
 phone: ""
-opening_hours: "Tu-Sa 10:00-17:45"
-website: "https://magasin.darty.com/542-darty-cuisine-colombes"
+opening_hours: Tu-Sa 10:00-17:45
+website: https://magasin.darty.com/542-darty-cuisine-colombes

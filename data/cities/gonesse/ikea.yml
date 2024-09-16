@@ -1,11 +1,11 @@
 id: 105038688
-type: way
+type: node
 latitude: 48.97516
 longitude: 2.49499
 postcode: "95500"
 city: Gonesse
-street: "Avenue de la Plaine de France"
-housenumber: 164
+street: Avenue de la Plaine de France
+housenumber: "164"
 phone: ""
-opening_hours: "Mo-Su 10:00-20:00"
+opening_hours: Mo-Su 10:00-20:00
 website: ""

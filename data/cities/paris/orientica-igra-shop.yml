@@ -4,8 +4,8 @@ latitude: 48.86888
 longitude: 2.38018
 postcode: "75011"
 city: Paris
-street: "Rue Jean-Pierre Timbaud"
-housenumber: 101
+street: Rue Jean-Pierre Timbaud
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://orientica.com"
+website: https://orientica.com

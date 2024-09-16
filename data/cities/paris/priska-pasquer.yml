@@ -4,8 +4,8 @@ latitude: 48.85998
 longitude: 2.36263
 postcode: "75003"
 city: Paris
-street: "Rue des Coutures Saint-Gervais"
-housenumber: 6
+street: Rue des Coutures Saint-Gervais
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Sa 11:00-19:00"
+opening_hours: Tu-Sa 11:00-19:00
 website: ""

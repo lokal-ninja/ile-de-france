@@ -4,8 +4,8 @@ latitude: 48.88614
 longitude: 2.41552
 postcode: "93500"
 city: Pantin
-street: "Rue des Pommiers"
-housenumber: 10
-phone: "+33 1 48 45 02 76"
-opening_hours: "Mo-Sa 08:30-12:30,13:30-18:00"
-website: "https://www.pompesfunebres-pantin.fr/"
+street: Rue des Pommiers
+housenumber: "10"
+phone: +33 1 48 45 02 76
+opening_hours: Mo-Sa 08:30-12:30,13:30-18:00
+website: https://www.pompesfunebres-pantin.fr/

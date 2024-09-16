@@ -4,8 +4,8 @@ latitude: 48.75477
 longitude: 2.30113
 postcode: "92160"
 city: Antony
-street: "Rue Velpeau"
-housenumber: 1
-phone: "+33 1 46 66 75 06"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
-website: "http://www.fleursdantony.com"
+street: Rue Velpeau
+housenumber: "1"
+phone: +33 1 46 66 75 06
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
+website: http://www.fleursdantony.com

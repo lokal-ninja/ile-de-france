@@ -4,8 +4,8 @@ latitude: 48.84701
 longitude: 2.39674
 postcode: "75012"
 city: Paris
-street: "Avenue du Bel Air"
-housenumber: 27
+street: Avenue du Bel Air
+housenumber: "27"
 phone: ""
-opening_hours: "Tu-Th,Sa 09:30-18:30; Fr 10:00-19:00"
+opening_hours: Tu-Th,Sa 09:30-18:30; Fr 10:00-19:00
 website: ""

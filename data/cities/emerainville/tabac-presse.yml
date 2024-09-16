@@ -4,8 +4,8 @@ latitude: 48.81144
 longitude: 2.6226
 postcode: "77184"
 city: Émerainville
-street: "Place de l'Europe"
-housenumber: 8
-phone: "+33 1 60 06 05 57"
-opening_hours: "Mo-Sa 09:30-18:30"
+street: Place de l'Europe
+housenumber: "8"
+phone: +33 1 60 06 05 57
+opening_hours: Mo-Sa 09:30-18:30
 website: ""

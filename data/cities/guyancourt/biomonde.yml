@@ -5,7 +5,7 @@ longitude: 2.07866
 postcode: "78280"
 city: Guyancourt
 street: ""
-housenumber: 3
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 9:00-20:00"
-website: "https://www.la-coop-villaroise.fr/"
+opening_hours: Mo-Fr 10:00-20:00; Sa 9:00-20:00
+website: https://www.la-coop-villaroise.fr/

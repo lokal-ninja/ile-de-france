@@ -1,11 +1,11 @@
 id: 971327154
-type: way
+type: node
 latitude: 48.95732
 longitude: 2.28006
 postcode: "95100"
 city: Argenteuil
-street: "Rue Jacques Brel"
-housenumber: 
+street: Rue Jacques Brel
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

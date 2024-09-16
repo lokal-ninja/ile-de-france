@@ -4,8 +4,8 @@ latitude: 48.8956
 longitude: 2.36938
 postcode: "75018"
 city: Paris
-street: "189 Rue d'Aubervilliers Voie C Porte 14"
-housenumber: 189
-phone: "+331 44 65 07 77"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-17:00"
-website: "https://www.ordinateur-occasion.com"
+street: 189 Rue d'Aubervilliers Voie C Porte 14
+housenumber: "189"
+phone: +331 44 65 07 77
+opening_hours: Mo-Fr 09:00-12:30,13:30-17:00
+website: https://www.ordinateur-occasion.com

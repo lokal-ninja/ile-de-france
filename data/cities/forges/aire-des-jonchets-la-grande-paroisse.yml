@@ -4,8 +4,8 @@ latitude: 48.42628
 longitude: 2.9273
 postcode: "77130"
 city: Forges
-street: "A5"
-housenumber: 
+street: A5
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.fulli.com/station-service"
+opening_hours: 24/7
+website: https://www.fulli.com/station-service

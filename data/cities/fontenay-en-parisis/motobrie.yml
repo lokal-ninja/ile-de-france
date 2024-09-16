@@ -1,11 +1,11 @@
 id: 132167876
-type: way
+type: node
 latitude: 49.05288
 longitude: 2.45211
 postcode: "95190"
 city: Fontenay-en-Parisis
-street: "Rue de Maitre"
-housenumber: 3
-phone: "+33 134711103"
+street: Rue de Maitre
+housenumber: "3"
+phone: +33 134711103
 opening_hours: ""
-website: "https://www.motobrie.com"
+website: https://www.motobrie.com

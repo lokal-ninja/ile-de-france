@@ -4,8 +4,8 @@ latitude: 48.85692
 longitude: 2.38194
 postcode: "75011"
 city: Paris
-street: "Boulevard Voltaire"
-housenumber: 123
-phone: "+33 1 84 25 09 82"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://paris-11.arthur-bonnet.com/"
+street: Boulevard Voltaire
+housenumber: "123"
+phone: +33 1 84 25 09 82
+opening_hours: Tu-Sa 10:00-19:00
+website: https://paris-11.arthur-bonnet.com/

@@ -1,11 +1,11 @@
 id: 76926286
-type: way
+type: node
 latitude: 48.99107
 longitude: 2.20669
 postcode: "95130"
 city: Franconville
-street: "Rue du Général Leclerc"
-housenumber: 362
+street: Rue du Général Leclerc
+housenumber: "362"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

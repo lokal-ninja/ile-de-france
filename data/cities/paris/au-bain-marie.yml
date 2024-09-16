@@ -4,8 +4,8 @@ latitude: 48.85001
 longitude: 2.32749
 postcode: "75006"
 city: Paris
-street: "Boulevard Raspail"
-housenumber: 59
+street: Boulevard Raspail
+housenumber: "59"
 phone: "+33142710869"
-opening_hours: "Sa 11:00-19:00; Su closed; Mo-Fr 11:00-19:00"
-website: "https://aubainmarie.fr/"
+opening_hours: Sa 11:00-19:00; Su closed; Mo-Fr 11:00-19:00
+website: https://aubainmarie.fr/

@@ -4,8 +4,8 @@ latitude: 48.84788
 longitude: 2.26536
 postcode: "75016"
 city: Paris
-street: "Rue d'Auteuil"
-housenumber: 44
+street: Rue d'Auteuil
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

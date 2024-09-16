@@ -4,8 +4,8 @@ latitude: 48.98285
 longitude: 2.37859
 postcode: "95200"
 city: Sarcelles
-street: "Avenue paul langevin"
-housenumber: 1
+street: Avenue paul langevin
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-13:00,14:00-18:30"
-website: "https://reseau.citroen.fr/sarcelles"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-13:00,14:00-18:30
+website: https://reseau.citroen.fr/sarcelles

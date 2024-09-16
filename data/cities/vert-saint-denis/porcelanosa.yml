@@ -4,8 +4,8 @@ latitude: 48.56324
 longitude: 2.6326
 postcode: "77240"
 city: Vert-Saint-Denis
-street: "Route Nationale 6"
-housenumber: 80
-phone: "+33 1 60 56 57 47"
-opening_hours: "Mo-Fr 10:00-12:30,14:00-19:00; Sa 10:00-19:00"
-website: "https://www.porcelanosa.com/"
+street: Route Nationale 6
+housenumber: "80"
+phone: +33 1 60 56 57 47
+opening_hours: Mo-Fr 10:00-12:30,14:00-19:00; Sa 10:00-19:00
+website: https://www.porcelanosa.com/

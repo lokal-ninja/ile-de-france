@@ -4,8 +4,8 @@ latitude: 48.70768
 longitude: 2.37125
 postcode: "91200"
 city: Athis-Mons
-street: "Avenue François Mitterrand"
-housenumber: 123
+street: Avenue François Mitterrand
+housenumber: "123"
 phone: "+33179934295"
-opening_hours: "7/7"
+opening_hours: 7/7
 website: ""

@@ -1,11 +1,11 @@
 id: 116989936
-type: way
+type: node
 latitude: 48.59016
 longitude: 2.4445
 postcode: "91100"
 city: Villabé
-street: "Rue des 44 Arpents"
-housenumber: 
-phone: "+33 1 60 88 91 91"
+street: Rue des 44 Arpents
+housenumber: ""
+phone: +33 1 60 88 91 91
 opening_hours: ""
-website: "https://www.castorama.fr/"
+website: https://www.castorama.fr/

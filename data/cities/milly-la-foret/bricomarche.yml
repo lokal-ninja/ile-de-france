@@ -1,11 +1,11 @@
 id: 115273107
-type: way
+type: node
 latitude: 48.39729
 longitude: 2.42
 postcode: "91490"
 city: Milly-la-Forêt
-street: "rue des Ormes"
-housenumber: 4
+street: rue des Ormes
+housenumber: "4"
 phone: "+33164989004"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-19:00; Su 09:00-12:00"
+opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-19:00; Su 09:00-12:00
 website: ""

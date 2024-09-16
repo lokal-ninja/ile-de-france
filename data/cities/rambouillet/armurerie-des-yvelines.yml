@@ -1,11 +1,11 @@
 id: 146150647
-type: way
+type: node
 latitude: 48.62578
 longitude: 1.82429
 postcode: "78120"
 city: Rambouillet
-street: "Rue Gustave Eiffel"
-housenumber: 23
+street: Rue Gustave Eiffel
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.armurerie-rambouillet.com/"
+website: https://www.armurerie-rambouillet.com/

@@ -4,8 +4,8 @@ latitude: 48.91973
 longitude: 1.97589
 postcode: "78630"
 city: Orgeval
-street: "Rue du Maréchal Foch"
-housenumber: 1
-phone: "+33 1 39 65 42 04"
-opening_hours: "Tu-Su,PH 06:30-20:00"
-website: "https://www.boulangerieduhamel.com/"
+street: Rue du Maréchal Foch
+housenumber: "1"
+phone: +33 1 39 65 42 04
+opening_hours: Tu-Su,PH 06:30-20:00
+website: https://www.boulangerieduhamel.com/

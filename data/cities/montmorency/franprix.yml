@@ -1,11 +1,11 @@
 id: 146726180
-type: way
+type: node
 latitude: 48.98895
 longitude: 2.31767
 postcode: "95160"
 city: Montmorency
-street: "Rue de Pontoise"
-housenumber: 6
+street: Rue de Pontoise
+housenumber: "6"
 phone: "0970171000"
 opening_hours: ""
 website: ""

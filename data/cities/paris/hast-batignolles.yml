@@ -4,8 +4,8 @@ latitude: 48.88343
 longitude: 2.32316
 postcode: "75017"
 city: Paris
-street: "Rue des Batignolles"
-housenumber: 7
-phone: "+33 1 42 66 10 49"
-opening_hours: "Mo-Sa 11:00-19:30"
-website: "https://www.hast.fr/"
+street: Rue des Batignolles
+housenumber: "7"
+phone: +33 1 42 66 10 49
+opening_hours: Mo-Sa 11:00-19:30
+website: https://www.hast.fr/

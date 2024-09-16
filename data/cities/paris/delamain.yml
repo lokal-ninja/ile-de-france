@@ -4,8 +4,8 @@ latitude: 48.86291
 longitude: 2.33604
 postcode: "75001"
 city: Paris
-street: "Rue Saint-Honoré"
-housenumber: 155
-phone: "+33 1 42 61 48 78"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.librairie-delamain.com"
+street: Rue Saint-Honoré
+housenumber: "155"
+phone: +33 1 42 61 48 78
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.librairie-delamain.com

@@ -4,8 +4,8 @@ latitude: 48.86253
 longitude: 2.35396
 postcode: "75003"
 city: Paris
-street: "Rue Beaubourg"
-housenumber: 43
+street: Rue Beaubourg
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.40674
 longitude: 2.70134
 postcode: "77300"
 city: Fontainebleau
-street: "Rue des Pins"
-housenumber: 8
-phone: "+33 1 60 74 58 82"
-opening_hours: "Tu-Sa 10:00-13:00, 14:00-19:00"
-website: "https://www.franceloisirs.com"
+street: Rue des Pins
+housenumber: "8"
+phone: +33 1 60 74 58 82
+opening_hours: Tu-Sa 10:00-13:00, 14:00-19:00
+website: https://www.franceloisirs.com

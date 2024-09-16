@@ -4,8 +4,8 @@ latitude: 48.88303
 longitude: 2.34646
 postcode: "75009"
 city: Paris
-street: "Rue Gérando"
-housenumber: 21
+street: Rue Gérando
+housenumber: "21"
 phone: "+33148786516"
-opening_hours: "Tu-Sa 11:00-19:00"
-website: "https://lablousedelyon.com/"
+opening_hours: Tu-Sa 11:00-19:00
+website: https://lablousedelyon.com/

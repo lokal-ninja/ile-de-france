@@ -4,8 +4,8 @@ latitude: 48.89017
 longitude: 2.34937
 postcode: "75018"
 city: Paris
-street: "Boulevard Barbès"
-housenumber: 65
-phone: "+33 1 42 51 29 80"
-opening_hours: "Mo-Su 09:00-20:30"
-website: "https://facebook.com/baytullahm/"
+street: Boulevard Barbès
+housenumber: "65"
+phone: +33 1 42 51 29 80
+opening_hours: Mo-Su 09:00-20:30
+website: https://facebook.com/baytullahm/

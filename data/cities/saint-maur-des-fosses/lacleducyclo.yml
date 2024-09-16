@@ -4,8 +4,8 @@ latitude: 48.79012
 longitude: 2.49402
 postcode: "94100"
 city: Saint-Maur-des-Fossés
-street: "Rue Lamartine"
-housenumber: 3
-phone: "+33 6 37 60 58 96"
-opening_hours: "Tu-Th 14:00-19:00; Fr 14:00-19:00; Sa Sur rendez-vous"
-website: "https://lacleducyclo.fr/"
+street: Rue Lamartine
+housenumber: "3"
+phone: +33 6 37 60 58 96
+opening_hours: Tu-Th 14:00-19:00; Fr 14:00-19:00; Sa "Sur rendez-vous"
+website: https://lacleducyclo.fr/

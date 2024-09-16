@@ -4,8 +4,8 @@ latitude: 48.50081
 longitude: 2.58425
 postcode: "77190"
 city: Villiers-en-Bière
-street: "Centre Commercial Carrefour"
-housenumber: 
+street: Centre Commercial Carrefour
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:30; Sa 09:00-20:00"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_63"
+opening_hours: Mo-Fr 09:30-20:30; Sa 09:00-20:00
+website: https://www.decathlon.fr/fr/store?store_id=PS_63

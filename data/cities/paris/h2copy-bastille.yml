@@ -4,8 +4,8 @@ latitude: 48.85296
 longitude: 2.36615
 postcode: "75004"
 city: Paris
-street: "Rue Castex"
-housenumber: 11
-phone: "+33 1 48 87 82 98"
-opening_hours: "Mo-Fr 9:30-19:00"
-website: "https://www.h2copy.fr/"
+street: Rue Castex
+housenumber: "11"
+phone: +33 1 48 87 82 98
+opening_hours: Mo-Fr 9:30-19:00
+website: https://www.h2copy.fr/

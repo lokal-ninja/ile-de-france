@@ -4,8 +4,8 @@ latitude: 48.84849
 longitude: 2.32107
 postcode: "75006"
 city: Paris
-street: "Rue de Sèvres"
-housenumber: 103
-phone: "+33 1 45 49 40 60"
-opening_hours: "Mo-Su 09:30-11:30 16:30-18:30"
+street: Rue de Sèvres
+housenumber: "103"
+phone: +33 1 45 49 40 60
+opening_hours: Mo-Su 09:30-11:30 16:30-18:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.84652
 longitude: 2.37806
 postcode: "75012"
 city: Paris
-street: "Boulevard Diderot"
-housenumber: 35
-phone: "+33 1 46 28 71 01"
+street: Boulevard Diderot
+housenumber: "35"
+phone: +33 1 46 28 71 01
 opening_hours: ""
-website: "http://maisonnoelparis.com/"
+website: http://maisonnoelparis.com/

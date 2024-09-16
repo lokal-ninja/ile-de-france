@@ -4,8 +4,8 @@ latitude: 48.84046
 longitude: 2.65324
 postcode: "77200"
 city: Torcy
-street: "Promenade du Belvédère"
-housenumber: 18
-phone: "+33 1 60 06 87 57"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-13:00"
-website: "https://magasins.spar.fr/fr/s/spar-supermarche-torcy"
+street: Promenade du Belvédère
+housenumber: "18"
+phone: +33 1 60 06 87 57
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-13:00
+website: https://magasins.spar.fr/fr/s/spar-supermarche-torcy

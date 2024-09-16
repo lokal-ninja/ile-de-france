@@ -4,8 +4,8 @@ latitude: 48.79337
 longitude: 2.27216
 postcode: "92140"
 city: Clamart
-street: "Place du panorama"
-housenumber: 1
-phone: "+33 1 43506108"
-opening_hours: "Mo-Fr 07:00-20:00, Sa 07:00-19:30"
+street: Place du panorama
+housenumber: "1"
+phone: +33 1 43506108
+opening_hours: Mo-Fr 07:00-20:00, Sa 07:00-19:30
 website: ""

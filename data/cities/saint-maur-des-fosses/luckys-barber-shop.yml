@@ -5,7 +5,7 @@ longitude: 2.47878
 postcode: "94100"
 city: Saint-Maur-des-Fossés
 street: ""
-housenumber: 54
+housenumber: "54"
 phone: "+33145145413"
-opening_hours: "Mo-Tu 10:00-19:00; We-Sa 10:00-20:00"
-website: "https://www.luckysbarber.fr"
+opening_hours: Mo-Tu 10:00-19:00; We-Sa 10:00-20:00
+website: https://www.luckysbarber.fr

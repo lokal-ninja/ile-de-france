@@ -1,11 +1,11 @@
 id: 63190257
-type: way
+type: node
 latitude: 48.74341
 longitude: 2.22557
 postcode: "91430"
 city: IGNY
-street: "Rue Gabriel Péri"
-housenumber: 15
+street: Rue Gabriel Péri
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Sa 07:00-20:00;Su 07:00-14:30"
+opening_hours: Tu-Sa 07:00-20:00;Su 07:00-14:30
 website: ""

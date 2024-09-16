@@ -4,8 +4,8 @@ latitude: 48.88732
 longitude: 2.33344
 postcode: "75018"
 city: Paris
-street: "Rue Caulaincourt"
-housenumber: 22
+street: Rue Caulaincourt
+housenumber: "22"
 phone: ""
-opening_hours: "Th-Tu 08:00-19:00"
+opening_hours: Th-Tu 08:00-19:00
 website: ""

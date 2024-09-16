@@ -4,8 +4,8 @@ latitude: 49.04619
 longitude: 2.0719
 postcode: "95000"
 city: Cergy
-street: "Rue des Mérites"
-housenumber: 5
-phone: "+33 1 30 28 67 20"
-opening_hours: "Tu-We 8:30-12:00,14:00-17:00"
-website: "https://www.emmaus95.fr/infos-pratiques/emmaus-cergy/"
+street: Rue des Mérites
+housenumber: "5"
+phone: +33 1 30 28 67 20
+opening_hours: Tu-We 8:30-12:00,14:00-17:00
+website: https://www.emmaus95.fr/infos-pratiques/emmaus-cergy/

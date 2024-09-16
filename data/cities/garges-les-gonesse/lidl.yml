@@ -1,11 +1,11 @@
 id: 270174586
-type: way
+type: node
 latitude: 48.96175
 longitude: 2.40391
 postcode: "95140"
 city: Garges-lès-Gonesse
-street: "Rue Marcel Cerdan"
-housenumber: 3
+street: Rue Marcel Cerdan
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.8613
 longitude: 2.38308
 postcode: "75011"
 city: Paris
-street: "Rue Omer Talon"
+street: Rue Omer Talon
 housenumber: 1 bis
-phone: "+33 1 42 71 23 45"
-opening_hours: "Mo-Th 08:30-12:30,13:30-17:00; Fr 08:30-12:30,13:30-16:30; PH off"
-website: "https://www.weber-metaux.com"
+phone: +33 1 42 71 23 45
+opening_hours: Mo-Th 08:30-12:30,13:30-17:00; Fr 08:30-12:30,13:30-16:30; PH off
+website: https://www.weber-metaux.com

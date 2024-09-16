@@ -4,8 +4,8 @@ latitude: 48.85849
 longitude: 2.38158
 postcode: "75011"
 city: Paris
-street: "Rue Pétion"
-housenumber: 7
+street: Rue Pétion
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Sa 10:00-12:00,14:00-19:00"
+opening_hours: Tu-Sa 10:00-12:00,14:00-19:00
 website: ""

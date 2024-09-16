@@ -1,11 +1,11 @@
 id: 115140251
-type: way
+type: node
 latitude: 48.56806
 longitude: 2.63594
 postcode: "77240"
 city: Vert-Saint-Denis
-street: "Rue Paul-Henri Spaak"
-housenumber: 2
+street: Rue Paul-Henri Spaak
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

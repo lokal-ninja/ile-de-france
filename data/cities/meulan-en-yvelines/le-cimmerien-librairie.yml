@@ -4,8 +4,8 @@ latitude: 49.00551
 longitude: 1.90762
 postcode: "78250"
 city: Meulan-en-Yvelines
-street: "Rue du Maréchal Foch"
-housenumber: 54
+street: Rue du Maréchal Foch
+housenumber: "54"
 phone: "+33988013383"
-opening_hours: "Tu-Sa 09:30-19:00"
-website: "https://www.lecimmerien-librairie.fr/"
+opening_hours: Tu-Sa 09:30-19:00
+website: https://www.lecimmerien-librairie.fr/

@@ -1,11 +1,11 @@
 id: 654320442
-type: way
+type: node
 latitude: 48.8556
 longitude: 2.78294
 postcode: "77700"
 city: Serris
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://www.adidas.fr/"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://www.adidas.fr/

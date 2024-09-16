@@ -4,8 +4,8 @@ latitude: 48.81623
 longitude: 2.31018
 postcode: "92120"
 city: Montrouge
-street: "Avenue Verdier"
-housenumber: 78
-phone: "+33 1 49 65 03 69"
-opening_hours: "Tu-Sa 9:30-19:30"
-website: "https://danstonbocal.fr/"
+street: Avenue Verdier
+housenumber: "78"
+phone: +33 1 49 65 03 69
+opening_hours: Tu-Sa 9:30-19:30
+website: https://danstonbocal.fr/

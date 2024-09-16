@@ -4,8 +4,8 @@ latitude: 48.80203
 longitude: 2.43005
 postcode: "94700"
 city: Maisons-Alfort
-street: "Avenue du Général de Gaulle"
-housenumber: 63
-phone: "+33 1 43 76 74 51"
-opening_hours: "Tu-Sa 09:00-13:00,15:30-19:45"
+street: Avenue du Général de Gaulle
+housenumber: "63"
+phone: +33 1 43 76 74 51
+opening_hours: Tu-Sa 09:00-13:00,15:30-19:45
 website: ""

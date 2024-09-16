@@ -4,8 +4,8 @@ latitude: 48.84957
 longitude: 2.49833
 postcode: "94170"
 city: Le Perreux-sur-Marne
-street: "Boulevard d'Alsace-Lorraine"
-housenumber: 44
-phone: "+33 1 41 93 73 54"
-opening_hours: "Mo-Sa 09:00-20:30; Su 09:00-19:00; "
-website: "https://www.monceaufleurs.com/"
+street: Boulevard d'Alsace-Lorraine
+housenumber: "44"
+phone: +33 1 41 93 73 54
+opening_hours: 'Mo-Sa 09:00-20:30; Su 09:00-19:00; '
+website: https://www.monceaufleurs.com/

@@ -4,8 +4,8 @@ latitude: 48.98877
 longitude: 1.71232
 postcode: "78200"
 city: Mantes-la-Jolie
-street: "Rue de Lorraine"
-housenumber: 42
-phone: "+33 1 30 33 00 39"
-opening_hours: "Mo-Sa 09:30-19:30; Su 10:00-13:00"
-website: "https://www.lavieclaire.com/magasin-bio/mantes-la-jolie.html"
+street: Rue de Lorraine
+housenumber: "42"
+phone: +33 1 30 33 00 39
+opening_hours: Mo-Sa 09:30-19:30; Su 10:00-13:00
+website: https://www.lavieclaire.com/magasin-bio/mantes-la-jolie.html

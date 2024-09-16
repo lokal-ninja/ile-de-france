@@ -4,8 +4,8 @@ latitude: 48.40593
 longitude: 2.70226
 postcode: "77300"
 city: Fontainebleau
-street: "Rue Grande"
-housenumber: 82
-phone: "+33 1 64 22 47 92"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-19:30; Sa 09:00-19:30"
-website: "https://balouzat.net/"
+street: Rue Grande
+housenumber: "82"
+phone: +33 1 64 22 47 92
+opening_hours: Mo-Fr 09:00-13:00, 14:00-19:30; Sa 09:00-19:30
+website: https://balouzat.net/

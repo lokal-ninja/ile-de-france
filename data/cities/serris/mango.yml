@@ -1,11 +1,11 @@
 id: 654503560
-type: way
+type: node
 latitude: 48.8552
 longitude: 2.7814
 postcode: "77700"
 city: Serris
 street: ""
-housenumber: 
-phone: "+33 1 60 45 96 33"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://www.mango.com"
+housenumber: ""
+phone: +33 1 60 45 96 33
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://www.mango.com

@@ -4,8 +4,8 @@ latitude: 48.86145
 longitude: 2.34823
 postcode: "75001"
 city: Paris
-street: "Rue de la Cossonnerie"
-housenumber: 13
+street: Rue de la Cossonnerie
+housenumber: "13"
 phone: "+33140200368"
-opening_hours: "Mo-Sa 11:00-20:00; su 13:00-19:30"
-website: "https://www.rpparfums.fr/"
+opening_hours: Mo-Sa 11:00-20:00; su 13:00-19:30
+website: https://www.rpparfums.fr/

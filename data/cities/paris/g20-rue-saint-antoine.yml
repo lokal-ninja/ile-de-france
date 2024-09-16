@@ -4,8 +4,8 @@ latitude: 48.854
 longitude: 2.36413
 postcode: "75004"
 city: Paris
-street: "Rue Saint-Antoine"
-housenumber: 55
+street: Rue Saint-Antoine
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

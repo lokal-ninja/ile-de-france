@@ -4,8 +4,8 @@ latitude: 48.84805
 longitude: 2.28471
 postcode: "75015"
 city: Paris
-street: "Rue Beaugrenelle"
-housenumber: 1
-phone: "+33 1 83 64 77 88"
-opening_hours: "Mo-Sa 10:00-12:30,13:30-19:00; Su 10:00-12:30,13:30-18:00"
-website: "https://paris15.grosbill.com/"
+street: Rue Beaugrenelle
+housenumber: "1"
+phone: +33 1 83 64 77 88
+opening_hours: Mo-Sa 10:00-12:30,13:30-19:00; Su 10:00-12:30,13:30-18:00
+website: https://paris15.grosbill.com/

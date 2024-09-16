@@ -4,8 +4,8 @@ latitude: 48.79782
 longitude: 2.13536
 postcode: "78000"
 city: Versailles
-street: "Rue des États Généraux"
-housenumber: 47
+street: Rue des États Généraux
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://www.franprix.fr/magasins/5602"
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://www.franprix.fr/magasins/5602

@@ -4,8 +4,8 @@ latitude: 48.83563
 longitude: 2.30053
 postcode: "75015"
 city: Paris
-street: "Rue Dombasle"
-housenumber: 51
+street: Rue Dombasle
+housenumber: "51"
 phone: "+33147833333"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "http://oncledoc.com/"
+opening_hours: Tu-Sa 10:00-19:00
+website: http://oncledoc.com/

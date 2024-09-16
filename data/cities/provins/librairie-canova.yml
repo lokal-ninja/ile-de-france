@@ -4,8 +4,8 @@ latitude: 48.56044
 longitude: 3.29764
 postcode: "77160"
 city: Provins
-street: "Rue du Val"
-housenumber: 17
+street: Rue du Val
+housenumber: "17"
 phone: "0786436190"
-opening_hours: "Tu-Fr 09:30-13:00,14:00-19:00; Sa 09:00-19:00"
-website: "https://www.librairiecanova-provins.com/"
+opening_hours: Tu-Fr 09:30-13:00,14:00-19:00; Sa 09:00-19:00
+website: https://www.librairiecanova-provins.com/

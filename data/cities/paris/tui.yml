@@ -4,8 +4,8 @@ latitude: 48.83853
 longitude: 2.35018
 postcode: "75005"
 city: Paris
-street: "Rue de Bazeilles"
-housenumber: 3
+street: Rue de Bazeilles
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Sa 10:00-16:00"
+opening_hours: Tu-Sa 10:00-16:00
 website: ""

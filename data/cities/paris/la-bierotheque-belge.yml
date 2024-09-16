@@ -4,8 +4,8 @@ latitude: 48.89315
 longitude: 2.34551
 postcode: "75018"
 city: Paris
-street: "Rue Hermel"
-housenumber: 40
-phone: "+33 658 099 342"
-opening_hours: "Mo-Tu 14:00-20:30, We-Sa 11:30-20:30"
-website: "https://www.labierothequebelge.paris/"
+street: Rue Hermel
+housenumber: "40"
+phone: +33 658 099 342
+opening_hours: Mo-Tu 14:00-20:30, We-Sa 11:30-20:30
+website: https://www.labierothequebelge.paris/

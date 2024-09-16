@@ -4,8 +4,8 @@ latitude: 48.88704
 longitude: 2.38708
 postcode: "75019"
 city: Paris
-street: "Avenue Jean Jaurès"
-housenumber: 148
+street: Avenue Jean Jaurès
+housenumber: "148"
 phone: ""
-opening_hours: "Tu-Fr 06:00-20:15; Sa 06:30-20:00"
+opening_hours: Tu-Fr 06:00-20:15; Sa 06:30-20:00
 website: ""

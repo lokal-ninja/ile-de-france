@@ -4,8 +4,8 @@ latitude: 48.5604
 longitude: 3.29777
 postcode: "77160"
 city: Provins
-street: "Rue du Val"
-housenumber: 15
+street: Rue du Val
+housenumber: "15"
 phone: "0978801992"
-opening_hours: "opening_hours=Mo 14:00-19:00; Tu-Sa 09:30-19:00; Su 09:30-12:30"
+opening_hours: opening_hours=Mo 14:00-19:00; Tu-Sa 09:30-19:00; Su 09:30-12:30
 website: ""

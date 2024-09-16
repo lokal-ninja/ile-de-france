@@ -1,11 +1,11 @@
 id: 115138090
-type: way
+type: node
 latitude: 48.74045
 longitude: 3.10948
 postcode: "77120"
 city: Amillis
-street: "Zone Artisanal des Baliveaux"
-housenumber: 20
+street: Zone Artisanal des Baliveaux
+housenumber: "20"
 phone: "+33164046027"
 opening_hours: ""
-website: "https://reseau.citroen.fr/reparateur-amillis"
+website: https://reseau.citroen.fr/reparateur-amillis

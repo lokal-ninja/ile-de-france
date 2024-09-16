@@ -1,11 +1,11 @@
 id: 68674416
-type: way
+type: node
 latitude: 48.88651
 longitude: 2.20544
 postcode: "92000"
 city: Nanterre
-street: "Rue de la Source"
-housenumber: 1
+street: Rue de la Source
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

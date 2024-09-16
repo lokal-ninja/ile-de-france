@@ -4,8 +4,8 @@ latitude: 48.53943
 longitude: 2.65963
 postcode: "77000"
 city: Melun
-street: "Rue Saint-Aspais"
-housenumber: 41
-phone: "+33 1 64 39 40 47"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.librairie-escalier.fr"
+street: Rue Saint-Aspais
+housenumber: "41"
+phone: +33 1 64 39 40 47
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.librairie-escalier.fr

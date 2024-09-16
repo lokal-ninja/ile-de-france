@@ -4,8 +4,8 @@ latitude: 48.87286
 longitude: 2.36353
 postcode: "75010"
 city: Paris
-street: "Rue de Lancry"
-housenumber: 67
+street: Rue de Lancry
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Su 10:00-25:00"
-website: "https://www.leverrevole.fr/"
+opening_hours: Mo-Su 10:00-25:00
+website: https://www.leverrevole.fr/

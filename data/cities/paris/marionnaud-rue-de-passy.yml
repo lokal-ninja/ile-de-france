@@ -4,8 +4,8 @@ latitude: 48.85794
 longitude: 2.27674
 postcode: ""
 city: Paris
-street: "Rue de Passy"
-housenumber: 
+street: Rue de Passy
+housenumber: ""
 phone: "+33142249593"
-opening_hours: "Mo 10:00-19:00, Tu-Sa 10:00-19:30"
-website: "https://www.marionnaud.fr/"
+opening_hours: Mo 10:00-19:00, Tu-Sa 10:00-19:30
+website: https://www.marionnaud.fr/

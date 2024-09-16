@@ -1,11 +1,11 @@
 id: 402938133
-type: way
+type: node
 latitude: 49.00778
 longitude: 2.67425
 postcode: "77230"
 city: Thieux
-street: "Rue des Trois Villes"
-housenumber: 46
-phone: "+33 1 60 26 96 96"
-opening_hours: "Mo-Fr 08:00-18:30"
-website: "https://mediaco-groupe.com/fr/agences/paris-nord-idf/"
+street: Rue des Trois Villes
+housenumber: "46"
+phone: +33 1 60 26 96 96
+opening_hours: Mo-Fr 08:00-18:30
+website: https://mediaco-groupe.com/fr/agences/paris-nord-idf/

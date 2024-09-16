@@ -4,8 +4,8 @@ latitude: 48.88931
 longitude: 2.3464
 postcode: "75018"
 city: Paris
-street: "Rue Ramey"
-housenumber: 34
-phone: "+33 1 42 57 72 48"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.infinitycoiffure.fr"
+street: Rue Ramey
+housenumber: "34"
+phone: +33 1 42 57 72 48
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.infinitycoiffure.fr

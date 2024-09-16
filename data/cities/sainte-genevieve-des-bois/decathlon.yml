@@ -1,11 +1,11 @@
 id: 115359001
-type: way
+type: node
 latitude: 48.62594
 longitude: 2.34404
 postcode: "91700"
 city: Sainte-Geneviève-des-Bois
-street: "Zone Industrielle de la Croix Blanche"
-housenumber: 
-phone: "+33 1 60 15 33 13"
-opening_hours: "Mo-Su 09:30-19:30"
-website: "https://www.decathlon.fr/fr/store?store_id"
+street: Zone Industrielle de la Croix Blanche
+housenumber: ""
+phone: +33 1 60 15 33 13
+opening_hours: Mo-Su 09:30-19:30
+website: https://www.decathlon.fr/fr/store?store_id

@@ -1,11 +1,11 @@
 id: 700227478
-type: way
+type: node
 latitude: 48.82595
 longitude: 1.98746
 postcode: "78340"
 city: Les Clayes-sous-Bois
-street: "Chemin des Vignes"
-housenumber: 
+street: Chemin des Vignes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

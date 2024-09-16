@@ -4,8 +4,8 @@ latitude: 48.84984
 longitude: 2.37515
 postcode: "75012"
 city: Paris
-street: "Rue Traversière"
-housenumber: 69
-phone: "+33 9 77 62 39 44"
-opening_hours: "Tu-Sa 11:00-19:00"
-website: "https://tokyma.fr"
+street: Rue Traversière
+housenumber: "69"
+phone: +33 9 77 62 39 44
+opening_hours: Tu-Sa 11:00-19:00
+website: https://tokyma.fr

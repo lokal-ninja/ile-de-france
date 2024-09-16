@@ -4,8 +4,8 @@ latitude: 48.87408
 longitude: 2.34804
 postcode: "75010"
 city: Paris
-street: "Rue du Faubourg Poissonnière"
-housenumber: 44
-phone: "+33 1 47 70 11 17"
-opening_hours: "Su-Fr 10:00-20:00; Sa 10:00-13:00"
-website: "https://www.nousantigaspi.com/magasin-paris-poissonniere"
+street: Rue du Faubourg Poissonnière
+housenumber: "44"
+phone: +33 1 47 70 11 17
+opening_hours: Su-Fr 10:00-20:00; Sa 10:00-13:00
+website: https://www.nousantigaspi.com/magasin-paris-poissonniere
