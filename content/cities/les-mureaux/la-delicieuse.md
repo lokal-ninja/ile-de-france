@@ -1,5 +1,0 @@
----
-title: "La Délicieuse"
-url: /les-mureaux/la-delicieuse/
-shop: boulangerie
----
