@@ -1,6 +1,6 @@
 ---
 title: Boulogne-Billancourt
 url: /boulogne-billancourt/
-latitude: 48.831
-longitude: 2.238
+latitude: 48.84
+longitude: 2.247
 ---
