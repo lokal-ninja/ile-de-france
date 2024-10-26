@@ -1,5 +1,5 @@
 ---
 title: "HEMA"
 url: /paris/hema-rue-du-faubourg-saint-antoine/
-shop: magasin de variétés
+shop: grand magasin
 ---
