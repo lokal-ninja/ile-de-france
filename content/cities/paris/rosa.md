@@ -1,5 +1,5 @@
 ---
 title: "Rosa"
 url: /paris/rosa/
-shop: sac
+shop: boutique
 ---
