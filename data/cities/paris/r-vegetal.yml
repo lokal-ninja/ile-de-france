@@ -7,5 +7,5 @@ city: Paris
 street: Rue Beaurepaire
 housenumber: "36"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,We,Fr,Sa 09:30-19:00; Th 10:00-20:30
 website: ""
