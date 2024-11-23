@@ -1,6 +1,6 @@
 ---
 title: Morangis
 url: /morangis/
-latitude: 48.708
-longitude: 2.345
+latitude: 48.705
+longitude: 2.34
 ---
