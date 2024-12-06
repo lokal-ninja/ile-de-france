@@ -1,5 +1,5 @@
 ---
-title: "Intermarché express"
+title: "Intermarché Express"
 url: /paris/intermarche-express-rue-du-faubourg-du-temple/
-shop: supermarché
+shop: commodité
 ---
