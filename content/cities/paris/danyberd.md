@@ -1,5 +1,5 @@
 ---
-title: "DANYBERD"
+title: "Danyberd"
 url: /paris/danyberd/
 shop: vêtements
 ---
