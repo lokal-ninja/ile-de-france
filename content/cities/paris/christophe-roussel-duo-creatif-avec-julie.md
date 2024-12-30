@@ -1,5 +1,5 @@
 ---
-title: "Christophe Roussel - Duo Créatif avec Julie"
+title: "Christophe Roussel - Duo créatif avec Julie"
 url: /paris/christophe-roussel-duo-creatif-avec-julie/
 shop: chocolat
 ---

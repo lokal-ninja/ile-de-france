@@ -1,6 +1,6 @@
 ---
 title: Gonesse
 url: /gonesse/
-latitude: 48.964
-longitude: 2.464
+latitude: 48.983
+longitude: 2.44
 ---
