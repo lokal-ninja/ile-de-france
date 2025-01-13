@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
 url: /pantin/franprix/
-shop: commodité
+shop: supermarché
 ---

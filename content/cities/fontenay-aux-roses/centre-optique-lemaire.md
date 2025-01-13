@@ -1,5 +1,5 @@
 ---
-title: "Centre optique Lemaire"
+title: "Centre Optique Lemaire"
 url: /fontenay-aux-roses/centre-optique-lemaire/
 shop: opticien
 ---

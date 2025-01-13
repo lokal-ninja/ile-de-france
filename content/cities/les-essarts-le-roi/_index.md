@@ -1,6 +1,6 @@
 ---
 title: Les Essarts-le-Roi
 url: /les-essarts-le-roi/
-latitude: 48.717
-longitude: 1.893
+latitude: 48.721
+longitude: 1.888
 ---
