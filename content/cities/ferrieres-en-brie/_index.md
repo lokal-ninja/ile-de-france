@@ -1,6 +1,6 @@
 ---
 title: Ferrières-en-Brie
 url: /ferrieres-en-brie/
-latitude: 48.829
-longitude: 2.704
+latitude: 48.828
+longitude: 2.705
 ---
