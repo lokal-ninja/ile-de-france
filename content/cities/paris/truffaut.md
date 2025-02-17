@@ -1,5 +1,5 @@
 ---
 title: "Truffaut"
 url: /paris/truffaut/
-shop: vacant
+shop: centre de jardinage
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Caprices d'artisans"
+title: "Caprices d'Artisans"
 url: /moisselles/caprices-dartisans/
 shop: shop
 ---
