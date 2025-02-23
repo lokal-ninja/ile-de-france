@@ -1,5 +1,5 @@
 ---
-title: "Princesse Tam-Tam"
+title: "Princesse tam.tam"
 url: /fontainebleau/princesse-tam-tam/
 shop: vêtements
 ---

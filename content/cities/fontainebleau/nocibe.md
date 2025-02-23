@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /fontainebleau/nocibe/
-shop: parfumerie
+shop: beauté
 ---
