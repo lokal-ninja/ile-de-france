@@ -1,5 +1,5 @@
 ---
-title: "Librairie le A"
+title: "Librairie Le A"
 url: /le-plessis-robinson/librairie-le-a/
 shop: livres
 ---

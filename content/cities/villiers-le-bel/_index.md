@@ -1,6 +1,6 @@
 ---
 title: Villiers-le-Bel
 url: /villiers-le-bel/
-latitude: 49
-longitude: 2.391
+latitude: 48.999
+longitude: 2.392
 ---
