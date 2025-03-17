@@ -1,6 +1,6 @@
 ---
 title: Le Kremlin-Bicêtre
 url: /le-kremlin-bicetre/
-latitude: 48.812
-longitude: 2.362
+latitude: 48.814
+longitude: 2.359
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Espace ma boucherie"
+title: "Espace Ma Boucherie"
 url: /sarcelles/espace-ma-boucherie/
 shop: supermarché
 ---

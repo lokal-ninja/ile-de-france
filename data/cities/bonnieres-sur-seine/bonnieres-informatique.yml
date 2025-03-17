@@ -7,7 +7,5 @@ city: Bonnières-sur-Seine
 street: Rue Georges Herrewyn
 housenumber: "12"
 phone: "+33980579129"
-opening_hours: mardi 10:00-12:30 15:00-19:00  mercredi 10:00-12:30 16:00-19:00  jeudi
-    10:00-12:30 15:00-19:00  vendredi 10:00-12:30 15:00-19:00  samedi 10:00-12:30
-    16:00-19:00
+opening_hours: Tu-Fr 10:00-12:30,15:00-19:00; We,Sa 10:00-12:30,16:00-19:00
 website: ""
