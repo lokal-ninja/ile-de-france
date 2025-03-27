@@ -1,6 +1,6 @@
 ---
 title: Thiverval-Grignon
 url: /thiverval-grignon/
-latitude: 48.842
-longitude: 1.949
+latitude: 48.841
+longitude: 1.948
 ---
