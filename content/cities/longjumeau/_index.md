@@ -1,6 +1,6 @@
 ---
 title: Longjumeau
 url: /longjumeau/
-latitude: 48.7
-longitude: 2.297
+latitude: 48.693
+longitude: 2.293
 ---

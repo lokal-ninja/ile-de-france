@@ -7,5 +7,5 @@ city: Paris
 street: Avenue Parmentier
 housenumber: 62b
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Fr,Sa[1] 10:00-12:00,12:30-18:30; Mo[1] off
 website: https://www.oxfamfrance.org/magasins/le-dressing-doxfam-paris
