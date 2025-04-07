@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
-url: /chatenay-malabry/franprix/
+url: /lhay-les-roses/franprix/
 shop: supermarché
 ---
