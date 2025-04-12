@@ -1,5 +1,5 @@
 ---
 title: "Franprix"
-url: /chaville/franprix-rue-de-jouy/
+url: /paris/franprix-9/
 shop: commodité
 ---
