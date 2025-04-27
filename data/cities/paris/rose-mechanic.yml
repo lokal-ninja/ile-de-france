@@ -7,5 +7,5 @@ city: Paris
 street: Rue Robert Fleury
 housenumber: "9"
 phone: +33 650109445
-opening_hours: ""
+opening_hours: Mo,Tu,Th-Sa 09:00-18:30
 website: https://rosemechanic.fr
