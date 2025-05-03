@@ -7,5 +7,5 @@ city: Paris
 street: Rue Pernety
 housenumber: "32"
 phone: +33 7 85 50 45 48
-opening_hours: Mo 10:00-20:00; Tu-Sa 10:00-20:00; Su 10:00-13:00
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-13:00
 website: https://www.facebook.com/LesSaisonniersParis/
