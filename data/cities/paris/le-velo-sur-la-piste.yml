@@ -7,5 +7,5 @@ city: Paris
 street: Avenue de la Porte Brunet
 housenumber: "18"
 phone: +33.1 75 57 42 19
-opening_hours: Tu-Su 09:00-19:00
+opening_hours: Tu-Sa 09:00-19:00; Su 10:00-19:00
 website: https://levelosurlapiste.business.site/

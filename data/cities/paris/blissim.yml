@@ -4,8 +4,8 @@ latitude: 48.86451
 longitude: 2.34514
 postcode: "75001"
 city: Paris
-street: ""
-housenumber: ""
+street: Rue Montmartre
+housenumber: "17"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Su off; Tu-Sa 10:30-19:30
 website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Boutique Valentin Haüy"
 url: /paris/boutique-valentin-hauy/
-shop: shop
+shop: charité
 ---

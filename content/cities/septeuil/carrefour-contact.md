@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
 url: /septeuil/carrefour-contact/
-shop: supermarché
+shop: commodité
 ---

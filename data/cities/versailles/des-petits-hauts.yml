@@ -6,6 +6,7 @@ postcode: "78000"
 city: Versailles
 street: Rue Hoche
 housenumber: "23"
-phone: ""
-opening_hours: ""
+phone: +33 1 77 45 55 30
+opening_hours: Tu-Th,Sa 10:00-13:00,14:00-19:00; Fr 11:00-13:00,14:00-19:00; Su,Mo
+    off
 website: ""

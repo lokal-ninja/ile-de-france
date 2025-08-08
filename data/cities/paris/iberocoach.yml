@@ -7,5 +7,5 @@ city: Paris
 street: Rue de Charenton
 housenumber: "309"
 phone: +33 1 83 56 24 45
-opening_hours: Mo-Fr 09:00-12:00, 14:00-18:00; Sa 10:00-12:00
+opening_hours: Mo-Fr 09:00-12:00,14:30-18:30; Sa 10:00-12:00; Su off
 website: https://iberocoach.com
