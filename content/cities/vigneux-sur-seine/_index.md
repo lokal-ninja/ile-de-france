@@ -1,6 +1,6 @@
 ---
 title: Vigneux-sur-Seine
 url: /vigneux-sur-seine/
-latitude: 48.702
-longitude: 2.425
+latitude: 48.696
+longitude: 2.442
 ---

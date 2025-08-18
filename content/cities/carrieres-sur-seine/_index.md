@@ -1,6 +1,6 @@
 ---
 title: Carrières-sur-Seine
 url: /carrieres-sur-seine/
-latitude: 48.909
-longitude: 2.178
+latitude: 48.918
+longitude: 2.186
 ---

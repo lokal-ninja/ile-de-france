@@ -1,5 +1,5 @@
 ---
-title: "Épicerie Fine"
+title: "Épicerie fine"
 url: /paris/epicerie-fine/
 shop: vacant
 ---
