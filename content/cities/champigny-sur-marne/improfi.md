@@ -1,5 +1,5 @@
 ---
-title: "IMPROFI"
+title: "Improfi"
 url: /champigny-sur-marne/improfi/
 shop: copyshop
 ---
