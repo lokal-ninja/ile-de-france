@@ -1,6 +1,6 @@
 ---
 title: Pierrelaye
 url: /pierrelaye/
-latitude: 49.005
-longitude: 2.174
+latitude: 49.014
+longitude: 2.158
 ---

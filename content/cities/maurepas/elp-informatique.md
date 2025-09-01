@@ -1,5 +1,5 @@
 ---
-title: "ELP INFORMATIQUE"
+title: "ELP Informatique"
 url: /maurepas/elp-informatique/
 shop: ordinateur
 ---

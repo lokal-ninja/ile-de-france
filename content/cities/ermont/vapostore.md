@@ -1,5 +1,5 @@
 ---
 title: "Vapostore"
 url: /ermont/vapostore/
-shop: vacant
+shop: e-cigarette
 ---

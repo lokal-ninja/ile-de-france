@@ -1,6 +1,6 @@
 ---
 title: Eaubonne
 url: /eaubonne/
-latitude: 48.983
-longitude: 2.272
+latitude: 48.991
+longitude: 2.278
 ---
