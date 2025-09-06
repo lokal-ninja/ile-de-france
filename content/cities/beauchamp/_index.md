@@ -1,6 +1,6 @@
 ---
 title: Beauchamp
 url: /beauchamp/
-latitude: 49.011
-longitude: 2.201
+latitude: 49.008
+longitude: 2.198
 ---

@@ -1,6 +1,6 @@
 ---
 title: Frépillon
 url: /frepillon/
-latitude: 49.054
-longitude: 2.206
+latitude: 49.052
+longitude: 2.205
 ---

@@ -1,6 +1,6 @@
 ---
 title: Persan
 url: /persan/
-latitude: 49.157
-longitude: 2.262
+latitude: 49.145
+longitude: 2.254
 ---
