@@ -1,5 +1,5 @@
 ---
-title: "Day by Day"
+title: "day by day"
 url: /nanterre/day-by-day/
 shop: commodité
 ---
