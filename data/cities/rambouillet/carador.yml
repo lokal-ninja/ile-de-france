@@ -7,5 +7,5 @@ city: Rambouillet
 street: Rue Gustave Eiffel
 housenumber: ""
 phone: "+33134857791"
-opening_hours: Mo-Sa 09:30-20:00
+opening_hours: Mo 09:30-19:00; Tu-Sa 09:30-20:00; Su 09:30-19:00
 website: https://bijouterie-carador.com/

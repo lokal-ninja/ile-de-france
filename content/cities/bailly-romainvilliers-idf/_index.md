@@ -1,6 +1,6 @@
 ---
 title: Bailly-Romainvilliers IDF
 url: /bailly-romainvilliers-idf/
-latitude: 48.837
+latitude: 48.835
 longitude: 2.801
 ---
