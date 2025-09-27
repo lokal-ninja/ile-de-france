@@ -1,6 +1,6 @@
 ---
 title: Quincy-sous-Sénart
 url: /quincy-sous-senart/
-latitude: 48.684
-longitude: 2.537
+latitude: 48.674
+longitude: 2.536
 ---
