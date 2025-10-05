@@ -7,5 +7,5 @@ city: Paris
 street: Passage Marie Rogissart
 housenumber: "1"
 phone: +33 1 76 21 07 40
-opening_hours: ""
+opening_hours: Mo,Su off; Tu-Fr 08:45-13:00,14:00-19:00; Sa 11:00-19:00
 website: https://poumtchak.paris/
