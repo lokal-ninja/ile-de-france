@@ -1,6 +1,6 @@
 ---
 title: Herblay-sur-Seine
 url: /herblay-sur-seine/
-latitude: 48.991
-longitude: 2.168
+latitude: 48.99
+longitude: 2.166
 ---
