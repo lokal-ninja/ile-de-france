@@ -7,5 +7,6 @@ city: Poissy
 street: Rue du 11 Novembre 1918
 housenumber: "3"
 phone: ""
-opening_hours: ""
+opening_hours: Tu 11:00-22:00; We 14:00-20:00; Th 14:00-23:00; Fr,Sa 11:00-23:00;
+    Su 10:00-13:00; Mo off
 website: ""
