@@ -7,5 +7,5 @@ city: Paris
 street: Avenue du Général Michel Bizot
 housenumber: "101"
 phone: +33 1 43 47 00 39
-opening_hours: ""
+opening_hours: Tu,We,Fr 09:30-19:30; Th 09:30-20:30; Sa 09:00-19:00
 website: ""
