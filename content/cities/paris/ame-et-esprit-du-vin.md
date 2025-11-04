@@ -1,5 +1,5 @@
 ---
-title: "Ame & Esprit du Vin"
+title: "Âme et esprit du vin"
 url: /paris/ame-et-esprit-du-vin/
-shop: vin
+shop: alcool
 ---
