@@ -1,6 +1,6 @@
 ---
 title: Vélizy-Villacoublay
 url: /velizy-villacoublay/
-latitude: 48.771
-longitude: 2.228
+latitude: 48.784
+longitude: 2.182
 ---
