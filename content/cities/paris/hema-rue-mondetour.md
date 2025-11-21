@@ -1,5 +1,5 @@
 ---
-title: "Hema"
+title: "HEMA"
 url: /paris/hema-rue-mondetour/
-shop: boutique
+shop: grand magasin
 ---
