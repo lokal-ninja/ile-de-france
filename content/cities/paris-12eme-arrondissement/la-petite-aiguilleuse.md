@@ -1,5 +1,5 @@
 ---
-title: "La petite aiguilleuse"
+title: "La Petite Aiguilleuse"
 url: /paris-12eme-arrondissement/la-petite-aiguilleuse/
 shop: couture
 ---

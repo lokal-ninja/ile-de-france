@@ -1,5 +1,5 @@
 ---
-title: "Chausséa"
+title: "Chaussea"
 url: /puteaux/chaussea/
 shop: chaussures
 ---
