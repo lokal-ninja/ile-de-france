@@ -1,5 +1,5 @@
 ---
 title: "PrimaPrix"
 url: /paris/primaprix/
-shop: supermarché
+shop: commodité
 ---
