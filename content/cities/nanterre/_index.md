@@ -1,6 +1,6 @@
 ---
 title: Nanterre
 url: /nanterre/
-latitude: 48.892
-longitude: 2.196
+latitude: 48.891
+longitude: 2.195
 ---
