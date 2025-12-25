@@ -7,7 +7,5 @@ city: Gonesse
 street: Rue de Paris
 housenumber: "55"
 phone: +33 1 34 07 07 49
-opening_hours: Jeudi 08:30-12:00 13:30-18:00 Vendredi 08:30-12:00 13:30-17:00 Samedi
-    Fermé Dimanche Fermé Lundi 08:30-12:00 13:30-18:00 Mardi 08:30-12:00 13:30-18:00
-    Mercredi 08:30-12:00 13:30-18:00
+opening_hours: Mo-Th 08:30-12:00,13:30-18:00; Fr 08:30-12:00,13:30-17:00; Sa,Su off
 website: ""
