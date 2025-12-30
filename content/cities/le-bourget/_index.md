@@ -1,6 +1,6 @@
 ---
 title: Le Bourget
 url: /le-bourget/
-latitude: 48.947
-longitude: 2.435
+latitude: 48.937
+longitude: 2.428
 ---
