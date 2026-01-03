@@ -1,6 +1,6 @@
 ---
 title: Coubert
 url: /coubert/
-latitude: 48.674
-longitude: 2.686
+latitude: 48.67
+longitude: 2.696
 ---
