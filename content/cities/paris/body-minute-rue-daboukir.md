@@ -1,5 +1,5 @@
 ---
 title: "Body Minute"
-url: /paris/body-minute-rue-francaise/
+url: /paris/body-minute-rue-daboukir/
 shop: beauté
 ---
