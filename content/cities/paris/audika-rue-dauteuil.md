@@ -1,5 +1,5 @@
 ---
 title: "Audika"
-url: /paris/audika-avenue-mozart/
+url: /paris/audika-rue-dauteuil/
 shop: les appareils auditifs
 ---
