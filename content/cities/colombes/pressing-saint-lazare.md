@@ -1,5 +1,5 @@
 ---
-title: "Pressing Saint Lazare"
+title: "Pressing Saint-Lazare"
 url: /colombes/pressing-saint-lazare/
 shop: blanchisserie
 ---
