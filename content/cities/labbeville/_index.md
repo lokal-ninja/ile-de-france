@@ -1,6 +1,6 @@
 ---
 title: Labbeville
 url: /labbeville/
-latitude: 49.13
-longitude: 2.129
+latitude: 49.138
+longitude: 2.142
 ---

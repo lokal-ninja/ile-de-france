@@ -1,6 +1,6 @@
 ---
 title: Le Mesnil-Saint-Denis
 url: /le-mesnil-saint-denis/
-latitude: 48.743
-longitude: 1.964
+latitude: 48.744
+longitude: 1.95
 ---

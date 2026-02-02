@@ -1,5 +1,5 @@
 ---
 title: "Glamour Lingerie"
-url: /paris/glamour-lingerie-avenue-mozart/
+url: /paris/glamour-lingerie-rue-dauteuil/
 shop: vêtements
 ---
