@@ -1,5 +1,5 @@
 ---
-title: "Des Blondes et des Brunes"
+title: "Des blondes et des brunes"
 url: /paris/des-blondes-et-des-brunes/
 shop: boissons
 ---
