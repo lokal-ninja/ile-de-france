@@ -1,6 +1,6 @@
 ---
-title: La Garenne Colombes
+title: La Garenne-Colombes
 url: /la-garenne-colombes/
-latitude: 48.905
-longitude: 2.241
+latitude: 48.906
+longitude: 2.256
 ---
