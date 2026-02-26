@@ -1,6 +1,6 @@
 ---
 title: Villiers-en-Bière
 url: /villiers-en-biere/
-latitude: 48.5
+latitude: 48.501
 longitude: 2.584
 ---
