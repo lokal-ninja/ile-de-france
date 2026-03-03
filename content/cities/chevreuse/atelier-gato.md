@@ -1,5 +1,5 @@
 ---
-title: "Atelier {gato}"
+title: "Atelier gato"
 url: /chevreuse/atelier-gato/
 shop: boulangerie
 ---
