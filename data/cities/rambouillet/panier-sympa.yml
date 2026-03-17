@@ -1,11 +1,11 @@
 id: 7036144386
 type: node
-latitude: 48.64126
-longitude: 1.82541
+latitude: 48.64127
+longitude: 1.8254
 postcode: "78120"
 city: Rambouillet
 street: ""
-housenumber: ""
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: "1"
+phone: "+33950905278"
+opening_hours: Mo-Th 07:30-13:15,15:00-22:00; Fr 08:00-13:15,15:00-22:30; Sa 09:00-23:00
+website: https://panier-sympa-rambouillet.eatbu.com/?lang=fr
