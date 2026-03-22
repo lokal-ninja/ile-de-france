@@ -1,5 +1,5 @@
 ---
-title: "La compagnie du blanc"
+title: "La Compagnie du blanc"
 url: /paris/la-compagnie-du-blanc/
 shop: shop
 ---
