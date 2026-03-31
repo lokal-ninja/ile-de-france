@@ -1,5 +1,5 @@
 ---
-title: "Comets"
+title: "COMETS"
 url: /paris/comets/
 shop: musique
 ---
