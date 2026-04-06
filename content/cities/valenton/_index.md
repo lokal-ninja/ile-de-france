@@ -1,6 +1,6 @@
 ---
 title: Valenton
 url: /valenton/
-latitude: 48.749
-longitude: 2.471
+latitude: 48.75
+longitude: 2.456
 ---

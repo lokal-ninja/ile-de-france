@@ -1,6 +1,6 @@
 ---
 title: Fosses
 url: /fosses/
-latitude: 49.1
-longitude: 2.523
+latitude: 49.099
+longitude: 2.522
 ---
