@@ -7,5 +7,5 @@ city: Paris
 street: Rue de Charenton
 housenumber: "57"
 phone: ""
-opening_hours: Mo-Fr 09:00-18:00
-website: ""
+opening_hours: Mo-Tu,Th-Fr 09:00-18:00; We 09:00-17:00
+website: https://www.copymitman.com/
