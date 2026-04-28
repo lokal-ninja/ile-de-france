@@ -1,5 +1,5 @@
 ---
 title: "La Compagnie du Cheveu"
 url: /poissy/la-compagnie-du-cheveu/
-shop: coiffeur
+shop: fournitures pour coiffeurs
 ---
