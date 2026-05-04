@@ -1,5 +1,5 @@
 ---
-title: "YSÉ"
+title: "Ysé"
 url: /paris/yse/
 shop: vêtements
 ---
