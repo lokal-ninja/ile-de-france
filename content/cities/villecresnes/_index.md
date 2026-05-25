@@ -1,6 +1,6 @@
 ---
 title: Villecresnes
 url: /villecresnes/
-latitude: 48.722
-longitude: 2.535
+latitude: 48.723
+longitude: 2.533
 ---

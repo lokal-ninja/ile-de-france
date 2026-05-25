@@ -1,5 +1,5 @@
 ---
 title: "Alpine"
 url: /paris/alpine/
-shop: shop
+shop: les appareils auditifs
 ---

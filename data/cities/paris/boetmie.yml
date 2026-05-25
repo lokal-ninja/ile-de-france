@@ -1,11 +1,11 @@
-id: 8041906720
+id: 6192292303
 type: node
-latitude: 48.86877
-longitude: 2.35526
-postcode: "75003"
+latitude: 48.86071
+longitude: 2.341
+postcode: "75001"
 city: Paris
-street: Rue Saint-Martin
-housenumber: "359"
+street: Rue de Rivoli
+housenumber: "91"
 phone: ""
-opening_hours: Mo-Su 07:30-20:00
-website: ""
+opening_hours: Mo-Sa 07:30-20:00; Su 08:00-20:00
+website: https://www.boetmie.com/
