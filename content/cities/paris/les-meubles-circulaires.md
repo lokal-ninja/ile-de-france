@@ -1,5 +1,5 @@
 ---
-title: "Les Meubles Circulaires"
+title: "Les meubles circulaires"
 url: /paris/les-meubles-circulaires/
 shop: meubles
 ---

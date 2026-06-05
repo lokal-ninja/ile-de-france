@@ -1,6 +1,6 @@
 ---
 title: Tremblay-en-France
 url: /tremblay-en-france/
-latitude: 48.961
-longitude: 2.575
+latitude: 48.959
+longitude: 2.572
 ---
