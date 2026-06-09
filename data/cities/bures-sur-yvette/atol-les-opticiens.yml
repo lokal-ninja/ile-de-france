@@ -1,11 +1,12 @@
 id: 2927559682
 type: node
 latitude: 48.69656
-longitude: 2.16223
+longitude: 2.16224
 postcode: "91440"
 city: Bures-sur-Yvette
 street: Rue du Général Leclerc
 housenumber: 4A
 phone: +33 1 69 28 19 78
-opening_hours: Tu-Sa 9:30-18:00
-website: https://www.opticiens-atol.com/opticiens/bures-sur-yvette-4-a-rue-du-general-leclerc
+opening_hours: Tu-We,Fr 10:00-12:30,14:30-19:00;Th 14:30-19:00;Sa 09:30-12:30,14:30-19:00;Su,Mo
+    off
+website: https://magasins.atol.fr/france/cible-bures-sur-yvette-244

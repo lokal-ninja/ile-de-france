@@ -1,5 +1,5 @@
 ---
-title: "La Boutique de l'Assemble Nationale"
+title: "La Boutique de l'Assemble nationale"
 url: /paris/la-boutique-de-lassemble-nationale/
 shop: cadeau
 ---

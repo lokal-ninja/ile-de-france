@@ -1,5 +1,5 @@
 ---
 title: "Balibaris"
 url: /paris/balibaris/
-shop: vêtements
+shop: vacant
 ---
