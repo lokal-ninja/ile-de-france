@@ -1,6 +1,6 @@
 ---
-title: Saint-Cyr-l'Ecole
+title: Saint-Cyr-l'École
 url: /saint-cyr-lecole/
-latitude: 48.796
-longitude: 2.065
+latitude: 48.8
+longitude: 2.068
 ---
