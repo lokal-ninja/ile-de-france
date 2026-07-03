@@ -1,6 +1,6 @@
 ---
 title: Lésigny
 url: /lesigny/
-latitude: 48.739
-longitude: 2.606
+latitude: 48.746
+longitude: 2.615
 ---
