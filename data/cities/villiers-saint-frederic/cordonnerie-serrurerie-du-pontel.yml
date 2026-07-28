@@ -7,7 +7,5 @@ city: Villiers-Saint-Frédéric
 street: Place du Pontel
 housenumber: "33"
 phone: ""
-opening_hours: Mardi 09h00 - 13h00 / 15h00 - 19h30 Mercredi 09h00 - 12h30 / 15h00
-    - 19h30 Jeudi 09h00 - 13h00 / 15h00 - 19h30 Vendredi 09h00 - 13h00 / 15h00 - 19h30
-    Samedi 09h30 - 18h30 Dimanche Fermé
+opening_hours: Tu-Fr 09:00-13:00,15:00-19:30; Sa 09:30-18:30; Su off
 website: https://autour-de-moi.com/

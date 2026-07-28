@@ -1,5 +1,5 @@
 ---
-title: "Ça brade !"
+title: "Ça brade !"
 url: /paris/ca-brade/
 shop: meubles
 ---

@@ -7,5 +7,5 @@ city: Paris
 street: Rue Beautreillis
 housenumber: "15"
 phone: +33 142789027
-opening_hours: Tu-We 10:15-19:30; Th 10:15-20:00; Fr 1015:15-19:30; Sa 10:15-18:30
+opening_hours: Tu-We,Fr 10:15-19:30; Th 10:15-20:00; Sa 10:15-18:30
 website: https://www.segospa.com/

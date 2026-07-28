@@ -7,6 +7,6 @@ city: Auffargis
 street: Grande Rue
 housenumber: "27"
 phone: "+33134848216"
-opening_hours: Mo,Th,Fr 07:00-13:30,15:30-20:00; Sa 07:00-13:30,15:30-20:00; Su 07:00-13:30,16:00-19:00;
-    Tu,W off
+opening_hours: Mo,Th-Sa 07:00-13:30,15:30-20:00; Su 07:00-13:30,16:00-19:00; Tu,We
+    off
 website: ""

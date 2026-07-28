@@ -1,6 +1,6 @@
 ---
 title: Bailly
 url: /bailly/
-latitude: 48.841
-longitude: 2.077
+latitude: 48.84
+longitude: 2.081
 ---

@@ -7,5 +7,5 @@ city: Paris
 street: Boulevard Jourdan
 housenumber: "88"
 phone: "+33762629899"
-opening_hours: By Appointment Only
+opening_hours: '"by appointment"'
 website: https://www.basicycle.com/

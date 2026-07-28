@@ -7,5 +7,6 @@ city: Paris
 street: Rue Oberkampf
 housenumber: "38"
 phone: +33 1 43 14 99 46
-opening_hours: ""
+opening_hours: Mo 16:30-20:30; Tu-Th 10:00-13:00,16:30-20:30; Fr-Sa 10:30-20:30; Su
+    10:00-13:00
 website: https://www.leverrevole.fr/

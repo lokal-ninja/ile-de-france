@@ -7,5 +7,5 @@ city: Villiers-sur-Marne
 street: Rue du Général Leclerc
 housenumber: "2"
 phone: "+33983318599"
-opening_hours: Mo-Tu 06:30-20:30 Th-Su 06:30-20:30
+opening_hours: Mo-Tu,Th-Su 06:30-20:30
 website: ""

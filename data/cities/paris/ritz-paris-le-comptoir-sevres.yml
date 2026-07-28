@@ -7,5 +7,5 @@ city: Paris
 street: Rue de Sèvres
 housenumber: "45"
 phone: +33 9 61 04 53 13
-opening_hours: Mo-Sa 09:00-20:00 / Su 10:00-20:00
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-20:00
 website: https://www.ritzparislecomptoir.com
