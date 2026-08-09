@@ -7,5 +7,5 @@ city: Clichy
 street: Boulevard Jean Jaurès
 housenumber: "62"
 phone: +33 1 42 70 05 68
-opening_hours: Mo-Su 07:00-20:00 WE off
+opening_hours: Mo,Tu,Th-Su 07:00-20:00; We off
 website: https://clemetgwen.com

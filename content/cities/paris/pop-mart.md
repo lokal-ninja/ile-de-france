@@ -1,5 +1,5 @@
 ---
-title: "Pop mart"
+title: "Pop Mart"
 url: /paris/pop-mart/
-shop: décoration intérieure
+shop: jouets
 ---

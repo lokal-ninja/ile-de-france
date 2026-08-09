@@ -1,6 +1,6 @@
 ---
 title: Angerville
 url: /angerville/
-latitude: 48.317
-longitude: 2
+latitude: 48.311
+longitude: 1.998
 ---
