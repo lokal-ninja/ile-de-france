@@ -7,6 +7,5 @@ city: Paris
 street: Rue Montorgueil
 housenumber: "61"
 phone: ""
-opening_hours: Mo 16:00-20:00; Tu-Sa 10:00-20:30; Su 10:00-13:30; Tu-We 14:00-15:00
-    closed
+opening_hours: Tu-Fr 10:00-13:00,16:00-20:30; Sa 10:00-14:00,15:00-20:30; Su 10:00-13:00
 website: https://www.nicolas.com/fr/magasins/MONTORGUEIL/s/00001255.html

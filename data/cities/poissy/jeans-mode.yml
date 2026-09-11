@@ -7,5 +7,6 @@ city: Poissy
 street: Avenue du Cep
 housenumber: "16"
 phone: +33 1 30 74 51 22
-opening_hours: Tu-Fr 10:00-13:00,14:30-19:00; Sa 10:00-13:00,14:00-19:00
+opening_hours: Tu-Th 10:00-13:00,14:30-19:00; Sa 10:00-13:00,14:00-19:00; Fr 10:00-12:30,14:00-19:15;
+    Su 10:00-12:30
 website: https://jeans-mode.fr

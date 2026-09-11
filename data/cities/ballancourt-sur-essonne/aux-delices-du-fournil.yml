@@ -7,5 +7,6 @@ city: Ballancourt-sur-Essonne
 street: Rue du Martroy
 housenumber: "29"
 phone: ""
-opening_hours: Mo ; Tu -12:00 ; Th-Su
+opening_hours: Mo,Th-Fr 06:30-13:00,15:30-19:30; Tu 06:30-13:00; Sa 06:30-13:00,16:00-19:30;
+    Su 06:30-13:00,16:00-19:00
 website: ""

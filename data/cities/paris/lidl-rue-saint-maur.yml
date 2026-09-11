@@ -7,5 +7,5 @@ city: Paris
 street: Rue Saint-Maur
 housenumber: "83"
 phone: ""
-opening_hours: Mo-Sa 08:30-21:00
-website: ""
+opening_hours: Mo-Sa 08:30-21:00; Su 08:30-12:30
+website: https://www.lidl.fr/s/fr-FR/supermarches/paris/rue-saint-maur-83/

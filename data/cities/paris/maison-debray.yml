@@ -7,5 +7,6 @@ city: Paris
 street: Rue Mouffetard
 housenumber: "128"
 phone: ""
-opening_hours: ""
+opening_hours: Tu,We,Fr 08:00-13:00,15:30-20:00; Th,Su 08:00-14:00; Sa 08:00-20:00;
+    Mo off
 website: ""

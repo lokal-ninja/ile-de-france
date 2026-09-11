@@ -1,5 +1,5 @@
 ---
-title: "Les primeurs d'excellence"
+title: "Les Primeurs d'Excellence"
 url: /paris/les-primeurs-dexcellence/
 shop: légumes
 ---

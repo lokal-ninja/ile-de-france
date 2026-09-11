@@ -7,5 +7,6 @@ city: Nanteuil-lès-Meaux
 street: Avenue de la Foulée
 housenumber: "75"
 phone: ""
-opening_hours: Mo-Tu 09:30-19:00; We-Th 09:30-19:30; Fr 09:30-19:00; Sa 09:30-19:30
-website: https://nanteuil.cavavin.co/
+opening_hours: Mo-Tu 09:30-19:00; We 09:30-18:00; Th 09:30-19:30; Fr 09:30-19:00;
+    Sa 09:30-19:30
+website: ""

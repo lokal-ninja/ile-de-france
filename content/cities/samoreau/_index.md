@@ -1,6 +1,6 @@
 ---
 title: Samoreau
 url: /samoreau/
-latitude: 48.423
-longitude: 2.772
+latitude: 48.424
+longitude: 2.771
 ---

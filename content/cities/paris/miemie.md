@@ -1,5 +1,5 @@
 ---
-title: "Miemïe"
+title: "miemie"
 url: /paris/miemie/
 shop: boulangerie
 ---

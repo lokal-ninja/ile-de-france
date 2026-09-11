@@ -7,5 +7,5 @@ city: Paris
 street: Rue Vieille du Temple
 housenumber: "112"
 phone: ""
-opening_hours: temporairement fermé
+opening_hours: '"temporairement fermé"'
 website: ""

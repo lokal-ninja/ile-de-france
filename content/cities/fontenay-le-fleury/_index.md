@@ -1,6 +1,6 @@
 ---
 title: Fontenay-le-fleury
 url: /fontenay-le-fleury/
-latitude: 48.814
-longitude: 2.053
+latitude: 48.811
+longitude: 2.045
 ---

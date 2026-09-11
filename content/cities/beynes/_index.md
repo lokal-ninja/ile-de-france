@@ -1,6 +1,6 @@
 ---
 title: Beynes
 url: /beynes/
-latitude: 48.852
-longitude: 1.879
+latitude: 48.853
+longitude: 1.877
 ---
