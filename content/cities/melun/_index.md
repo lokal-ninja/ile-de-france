@@ -1,6 +1,6 @@
 ---
 title: Melun
 url: /melun/
-latitude: 48.539
-longitude: 2.665
+latitude: 48.537
+longitude: 2.658
 ---

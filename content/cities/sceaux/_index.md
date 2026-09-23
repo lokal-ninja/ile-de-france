@@ -1,6 +1,6 @@
 ---
 title: Sceaux
 url: /sceaux/
-latitude: 48.779
-longitude: 2.282
+latitude: 48.777
+longitude: 2.294
 ---

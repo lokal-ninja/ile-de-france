@@ -7,5 +7,5 @@ city: Paris
 street: Rue de l'Ouest
 housenumber: "6"
 phone: +33 1 43 20 56 52
-opening_hours: Mo-Th 10:00-19:00, Fr 10:00-20:00, Sa 09:00-19:00
+opening_hours: Mo 09:30-19:00; Tu,Th-Sa 09:00-19:00; We 10:00-19:00
 website: https://www.franckprovost.com/salons/6-rue-de-l'ouest-75014-paris

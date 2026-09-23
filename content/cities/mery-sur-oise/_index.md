@@ -1,6 +1,6 @@
 ---
 title: Méry-sur-Oise
 url: /mery-sur-oise/
-latitude: 49.054
+latitude: 49.053
 longitude: 2.175
 ---

@@ -7,5 +7,6 @@ city: Paris 13eme Arrondissement
 street: Avenue de France
 housenumber: 131 bis
 phone: ""
-opening_hours: Tu-Sa 10:00-19:00
+opening_hours: Tu-Th 10:00-19:00; Fr 10:30-19:00; Sa 10:00-19:00; 2026 Nov 11 off;
+    2026 Dec 25 off; 2027 Jan 01 off
 website: ""
