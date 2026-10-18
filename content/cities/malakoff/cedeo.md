@@ -1,5 +1,5 @@
 ---
 title: "CEDEO"
 url: /malakoff/cedeo/
-shop: matériel informatique
+shop: à faire soi-même
 ---

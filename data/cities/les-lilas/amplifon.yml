@@ -7,5 +7,5 @@ city: Les Lilas
 street: Rue de Paris
 housenumber: "130"
 phone: +33 1 43 60 23 40
-opening_hours: Mo-Fr 09:30-12:30, 13:30-18:00
+opening_hours: Mo,Fr 09:00-13:00,13:30-17:00; Tu-Th,Sa,Su off
 website: https://amplifon.com

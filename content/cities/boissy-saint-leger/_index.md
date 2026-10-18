@@ -1,6 +1,6 @@
 ---
 title: Boissy-Saint-Léger
 url: /boissy-saint-leger/
-latitude: 48.761
-longitude: 2.499
+latitude: 48.745
+longitude: 2.507
 ---

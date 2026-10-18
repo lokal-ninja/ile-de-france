@@ -1,6 +1,6 @@
 ---
 title: Villenoy
 url: /villenoy/
-latitude: 48.95
-longitude: 2.873
+latitude: 48.948
+longitude: 2.87
 ---
