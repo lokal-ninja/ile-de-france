@@ -1,5 +1,5 @@
 ---
-title: "AXIAL"
+title: "Axial"
 url: /pierrelaye/axial/
 shop: réparation de voitures
 ---

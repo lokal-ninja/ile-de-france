@@ -1,6 +1,6 @@
 ---
 title: Cergy
 url: /cergy/
-latitude: 49.023
-longitude: 2.078
+latitude: 49.031
+longitude: 2.07
 ---

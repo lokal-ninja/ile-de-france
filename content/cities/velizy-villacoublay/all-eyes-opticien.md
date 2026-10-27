@@ -1,5 +1,5 @@
 ---
-title: "ALL EYES OPTICIEN"
+title: "All Eyes Opticien"
 url: /velizy-villacoublay/all-eyes-opticien/
 shop: opticien
 ---
