@@ -1,5 +1,5 @@
 ---
-title: "NOUS anti-gaspi"
+title: "Nous anti-gaspi"
 url: /paris/nous-anti-gaspi-rue-du-faubourg-poissonniere/
 shop: commodité
 ---
