@@ -1,6 +1,6 @@
 ---
 title: Herblay
 url: /herblay/
-latitude: 48.991
-longitude: 2.167
+latitude: 49.004
+longitude: 2.128
 ---
