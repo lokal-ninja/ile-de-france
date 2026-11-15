@@ -1,6 +1,6 @@
 ---
-title: Le Pré-Saint-Gervais
+title: Le Pre Saint Gervais
 url: /le-pre-saint-gervais/
-latitude: 48.883
-longitude: 2.403
+latitude: 48.885
+longitude: 2.4
 ---

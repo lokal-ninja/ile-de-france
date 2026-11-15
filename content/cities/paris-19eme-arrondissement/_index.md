@@ -1,6 +1,6 @@
 ---
 title: Paris 19eme Arrondissement
 url: /paris-19eme-arrondissement/
-latitude: 48.883
-longitude: 2.372
+latitude: 48.886
+longitude: 2.383
 ---

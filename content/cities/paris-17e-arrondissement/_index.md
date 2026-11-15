@@ -1,6 +1,6 @@
 ---
 title: Paris 17e Arrondissement
 url: /paris-17e-arrondissement/
-latitude: 48.878
-longitude: 2.297
+latitude: 48.883
+longitude: 2.308
 ---

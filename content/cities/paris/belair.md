@@ -1,5 +1,5 @@
 ---
 title: "Belair"
 url: /paris/belair/
-shop: vêtements
+shop: vacant
 ---

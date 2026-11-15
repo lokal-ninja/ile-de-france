@@ -1,6 +1,6 @@
 ---
 title: Courbevoie
 url: /courbevoie/
-latitude: 48.897
-longitude: 2.257
+latitude: 48.903
+longitude: 2.268
 ---
