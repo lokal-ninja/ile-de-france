@@ -1,6 +1,6 @@
 ---
 title: Bazoches-sur-Guyonne
 url: /bazoches-sur-guyonne/
-latitude: 48.768
-longitude: 1.833
+latitude: 48.769
+longitude: 1.832
 ---

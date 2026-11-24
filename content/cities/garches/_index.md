@@ -1,6 +1,6 @@
 ---
 title: Garches
 url: /garches/
-latitude: 48.845
-longitude: 2.188
+latitude: 48.847
+longitude: 2.195
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Grand Discount"
 url: /champigny-sur-marne/grand-discount/
-shop: décoration intérieure
+shop: magasin de variétés
 ---
